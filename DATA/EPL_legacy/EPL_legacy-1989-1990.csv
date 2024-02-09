@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,round
+19/08/1989,Charlton Athletic,Derby County,0,0,1
+19/08/1989,Tottenham Hotspur,Luton Town,2,1,1
+19/08/1989,Southampton FC,Millwall FC,1,2,1
+19/08/1989,Sheffield Wednesday,Norwich City,0,2,1
+19/08/1989,Queens Park Rangers,Crystal Palace,2,0,1
+19/08/1989,Nottingham Forest,Aston Villa,1,1,1
+19/08/1989,Manchester United,Arsenal FC,4,1,1
+19/08/1989,Liverpool FC,Manchester City,3,1,1
+19/08/1989,Coventry City,Everton FC,2,0,1
+19/08/1989,Wimbledon FC,Chelsea FC,0,1,1
+22/08/1989,Arsenal FC,Coventry City,2,0,2
+22/08/1989,Millwall FC,Charlton Athletic,2,2,2
+22/08/1989,Luton Town,Sheffield Wednesday,2,0,2
+22/08/1989,Everton FC,Tottenham Hotspur,2,1,2
+22/08/1989,Crystal Palace,Manchester United,1,1,2
+22/08/1989,Chelsea FC,Queens Park Rangers,1,1,2
+23/08/1989,Aston Villa,Liverpool FC,1,1,2
+23/08/1989,Derby County,Wimbledon FC,1,1,2
+23/08/1989,Manchester City,Southampton FC,1,2,2
+23/08/1989,Norwich City,Nottingham Forest,1,1,2
+26/08/1989,Arsenal FC,Wimbledon FC,0,0,3
+26/08/1989,Millwall FC,Nottingham Forest,1,0,3
+26/08/1989,Manchester City,Tottenham Hotspur,1,1,3
+26/08/1989,Luton Town,Liverpool FC,0,0,3
+26/08/1989,Everton FC,Southampton FC,3,0,3
+26/08/1989,Derby County,Manchester United,2,0,3
+26/08/1989,Crystal Palace,Coventry City,0,1,3
+26/08/1989,Chelsea FC,Sheffield Wednesday,4,0,3
+26/08/1989,Aston Villa,Charlton Athletic,1,1,3
+26/08/1989,Norwich City,Queens Park Rangers,0,0,3
+29/08/1989,Charlton Athletic,Chelsea FC,3,0,4
+29/08/1989,Southampton FC,Aston Villa,2,1,4
+29/08/1989,Wimbledon FC,Millwall FC,2,2,4
+30/08/1989,Sheffield Wednesday,Everton FC,1,1,4
+30/08/1989,Queens Park Rangers,Luton Town,0,0,4
+30/08/1989,Nottingham Forest,Derby County,2,1,4
+30/08/1989,Manchester United,Norwich City,0,2,4
+30/08/1989,Coventry City,Manchester City,2,1,4
+12/09/1989,Liverpool FC,Crystal Palace,9,0,4
+18/10/1989,Tottenham Hotspur,Arsenal FC,2,1,4
+09/09/1989,Aston Villa,Tottenham Hotspur,2,0,5
+09/09/1989,Derby County,Liverpool FC,0,3,5
+09/09/1989,Arsenal FC,Sheffield Wednesday,5,0,5
+09/09/1989,Norwich City,Southampton FC,4,4,5
+09/09/1989,Millwall FC,Coventry City,4,1,5
+09/09/1989,Manchester City,Queens Park Rangers,1,0,5
+09/09/1989,Luton Town,Charlton Athletic,1,0,5
+09/09/1989,Everton FC,Manchester United,3,2,5
+09/09/1989,Crystal Palace,Wimbledon FC,2,0,5
+09/09/1989,Chelsea FC,Nottingham Forest,2,2,5
+16/09/1989,Tottenham Hotspur,Chelsea FC,1,4,6
+16/09/1989,Charlton Athletic,Everton FC,0,1,6
+16/09/1989,Wimbledon FC,Manchester City,1,0,6
+16/09/1989,Southampton FC,Crystal Palace,1,1,6
+16/09/1989,Sheffield Wednesday,Aston Villa,1,0,6
+16/09/1989,Queens Park Rangers,Derby County,0,1,6
+16/09/1989,Nottingham Forest,Arsenal FC,1,2,6
+16/09/1989,Manchester United,Millwall FC,5,1,6
+16/09/1989,Liverpool FC,Norwich City,0,0,6
+16/09/1989,Coventry City,Luton Town,1,0,6
+23/09/1989,Norwich City,Tottenham Hotspur,2,2,7
+23/09/1989,Arsenal FC,Charlton Athletic,1,0,7
+23/09/1989,Millwall FC,Sheffield Wednesday,2,0,7
+23/09/1989,Manchester City,Manchester United,5,1,7
+23/09/1989,Luton Town,Wimbledon FC,1,1,7
+23/09/1989,Everton FC,Liverpool FC,1,3,7
+23/09/1989,Derby County,Southampton FC,0,1,7
+23/09/1989,Crystal Palace,Nottingham Forest,1,0,7
+23/09/1989,Chelsea FC,Coventry City,1,0,7
+23/09/1989,Aston Villa,Queens Park Rangers,1,3,7
+30/09/1989,Chelsea FC,Arsenal FC,0,0,8
+30/09/1989,Aston Villa,Derby County,1,0,8
+30/09/1989,Tottenham Hotspur,Queens Park Rangers,3,2,8
+30/09/1989,Southampton FC,Wimbledon FC,2,2,8
+30/09/1989,Sheffield Wednesday,Coventry City,0,0,8
+30/09/1989,Nottingham Forest,Charlton Athletic,2,0,8
+30/09/1989,Millwall FC,Norwich City,0,1,8
+30/09/1989,Manchester City,Luton Town,3,1,8
+30/09/1989,Crystal Palace,Everton FC,2,1,8
+23/12/1989,Liverpool FC,Manchester United,0,0,8
+14/10/1989,Arsenal FC,Manchester City,4,0,9
+14/10/1989,Manchester United,Sheffield Wednesday,0,0,9
+14/10/1989,Wimbledon FC,Liverpool FC,1,2,9
+14/10/1989,Charlton Athletic,Tottenham Hotspur,1,3,9
+14/10/1989,Coventry City,Nottingham Forest,0,2,9
+14/10/1989,Derby County,Crystal Palace,3,1,9
+14/10/1989,Everton FC,Millwall FC,2,1,9
+14/10/1989,Luton Town,Aston Villa,0,1,9
+14/10/1989,Norwich City,Chelsea FC,2,0,9
+14/10/1989,Queens Park Rangers,Southampton FC,1,4,9
+21/10/1989,Southampton FC,Liverpool FC,4,1,10
+21/10/1989,Coventry City,Manchester United,1,4,10
+21/10/1989,Wimbledon FC,Nottingham Forest,1,3,10
+21/10/1989,Tottenham Hotspur,Sheffield Wednesday,3,0,10
+21/10/1989,Queens Park Rangers,Charlton Athletic,0,1,10
+21/10/1989,Luton Town,Norwich City,4,1,10
+21/10/1989,Everton FC,Arsenal FC,3,0,10
+21/10/1989,Derby County,Chelsea FC,0,1,10
+21/10/1989,Crystal Palace,Millwall FC,4,3,10
+22/10/1989,Manchester City,Aston Villa,0,2,10
+28/10/1989,Manchester United,Southampton FC,2,1,11
+28/10/1989,Arsenal FC,Derby County,1,1,11
+28/10/1989,Aston Villa,Crystal Palace,2,1,11
+28/10/1989,Charlton Athletic,Coventry City,1,1,11
+28/10/1989,Chelsea FC,Manchester City,1,1,11
+28/10/1989,Millwall FC,Luton Town,1,1,11
+28/10/1989,Norwich City,Everton FC,1,1,11
+28/10/1989,Nottingham Forest,Queens Park Rangers,2,2,11
+28/10/1989,Sheffield Wednesday,Wimbledon FC,0,1,11
+29/10/1989,Liverpool FC,Tottenham Hotspur,1,0,11
+04/11/1989,Arsenal FC,Norwich City,4,3,12
+04/11/1989,Wimbledon FC,Queens Park Rangers,0,0,12
+04/11/1989,Southampton FC,Tottenham Hotspur,1,1,12
+04/11/1989,Nottingham Forest,Sheffield Wednesday,0,1,12
+04/11/1989,Manchester City,Crystal Palace,3,0,12
+04/11/1989,Luton Town,Derby County,1,0,12
+04/11/1989,Liverpool FC,Coventry City,0,1,12
+04/11/1989,Chelsea FC,Millwall FC,4,0,12
+04/11/1989,Charlton Athletic,Manchester United,2,0,12
+05/11/1989,Aston Villa,Everton FC,6,2,12
+11/11/1989,Queens Park Rangers,Liverpool FC,3,2,13
+11/11/1989,Coventry City,Southampton FC,1,0,13
+11/11/1989,Tottenham Hotspur,Wimbledon FC,0,1,13
+11/11/1989,Sheffield Wednesday,Charlton Athletic,3,0,13
+11/11/1989,Norwich City,Aston Villa,2,0,13
+11/11/1989,Millwall FC,Arsenal FC,1,2,13
+11/11/1989,Everton FC,Chelsea FC,0,1,13
+11/11/1989,Derby County,Manchester City,6,0,13
+11/11/1989,Crystal Palace,Luton Town,1,1,13
+12/11/1989,Manchester United,Nottingham Forest,1,0,13
+18/11/1989,Luton Town,Manchester United,1,3,14
+18/11/1989,Arsenal FC,Queens Park Rangers,3,0,14
+18/11/1989,Norwich City,Charlton Athletic,0,0,14
+18/11/1989,Manchester City,Nottingham Forest,0,3,14
+18/11/1989,Everton FC,Wimbledon FC,1,1,14
+18/11/1989,Derby County,Sheffield Wednesday,2,0,14
+18/11/1989,Crystal Palace,Tottenham Hotspur,2,3,14
+18/11/1989,Chelsea FC,Southampton FC,2,2,14
+18/11/1989,Aston Villa,Coventry City,4,1,14
+19/11/1989,Millwall FC,Liverpool FC,1,2,14
+25/11/1989,Manchester United,Chelsea FC,0,0,15
+25/11/1989,Charlton Athletic,Manchester City,1,1,15
+25/11/1989,Wimbledon FC,Aston Villa,0,2,15
+25/11/1989,Tottenham Hotspur,Derby County,1,2,15
+25/11/1989,Southampton FC,Luton Town,6,3,15
+25/11/1989,Sheffield Wednesday,Crystal Palace,2,2,15
+25/11/1989,Queens Park Rangers,Millwall FC,0,0,15
+25/11/1989,Nottingham Forest,Everton FC,1,0,15
+25/11/1989,Coventry City,Norwich City,1,0,15
+26/11/1989,Liverpool FC,Arsenal FC,2,1,15
+02/12/1989,Aston Villa,Nottingham Forest,2,1,16
+02/12/1989,Chelsea FC,Wimbledon FC,2,5,16
+02/12/1989,Crystal Palace,Queens Park Rangers,0,3,16
+02/12/1989,Derby County,Charlton Athletic,2,0,16
+02/12/1989,Everton FC,Coventry City,2,0,16
+02/12/1989,Luton Town,Tottenham Hotspur,0,0,16
+02/12/1989,Manchester City,Liverpool FC,1,4,16
+02/12/1989,Millwall FC,Southampton FC,2,2,16
+02/12/1989,Norwich City,Sheffield Wednesday,2,1,16
+03/12/1989,Arsenal FC,Manchester United,1,0,16
+09/12/1989,Manchester United,Crystal Palace,1,2,17
+09/12/1989,Wimbledon FC,Derby County,1,1,17
+09/12/1989,Tottenham Hotspur,Everton FC,2,1,17
+09/12/1989,Southampton FC,Manchester City,2,1,17
+09/12/1989,Queens Park Rangers,Chelsea FC,4,2,17
+09/12/1989,Nottingham Forest,Norwich City,0,1,17
+09/12/1989,Liverpool FC,Aston Villa,1,1,17
+09/12/1989,Coventry City,Arsenal FC,0,1,17
+09/12/1989,Charlton Athletic,Millwall FC,1,1,17
+09/12/1989,Sheffield Wednesday,Luton Town,1,1,17
+16/12/1989,Manchester United,Tottenham Hotspur,0,1,18
+16/12/1989,Sheffield Wednesday,Queens Park Rangers,2,0,18
+16/12/1989,Norwich City,Derby County,1,0,18
+16/12/1989,Millwall FC,Aston Villa,2,0,18
+16/12/1989,Coventry City,Wimbledon FC,2,1,18
+16/12/1989,Chelsea FC,Liverpool FC,2,5,18
+16/12/1989,Charlton Athletic,Crystal Palace,1,2,18
+16/12/1989,Arsenal FC,Luton Town,3,2,18
+17/12/1989,Everton FC,Manchester City,0,0,18
+17/12/1989,Nottingham Forest,Southampton FC,2,0,18
+26/12/1989,Tottenham Hotspur,Millwall FC,3,1,19
+26/12/1989,Southampton FC,Arsenal FC,1,0,19
+26/12/1989,Queens Park Rangers,Coventry City,1,1,19
+26/12/1989,Manchester City,Norwich City,1,0,19
+26/12/1989,Luton Town,Nottingham Forest,1,1,19
+26/12/1989,Derby County,Everton FC,0,1,19
+26/12/1989,Crystal Palace,Chelsea FC,2,2,19
+26/12/1989,Aston Villa,Manchester United,3,0,19
+26/12/1989,Wimbledon FC,Charlton Athletic,3,1,19
+26/12/1989,Liverpool FC,Sheffield Wednesday,2,1,19
+30/12/1989,Tottenham Hotspur,Nottingham Forest,2,3,20
+30/12/1989,Queens Park Rangers,Everton FC,1,0,20
+30/12/1989,Manchester City,Millwall FC,2,0,20
+30/12/1989,Luton Town,Chelsea FC,0,3,20
+30/12/1989,Liverpool FC,Charlton Athletic,1,0,20
+30/12/1989,Derby County,Coventry City,4,1,20
+30/12/1989,Crystal Palace,Norwich City,1,0,20
+30/12/1989,Aston Villa,Arsenal FC,2,1,20
+30/12/1989,Wimbledon FC,Manchester United,2,2,20
+30/12/1989,Southampton FC,Sheffield Wednesday,2,2,20
+01/01/1990,Arsenal FC,Crystal Palace,4,1,21
+01/01/1990,Charlton Athletic,Southampton FC,2,4,21
+01/01/1990,Chelsea FC,Aston Villa,0,3,21
+01/01/1990,Coventry City,Tottenham Hotspur,0,0,21
+01/01/1990,Everton FC,Luton Town,2,1,21
+01/01/1990,Manchester United,Queens Park Rangers,0,0,21
+01/01/1990,Millwall FC,Derby County,1,1,21
+01/01/1990,Norwich City,Wimbledon FC,0,1,21
+01/01/1990,Nottingham Forest,Liverpool FC,2,2,21
+01/01/1990,Sheffield Wednesday,Manchester City,2,0,21
+13/01/1990,Tottenham Hotspur,Manchester City,1,1,22
+13/01/1990,Southampton FC,Everton FC,2,2,22
+13/01/1990,Queens Park Rangers,Norwich City,2,1,22
+13/01/1990,Nottingham Forest,Millwall FC,3,1,22
+13/01/1990,Manchester United,Derby County,1,2,22
+13/01/1990,Coventry City,Crystal Palace,1,0,22
+13/01/1990,Charlton Athletic,Aston Villa,0,2,22
+13/01/1990,Wimbledon FC,Arsenal FC,1,0,22
+13/01/1990,Liverpool FC,Luton Town,2,2,22
+14/01/1990,Sheffield Wednesday,Chelsea FC,1,1,22
+20/01/1990,Millwall FC,Wimbledon FC,0,0,23
+20/01/1990,Manchester City,Coventry City,1,0,23
+20/01/1990,Luton Town,Queens Park Rangers,1,1,23
+20/01/1990,Derby County,Nottingham Forest,0,2,23
+20/01/1990,Chelsea FC,Charlton Athletic,3,1,23
+20/01/1990,Aston Villa,Southampton FC,2,1,23
+20/01/1990,Arsenal FC,Tottenham Hotspur,1,0,23
+20/01/1990,Norwich City,Manchester United,2,0,23
+20/01/1990,Crystal Palace,Liverpool FC,0,2,23
+20/01/1990,Everton FC,Sheffield Wednesday,2,0,23
+03/02/1990,Coventry City,Chelsea FC,3,2,24
+03/02/1990,Manchester United,Manchester City,1,1,24
+03/02/1990,Nottingham Forest,Crystal Palace,3,1,24
+03/02/1990,Liverpool FC,Everton FC,2,1,24
+03/02/1990,Sheffield Wednesday,Millwall FC,1,1,24
+04/02/1990,Tottenham Hotspur,Norwich City,4,0,24
+14/02/1990,Wimbledon FC,Luton Town,1,2,24
+27/02/1990,Charlton Athletic,Arsenal FC,0,0,24
+10/03/1990,Southampton FC,Derby County,2,1,24
+20/03/1990,Queens Park Rangers,Aston Villa,1,1,24
+10/02/1990,Crystal Palace,Southampton FC,3,1,25
+10/02/1990,Derby County,Queens Park Rangers,2,0,25
+10/02/1990,Everton FC,Charlton Athletic,2,1,25
+10/02/1990,Manchester City,Wimbledon FC,1,1,25
+10/02/1990,Chelsea FC,Tottenham Hotspur,1,2,25
+10/02/1990,Millwall FC,Manchester United,1,2,25
+10/02/1990,Aston Villa,Sheffield Wednesday,1,0,25
+10/02/1990,Norwich City,Liverpool FC,0,0,25
+07/03/1990,Arsenal FC,Nottingham Forest,3,0,25
+07/03/1990,Luton Town,Coventry City,3,2,25
+17/02/1990,Nottingham Forest,Chelsea FC,1,1,26
+17/02/1990,Coventry City,Millwall FC,3,1,26
+17/02/1990,Sheffield Wednesday,Arsenal FC,1,0,26
+19/02/1990,Charlton Athletic,Luton Town,2,0,26
+21/02/1990,Tottenham Hotspur,Aston Villa,0,2,26
+27/02/1990,Southampton FC,Norwich City,4,1,26
+14/03/1990,Manchester United,Everton FC,0,0,26
+11/04/1990,Queens Park Rangers,Manchester City,1,3,26
+01/05/1990,Liverpool FC,Derby County,1,0,26
+02/05/1990,Wimbledon FC,Crystal Palace,0,1,26
+24/02/1990,Luton Town,Southampton FC,1,1,27
+24/02/1990,Millwall FC,Queens Park Rangers,1,2,27
+24/02/1990,Manchester City,Charlton Athletic,1,2,27
+24/02/1990,Chelsea FC,Manchester United,1,0,27
+24/02/1990,Aston Villa,Wimbledon FC,0,3,27
+24/02/1990,Derby County,Tottenham Hotspur,2,1,27
+24/02/1990,Crystal Palace,Sheffield Wednesday,1,1,27
+14/03/1990,Norwich City,Coventry City,0,0,27
+04/04/1990,Everton FC,Nottingham Forest,4,0,27
+18/04/1990,Arsenal FC,Liverpool FC,1,1,27
+03/03/1990,Nottingham Forest,Manchester City,1,0,28
+03/03/1990,Queens Park Rangers,Arsenal FC,2,0,28
+03/03/1990,Wimbledon FC,Everton FC,3,1,28
+03/03/1990,Southampton FC,Chelsea FC,2,3,28
+03/03/1990,Manchester United,Luton Town,4,1,28
+03/03/1990,Liverpool FC,Millwall FC,1,0,28
+03/03/1990,Charlton Athletic,Norwich City,0,1,28
+03/03/1990,Tottenham Hotspur,Crystal Palace,0,1,28
+03/03/1990,Sheffield Wednesday,Derby County,1,0,28
+04/03/1990,Coventry City,Aston Villa,2,0,28
+10/03/1990,Nottingham Forest,Coventry City,2,4,29
+10/03/1990,Manchester City,Arsenal FC,1,1,29
+10/03/1990,Aston Villa,Luton Town,2,0,29
+10/03/1990,Chelsea FC,Norwich City,0,0,29
+10/03/1990,Tottenham Hotspur,Charlton Athletic,3,0,29
+20/03/1990,Crystal Palace,Derby County,1,1,29
+21/03/1990,Millwall FC,Everton FC,1,2,29
+21/03/1990,Sheffield Wednesday,Manchester United,1,0,29
+03/04/1990,Liverpool FC,Wimbledon FC,2,1,29
+03/04/1990,Southampton FC,Queens Park Rangers,0,2,29
+17/03/1990,Queens Park Rangers,Tottenham Hotspur,3,1,30
+17/03/1990,Everton FC,Crystal Palace,4,0,30
+17/03/1990,Wimbledon FC,Southampton FC,3,3,30
+17/03/1990,Norwich City,Millwall FC,1,1,30
+17/03/1990,Derby County,Aston Villa,0,1,30
+17/03/1990,Arsenal FC,Chelsea FC,0,1,30
+17/03/1990,Charlton Athletic,Nottingham Forest,1,1,30
+17/03/1990,Coventry City,Sheffield Wednesday,1,4,30
+17/03/1990,Luton Town,Manchester City,1,1,30
+18/03/1990,Manchester United,Liverpool FC,1,2,30
+21/03/1990,Tottenham Hotspur,Liverpool FC,1,0,31
+21/03/1990,Manchester City,Chelsea FC,1,1,31
+24/03/1990,Crystal Palace,Aston Villa,1,0,31
+24/03/1990,Derby County,Arsenal FC,1,3,31
+24/03/1990,Everton FC,Norwich City,3,1,31
+24/03/1990,Queens Park Rangers,Nottingham Forest,2,0,31
+24/03/1990,Coventry City,Charlton Athletic,1,2,31
+24/03/1990,Luton Town,Millwall FC,2,1,31
+24/03/1990,Southampton FC,Manchester United,0,2,31
+24/03/1990,Wimbledon FC,Sheffield Wednesday,1,1,31
+31/03/1990,Liverpool FC,Southampton FC,3,2,32
+31/03/1990,Arsenal FC,Everton FC,1,0,32
+31/03/1990,Millwall FC,Crystal Palace,1,2,32
+31/03/1990,Nottingham Forest,Wimbledon FC,0,1,32
+31/03/1990,Charlton Athletic,Queens Park Rangers,1,0,32
+31/03/1990,Chelsea FC,Derby County,1,1,32
+31/03/1990,Manchester United,Coventry City,3,0,32
+31/03/1990,Norwich City,Luton Town,2,0,32
+31/03/1990,Sheffield Wednesday,Tottenham Hotspur,2,4,32
+01/04/1990,Aston Villa,Manchester City,1,2,32
+04/04/1990,Norwich City,Crystal Palace,2,0,33
+07/04/1990,Everton FC,Queens Park Rangers,1,0,33
+07/04/1990,Chelsea FC,Luton Town,1,0,33
+07/04/1990,Coventry City,Derby County,1,0,33
+07/04/1990,Millwall FC,Manchester City,1,1,33
+07/04/1990,Nottingham Forest,Tottenham Hotspur,1,3,33
+07/04/1990,Sheffield Wednesday,Southampton FC,0,1,33
+11/04/1990,Arsenal FC,Aston Villa,0,1,33
+11/04/1990,Charlton Athletic,Liverpool FC,0,4,33
+30/04/1990,Manchester United,Wimbledon FC,0,0,33
+14/04/1990,Wimbledon FC,Norwich City,1,1,34
+14/04/1990,Crystal Palace,Arsenal FC,1,1,34
+14/04/1990,Liverpool FC,Nottingham Forest,2,2,34
+14/04/1990,Queens Park Rangers,Manchester United,1,2,34
+14/04/1990,Aston Villa,Chelsea FC,1,0,34
+14/04/1990,Derby County,Millwall FC,2,0,34
+14/04/1990,Luton Town,Everton FC,2,2,34
+14/04/1990,Southampton FC,Charlton Athletic,3,2,34
+14/04/1990,Tottenham Hotspur,Coventry City,3,2,34
+14/04/1990,Manchester City,Sheffield Wednesday,2,1,34
+29/11/1989,Sheffield Wednesday,Liverpool FC,2,0,35
+16/04/1990,Nottingham Forest,Luton Town,3,0,35
+16/04/1990,Norwich City,Manchester City,0,1,35
+16/04/1990,Millwall FC,Tottenham Hotspur,0,1,35
+16/04/1990,Everton FC,Derby County,2,1,35
+16/04/1990,Coventry City,Queens Park Rangers,1,1,35
+16/04/1990,Chelsea FC,Crystal Palace,3,0,35
+17/04/1990,Manchester United,Aston Villa,2,0,35
+17/04/1990,Charlton Athletic,Wimbledon FC,1,2,35
+02/05/1990,Arsenal FC,Southampton FC,2,1,35
+21/04/1990,Derby County,Norwich City,0,2,36
+21/04/1990,Liverpool FC,Chelsea FC,4,1,36
+21/04/1990,Luton Town,Arsenal FC,2,0,36
+21/04/1990,Tottenham Hotspur,Manchester United,2,1,36
+21/04/1990,Aston Villa,Millwall FC,1,0,36
+21/04/1990,Wimbledon FC,Coventry City,0,0,36
+21/04/1990,Southampton FC,Nottingham Forest,2,0,36
+21/04/1990,Queens Park Rangers,Sheffield Wednesday,1,0,36
+21/04/1990,Manchester City,Everton FC,1,0,36
+21/04/1990,Crystal Palace,Charlton Athletic,2,0,36
+28/04/1990,Arsenal FC,Millwall FC,2,0,37
+28/04/1990,Liverpool FC,Queens Park Rangers,2,1,37
+28/04/1990,Luton Town,Crystal Palace,1,0,37
+28/04/1990,Manchester City,Derby County,0,1,37
+28/04/1990,Aston Villa,Norwich City,3,3,37
+28/04/1990,Charlton Athletic,Sheffield Wednesday,1,2,37
+28/04/1990,Chelsea FC,Everton FC,2,1,37
+28/04/1990,Southampton FC,Coventry City,3,0,37
+28/04/1990,Wimbledon FC,Tottenham Hotspur,1,0,37
+02/05/1990,Nottingham Forest,Manchester United,4,0,37
+05/05/1990,Coventry City,Liverpool FC,1,6,38
+05/05/1990,Sheffield Wednesday,Nottingham Forest,0,3,38
+05/05/1990,Queens Park Rangers,Wimbledon FC,2,3,38
+05/05/1990,Norwich City,Arsenal FC,2,2,38
+05/05/1990,Millwall FC,Chelsea FC,1,3,38
+05/05/1990,Manchester United,Charlton Athletic,1,0,38
+05/05/1990,Everton FC,Aston Villa,3,3,38
+05/05/1990,Derby County,Luton Town,2,3,38
+05/05/1990,Crystal Palace,Manchester City,2,2,38
+05/05/1990,Tottenham Hotspur,Southampton FC,2,1,38

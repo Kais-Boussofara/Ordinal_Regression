@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,round
+25/08/1990,Aston Villa,Southampton FC,1,1,1
+25/08/1990,Tottenham Hotspur,Manchester City,3,1,1
+25/08/1990,Sheffield United,Liverpool FC,1,3,1
+25/08/1990,Nottingham Forest,Queens Park Rangers,1,1,1
+25/08/1990,Norwich City,Sunderland AFC,3,2,1
+25/08/1990,Manchester United,Coventry City,2,0,1
+25/08/1990,Luton Town,Crystal Palace,1,1,1
+25/08/1990,Everton FC,Leeds United,2,3,1
+25/08/1990,Chelsea FC,Derby County,2,1,1
+25/08/1990,Wimbledon FC,Arsenal FC,0,3,1
+28/08/1990,Crystal Palace,Chelsea FC,2,1,2
+28/08/1990,Leeds United,Manchester United,0,0,2
+28/08/1990,Liverpool FC,Nottingham Forest,2,0,2
+28/08/1990,Southampton FC,Norwich City,1,0,2
+28/08/1990,Sunderland AFC,Tottenham Hotspur,0,0,2
+29/08/1990,Queens Park Rangers,Wimbledon FC,0,1,2
+29/08/1990,Derby County,Sheffield United,1,1,2
+29/08/1990,Coventry City,Everton FC,3,1,2
+29/08/1990,Arsenal FC,Luton Town,2,1,2
+05/09/1990,Manchester City,Aston Villa,2,1,2
+01/09/1990,Liverpool FC,Aston Villa,2,1,3
+01/09/1990,Arsenal FC,Tottenham Hotspur,0,0,3
+01/09/1990,Sunderland AFC,Manchester United,2,1,3
+01/09/1990,Southampton FC,Luton Town,1,2,3
+01/09/1990,Queens Park Rangers,Chelsea FC,1,0,3
+01/09/1990,Manchester City,Everton FC,1,0,3
+01/09/1990,Leeds United,Norwich City,3,0,3
+01/09/1990,Derby County,Wimbledon FC,1,1,3
+01/09/1990,Crystal Palace,Sheffield United,1,0,3
+01/09/1990,Coventry City,Nottingham Forest,2,2,3
+08/09/1990,Aston Villa,Coventry City,2,1,4
+08/09/1990,Chelsea FC,Sunderland AFC,3,2,4
+08/09/1990,Everton FC,Arsenal FC,1,1,4
+08/09/1990,Norwich City,Crystal Palace,0,3,4
+08/09/1990,Nottingham Forest,Southampton FC,3,1,4
+08/09/1990,Sheffield United,Manchester City,1,1,4
+08/09/1990,Tottenham Hotspur,Derby County,3,0,4
+08/09/1990,Wimbledon FC,Liverpool FC,1,2,4
+08/09/1990,Luton Town,Leeds United,1,0,4
+08/09/1990,Manchester United,Queens Park Rangers,3,1,4
+15/09/1990,Southampton FC,Sheffield United,2,0,5
+15/09/1990,Manchester City,Norwich City,2,1,5
+15/09/1990,Leeds United,Tottenham Hotspur,0,2,5
+15/09/1990,Derby County,Aston Villa,0,2,5
+15/09/1990,Crystal Palace,Nottingham Forest,2,2,5
+15/09/1990,Coventry City,Wimbledon FC,0,0,5
+15/09/1990,Arsenal FC,Chelsea FC,4,1,5
+15/09/1990,Sunderland AFC,Everton FC,2,2,5
+15/09/1990,Queens Park Rangers,Luton Town,6,1,5
+16/09/1990,Liverpool FC,Manchester United,4,0,5
+22/09/1990,Wimbledon FC,Sunderland AFC,2,2,6
+22/09/1990,Tottenham Hotspur,Crystal Palace,1,1,6
+22/09/1990,Nottingham Forest,Arsenal FC,0,2,6
+22/09/1990,Norwich City,Derby County,2,1,6
+22/09/1990,Everton FC,Liverpool FC,2,3,6
+22/09/1990,Chelsea FC,Manchester City,1,1,6
+22/09/1990,Aston Villa,Queens Park Rangers,2,2,6
+22/09/1990,Luton Town,Coventry City,1,0,6
+22/09/1990,Manchester United,Southampton FC,3,2,6
+23/09/1990,Sheffield United,Leeds United,0,2,6
+29/09/1990,Tottenham Hotspur,Aston Villa,2,1,7
+29/09/1990,Sunderland AFC,Liverpool FC,0,1,7
+29/09/1990,Leeds United,Arsenal FC,2,2,7
+29/09/1990,Everton FC,Southampton FC,3,0,7
+29/09/1990,Derby County,Crystal Palace,0,2,7
+29/09/1990,Coventry City,Queens Park Rangers,3,1,7
+29/09/1990,Chelsea FC,Sheffield United,2,2,7
+29/09/1990,Wimbledon FC,Manchester City,1,1,7
+29/09/1990,Manchester United,Nottingham Forest,0,1,7
+29/09/1990,Norwich City,Luton Town,1,3,7
+04/09/1990,Luton Town,Manchester United,0,1,8
+06/10/1990,Southampton FC,Chelsea FC,3,3,8
+06/10/1990,Sheffield United,Wimbledon FC,1,2,8
+06/10/1990,Queens Park Rangers,Tottenham Hotspur,0,0,8
+06/10/1990,Manchester City,Coventry City,2,0,8
+06/10/1990,Liverpool FC,Derby County,2,0,8
+06/10/1990,Crystal Palace,Leeds United,1,1,8
+06/10/1990,Aston Villa,Sunderland AFC,3,0,8
+06/10/1990,Arsenal FC,Norwich City,2,0,8
+07/10/1990,Nottingham Forest,Everton FC,3,1,8
+20/10/1990,Chelsea FC,Nottingham Forest,0,0,9
+20/10/1990,Tottenham Hotspur,Sheffield United,4,0,9
+20/10/1990,Sunderland AFC,Luton Town,2,0,9
+20/10/1990,Norwich City,Liverpool FC,1,1,9
+20/10/1990,Manchester United,Arsenal FC,0,1,9
+20/10/1990,Leeds United,Queens Park Rangers,2,3,9
+20/10/1990,Everton FC,Crystal Palace,0,0,9
+20/10/1990,Derby County,Manchester City,1,1,9
+20/10/1990,Coventry City,Southampton FC,1,2,9
+20/10/1990,Wimbledon FC,Aston Villa,0,0,9
+27/10/1990,Arsenal FC,Sunderland AFC,1,0,10
+27/10/1990,Sheffield United,Coventry City,0,1,10
+27/10/1990,Queens Park Rangers,Norwich City,1,3,10
+27/10/1990,Nottingham Forest,Tottenham Hotspur,1,2,10
+27/10/1990,Manchester City,Manchester United,3,3,10
+27/10/1990,Luton Town,Everton FC,1,1,10
+27/10/1990,Liverpool FC,Chelsea FC,2,0,10
+27/10/1990,Crystal Palace,Wimbledon FC,4,3,10
+27/10/1990,Aston Villa,Leeds United,0,0,10
+27/10/1990,Southampton FC,Derby County,0,1,10
+03/11/1990,Chelsea FC,Aston Villa,1,0,11
+03/11/1990,Wimbledon FC,Southampton FC,1,1,11
+03/11/1990,Sunderland AFC,Manchester City,1,1,11
+03/11/1990,Norwich City,Sheffield United,3,0,11
+03/11/1990,Manchester United,Crystal Palace,2,0,11
+03/11/1990,Leeds United,Nottingham Forest,3,1,11
+03/11/1990,Everton FC,Queens Park Rangers,3,0,11
+03/11/1990,Derby County,Luton Town,2,1,11
+03/11/1990,Coventry City,Arsenal FC,0,2,11
+04/11/1990,Tottenham Hotspur,Liverpool FC,1,3,11
+10/11/1990,Aston Villa,Nottingham Forest,1,1,12
+10/11/1990,Tottenham Hotspur,Wimbledon FC,4,2,12
+10/11/1990,Sunderland AFC,Coventry City,0,0,12
+10/11/1990,Southampton FC,Queens Park Rangers,3,1,12
+10/11/1990,Sheffield United,Everton FC,0,0,12
+10/11/1990,Liverpool FC,Luton Town,4,0,12
+10/11/1990,Derby County,Manchester United,0,0,12
+10/11/1990,Crystal Palace,Arsenal FC,0,0,12
+10/11/1990,Chelsea FC,Norwich City,1,1,12
+11/11/1990,Manchester City,Leeds United,2,3,12
+17/11/1990,Arsenal FC,Southampton FC,4,0,13
+17/11/1990,Wimbledon FC,Chelsea FC,2,1,13
+17/11/1990,Queens Park Rangers,Crystal Palace,1,2,13
+17/11/1990,Nottingham Forest,Sunderland AFC,2,0,13
+17/11/1990,Norwich City,Aston Villa,2,0,13
+17/11/1990,Manchester United,Sheffield United,2,0,13
+17/11/1990,Luton Town,Manchester City,2,2,13
+17/11/1990,Leeds United,Derby County,3,0,13
+17/11/1990,Coventry City,Liverpool FC,0,1,13
+18/11/1990,Everton FC,Tottenham Hotspur,1,1,13
+24/11/1990,Coventry City,Leeds United,1,1,14
+24/11/1990,Wimbledon FC,Everton FC,2,1,14
+24/11/1990,Tottenham Hotspur,Norwich City,2,1,14
+24/11/1990,Southampton FC,Crystal Palace,2,3,14
+24/11/1990,Sheffield United,Sunderland AFC,0,2,14
+24/11/1990,Queens Park Rangers,Arsenal FC,1,3,14
+24/11/1990,Luton Town,Aston Villa,2,0,14
+24/11/1990,Liverpool FC,Manchester City,2,2,14
+24/11/1990,Derby County,Nottingham Forest,2,1,14
+25/11/1990,Manchester United,Chelsea FC,2,3,14
+01/12/1990,Aston Villa,Sheffield United,2,1,15
+01/12/1990,Sunderland AFC,Derby County,1,2,15
+01/12/1990,Nottingham Forest,Luton Town,2,2,15
+01/12/1990,Norwich City,Wimbledon FC,0,4,15
+01/12/1990,Manchester City,Queens Park Rangers,2,1,15
+01/12/1990,Leeds United,Southampton FC,2,1,15
+01/12/1990,Everton FC,Manchester United,0,1,15
+01/12/1990,Crystal Palace,Coventry City,2,1,15
+01/12/1990,Chelsea FC,Tottenham Hotspur,3,2,15
+02/12/1990,Arsenal FC,Liverpool FC,3,0,15
+08/12/1990,Chelsea FC,Crystal Palace,2,1,16
+08/12/1990,Wimbledon FC,Queens Park Rangers,3,0,16
+08/12/1990,Tottenham Hotspur,Sunderland AFC,3,3,16
+08/12/1990,Norwich City,Southampton FC,3,1,16
+08/12/1990,Manchester United,Leeds United,1,1,16
+08/12/1990,Luton Town,Arsenal FC,1,1,16
+08/12/1990,Everton FC,Coventry City,1,0,16
+26/01/1991,Sheffield United,Derby County,1,0,16
+23/04/1991,Aston Villa,Manchester City,1,5,16
+06/05/1991,Nottingham Forest,Liverpool FC,2,1,16
+15/12/1990,Liverpool FC,Sheffield United,2,0,17
+15/12/1990,Queens Park Rangers,Nottingham Forest,1,2,17
+15/12/1990,Southampton FC,Aston Villa,1,1,17
+15/12/1990,Arsenal FC,Wimbledon FC,2,2,17
+15/12/1990,Coventry City,Manchester United,2,2,17
+15/12/1990,Derby County,Chelsea FC,4,6,17
+15/12/1990,Manchester City,Tottenham Hotspur,2,1,17
+15/12/1990,Sunderland AFC,Norwich City,1,2,17
+16/12/1990,Leeds United,Everton FC,2,0,17
+16/12/1990,Crystal Palace,Luton Town,1,0,17
+22/12/1990,Liverpool FC,Southampton FC,3,2,18
+22/12/1990,Sheffield United,Nottingham Forest,3,2,18
+22/12/1990,Chelsea FC,Coventry City,2,1,18
+22/12/1990,Manchester City,Crystal Palace,0,2,18
+22/12/1990,Norwich City,Everton FC,1,0,18
+22/12/1990,Tottenham Hotspur,Luton Town,2,1,18
+22/12/1990,Wimbledon FC,Manchester United,1,3,18
+23/12/1990,Aston Villa,Arsenal FC,0,0,18
+23/12/1990,Derby County,Queens Park Rangers,1,1,18
+23/12/1990,Sunderland AFC,Leeds United,0,1,18
+26/12/1990,Everton FC,Aston Villa,1,0,19
+26/12/1990,Nottingham Forest,Wimbledon FC,2,1,19
+26/12/1990,Queens Park Rangers,Liverpool FC,1,1,19
+26/12/1990,Arsenal FC,Derby County,3,0,19
+26/12/1990,Southampton FC,Manchester City,2,1,19
+26/12/1990,Manchester United,Norwich City,3,0,19
+26/12/1990,Luton Town,Sheffield United,0,1,19
+26/12/1990,Leeds United,Chelsea FC,4,1,19
+26/12/1990,Crystal Palace,Sunderland AFC,2,1,19
+26/12/1990,Coventry City,Tottenham Hotspur,2,0,19
+29/12/1990,Arsenal FC,Sheffield United,4,1,20
+29/12/1990,Manchester United,Aston Villa,1,1,20
+29/12/1990,Nottingham Forest,Manchester City,1,3,20
+29/12/1990,Coventry City,Norwich City,2,0,20
+29/12/1990,Everton FC,Derby County,2,0,20
+29/12/1990,Leeds United,Wimbledon FC,3,0,20
+29/12/1990,Luton Town,Chelsea FC,2,0,20
+29/12/1990,Queens Park Rangers,Sunderland AFC,3,2,20
+29/12/1990,Southampton FC,Tottenham Hotspur,3,0,20
+30/12/1990,Crystal Palace,Liverpool FC,1,0,20
+01/01/1991,Aston Villa,Crystal Palace,2,0,21
+01/01/1991,Sheffield United,Queens Park Rangers,1,0,21
+01/01/1991,Chelsea FC,Everton FC,1,2,21
+01/01/1991,Wimbledon FC,Luton Town,2,0,21
+01/01/1991,Tottenham Hotspur,Manchester United,1,2,21
+01/01/1991,Sunderland AFC,Southampton FC,1,0,21
+01/01/1991,Manchester City,Arsenal FC,0,1,21
+01/01/1991,Liverpool FC,Leeds United,3,0,21
+01/01/1991,Derby County,Coventry City,1,1,21
+02/01/1991,Norwich City,Nottingham Forest,2,6,21
+12/01/1991,Aston Villa,Liverpool FC,0,0,22
+12/01/1991,Nottingham Forest,Coventry City,3,0,22
+12/01/1991,Sheffield United,Crystal Palace,0,1,22
+12/01/1991,Chelsea FC,Queens Park Rangers,2,0,22
+12/01/1991,Wimbledon FC,Derby County,3,1,22
+12/01/1991,Tottenham Hotspur,Arsenal FC,0,0,22
+12/01/1991,Norwich City,Leeds United,2,0,22
+12/01/1991,Manchester United,Sunderland AFC,3,0,22
+12/01/1991,Luton Town,Southampton FC,3,4,22
+13/01/1991,Everton FC,Manchester City,2,0,22
+19/01/1991,Coventry City,Aston Villa,2,1,23
+19/01/1991,Manchester City,Sheffield United,2,0,23
+19/01/1991,Southampton FC,Nottingham Forest,1,1,23
+19/01/1991,Arsenal FC,Everton FC,1,0,23
+19/01/1991,Sunderland AFC,Chelsea FC,1,0,23
+19/01/1991,Queens Park Rangers,Manchester United,1,1,23
+19/01/1991,Liverpool FC,Wimbledon FC,1,1,23
+19/01/1991,Leeds United,Luton Town,2,1,23
+19/01/1991,Crystal Palace,Norwich City,1,3,23
+20/01/1991,Derby County,Tottenham Hotspur,0,1,23
+02/02/1991,Aston Villa,Derby County,3,2,24
+02/02/1991,Nottingham Forest,Crystal Palace,0,1,24
+02/02/1991,Chelsea FC,Arsenal FC,2,1,24
+02/02/1991,Wimbledon FC,Coventry City,1,0,24
+02/02/1991,Tottenham Hotspur,Leeds United,0,0,24
+02/02/1991,Sheffield United,Southampton FC,4,1,24
+02/02/1991,Norwich City,Manchester City,1,2,24
+02/02/1991,Luton Town,Queens Park Rangers,1,2,24
+02/02/1991,Everton FC,Sunderland AFC,2,0,24
+03/02/1991,Manchester United,Liverpool FC,1,1,24
+09/02/1991,Liverpool FC,Everton FC,3,1,25
+09/02/1991,Manchester City,Chelsea FC,2,1,25
+23/02/1991,Derby County,Norwich City,0,0,25
+13/03/1991,Southampton FC,Manchester United,1,1,25
+13/03/1991,Coventry City,Luton Town,2,1,25
+20/03/1991,Arsenal FC,Nottingham Forest,1,1,25
+10/04/1991,Queens Park Rangers,Aston Villa,2,1,25
+17/04/1991,Crystal Palace,Tottenham Hotspur,1,0,25
+23/04/1991,Sunderland AFC,Wimbledon FC,0,0,25
+08/05/1991,Leeds United,Sheffield United,2,1,25
+16/02/1991,Sunderland AFC,Nottingham Forest,1,0,26
+16/02/1991,Crystal Palace,Queens Park Rangers,0,0,26
+16/02/1991,Chelsea FC,Wimbledon FC,0,0,26
+26/02/1991,Sheffield United,Manchester United,2,1,26
+05/03/1991,Manchester City,Luton Town,3,0,26
+09/04/1991,Liverpool FC,Coventry City,1,1,26
+09/04/1991,Southampton FC,Arsenal FC,1,1,26
+23/04/1991,Derby County,Leeds United,0,1,26
+24/04/1991,Tottenham Hotspur,Everton FC,3,3,26
+08/05/1991,Aston Villa,Norwich City,2,1,26
+23/02/1991,Nottingham Forest,Aston Villa,2,2,27
+23/02/1991,Wimbledon FC,Tottenham Hotspur,5,1,27
+23/02/1991,Queens Park Rangers,Southampton FC,2,1,27
+23/02/1991,Luton Town,Liverpool FC,3,1,27
+23/02/1991,Arsenal FC,Crystal Palace,4,0,27
+23/02/1991,Coventry City,Sunderland AFC,0,0,27
+23/02/1991,Everton FC,Sheffield United,1,2,27
+10/04/1991,Leeds United,Manchester City,1,2,27
+16/04/1991,Manchester United,Derby County,3,1,27
+16/04/1991,Norwich City,Chelsea FC,1,3,27
+02/03/1991,Sheffield United,Aston Villa,2,1,28
+02/03/1991,Southampton FC,Leeds United,2,0,28
+02/03/1991,Luton Town,Nottingham Forest,1,0,28
+02/03/1991,Wimbledon FC,Norwich City,0,0,28
+02/03/1991,Coventry City,Crystal Palace,3,1,28
+02/03/1991,Derby County,Sunderland AFC,3,3,28
+02/03/1991,Manchester United,Everton FC,0,2,28
+02/03/1991,Queens Park Rangers,Manchester City,1,0,28
+02/03/1991,Tottenham Hotspur,Chelsea FC,1,1,28
+03/03/1991,Liverpool FC,Arsenal FC,0,1,28
+09/03/1991,Aston Villa,Luton Town,1,2,29
+09/03/1991,Leeds United,Coventry City,2,0,29
+09/03/1991,Manchester City,Liverpool FC,0,3,29
+09/03/1991,Chelsea FC,Manchester United,3,2,29
+09/03/1991,Crystal Palace,Southampton FC,2,1,29
+09/03/1991,Sunderland AFC,Sheffield United,0,1,29
+10/04/1991,Everton FC,Wimbledon FC,1,2,29
+10/04/1991,Norwich City,Tottenham Hotspur,2,1,29
+10/04/1991,Nottingham Forest,Derby County,1,0,29
+23/04/1991,Arsenal FC,Queens Park Rangers,2,0,29
+16/03/1991,Aston Villa,Tottenham Hotspur,3,2,30
+16/03/1991,Southampton FC,Everton FC,3,4,30
+16/03/1991,Manchester City,Wimbledon FC,1,1,30
+16/03/1991,Liverpool FC,Sunderland AFC,2,1,30
+16/03/1991,Crystal Palace,Derby County,2,1,30
+16/03/1991,Nottingham Forest,Manchester United,1,1,30
+16/03/1991,Queens Park Rangers,Coventry City,1,0,30
+16/03/1991,Sheffield United,Chelsea FC,1,0,30
+16/03/1991,Luton Town,Norwich City,0,1,30
+17/03/1991,Arsenal FC,Leeds United,2,0,30
+23/03/1991,Norwich City,Arsenal FC,0,0,31
+23/03/1991,Sunderland AFC,Aston Villa,1,3,31
+23/03/1991,Tottenham Hotspur,Queens Park Rangers,0,0,31
+23/03/1991,Derby County,Liverpool FC,1,7,31
+23/03/1991,Everton FC,Nottingham Forest,0,0,31
+23/03/1991,Chelsea FC,Southampton FC,0,2,31
+23/03/1991,Coventry City,Manchester City,3,1,31
+23/03/1991,Leeds United,Crystal Palace,1,2,31
+23/03/1991,Wimbledon FC,Sheffield United,1,1,31
+23/03/1991,Manchester United,Luton Town,4,1,31
+30/03/1991,Aston Villa,Everton FC,2,2,32
+30/03/1991,Tottenham Hotspur,Coventry City,2,2,32
+30/03/1991,Wimbledon FC,Nottingham Forest,3,1,32
+30/03/1991,Liverpool FC,Queens Park Rangers,1,3,32
+30/03/1991,Derby County,Arsenal FC,0,2,32
+30/03/1991,Chelsea FC,Leeds United,1,2,32
+30/03/1991,Manchester City,Southampton FC,3,3,32
+30/03/1991,Norwich City,Manchester United,0,3,32
+30/03/1991,Sunderland AFC,Crystal Palace,2,1,32
+30/03/1991,Sheffield United,Luton Town,2,1,32
+01/04/1991,Queens Park Rangers,Derby County,1,1,33
+01/04/1991,Southampton FC,Liverpool FC,1,0,33
+01/04/1991,Nottingham Forest,Sheffield United,2,0,33
+01/04/1991,Everton FC,Norwich City,1,0,33
+01/04/1991,Coventry City,Chelsea FC,1,0,33
+01/04/1991,Crystal Palace,Manchester City,1,3,33
+01/04/1991,Luton Town,Tottenham Hotspur,0,0,33
+02/04/1991,Leeds United,Sunderland AFC,5,0,33
+02/04/1991,Manchester United,Wimbledon FC,2,1,33
+03/04/1991,Arsenal FC,Aston Villa,5,0,33
+06/04/1991,Aston Villa,Manchester United,1,1,34
+06/04/1991,Norwich City,Coventry City,2,2,34
+06/04/1991,Tottenham Hotspur,Southampton FC,2,0,34
+06/04/1991,Wimbledon FC,Leeds United,0,1,34
+06/04/1991,Manchester City,Nottingham Forest,3,1,34
+06/04/1991,Chelsea FC,Luton Town,3,3,34
+06/04/1991,Sheffield United,Arsenal FC,0,2,34
+06/04/1991,Sunderland AFC,Queens Park Rangers,0,1,34
+23/04/1991,Liverpool FC,Crystal Palace,3,0,34
+08/05/1991,Derby County,Everton FC,2,3,34
+13/04/1991,Crystal Palace,Aston Villa,0,0,35
+13/04/1991,Leeds United,Liverpool FC,4,5,35
+13/04/1991,Everton FC,Chelsea FC,2,2,35
+13/04/1991,Queens Park Rangers,Sheffield United,1,2,35
+13/04/1991,Coventry City,Derby County,3,0,35
+13/04/1991,Luton Town,Wimbledon FC,0,1,35
+13/04/1991,Southampton FC,Sunderland AFC,3,1,35
+17/04/1991,Arsenal FC,Manchester City,2,2,35
+24/04/1991,Nottingham Forest,Norwich City,5,0,35
+20/05/1991,Manchester United,Tottenham Hotspur,1,1,35
+17/04/1991,Queens Park Rangers,Leeds United,2,0,36
+20/04/1991,Aston Villa,Wimbledon FC,1,2,36
+20/04/1991,Crystal Palace,Everton FC,0,0,36
+20/04/1991,Liverpool FC,Norwich City,3,0,36
+20/04/1991,Manchester City,Derby County,2,1,36
+20/04/1991,Sheffield United,Tottenham Hotspur,2,2,36
+20/04/1991,Luton Town,Sunderland AFC,1,2,36
+20/04/1991,Nottingham Forest,Chelsea FC,7,0,36
+20/04/1991,Southampton FC,Coventry City,2,1,36
+06/05/1991,Arsenal FC,Manchester United,3,1,36
+04/05/1991,Manchester United,Manchester City,1,0,37
+04/05/1991,Tottenham Hotspur,Nottingham Forest,1,1,37
+04/05/1991,Norwich City,Queens Park Rangers,1,0,37
+04/05/1991,Leeds United,Aston Villa,5,2,37
+04/05/1991,Everton FC,Luton Town,1,0,37
+04/05/1991,Coventry City,Sheffield United,0,0,37
+04/05/1991,Chelsea FC,Liverpool FC,4,2,37
+04/05/1991,Derby County,Southampton FC,6,2,37
+04/05/1991,Sunderland AFC,Arsenal FC,0,0,37
+04/05/1991,Wimbledon FC,Crystal Palace,0,3,37
+11/05/1991,Crystal Palace,Manchester United,3,0,38
+11/05/1991,Liverpool FC,Tottenham Hotspur,2,0,38
+11/05/1991,Arsenal FC,Coventry City,6,1,38
+11/05/1991,Aston Villa,Chelsea FC,2,2,38
+11/05/1991,Luton Town,Derby County,2,0,38
+11/05/1991,Manchester City,Sunderland AFC,3,2,38
+11/05/1991,Nottingham Forest,Leeds United,4,3,38
+11/05/1991,Queens Park Rangers,Everton FC,1,1,38
+11/05/1991,Sheffield United,Norwich City,2,1,38
+11/05/1991,Southampton FC,Wimbledon FC,1,1,38

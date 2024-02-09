@@ -1,0 +1,463 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,round
+23/08/1952,Aston Villa,Arsenal FC,1,2,1
+23/08/1952,Tottenham Hotspur,West Bromwich Albion,3,4,1
+23/08/1952,Sunderland AFC,Charlton Athletic,2,1,1
+23/08/1952,Stoke City,Manchester City,2,1,1
+23/08/1952,Sheffield Wednesday,Newcastle United,2,2,1
+23/08/1952,Preston North End,Liverpool FC,1,1,1
+23/08/1952,Portsmouth FC,Blackpool FC,0,2,1
+23/08/1952,Manchester United,Chelsea FC,2,0,1
+23/08/1952,Burnley FC,Middlesbrough FC,0,1,1
+23/08/1952,Bolton Wanderers,Derby County,2,0,1
+23/08/1952,Wolverhampton Wanderers,Cardiff City,1,0,1
+25/08/1952,Blackpool FC,Preston North End,1,1,2
+25/08/1952,Wolverhampton Wanderers,Bolton Wanderers,3,1,2
+26/08/1952,Burnley FC,Stoke City,3,2,2
+27/08/1952,West Bromwich Albion,Newcastle United,1,0,2
+27/08/1952,Middlesbrough FC,Cardiff City,3,0,2
+27/08/1952,Manchester City,Tottenham Hotspur,0,1,2
+27/08/1952,Liverpool FC,Sheffield Wednesday,1,0,2
+27/08/1952,Chelsea FC,Derby County,1,1,2
+27/08/1952,Charlton Athletic,Portsmouth FC,2,2,2
+27/08/1952,Arsenal FC,Manchester United,2,1,2
+01/01/1953,Sunderland AFC,Aston Villa,2,2,2
+30/08/1952,Arsenal FC,Sunderland AFC,1,2,3
+30/08/1952,Derby County,Aston Villa,0,1,3
+30/08/1952,Blackpool FC,Bolton Wanderers,3,0,3
+30/08/1952,West Bromwich Albion,Burnley FC,1,2,3
+30/08/1952,Newcastle United,Tottenham Hotspur,1,1,3
+30/08/1952,Middlesbrough FC,Preston North End,1,1,3
+30/08/1952,Manchester City,Manchester United,2,1,3
+30/08/1952,Liverpool FC,Stoke City,3,2,3
+30/08/1952,Chelsea FC,Portsmouth FC,2,0,3
+30/08/1952,Charlton Athletic,Wolverhampton Wanderers,2,2,3
+30/08/1952,Cardiff City,Sheffield Wednesday,4,0,3
+30/08/1952,Arsenal FC,Sunderland AFC,1,2,4
+30/08/1952,Derby County,Aston Villa,0,1,4
+30/08/1952,Blackpool FC,Bolton Wanderers,3,0,4
+30/08/1952,West Bromwich Albion,Burnley FC,1,2,4
+30/08/1952,Newcastle United,Tottenham Hotspur,1,1,4
+30/08/1952,Middlesbrough FC,Preston North End,1,1,4
+30/08/1952,Manchester City,Manchester United,2,1,4
+30/08/1952,Liverpool FC,Stoke City,3,2,4
+30/08/1952,Chelsea FC,Portsmouth FC,2,0,4
+30/08/1952,Charlton Athletic,Wolverhampton Wanderers,2,2,4
+30/08/1952,Cardiff City,Sheffield Wednesday,4,0,4
+06/09/1952,Aston Villa,Blackpool FC,1,5,5
+06/09/1952,Preston North End,West Bromwich Albion,1,0,5
+06/09/1952,Sunderland AFC,Derby County,2,1,5
+06/09/1952,Bolton Wanderers,Chelsea FC,1,1,5
+06/09/1952,Wolverhampton Wanderers,Arsenal FC,1,1,5
+06/09/1952,Tottenham Hotspur,Cardiff City,2,1,5
+06/09/1952,Stoke City,Middlesbrough FC,1,0,5
+06/09/1952,Sheffield Wednesday,Charlton Athletic,0,3,5
+06/09/1952,Portsmouth FC,Manchester United,2,0,5
+06/09/1952,Manchester City,Liverpool FC,0,2,5
+06/09/1952,Burnley FC,Newcastle United,2,1,5
+08/09/1952,Wolverhampton Wanderers,Aston Villa,2,1,6
+08/09/1952,Burnley FC,Manchester City,2,1,6
+10/09/1952,Chelsea FC,Blackpool FC,4,0,6
+10/09/1952,Newcastle United,Sunderland AFC,2,2,6
+10/09/1952,Preston North End,Stoke City,3,0,6
+10/09/1952,West Bromwich Albion,Cardiff City,1,0,6
+10/09/1952,Arsenal FC,Portsmouth FC,3,1,6
+10/09/1952,Charlton Athletic,Bolton Wanderers,2,0,6
+10/09/1952,Derby County,Manchester United,2,3,6
+10/09/1952,Liverpool FC,Tottenham Hotspur,2,1,6
+01/01/1953,Middlesbrough FC,Sheffield Wednesday,2,2,6
+13/09/1952,Blackpool FC,Sunderland AFC,2,0,7
+13/09/1952,Chelsea FC,Aston Villa,4,0,7
+13/09/1952,Newcastle United,Preston North End,4,3,7
+13/09/1952,Sheffield Wednesday,Tottenham Hotspur,2,0,7
+13/09/1952,Arsenal FC,Charlton Athletic,3,4,7
+13/09/1952,West Bromwich Albion,Stoke City,3,2,7
+13/09/1952,Middlesbrough FC,Manchester City,5,4,7
+13/09/1952,Manchester United,Bolton Wanderers,1,0,7
+13/09/1952,Liverpool FC,Portsmouth FC,1,1,7
+13/09/1952,Derby County,Wolverhampton Wanderers,2,3,7
+13/09/1952,Cardiff City,Burnley FC,0,0,7
+15/09/1952,Aston Villa,Wolverhampton Wanderers,0,1,8
+15/09/1952,Blackpool FC,Chelsea FC,3,1,8
+15/09/1952,Stoke City,Preston North End,0,0,8
+15/09/1952,Tottenham Hotspur,Liverpool FC,3,1,8
+17/09/1952,Cardiff City,West Bromwich Albion,1,2,8
+17/09/1952,Sheffield Wednesday,Middlesbrough FC,2,0,8
+17/09/1952,Sunderland AFC,Newcastle United,0,2,8
+17/09/1952,Manchester City,Burnley FC,0,0,8
+17/09/1952,Portsmouth FC,Arsenal FC,2,2,8
+01/01/1953,Bolton Wanderers,Charlton Athletic,1,2,8
+01/01/1953,Manchester United,Derby County,1,0,8
+20/09/1952,Aston Villa,Manchester United,3,3,9
+20/09/1952,Bolton Wanderers,Portsmouth FC,0,5,9
+20/09/1952,Charlton Athletic,Derby County,3,1,9
+20/09/1952,Preston North End,Cardiff City,2,3,9
+20/09/1952,Sunderland AFC,Chelsea FC,2,1,9
+20/09/1952,Burnley FC,Sheffield Wednesday,1,1,9
+20/09/1952,Wolverhampton Wanderers,Blackpool FC,2,5,9
+20/09/1952,Tottenham Hotspur,Arsenal FC,1,3,9
+20/09/1952,Stoke City,Newcastle United,1,0,9
+20/09/1952,Manchester City,West Bromwich Albion,0,1,9
+20/09/1952,Liverpool FC,Middlesbrough FC,4,1,9
+27/09/1952,Blackpool FC,Charlton Athletic,8,4,10
+27/09/1952,Manchester United,Sunderland AFC,0,1,10
+27/09/1952,Middlesbrough FC,Bolton Wanderers,1,2,10
+27/09/1952,Portsmouth FC,Aston Villa,1,1,10
+27/09/1952,Sheffield Wednesday,Preston North End,1,1,10
+27/09/1952,Cardiff City,Stoke City,2,0,10
+27/09/1952,Chelsea FC,Wolverhampton Wanderers,1,2,10
+27/09/1952,Derby County,Arsenal FC,2,0,10
+27/09/1952,Newcastle United,Manchester City,2,0,10
+27/09/1952,Tottenham Hotspur,Burnley FC,2,1,10
+27/09/1952,West Bromwich Albion,Liverpool FC,3,0,10
+04/10/1952,Stoke City,Sheffield Wednesday,1,3,11
+04/10/1952,Preston North End,Tottenham Hotspur,1,0,11
+04/10/1952,Middlesbrough FC,West Bromwich Albion,4,2,11
+04/10/1952,Charlton Athletic,Chelsea FC,2,2,11
+04/10/1952,Aston Villa,Bolton Wanderers,1,1,11
+04/10/1952,Arsenal FC,Blackpool FC,3,1,11
+04/10/1952,Wolverhampton Wanderers,Manchester United,6,2,11
+04/10/1952,Burnley FC,Derby County,1,2,11
+04/10/1952,Liverpool FC,Newcastle United,5,3,11
+04/10/1952,Manchester City,Cardiff City,2,2,11
+04/10/1952,Sunderland AFC,Portsmouth FC,1,1,11
+11/10/1952,Manchester United,Stoke City,0,2,12
+11/10/1952,Chelsea FC,Preston North End,5,3,12
+11/10/1952,Charlton Athletic,Cardiff City,3,1,12
+11/10/1952,Bolton Wanderers,Liverpool FC,2,2,12
+11/10/1952,Aston Villa,Middlesbrough FC,1,0,12
+11/10/1952,Arsenal FC,Sheffield Wednesday,2,2,12
+11/10/1952,Sunderland AFC,West Bromwich Albion,1,0,12
+11/10/1952,Blackpool FC,Burnley FC,4,2,12
+11/10/1952,Derby County,Tottenham Hotspur,0,0,12
+11/10/1952,Portsmouth FC,Manchester City,2,1,12
+11/10/1952,Wolverhampton Wanderers,Newcastle United,2,0,12
+18/10/1952,Preston North End,Manchester United,0,5,13
+18/10/1952,Newcastle United,Charlton Athletic,3,2,13
+18/10/1952,Middlesbrough FC,Sunderland AFC,1,2,13
+18/10/1952,Manchester City,Bolton Wanderers,1,2,13
+18/10/1952,Liverpool FC,Aston Villa,0,2,13
+18/10/1952,Sheffield Wednesday,Derby County,2,0,13
+18/10/1952,Burnley FC,Chelsea FC,1,1,13
+18/10/1952,Stoke City,Portsmouth FC,2,4,13
+18/10/1952,Tottenham Hotspur,Blackpool FC,4,0,13
+18/10/1952,West Bromwich Albion,Wolverhampton Wanderers,1,1,13
+22/04/1953,Cardiff City,Arsenal FC,0,0,13
+25/10/1952,Derby County,Cardiff City,1,1,14
+25/10/1952,Charlton Athletic,West Bromwich Albion,0,0,14
+25/10/1952,Bolton Wanderers,Stoke City,2,1,14
+25/10/1952,Blackpool FC,Sheffield Wednesday,0,1,14
+25/10/1952,Aston Villa,Manchester City,0,0,14
+25/10/1952,Arsenal FC,Newcastle United,3,0,14
+25/10/1952,Sunderland AFC,Liverpool FC,3,1,14
+25/10/1952,Chelsea FC,Tottenham Hotspur,2,1,14
+25/10/1952,Manchester United,Burnley FC,1,3,14
+25/10/1952,Portsmouth FC,Preston North End,2,5,14
+25/10/1952,Wolverhampton Wanderers,Middlesbrough FC,3,3,14
+01/11/1952,Tottenham Hotspur,Manchester United,1,2,15
+01/11/1952,Stoke City,Aston Villa,1,4,15
+01/11/1952,Sheffield Wednesday,Chelsea FC,1,0,15
+01/11/1952,Preston North End,Bolton Wanderers,2,2,15
+01/11/1952,Newcastle United,Derby County,1,0,15
+01/11/1952,Middlesbrough FC,Charlton Athletic,1,0,15
+01/11/1952,Manchester City,Sunderland AFC,2,5,15
+01/11/1952,Cardiff City,Blackpool FC,2,2,15
+01/11/1952,West Bromwich Albion,Arsenal FC,2,0,15
+01/11/1952,Burnley FC,Portsmouth FC,3,2,15
+01/11/1952,Liverpool FC,Wolverhampton Wanderers,2,1,15
+08/11/1952,Arsenal FC,Middlesbrough FC,2,1,16
+08/11/1952,Aston Villa,Preston North End,1,0,16
+08/11/1952,Blackpool FC,Newcastle United,0,2,16
+08/11/1952,Bolton Wanderers,Burnley FC,1,2,16
+08/11/1952,Charlton Athletic,Liverpool FC,3,2,16
+08/11/1952,Derby County,West Bromwich Albion,1,1,16
+08/11/1952,Manchester United,Sheffield Wednesday,1,1,16
+08/11/1952,Chelsea FC,Cardiff City,0,2,16
+08/11/1952,Portsmouth FC,Tottenham Hotspur,2,1,16
+08/11/1952,Sunderland AFC,Stoke City,1,1,16
+08/11/1952,Wolverhampton Wanderers,Manchester City,7,3,16
+15/11/1952,Tottenham Hotspur,Bolton Wanderers,1,1,17
+15/11/1952,Preston North End,Sunderland AFC,3,2,17
+15/11/1952,Middlesbrough FC,Derby County,1,0,17
+15/11/1952,Manchester City,Charlton Athletic,5,1,17
+15/11/1952,Liverpool FC,Arsenal FC,1,5,17
+15/11/1952,Cardiff City,Manchester United,1,2,17
+15/11/1952,Burnley FC,Aston Villa,1,0,17
+15/11/1952,West Bromwich Albion,Blackpool FC,0,1,17
+15/11/1952,Newcastle United,Chelsea FC,2,1,17
+15/11/1952,Sheffield Wednesday,Portsmouth FC,3,4,17
+15/11/1952,Stoke City,Wolverhampton Wanderers,1,2,17
+22/11/1952,Arsenal FC,Manchester City,3,1,18
+22/11/1952,Aston Villa,Tottenham Hotspur,0,3,18
+22/11/1952,Blackpool FC,Middlesbrough FC,1,1,18
+22/11/1952,Bolton Wanderers,Sheffield Wednesday,1,1,18
+22/11/1952,Manchester United,Newcastle United,2,2,18
+22/11/1952,Wolverhampton Wanderers,Preston North End,0,2,18
+22/11/1952,Charlton Athletic,Stoke City,5,1,18
+22/11/1952,Chelsea FC,West Bromwich Albion,0,2,18
+22/11/1952,Derby County,Liverpool FC,3,2,18
+22/11/1952,Portsmouth FC,Cardiff City,0,2,18
+22/11/1952,Sunderland AFC,Burnley FC,2,1,18
+29/11/1952,West Bromwich Albion,Manchester United,3,1,19
+29/11/1952,Tottenham Hotspur,Sunderland AFC,2,2,19
+29/11/1952,Sheffield Wednesday,Aston Villa,2,2,19
+29/11/1952,Preston North End,Charlton Athletic,2,1,19
+29/11/1952,Liverpool FC,Blackpool FC,2,2,19
+29/11/1952,Burnley FC,Wolverhampton Wanderers,0,0,19
+29/11/1952,Manchester City,Derby County,1,0,19
+29/11/1952,Middlesbrough FC,Chelsea FC,4,0,19
+29/11/1952,Newcastle United,Portsmouth FC,1,0,19
+29/11/1952,Stoke City,Arsenal FC,1,1,19
+11/03/1953,Cardiff City,Bolton Wanderers,1,0,19
+06/12/1952,Bolton Wanderers,Newcastle United,4,2,20
+06/12/1952,Sunderland AFC,Sheffield Wednesday,2,1,20
+06/12/1952,Manchester United,Middlesbrough FC,3,2,20
+06/12/1952,Blackpool FC,Manchester City,4,1,20
+06/12/1952,Derby County,Stoke City,4,0,20
+06/12/1952,Portsmouth FC,West Bromwich Albion,1,2,20
+06/12/1952,Wolverhampton Wanderers,Tottenham Hotspur,0,0,20
+19/03/1953,Arsenal FC,Preston North End,1,1,20
+23/03/1953,Chelsea FC,Liverpool FC,3,0,20
+22/04/1953,Charlton Athletic,Burnley FC,0,0,20
+29/04/1953,Aston Villa,Cardiff City,2,0,20
+13/12/1952,Newcastle United,Aston Villa,2,1,21
+13/12/1952,Preston North End,Derby County,3,0,21
+13/12/1952,West Bromwich Albion,Bolton Wanderers,0,1,21
+13/12/1952,Sheffield Wednesday,Wolverhampton Wanderers,2,3,21
+13/12/1952,Manchester City,Chelsea FC,4,0,21
+13/12/1952,Liverpool FC,Manchester United,1,2,21
+13/12/1952,Cardiff City,Sunderland AFC,4,1,21
+13/12/1952,Burnley FC,Arsenal FC,1,1,21
+13/12/1952,Middlesbrough FC,Portsmouth FC,3,2,21
+13/12/1952,Stoke City,Blackpool FC,4,0,21
+13/12/1952,Tottenham Hotspur,Charlton Athletic,2,0,21
+20/12/1952,Arsenal FC,Aston Villa,3,1,22
+20/12/1952,Derby County,Bolton Wanderers,4,3,22
+20/12/1952,Liverpool FC,Preston North End,2,2,22
+20/12/1952,Newcastle United,Sheffield Wednesday,1,5,22
+20/12/1952,Middlesbrough FC,Burnley FC,2,2,22
+20/12/1952,Chelsea FC,Manchester United,2,3,22
+20/12/1952,Charlton Athletic,Sunderland AFC,3,1,22
+20/12/1952,Blackpool FC,Portsmouth FC,3,2,22
+20/12/1952,Cardiff City,Wolverhampton Wanderers,0,0,22
+20/12/1952,Manchester City,Stoke City,2,1,22
+20/12/1952,West Bromwich Albion,Tottenham Hotspur,2,1,22
+25/12/1952,Newcastle United,Cardiff City,3,0,23
+25/12/1952,Bolton Wanderers,Arsenal FC,4,6,23
+25/12/1952,Burnley FC,Liverpool FC,2,0,23
+25/12/1952,Blackpool FC,Manchester United,0,0,23
+25/12/1952,Tottenham Hotspur,Middlesbrough FC,7,1,23
+26/12/1952,Aston Villa,Charlton Athletic,1,1,23
+26/12/1952,Preston North End,Manchester City,6,2,23
+26/12/1952,Sheffield Wednesday,West Bromwich Albion,4,5,23
+26/12/1952,Wolverhampton Wanderers,Sunderland AFC,1,1,23
+26/12/1952,Derby County,Portsmouth FC,3,0,23
+26/12/1952,Stoke City,Chelsea FC,1,1,23
+26/12/1952,Liverpool FC,Burnley FC,1,1,24
+26/12/1952,Manchester United,Blackpool FC,2,1,24
+27/12/1952,Cardiff City,Newcastle United,0,0,24
+27/12/1952,West Bromwich Albion,Sheffield Wednesday,0,1,24
+27/12/1952,Sunderland AFC,Wolverhampton Wanderers,5,2,24
+27/12/1952,Chelsea FC,Stoke City,0,0,24
+27/12/1952,Middlesbrough FC,Tottenham Hotspur,0,4,24
+27/12/1952,Portsmouth FC,Derby County,2,2,24
+18/03/1953,Charlton Athletic,Aston Villa,5,1,24
+15/04/1953,Arsenal FC,Bolton Wanderers,4,1,24
+22/04/1953,Manchester City,Preston North End,0,2,24
+03/01/1953,Aston Villa,Derby County,3,0,25
+03/01/1953,Bolton Wanderers,Blackpool FC,4,0,25
+03/01/1953,Preston North End,Middlesbrough FC,3,0,25
+03/01/1953,Burnley FC,West Bromwich Albion,5,0,25
+03/01/1953,Manchester United,Manchester City,1,1,25
+03/01/1953,Wolverhampton Wanderers,Charlton Athletic,1,2,25
+03/01/1953,Tottenham Hotspur,Newcastle United,3,2,25
+03/01/1953,Sunderland AFC,Arsenal FC,3,1,25
+03/01/1953,Stoke City,Liverpool FC,3,1,25
+03/01/1953,Sheffield Wednesday,Cardiff City,2,0,25
+03/01/1953,Portsmouth FC,Chelsea FC,2,0,25
+17/01/1953,Blackpool FC,Aston Villa,1,1,26
+17/01/1953,Chelsea FC,Bolton Wanderers,1,0,26
+17/01/1953,West Bromwich Albion,Preston North End,2,1,26
+17/01/1953,Liverpool FC,Manchester City,0,1,26
+17/01/1953,Newcastle United,Burnley FC,0,0,26
+17/01/1953,Arsenal FC,Wolverhampton Wanderers,5,3,26
+17/01/1953,Cardiff City,Tottenham Hotspur,0,0,26
+17/01/1953,Charlton Athletic,Sheffield Wednesday,3,0,26
+17/01/1953,Derby County,Sunderland AFC,3,1,26
+17/01/1953,Manchester United,Portsmouth FC,1,0,26
+17/01/1953,Middlesbrough FC,Stoke City,0,0,26
+24/01/1953,Charlton Athletic,Arsenal FC,2,2,27
+24/01/1953,Aston Villa,Chelsea FC,1,1,27
+24/01/1953,Bolton Wanderers,Manchester United,2,1,27
+24/01/1953,Preston North End,Newcastle United,2,1,27
+24/01/1953,Manchester City,Middlesbrough FC,5,1,27
+24/01/1953,Burnley FC,Cardiff City,0,0,27
+24/01/1953,Portsmouth FC,Liverpool FC,3,1,27
+24/01/1953,Stoke City,West Bromwich Albion,5,1,27
+24/01/1953,Sunderland AFC,Blackpool FC,1,1,27
+24/01/1953,Tottenham Hotspur,Sheffield Wednesday,2,1,27
+24/01/1953,Wolverhampton Wanderers,Derby County,3,1,27
+07/02/1953,Cardiff City,Preston North End,0,2,28
+07/02/1953,Derby County,Charlton Athletic,1,1,28
+07/02/1953,Manchester United,Aston Villa,3,1,28
+07/02/1953,Portsmouth FC,Bolton Wanderers,3,1,28
+07/02/1953,West Bromwich Albion,Manchester City,2,1,28
+07/02/1953,Sheffield Wednesday,Burnley FC,2,4,28
+07/02/1953,Middlesbrough FC,Liverpool FC,2,3,28
+07/02/1953,Arsenal FC,Tottenham Hotspur,4,0,28
+07/02/1953,Chelsea FC,Sunderland AFC,3,2,28
+07/02/1953,Newcastle United,Stoke City,1,2,28
+07/02/1953,Blackpool FC,Wolverhampton Wanderers,2,0,28
+14/02/1953,Preston North End,Sheffield Wednesday,1,0,29
+14/02/1953,Liverpool FC,West Bromwich Albion,3,0,29
+14/02/1953,Manchester City,Newcastle United,2,1,29
+14/02/1953,Stoke City,Cardiff City,0,0,29
+17/02/1953,Burnley FC,Tottenham Hotspur,3,2,29
+18/02/1953,Arsenal FC,Derby County,6,2,29
+18/02/1953,Aston Villa,Portsmouth FC,6,0,29
+18/02/1953,Bolton Wanderers,Middlesbrough FC,5,3,29
+18/02/1953,Sunderland AFC,Manchester United,2,2,29
+18/02/1953,Wolverhampton Wanderers,Chelsea FC,2,2,29
+23/02/1953,Charlton Athletic,Blackpool FC,2,0,29
+21/02/1953,Chelsea FC,Charlton Athletic,0,1,30
+21/02/1953,Bolton Wanderers,Aston Villa,0,0,30
+21/02/1953,Tottenham Hotspur,Preston North End,4,4,30
+21/02/1953,Newcastle United,Liverpool FC,1,2,30
+21/02/1953,Derby County,Burnley FC,1,3,30
+21/02/1953,Cardiff City,Manchester City,6,0,30
+21/02/1953,Blackpool FC,Arsenal FC,3,2,30
+21/02/1953,Manchester United,Wolverhampton Wanderers,0,3,30
+21/02/1953,Portsmouth FC,Sunderland AFC,5,2,30
+21/02/1953,West Bromwich Albion,Middlesbrough FC,3,0,30
+21/02/1953,Sheffield Wednesday,Stoke City,1,0,30
+28/02/1953,Cardiff City,Charlton Athletic,0,1,31
+28/02/1953,Preston North End,Chelsea FC,2,1,31
+28/02/1953,Manchester City,Portsmouth FC,2,1,31
+28/02/1953,Stoke City,Manchester United,3,1,31
+28/02/1953,West Bromwich Albion,Sunderland AFC,1,1,31
+28/02/1953,Newcastle United,Wolverhampton Wanderers,1,1,31
+02/03/1953,Sheffield Wednesday,Arsenal FC,1,4,31
+03/03/1953,Burnley FC,Blackpool FC,0,1,31
+04/03/1953,Liverpool FC,Bolton Wanderers,0,0,31
+04/03/1953,Middlesbrough FC,Aston Villa,1,0,31
+12/03/1953,Tottenham Hotspur,Derby County,5,2,31
+07/03/1953,Arsenal FC,Cardiff City,0,1,32
+07/03/1953,Aston Villa,Liverpool FC,4,0,32
+07/03/1953,Bolton Wanderers,Manchester City,1,0,32
+07/03/1953,Charlton Athletic,Newcastle United,0,0,32
+07/03/1953,Chelsea FC,Burnley FC,0,2,32
+07/03/1953,Blackpool FC,Tottenham Hotspur,2,0,32
+07/03/1953,Manchester United,Preston North End,5,2,32
+07/03/1953,Portsmouth FC,Stoke City,1,1,32
+07/03/1953,Sunderland AFC,Middlesbrough FC,1,1,32
+07/03/1953,Derby County,Sheffield Wednesday,2,1,32
+07/03/1953,Wolverhampton Wanderers,West Bromwich Albion,2,0,32
+14/03/1953,Newcastle United,Arsenal FC,2,2,33
+14/03/1953,Cardiff City,Derby County,2,0,33
+14/03/1953,Manchester City,Aston Villa,4,1,33
+14/03/1953,West Bromwich Albion,Charlton Athletic,3,1,33
+14/03/1953,Burnley FC,Manchester United,2,1,33
+14/03/1953,Stoke City,Bolton Wanderers,1,2,33
+14/03/1953,Liverpool FC,Sunderland AFC,2,0,33
+14/03/1953,Preston North End,Portsmouth FC,4,0,33
+14/03/1953,Tottenham Hotspur,Chelsea FC,2,3,33
+14/03/1953,Middlesbrough FC,Wolverhampton Wanderers,1,1,33
+14/03/1953,Sheffield Wednesday,Blackpool FC,2,0,33
+21/03/1953,Arsenal FC,West Bromwich Albion,2,2,34
+21/03/1953,Portsmouth FC,Burnley FC,2,1,34
+21/03/1953,Charlton Athletic,Middlesbrough FC,2,0,34
+21/03/1953,Derby County,Newcastle United,0,2,34
+21/03/1953,Sunderland AFC,Manchester City,3,3,34
+21/03/1953,Chelsea FC,Sheffield Wednesday,1,0,34
+21/03/1953,Wolverhampton Wanderers,Liverpool FC,3,0,34
+25/03/1953,Aston Villa,Stoke City,1,1,34
+25/03/1953,Bolton Wanderers,Preston North End,0,3,34
+25/03/1953,Manchester United,Tottenham Hotspur,3,2,34
+25/03/1953,Blackpool FC,Cardiff City,0,1,34
+28/03/1953,Middlesbrough FC,Arsenal FC,2,0,35
+28/03/1953,Burnley FC,Bolton Wanderers,0,1,35
+28/03/1953,Liverpool FC,Charlton Athletic,1,2,35
+28/03/1953,Preston North End,Aston Villa,1,3,35
+28/03/1953,West Bromwich Albion,Derby County,2,2,35
+28/03/1953,Tottenham Hotspur,Portsmouth FC,3,3,35
+28/03/1953,Stoke City,Sunderland AFC,3,0,35
+28/03/1953,Sheffield Wednesday,Manchester United,0,0,35
+28/03/1953,Newcastle United,Blackpool FC,0,1,35
+28/03/1953,Cardiff City,Chelsea FC,3,3,35
+28/03/1953,Manchester City,Wolverhampton Wanderers,3,1,35
+03/04/1953,Chelsea FC,Arsenal FC,1,1,36
+03/04/1953,Bolton Wanderers,Sunderland AFC,5,0,36
+03/04/1953,Burnley FC,Preston North End,2,2,36
+03/04/1953,Tottenham Hotspur,Stoke City,1,0,36
+03/04/1953,Portsmouth FC,Wolverhampton Wanderers,2,2,36
+03/04/1953,Newcastle United,Middlesbrough FC,1,0,36
+03/04/1953,Liverpool FC,Cardiff City,2,1,36
+03/04/1953,Charlton Athletic,Manchester United,2,2,36
+03/04/1953,Blackpool FC,Derby County,2,1,36
+03/04/1953,Manchester City,Sheffield Wednesday,3,1,36
+06/04/1953,West Bromwich Albion,Aston Villa,3,2,36
+04/04/1953,Arsenal FC,Liverpool FC,5,3,37
+04/04/1953,Aston Villa,Burnley FC,2,0,37
+04/04/1953,Bolton Wanderers,Tottenham Hotspur,2,3,37
+04/04/1953,Charlton Athletic,Manchester City,1,2,37
+04/04/1953,Sunderland AFC,Preston North End,2,2,37
+04/04/1953,Wolverhampton Wanderers,Stoke City,3,0,37
+04/04/1953,Portsmouth FC,Sheffield Wednesday,5,2,37
+04/04/1953,Manchester United,Cardiff City,1,4,37
+04/04/1953,Derby County,Middlesbrough FC,3,3,37
+04/04/1953,Chelsea FC,Newcastle United,1,2,37
+04/04/1953,Blackpool FC,West Bromwich Albion,2,0,37
+06/04/1953,Arsenal FC,Chelsea FC,2,0,38
+06/04/1953,Preston North End,Burnley FC,2,1,38
+06/04/1953,Sunderland AFC,Bolton Wanderers,2,0,38
+06/04/1953,Cardiff City,Liverpool FC,4,0,38
+06/04/1953,Wolverhampton Wanderers,Portsmouth FC,4,1,38
+06/04/1953,Stoke City,Tottenham Hotspur,2,0,38
+06/04/1953,Middlesbrough FC,Newcastle United,2,1,38
+06/04/1953,Manchester United,Charlton Athletic,3,2,38
+06/04/1953,Derby County,Blackpool FC,1,1,38
+06/04/1953,Sheffield Wednesday,Manchester City,1,1,38
+07/04/1953,Aston Villa,West Bromwich Albion,1,1,38
+11/04/1953,Manchester City,Arsenal FC,2,4,39
+11/04/1953,Burnley FC,Sunderland AFC,5,1,39
+11/04/1953,Preston North End,Wolverhampton Wanderers,1,1,39
+11/04/1953,Sheffield Wednesday,Bolton Wanderers,1,1,39
+11/04/1953,Tottenham Hotspur,Aston Villa,1,1,39
+11/04/1953,West Bromwich Albion,Chelsea FC,0,1,39
+11/04/1953,Stoke City,Charlton Athletic,1,0,39
+11/04/1953,Newcastle United,Manchester United,1,2,39
+11/04/1953,Middlesbrough FC,Blackpool FC,5,1,39
+11/04/1953,Liverpool FC,Derby County,1,1,39
+11/04/1953,Cardiff City,Portsmouth FC,0,1,39
+18/04/1953,Aston Villa,Sheffield Wednesday,4,3,40
+18/04/1953,Charlton Athletic,Preston North End,2,1,40
+18/04/1953,Derby County,Manchester City,5,0,40
+18/04/1953,Wolverhampton Wanderers,Burnley FC,5,1,40
+18/04/1953,Sunderland AFC,Tottenham Hotspur,1,1,40
+18/04/1953,Portsmouth FC,Newcastle United,5,1,40
+18/04/1953,Manchester United,West Bromwich Albion,2,2,40
+18/04/1953,Chelsea FC,Middlesbrough FC,1,1,40
+18/04/1953,Bolton Wanderers,Cardiff City,0,1,40
+18/04/1953,Arsenal FC,Stoke City,3,1,40
+18/04/1953,Blackpool FC,Liverpool FC,3,1,40
+25/04/1953,Cardiff City,Aston Villa,1,2,41
+25/04/1953,West Bromwich Albion,Portsmouth FC,2,0,41
+25/04/1953,Tottenham Hotspur,Wolverhampton Wanderers,3,2,41
+25/04/1953,Preston North End,Arsenal FC,2,0,41
+25/04/1953,Liverpool FC,Chelsea FC,2,0,41
+25/04/1953,Burnley FC,Charlton Athletic,2,0,41
+25/04/1953,Manchester City,Blackpool FC,5,0,41
+25/04/1953,Middlesbrough FC,Manchester United,5,0,41
+25/04/1953,Newcastle United,Bolton Wanderers,2,3,41
+25/04/1953,Sheffield Wednesday,Sunderland AFC,4,0,41
+25/04/1953,Stoke City,Derby County,1,2,41
+31/01/1953,Wolverhampton Wanderers,Sheffield Wednesday,3,1,42
+15/04/1953,Blackpool FC,Stoke City,1,1,42
+20/04/1953,Manchester United,Liverpool FC,3,1,42
+22/04/1953,Bolton Wanderers,West Bromwich Albion,0,1,42
+27/04/1953,Sunderland AFC,Cardiff City,4,2,42
+29/04/1953,Derby County,Preston North End,0,1,42
+29/04/1953,Chelsea FC,Manchester City,3,1,42
+30/04/1953,Charlton Athletic,Tottenham Hotspur,3,2,42
+01/05/1953,Arsenal FC,Burnley FC,3,2,42
+01/05/1953,Aston Villa,Newcastle United,0,1,42
+02/05/1953,Portsmouth FC,Middlesbrough FC,1,4,42

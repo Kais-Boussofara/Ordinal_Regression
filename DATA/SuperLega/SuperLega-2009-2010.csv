@@ -1,0 +1,211 @@
+date,home_team,home_score,away_team,away_score
+2009-09-27 12:00:00,Trentino,3,Cisterna,1
+2009-09-27 12:00:00,Taranto,1,Piacenza,3
+2009-09-27 12:00:00,San Giustino,3,Monza,2
+2009-09-27 12:00:00,Modena,2,Lube Civitanova,3
+2009-09-27 12:00:00,Loreto,2,Belluno,3
+2009-09-27 12:00:00,Cuneo,0,Verona,3
+2009-10-04 12:00:00,Vibo Valentia,3,Trentino,0
+2009-10-04 12:00:00,Verona,0,Modena,3
+2009-10-04 12:00:00,Piacenza,3,Loreto,0
+2009-10-04 12:00:00,Lube Civitanova,3,Pineto,0
+2009-10-04 12:00:00,Forli,0,Cuneo,3
+2009-10-04 12:00:00,Cisterna,0,Taranto,3
+2009-10-04 12:00:00,Belluno,3,San Giustino,0
+2009-10-07 14:30:00,Vibo Valentia,2,Belluno,3
+2009-10-07 14:30:00,Trentino,3,Monza,0
+2009-10-07 14:30:00,Taranto,3,Forli,0
+2009-10-07 14:30:00,San Giustino,2,Lube Civitanova,3
+2009-10-07 14:30:00,Modena,3,Cisterna,0
+2009-10-07 14:30:00,Loreto,3,Verona,0
+2009-10-07 14:30:00,Cuneo,3,Piacenza,1
+2009-10-10 10:00:00,Piacenza,1,Trentino,3
+2009-10-11 12:00:00,Verona,3,Taranto,2
+2009-10-11 12:00:00,Monza,3,Cuneo,2
+2009-10-11 12:00:00,Modena,3,Loreto,0
+2009-10-11 12:00:00,Forli,3,Pineto,0
+2009-10-11 12:00:00,Cisterna,1,Vibo Valentia,3
+2009-10-11 12:00:00,Belluno,3,Lube Civitanova,0
+2009-10-14 14:30:00,Vibo Valentia,0,Piacenza,3
+2009-10-14 14:30:00,San Giustino,0,Verona,3
+2009-10-14 14:30:00,Pineto,1,Taranto,3
+2009-10-14 14:30:00,Monza,3,Loreto,1
+2009-10-14 14:30:00,Lube Civitanova,0,Trentino,3
+2009-10-14 14:30:00,Forli,0,Cisterna,3
+2009-10-14 14:30:00,Cuneo,3,Belluno,1
+2009-10-17 12:15:00,San Giustino,3,Vibo Valentia,1
+2009-10-18 12:00:00,Verona,0,Belluno,3
+2009-10-18 12:00:00,Trentino,3,Cuneo,0
+2009-10-18 12:00:00,Piacenza,2,Lube Civitanova,3
+2009-10-18 12:00:00,Modena,3,Monza,1
+2009-10-18 12:00:00,Loreto,3,Forli,1
+2009-10-18 12:00:00,Cisterna,3,Pineto,0
+2009-10-21 14:30:00,Vibo Valentia,3,Loreto,2
+2009-10-21 14:30:00,Trentino,3,Taranto,0
+2009-10-21 14:30:00,Pineto,2,Verona,3
+2009-10-21 14:30:00,Monza,3,Cisterna,0
+2009-10-21 14:30:00,Forli,0,Piacenza,3
+2009-10-21 14:30:00,Cuneo,3,San Giustino,2
+2009-10-21 14:30:00,Belluno,1,Modena,3
+2009-10-24 10:30:00,Modena,0,Cuneo,3
+2009-10-25 13:00:00,Verona,3,Vibo Valentia,1
+2009-10-25 13:00:00,Taranto,0,Monza,3
+2009-10-25 13:00:00,Pineto,1,San Giustino,3
+2009-10-25 13:00:00,Loreto,0,Trentino,3
+2009-10-25 13:00:00,Forli,0,Lube Civitanova,3
+2009-10-25 13:00:00,Cisterna,1,Piacenza,3
+2009-10-28 15:30:00,Pineto,0,Vibo Valentia,3
+2009-10-31 11:00:00,Lube Civitanova,3,Cisterna,1
+2009-11-01 12:00:00,Vibo Valentia,3,Taranto,0
+2009-11-01 12:00:00,San Giustino,3,Loreto,0
+2009-11-01 12:00:00,Piacenza,3,Verona,0
+2009-11-01 12:00:00,Monza,2,Forli,3
+2009-11-01 12:00:00,Belluno,3,Pineto,1
+2009-11-06 14:30:00,Verona,3,Cisterna,1
+2009-11-08 12:00:00,Vibo Valentia,3,Lube Civitanova,2
+2009-11-08 12:00:00,Taranto,3,Belluno,1
+2009-11-08 12:00:00,Piacenza,1,Modena,3
+2009-11-08 12:00:00,Monza,3,Pineto,0
+2009-11-08 12:00:00,Loreto,0,Cuneo,3
+2009-11-08 12:00:00,Forli,2,San Giustino,3
+2009-11-12 14:30:00,Trentino,3,Modena,1
+2009-11-15 12:00:00,Trentino,3,Verona,2
+2009-11-15 12:00:00,Pineto,0,Piacenza,3
+2009-11-15 12:00:00,Modena,3,Taranto,0
+2009-11-15 12:00:00,Cuneo,3,Vibo Valentia,0
+2009-11-15 12:00:00,Cisterna,1,San Giustino,3
+2009-11-15 12:00:00,Belluno,3,Forli,1
+2009-11-21 09:30:00,Lube Civitanova,3,Monza,1
+2009-11-25 14:30:00,Piacenza,1,Belluno,3
+2009-11-26 14:30:00,Taranto,1,Lube Civitanova,3
+2009-11-26 14:30:00,San Giustino,2,Modena,3
+2009-11-26 14:30:00,Monza,3,Verona,1
+2009-11-26 14:30:00,Loreto,3,Cisterna,2
+2009-11-26 14:30:00,Forli,0,Trentino,3
+2009-11-26 14:30:00,Cuneo,3,Pineto,0
+2009-11-29 10:00:00,Lube Civitanova,1,Cuneo,3
+2009-11-29 12:00:00,Verona,3,Forli,1
+2009-11-29 12:00:00,Trentino,3,Pineto,0
+2009-11-29 12:00:00,Taranto,3,Loreto,1
+2009-11-29 12:00:00,Piacenza,3,San Giustino,1
+2009-11-29 12:00:00,Modena,3,Vibo Valentia,0
+2009-11-29 12:00:00,Belluno,3,Monza,1
+2009-12-05 09:30:00,Forli,2,Modena,3
+2009-12-06 09:45:00,Pineto,3,Loreto,2
+2009-12-06 12:00:00,San Giustino,3,Taranto,1
+2009-12-06 12:00:00,Monza,3,Vibo Valentia,0
+2009-12-06 12:00:00,Lube Civitanova,3,Verona,1
+2009-12-06 12:00:00,Cuneo,3,Cisterna,0
+2009-12-06 12:00:00,Belluno,3,Trentino,2
+2009-12-13 12:00:00,Vibo Valentia,1,Forli,3
+2009-12-13 12:00:00,Trentino,3,San Giustino,1
+2009-12-13 12:00:00,Taranto,0,Cuneo,3
+2009-12-13 12:00:00,Piacenza,3,Monza,0
+2009-12-13 12:00:00,Modena,0,Pineto,3
+2009-12-13 12:00:00,Loreto,0,Lube Civitanova,3
+2009-12-13 12:00:00,Cisterna,2,Belluno,3
+2009-12-18 14:30:00,Verona,1,Cuneo,3
+2009-12-19 10:00:00,Cisterna,0,Trentino,3
+2009-12-19 12:00:00,Vibo Valentia,3,Pineto,1
+2009-12-20 12:00:00,Piacenza,3,Taranto,0
+2009-12-20 12:00:00,Monza,3,San Giustino,2
+2009-12-20 12:00:00,Lube Civitanova,3,Modena,1
+2009-12-20 12:00:00,Belluno,3,Loreto,0
+2009-12-22 14:30:00,Trentino,3,Vibo Valentia,0
+2009-12-23 14:30:00,Taranto,1,Cisterna,3
+2009-12-23 14:30:00,San Giustino,0,Belluno,3
+2009-12-23 14:30:00,Pineto,0,Lube Civitanova,3
+2009-12-23 14:30:00,Modena,3,Verona,1
+2009-12-23 14:30:00,Loreto,0,Piacenza,3
+2009-12-23 14:30:00,Cuneo,3,Forli,0
+2009-12-27 12:00:00,Verona,3,Loreto,0
+2009-12-27 12:00:00,Piacenza,3,Cuneo,1
+2009-12-27 12:00:00,Monza,1,Trentino,3
+2009-12-27 12:00:00,Lube Civitanova,3,San Giustino,1
+2009-12-27 12:00:00,Forli,0,Taranto,3
+2009-12-27 12:00:00,Cisterna,2,Modena,3
+2009-12-27 12:00:00,Belluno,3,Vibo Valentia,1
+2010-01-02 10:00:00,Pineto,0,Forli,3
+2010-01-03 12:00:00,Vibo Valentia,2,Cisterna,3
+2010-01-03 12:00:00,Trentino,3,Piacenza,2
+2010-01-03 12:00:00,Taranto,2,Verona,3
+2010-01-03 12:00:00,Lube Civitanova,1,Belluno,3
+2010-01-03 12:00:00,Loreto,1,Modena,3
+2010-01-03 12:00:00,Cuneo,1,Monza,3
+2010-01-09 10:00:00,Cisterna,3,Forli,2
+2010-01-10 12:00:00,Verona,3,San Giustino,0
+2010-01-10 12:00:00,Trentino,3,Lube Civitanova,1
+2010-01-10 12:00:00,Taranto,3,Pineto,1
+2010-01-10 12:00:00,Piacenza,3,Vibo Valentia,0
+2010-01-10 12:00:00,Loreto,3,Monza,2
+2010-01-10 12:00:00,Belluno,1,Cuneo,3
+2010-01-16 10:00:00,Vibo Valentia,3,San Giustino,1
+2010-01-17 06:00:00,Belluno,3,Verona,2
+2010-01-17 12:00:00,Pineto,0,Cisterna,3
+2010-01-17 12:00:00,Monza,3,Modena,1
+2010-01-17 12:00:00,Lube Civitanova,3,Piacenza,2
+2010-01-17 12:00:00,Forli,3,Loreto,1
+2010-01-17 12:00:00,Cuneo,3,Trentino,1
+2010-01-23 10:00:00,Loreto,2,Vibo Valentia,3
+2010-01-24 12:00:00,Verona,3,Pineto,0
+2010-01-24 12:00:00,Taranto,0,Trentino,3
+2010-01-24 12:00:00,San Giustino,1,Cuneo,3
+2010-01-24 12:00:00,Piacenza,3,Forli,1
+2010-01-24 12:00:00,Modena,3,Belluno,1
+2010-01-24 12:00:00,Cisterna,0,Monza,3
+2010-02-06 10:00:00,Monza,3,Taranto,0
+2010-02-06 14:30:00,Trentino,3,Loreto,1
+2010-02-06 14:30:00,San Giustino,3,Pineto,0
+2010-02-07 12:00:00,Vibo Valentia,0,Verona,3
+2010-02-07 12:00:00,Piacenza,3,Cisterna,1
+2010-02-07 12:00:00,Lube Civitanova,3,Forli,1
+2010-02-07 12:00:00,Cuneo,3,Modena,0
+2010-02-13 10:00:00,Taranto,3,Vibo Valentia,2
+2010-02-14 12:00:00,Verona,3,Piacenza,1
+2010-02-14 12:00:00,Pineto,0,Belluno,3
+2010-02-14 12:00:00,Modena,3,Trentino,2
+2010-02-14 12:00:00,Loreto,0,San Giustino,3
+2010-02-14 12:00:00,Forli,0,Monza,3
+2010-02-14 12:00:00,Cisterna,1,Lube Civitanova,3
+2010-02-20 10:30:00,Modena,3,Piacenza,0
+2010-02-21 10:30:00,San Giustino,3,Forli,2
+2010-02-21 12:00:00,Pineto,0,Monza,3
+2010-02-21 12:00:00,Lube Civitanova,3,Vibo Valentia,0
+2010-02-21 12:00:00,Cuneo,3,Loreto,0
+2010-02-21 12:00:00,Cisterna,1,Verona,3
+2010-02-21 12:00:00,Belluno,3,Taranto,0
+2010-02-27 10:00:00,Forli,0,Belluno,3
+2010-02-28 10:00:00,Monza,3,Lube Civitanova,1
+2010-02-28 12:00:00,Vibo Valentia,3,Cuneo,0
+2010-02-28 12:00:00,Verona,1,Trentino,3
+2010-02-28 12:00:00,Taranto,1,Modena,3
+2010-02-28 12:00:00,San Giustino,3,Cisterna,2
+2010-02-28 12:00:00,Piacenza,3,Pineto,0
+2010-03-06 09:00:00,Verona,1,Monza,3
+2010-03-07 12:00:00,Trentino,3,Forli,0
+2010-03-07 12:00:00,Pineto,1,Cuneo,3
+2010-03-07 12:00:00,Modena,3,San Giustino,0
+2010-03-07 12:00:00,Lube Civitanova,3,Taranto,0
+2010-03-07 12:00:00,Cisterna,3,Loreto,1
+2010-03-07 12:00:00,Belluno,3,Piacenza,0
+2010-03-13 10:00:00,Vibo Valentia,2,Modena,3
+2010-03-14 13:00:00,San Giustino,3,Piacenza,0
+2010-03-14 13:00:00,Pineto,0,Trentino,3
+2010-03-14 13:00:00,Monza,3,Belluno,2
+2010-03-14 13:00:00,Loreto,2,Taranto,3
+2010-03-14 13:00:00,Forli,0,Verona,3
+2010-03-14 13:00:00,Cuneo,3,Lube Civitanova,1
+2010-03-17 15:30:00,Vibo Valentia,1,Monza,3
+2010-03-17 15:30:00,Verona,0,Lube Civitanova,3
+2010-03-17 15:30:00,Trentino,3,Belluno,0
+2010-03-17 15:30:00,Taranto,3,San Giustino,1
+2010-03-17 15:30:00,Modena,3,Forli,0
+2010-03-17 15:30:00,Loreto,3,Pineto,1
+2010-03-17 15:30:00,Cisterna,2,Cuneo,3
+2010-03-21 13:00:00,San Giustino,3,Trentino,1
+2010-03-21 13:00:00,Pineto,0,Modena,3
+2010-03-21 13:00:00,Monza,2,Piacenza,3
+2010-03-21 13:00:00,Lube Civitanova,3,Loreto,0
+2010-03-21 13:00:00,Forli,3,Vibo Valentia,0
+2010-03-21 13:00:00,Cuneo,3,Taranto,1
+2010-03-21 13:00:00,Belluno,3,Cisterna,1

@@ -1,0 +1,463 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,round
+29/08/1981,Arsenal FC,Stoke City,0,1,1
+29/08/1981,West Ham United,Brighton & Hove Albion,1,1,1
+29/08/1981,Swansea City,Leeds United,5,1,1
+29/08/1981,Nottingham Forest,Southampton FC,2,1,1
+29/08/1981,Middlesbrough FC,Tottenham Hotspur,1,3,1
+29/08/1981,Manchester City,West Bromwich Albion,2,1,1
+29/08/1981,Ipswich Town,Sunderland AFC,3,3,1
+29/08/1981,Everton FC,Birmingham City,3,1,1
+29/08/1981,Coventry City,Manchester United,2,1,1
+29/08/1981,Aston Villa,Notts County,0,1,1
+29/08/1981,Wolverhampton Wanderers,Liverpool FC,1,0,1
+31/08/1981,Manchester United,Nottingham Forest,0,0,2
+01/09/1981,Southampton FC,Wolverhampton Wanderers,4,1,2
+01/09/1981,Notts County,Manchester City,1,1,2
+01/09/1981,Liverpool FC,Middlesbrough FC,1,1,2
+01/09/1981,Brighton & Hove Albion,Swansea City,1,2,2
+01/09/1981,Birmingham City,Ipswich Town,1,1,2
+02/09/1981,Leeds United,Everton FC,1,1,2
+02/09/1981,Stoke City,Coventry City,4,0,2
+02/09/1981,Sunderland AFC,Aston Villa,2,1,2
+02/09/1981,Tottenham Hotspur,West Ham United,0,4,2
+02/09/1981,West Bromwich Albion,Arsenal FC,0,2,2
+05/09/1981,Birmingham City,Nottingham Forest,4,3,3
+05/09/1981,Tottenham Hotspur,Aston Villa,1,3,3
+05/09/1981,Sunderland AFC,West Ham United,0,2,3
+05/09/1981,Stoke City,Manchester City,1,3,3
+05/09/1981,Southampton FC,Everton FC,1,0,3
+05/09/1981,Notts County,Coventry City,2,1,3
+05/09/1981,Manchester United,Ipswich Town,1,2,3
+05/09/1981,Liverpool FC,Arsenal FC,2,0,3
+05/09/1981,Leeds United,Wolverhampton Wanderers,3,0,3
+05/09/1981,Brighton & Hove Albion,Middlesbrough FC,2,0,3
+05/09/1981,West Bromwich Albion,Swansea City,4,1,3
+12/09/1981,Arsenal FC,Sunderland AFC,1,1,4
+12/09/1981,West Ham United,Stoke City,3,2,4
+12/09/1981,Swansea City,Notts County,3,2,4
+12/09/1981,Nottingham Forest,West Bromwich Albion,0,0,4
+12/09/1981,Middlesbrough FC,Birmingham City,2,1,4
+12/09/1981,Manchester City,Southampton FC,1,1,4
+12/09/1981,Ipswich Town,Liverpool FC,2,0,4
+12/09/1981,Everton FC,Brighton & Hove Albion,1,1,4
+12/09/1981,Coventry City,Leeds United,4,0,4
+12/09/1981,Aston Villa,Manchester United,1,1,4
+12/09/1981,Wolverhampton Wanderers,Tottenham Hotspur,0,1,4
+19/09/1981,Birmingham City,Manchester City,3,0,5
+19/09/1981,Tottenham Hotspur,Everton FC,3,0,5
+19/09/1981,Sunderland AFC,Wolverhampton Wanderers,0,0,5
+19/09/1981,Stoke City,Nottingham Forest,1,2,5
+19/09/1981,Southampton FC,Middlesbrough FC,2,0,5
+19/09/1981,Notts County,Ipswich Town,1,4,5
+19/09/1981,Manchester United,Swansea City,1,0,5
+19/09/1981,Liverpool FC,Aston Villa,0,0,5
+19/09/1981,Leeds United,Arsenal FC,0,0,5
+19/09/1981,Brighton & Hove Albion,Coventry City,2,2,5
+19/09/1981,West Bromwich Albion,West Ham United,0,0,5
+22/09/1981,Arsenal FC,Birmingham City,1,0,6
+22/09/1981,Wolverhampton Wanderers,Brighton & Hove Albion,0,1,6
+22/09/1981,West Ham United,Southampton FC,4,2,6
+22/09/1981,Swansea City,Tottenham Hotspur,2,1,6
+22/09/1981,Middlesbrough FC,Manchester United,0,2,6
+22/09/1981,Ipswich Town,West Bromwich Albion,1,0,6
+22/09/1981,Everton FC,Notts County,3,1,6
+22/09/1981,Coventry City,Liverpool FC,1,2,6
+23/09/1981,Aston Villa,Stoke City,2,2,6
+23/09/1981,Manchester City,Leeds United,4,0,6
+23/09/1981,Nottingham Forest,Sunderland AFC,2,0,6
+26/09/1981,Arsenal FC,Manchester United,0,0,7
+26/09/1981,West Ham United,Liverpool FC,1,1,7
+26/09/1981,Swansea City,Sunderland AFC,2,0,7
+26/09/1981,Nottingham Forest,Brighton & Hove Albion,2,1,7
+26/09/1981,Middlesbrough FC,Stoke City,3,2,7
+26/09/1981,Manchester City,Tottenham Hotspur,0,1,7
+26/09/1981,Ipswich Town,Leeds United,2,1,7
+26/09/1981,Everton FC,West Bromwich Albion,1,0,7
+26/09/1981,Coventry City,Southampton FC,4,2,7
+26/09/1981,Aston Villa,Birmingham City,0,0,7
+26/09/1981,Wolverhampton Wanderers,Notts County,3,2,7
+03/10/1981,Tottenham Hotspur,Nottingham Forest,3,0,8
+03/10/1981,Sunderland AFC,Coventry City,0,0,8
+03/10/1981,Stoke City,Everton FC,3,1,8
+03/10/1981,Southampton FC,Ipswich Town,4,3,8
+03/10/1981,Notts County,Arsenal FC,2,1,8
+03/10/1981,Manchester United,Wolverhampton Wanderers,5,0,8
+03/10/1981,Liverpool FC,Swansea City,2,2,8
+03/10/1981,Leeds United,Aston Villa,1,1,8
+03/10/1981,Brighton & Hove Albion,Manchester City,4,1,8
+03/10/1981,Birmingham City,West Ham United,2,2,8
+03/10/1981,West Bromwich Albion,Middlesbrough FC,2,0,8
+10/10/1981,Birmingham City,Southampton FC,4,0,9
+10/10/1981,West Bromwich Albion,Brighton & Hove Albion,0,0,9
+10/10/1981,Tottenham Hotspur,Stoke City,2,0,9
+10/10/1981,Swansea City,Arsenal FC,2,0,9
+10/10/1981,Notts County,Sunderland AFC,2,0,9
+10/10/1981,Middlesbrough FC,Nottingham Forest,1,1,9
+10/10/1981,Manchester City,Manchester United,0,0,9
+10/10/1981,Liverpool FC,Leeds United,3,0,9
+10/10/1981,Ipswich Town,Wolverhampton Wanderers,1,0,9
+10/10/1981,Coventry City,Aston Villa,1,1,9
+10/10/1981,West Ham United,Everton FC,1,1,9
+17/10/1981,Arsenal FC,Manchester City,1,0,10
+17/10/1981,Aston Villa,West Ham United,3,2,10
+17/10/1981,Brighton & Hove Albion,Liverpool FC,3,3,10
+17/10/1981,Everton FC,Ipswich Town,2,1,10
+17/10/1981,Nottingham Forest,Coventry City,2,1,10
+17/10/1981,Southampton FC,Notts County,3,1,10
+17/10/1981,Stoke City,Swansea City,1,2,10
+17/10/1981,Sunderland AFC,Tottenham Hotspur,0,2,10
+17/10/1981,Wolverhampton Wanderers,Middlesbrough FC,0,0,10
+17/10/1981,Leeds United,West Bromwich Albion,3,1,10
+17/10/1981,Manchester United,Birmingham City,1,1,10
+24/10/1981,West Bromwich Albion,Southampton FC,1,1,11
+24/10/1981,Tottenham Hotspur,Brighton & Hove Albion,0,1,11
+24/10/1981,Stoke City,Birmingham City,1,0,11
+24/10/1981,Notts County,West Ham United,1,1,11
+24/10/1981,Middlesbrough FC,Everton FC,0,2,11
+24/10/1981,Manchester City,Nottingham Forest,0,0,11
+24/10/1981,Ipswich Town,Arsenal FC,2,1,11
+24/10/1981,Coventry City,Swansea City,3,1,11
+24/10/1981,Wolverhampton Wanderers,Aston Villa,0,3,11
+24/10/1981,Leeds United,Sunderland AFC,1,0,11
+24/10/1981,Liverpool FC,Manchester United,1,2,11
+31/10/1981,Sunderland AFC,Liverpool FC,0,2,12
+31/10/1981,Southampton FC,Tottenham Hotspur,1,2,12
+31/10/1981,Nottingham Forest,Leeds United,2,1,12
+31/10/1981,Everton FC,Manchester City,0,1,12
+31/10/1981,Brighton & Hove Albion,Stoke City,0,0,12
+31/10/1981,Birmingham City,West Bromwich Albion,3,3,12
+31/10/1981,Aston Villa,Ipswich Town,0,1,12
+31/10/1981,Arsenal FC,Coventry City,1,0,12
+31/10/1981,Swansea City,Wolverhampton Wanderers,0,0,12
+31/10/1981,West Ham United,Middlesbrough FC,3,2,12
+31/10/1981,Manchester United,Notts County,2,1,12
+07/11/1981,Tottenham Hotspur,West Bromwich Albion,1,2,13
+07/11/1981,Stoke City,Southampton FC,0,2,13
+07/11/1981,Nottingham Forest,West Ham United,0,0,13
+07/11/1981,Manchester City,Middlesbrough FC,3,2,13
+07/11/1981,Liverpool FC,Everton FC,3,1,13
+07/11/1981,Leeds United,Notts County,1,0,13
+07/11/1981,Ipswich Town,Swansea City,2,3,13
+07/11/1981,Brighton & Hove Albion,Birmingham City,1,1,13
+07/11/1981,Aston Villa,Arsenal FC,0,2,13
+07/11/1981,Wolverhampton Wanderers,Coventry City,1,0,13
+07/11/1981,Sunderland AFC,Manchester United,1,5,13
+30/09/1981,Manchester United,Leeds United,1,0,14
+14/11/1981,West Bromwich Albion,Stoke City,1,2,14
+14/11/1981,Middlesbrough FC,Sunderland AFC,0,0,14
+08/12/1981,Southampton FC,Brighton & Hove Albion,0,2,14
+15/12/1981,Swansea City,Aston Villa,2,1,14
+16/01/1982,Coventry City,Ipswich Town,2,4,14
+26/01/1982,Notts County,Liverpool FC,0,4,14
+02/02/1982,Arsenal FC,Wolverhampton Wanderers,2,1,14
+02/02/1982,West Ham United,Manchester City,1,1,14
+23/03/1982,Birmingham City,Tottenham Hotspur,0,0,14
+20/04/1982,Everton FC,Nottingham Forest,2,1,14
+21/11/1981,West Bromwich Albion,Liverpool FC,1,1,15
+21/11/1981,Stoke City,Ipswich Town,2,0,15
+21/11/1981,Southampton FC,Leeds United,4,0,15
+21/11/1981,Nottingham Forest,Arsenal FC,1,2,15
+21/11/1981,Middlesbrough FC,Aston Villa,3,3,15
+21/11/1981,Manchester City,Swansea City,4,0,15
+21/11/1981,Everton FC,Sunderland AFC,1,2,15
+21/11/1981,Brighton & Hove Albion,Notts County,2,2,15
+21/11/1981,Birmingham City,Wolverhampton Wanderers,0,3,15
+21/11/1981,West Ham United,Coventry City,5,2,15
+21/11/1981,Tottenham Hotspur,Manchester United,3,1,15
+24/11/1981,Coventry City,Stoke City,3,0,16
+24/11/1981,Swansea City,Brighton & Hove Albion,0,0,16
+24/11/1981,Wolverhampton Wanderers,Southampton FC,0,0,16
+05/01/1982,Ipswich Town,Birmingham City,3,2,16
+02/02/1982,Aston Villa,Sunderland AFC,1,0,16
+16/03/1982,Arsenal FC,West Bromwich Albion,2,2,16
+04/05/1982,Everton FC,Leeds United,1,0,16
+05/05/1982,Nottingham Forest,Manchester United,0,1,16
+05/05/1982,Manchester City,Notts County,1,0,16
+10/05/1982,West Ham United,Tottenham Hotspur,2,2,16
+18/05/1982,Middlesbrough FC,Liverpool FC,0,0,16
+28/11/1981,Arsenal FC,Everton FC,1,0,17
+28/11/1981,Aston Villa,Nottingham Forest,3,1,17
+28/11/1981,Ipswich Town,Manchester City,2,0,17
+28/11/1981,Leeds United,West Ham United,3,3,17
+28/11/1981,Liverpool FC,Southampton FC,0,1,17
+28/11/1981,Coventry City,Middlesbrough FC,1,1,17
+28/11/1981,Notts County,Tottenham Hotspur,2,2,17
+28/11/1981,Swansea City,Birmingham City,1,0,17
+28/11/1981,Wolverhampton Wanderers,Stoke City,2,0,17
+28/11/1981,Manchester United,Brighton & Hove Albion,2,0,17
+28/11/1981,Sunderland AFC,West Bromwich Albion,1,2,17
+05/12/1981,Birmingham City,Notts County,2,1,18
+05/12/1981,Manchester City,Aston Villa,1,0,18
+05/12/1981,Middlesbrough FC,Ipswich Town,0,1,18
+05/12/1981,West Ham United,Arsenal FC,1,2,18
+05/12/1981,West Bromwich Albion,Wolverhampton Wanderers,3,0,18
+05/12/1981,Tottenham Hotspur,Coventry City,1,2,18
+05/12/1981,Stoke City,Leeds United,1,2,18
+05/12/1981,Nottingham Forest,Liverpool FC,0,2,18
+05/12/1981,Everton FC,Swansea City,3,1,18
+05/12/1981,Brighton & Hove Albion,Sunderland AFC,2,1,18
+05/12/1981,Southampton FC,Manchester United,3,2,18
+12/12/1981,Coventry City,Manchester City,0,1,19
+12/12/1981,Leeds United,Tottenham Hotspur,0,0,19
+12/12/1981,Swansea City,Nottingham Forest,1,2,19
+23/01/1982,Wolverhampton Wanderers,Everton FC,0,3,19
+27/01/1982,Manchester United,West Ham United,1,0,19
+16/02/1982,Arsenal FC,Middlesbrough FC,1,0,19
+10/03/1982,Sunderland AFC,Southampton FC,2,0,19
+30/03/1982,Ipswich Town,Brighton & Hove Albion,3,1,19
+30/03/1982,Liverpool FC,Birmingham City,3,1,19
+30/03/1982,Aston Villa,West Bromwich Albion,2,1,19
+26/04/1982,Notts County,Stoke City,3,1,19
+19/12/1981,Everton FC,Aston Villa,2,0,20
+19/12/1981,Manchester City,Sunderland AFC,2,3,20
+23/01/1982,Southampton FC,Arsenal FC,3,1,20
+23/01/1982,Stoke City,Manchester United,0,3,20
+26/01/1982,Birmingham City,Coventry City,3,3,20
+13/02/1982,Middlesbrough FC,Swansea City,1,1,20
+02/03/1982,Brighton & Hove Albion,Leeds United,1,0,20
+17/03/1982,Nottingham Forest,Ipswich Town,1,1,20
+24/03/1982,West Bromwich Albion,Notts County,2,4,20
+06/04/1982,West Ham United,Wolverhampton Wanderers,3,1,20
+03/05/1982,Tottenham Hotspur,Liverpool FC,2,2,20
+26/12/1981,Coventry City,West Bromwich Albion,0,2,21
+26/12/1981,Liverpool FC,Manchester City,1,3,21
+06/01/1982,Manchester United,Everton FC,1,1,21
+26/01/1982,Arsenal FC,Brighton & Hove Albion,0,0,21
+10/02/1982,Aston Villa,Southampton FC,1,1,21
+10/02/1982,Sunderland AFC,Stoke City,0,2,21
+16/02/1982,Wolverhampton Wanderers,Nottingham Forest,0,0,21
+30/03/1982,Swansea City,West Ham United,0,1,21
+11/05/1982,Notts County,Middlesbrough FC,0,1,21
+12/05/1982,Leeds United,Birmingham City,3,3,21
+17/05/1982,Ipswich Town,Tottenham Hotspur,2,1,21
+28/12/1981,Brighton & Hove Albion,Aston Villa,0,1,22
+28/12/1981,Everton FC,Coventry City,3,2,22
+28/12/1981,Manchester City,Wolverhampton Wanderers,2,1,22
+28/12/1981,Southampton FC,Swansea City,3,1,22
+23/01/1982,Nottingham Forest,Notts County,0,2,22
+16/02/1982,Birmingham City,Sunderland AFC,2,0,22
+02/03/1982,West Ham United,Ipswich Town,2,0,22
+09/03/1982,Stoke City,Liverpool FC,1,5,22
+29/03/1982,Tottenham Hotspur,Arsenal FC,2,2,22
+06/04/1982,Middlesbrough FC,Leeds United,0,0,22
+12/05/1982,West Bromwich Albion,Manchester United,0,3,22
+09/01/1982,Nottingham Forest,Birmingham City,2,1,23
+09/01/1982,Manchester City,Stoke City,1,1,23
+19/01/1982,Everton FC,Southampton FC,1,1,23
+16/02/1982,Coventry City,Notts County,1,5,23
+17/02/1982,Aston Villa,Tottenham Hotspur,1,1,23
+16/03/1982,Wolverhampton Wanderers,Leeds United,1,0,23
+06/04/1982,Swansea City,West Bromwich Albion,3,1,23
+20/04/1982,Middlesbrough FC,Brighton & Hove Albion,2,1,23
+20/04/1982,Ipswich Town,Manchester United,2,1,23
+04/05/1982,West Ham United,Sunderland AFC,1,1,23
+11/05/1982,Arsenal FC,Liverpool FC,1,1,23
+16/01/1982,Brighton & Hove Albion,West Ham United,1,0,24
+16/01/1982,Liverpool FC,Wolverhampton Wanderers,2,1,24
+16/01/1982,Notts County,Aston Villa,1,0,24
+16/01/1982,Leeds United,Swansea City,2,0,24
+20/01/1982,Stoke City,Arsenal FC,0,1,24
+27/01/1982,Tottenham Hotspur,Middlesbrough FC,1,0,24
+13/02/1982,Southampton FC,Nottingham Forest,2,0,24
+17/03/1982,Manchester United,Coventry City,0,1,24
+06/04/1982,Birmingham City,Everton FC,0,2,24
+07/04/1982,Sunderland AFC,Ipswich Town,1,1,24
+21/04/1982,West Bromwich Albion,Manchester City,0,1,24
+30/01/1982,Ipswich Town,Notts County,1,3,25
+30/01/1982,Arsenal FC,Leeds United,1,0,25
+30/01/1982,Middlesbrough FC,Southampton FC,0,1,25
+30/01/1982,West Ham United,West Bromwich Albion,3,1,25
+30/01/1982,Wolverhampton Wanderers,Sunderland AFC,0,1,25
+30/01/1982,Nottingham Forest,Stoke City,0,0,25
+30/01/1982,Aston Villa,Liverpool FC,0,3,25
+30/01/1982,Manchester City,Birmingham City,4,2,25
+30/01/1982,Swansea City,Manchester United,2,0,25
+30/01/1982,Coventry City,Brighton & Hove Albion,0,1,25
+30/01/1982,Everton FC,Tottenham Hotspur,1,1,25
+06/02/1982,Liverpool FC,Ipswich Town,4,0,26
+06/02/1982,Birmingham City,Middlesbrough FC,0,0,26
+06/02/1982,West Bromwich Albion,Nottingham Forest,2,1,26
+06/02/1982,Sunderland AFC,Arsenal FC,0,0,26
+06/02/1982,Stoke City,West Ham United,2,1,26
+06/02/1982,Tottenham Hotspur,Wolverhampton Wanderers,6,1,26
+06/02/1982,Notts County,Swansea City,0,1,26
+06/02/1982,Manchester United,Aston Villa,4,1,26
+06/02/1982,Brighton & Hove Albion,Everton FC,3,1,26
+06/02/1982,Leeds United,Coventry City,0,0,26
+06/02/1982,Southampton FC,Manchester City,2,1,26
+13/02/1982,Arsenal FC,Notts County,1,0,27
+13/02/1982,West Ham United,Birmingham City,2,2,27
+13/02/1982,Wolverhampton Wanderers,Manchester United,0,1,27
+13/02/1982,Everton FC,Stoke City,0,0,27
+13/02/1982,Manchester City,Brighton & Hove Albion,4,0,27
+16/02/1982,Ipswich Town,Southampton FC,5,2,27
+16/02/1982,Swansea City,Liverpool FC,2,0,27
+09/03/1982,Middlesbrough FC,West Bromwich Albion,1,0,27
+27/04/1982,Coventry City,Sunderland AFC,6,1,27
+28/04/1982,Aston Villa,Leeds United,1,4,27
+12/05/1982,Nottingham Forest,Tottenham Hotspur,2,0,27
+05/01/1982,Liverpool FC,West Ham United,3,0,28
+20/02/1982,Leeds United,Ipswich Town,0,2,28
+20/02/1982,Stoke City,Middlesbrough FC,2,0,28
+20/02/1982,Manchester United,Arsenal FC,0,0,28
+20/02/1982,Brighton & Hove Albion,Nottingham Forest,0,1,28
+20/02/1982,Birmingham City,Aston Villa,0,1,28
+20/02/1982,West Bromwich Albion,Everton FC,0,0,28
+20/02/1982,Tottenham Hotspur,Manchester City,2,0,28
+20/02/1982,Sunderland AFC,Swansea City,0,1,28
+20/02/1982,Notts County,Wolverhampton Wanderers,4,0,28
+04/05/1982,Southampton FC,Coventry City,5,5,28
+27/02/1982,Wolverhampton Wanderers,Ipswich Town,2,1,29
+27/02/1982,Leeds United,Liverpool FC,0,2,29
+27/02/1982,Nottingham Forest,Middlesbrough FC,1,1,29
+27/02/1982,Southampton FC,Birmingham City,3,1,29
+27/02/1982,Arsenal FC,Swansea City,0,2,29
+27/02/1982,Brighton & Hove Albion,West Bromwich Albion,2,2,29
+27/02/1982,Sunderland AFC,Notts County,1,1,29
+27/02/1982,Aston Villa,Coventry City,2,1,29
+27/02/1982,Everton FC,West Ham United,0,0,29
+27/02/1982,Manchester United,Manchester City,1,1,29
+27/02/1982,Stoke City,Tottenham Hotspur,0,2,29
+06/03/1982,Middlesbrough FC,Wolverhampton Wanderers,0,0,30
+06/03/1982,Notts County,Southampton FC,1,1,30
+06/03/1982,Manchester City,Arsenal FC,0,0,30
+06/03/1982,Birmingham City,Manchester United,0,1,30
+06/03/1982,Ipswich Town,Everton FC,3,0,30
+06/03/1982,Liverpool FC,Brighton & Hove Albion,0,1,30
+06/03/1982,Swansea City,Stoke City,3,0,30
+06/03/1982,West Ham United,Aston Villa,2,2,30
+09/03/1982,Coventry City,Nottingham Forest,0,1,30
+14/04/1982,Tottenham Hotspur,Sunderland AFC,2,2,30
+18/05/1982,West Bromwich Albion,Leeds United,2,0,30
+09/03/1982,Brighton & Hove Albion,Tottenham Hotspur,1,3,31
+13/03/1982,Sunderland AFC,Leeds United,0,1,31
+13/03/1982,Birmingham City,Stoke City,2,1,31
+13/03/1982,Arsenal FC,Ipswich Town,1,0,31
+13/03/1982,West Ham United,Notts County,1,0,31
+13/03/1982,Aston Villa,Wolverhampton Wanderers,3,1,31
+13/03/1982,Everton FC,Middlesbrough FC,2,0,31
+13/03/1982,Swansea City,Coventry City,0,0,31
+13/03/1982,Nottingham Forest,Manchester City,1,1,31
+13/03/1982,Southampton FC,West Bromwich Albion,0,0,31
+07/04/1982,Manchester United,Liverpool FC,0,1,31
+20/03/1982,Liverpool FC,Sunderland AFC,1,0,32
+20/03/1982,West Bromwich Albion,Birmingham City,1,1,32
+20/03/1982,Middlesbrough FC,West Ham United,2,3,32
+20/03/1982,Notts County,Manchester United,1,3,32
+20/03/1982,Wolverhampton Wanderers,Swansea City,0,1,32
+20/03/1982,Stoke City,Brighton & Hove Albion,0,0,32
+20/03/1982,Manchester City,Everton FC,1,1,32
+20/03/1982,Leeds United,Nottingham Forest,1,1,32
+20/03/1982,Ipswich Town,Aston Villa,3,1,32
+20/03/1982,Coventry City,Arsenal FC,1,0,32
+20/03/1982,Tottenham Hotspur,Southampton FC,3,2,32
+27/03/1982,West Bromwich Albion,Tottenham Hotspur,1,0,33
+27/03/1982,Swansea City,Ipswich Town,1,2,33
+27/03/1982,Birmingham City,Brighton & Hove Albion,1,0,33
+27/03/1982,Manchester United,Sunderland AFC,0,0,33
+27/03/1982,Arsenal FC,Aston Villa,4,3,33
+27/03/1982,Everton FC,Liverpool FC,1,3,33
+27/03/1982,Notts County,Leeds United,2,1,33
+27/03/1982,West Ham United,Nottingham Forest,0,1,33
+27/03/1982,Coventry City,Wolverhampton Wanderers,0,0,33
+27/03/1982,Middlesbrough FC,Manchester City,0,0,33
+27/03/1982,Southampton FC,Stoke City,4,3,33
+02/04/1982,Liverpool FC,Notts County,1,0,34
+03/04/1982,Leeds United,Manchester United,0,0,34
+03/04/1982,Sunderland AFC,Middlesbrough FC,0,2,34
+03/04/1982,Nottingham Forest,Everton FC,0,1,34
+03/04/1982,Brighton & Hove Albion,Southampton FC,1,1,34
+03/04/1982,Ipswich Town,Coventry City,1,0,34
+03/04/1982,Manchester City,West Ham United,0,1,34
+03/04/1982,Wolverhampton Wanderers,Arsenal FC,1,1,34
+28/04/1982,Tottenham Hotspur,Birmingham City,1,1,34
+20/05/1982,Stoke City,West Bromwich Albion,3,0,34
+21/05/1982,Aston Villa,Swansea City,3,0,34
+10/04/1982,Birmingham City,Leeds United,0,1,35
+10/04/1982,Middlesbrough FC,Notts County,3,0,35
+10/04/1982,Nottingham Forest,Wolverhampton Wanderers,0,1,35
+10/04/1982,Southampton FC,Aston Villa,0,3,35
+10/04/1982,Stoke City,Sunderland AFC,0,1,35
+10/04/1982,Tottenham Hotspur,Ipswich Town,1,0,35
+10/04/1982,Brighton & Hove Albion,Arsenal FC,2,1,35
+10/04/1982,Everton FC,Manchester United,3,3,35
+10/04/1982,Manchester City,Liverpool FC,0,5,35
+10/04/1982,West Bromwich Albion,Coventry City,1,2,35
+10/04/1982,West Ham United,Swansea City,1,1,35
+12/04/1982,Sunderland AFC,Birmingham City,2,0,36
+12/04/1982,Notts County,Nottingham Forest,1,2,36
+12/04/1982,Manchester United,West Bromwich Albion,1,0,36
+12/04/1982,Aston Villa,Brighton & Hove Albion,3,0,36
+12/04/1982,Arsenal FC,Tottenham Hotspur,1,3,36
+12/04/1982,Wolverhampton Wanderers,Manchester City,4,1,36
+13/04/1982,Ipswich Town,West Ham United,3,2,36
+13/04/1982,Leeds United,Middlesbrough FC,1,1,36
+13/04/1982,Liverpool FC,Stoke City,2,0,36
+13/04/1982,Coventry City,Everton FC,1,0,36
+13/04/1982,Swansea City,Southampton FC,1,0,36
+17/04/1982,Aston Villa,Middlesbrough FC,1,0,37
+17/04/1982,Ipswich Town,Stoke City,2,0,37
+17/04/1982,Liverpool FC,West Bromwich Albion,1,0,37
+17/04/1982,Manchester United,Tottenham Hotspur,2,0,37
+17/04/1982,Arsenal FC,Nottingham Forest,2,0,37
+17/04/1982,Coventry City,West Ham United,1,0,37
+17/04/1982,Notts County,Brighton & Hove Albion,4,1,37
+17/04/1982,Sunderland AFC,Everton FC,3,1,37
+17/04/1982,Swansea City,Manchester City,2,0,37
+17/04/1982,Leeds United,Southampton FC,1,3,37
+17/04/1982,Wolverhampton Wanderers,Birmingham City,1,1,37
+24/04/1982,Nottingham Forest,Aston Villa,1,1,38
+24/04/1982,Southampton FC,Liverpool FC,2,3,38
+24/04/1982,Tottenham Hotspur,Notts County,3,1,38
+24/04/1982,West Ham United,Leeds United,4,3,38
+24/04/1982,West Bromwich Albion,Sunderland AFC,2,3,38
+24/04/1982,Middlesbrough FC,Coventry City,0,0,38
+24/04/1982,Manchester City,Ipswich Town,1,1,38
+24/04/1982,Everton FC,Arsenal FC,2,1,38
+24/04/1982,Brighton & Hove Albion,Manchester United,0,1,38
+24/04/1982,Birmingham City,Swansea City,2,1,38
+24/04/1982,Stoke City,Wolverhampton Wanderers,2,1,38
+01/05/1982,Leeds United,Stoke City,0,0,39
+01/05/1982,Arsenal FC,West Ham United,2,0,39
+01/05/1982,Aston Villa,Manchester City,0,0,39
+01/05/1982,Ipswich Town,Middlesbrough FC,3,1,39
+01/05/1982,Liverpool FC,Nottingham Forest,2,0,39
+01/05/1982,Manchester United,Southampton FC,1,0,39
+01/05/1982,Notts County,Birmingham City,1,4,39
+01/05/1982,Coventry City,Tottenham Hotspur,0,0,39
+01/05/1982,Sunderland AFC,Brighton & Hove Albion,3,0,39
+01/05/1982,Swansea City,Everton FC,1,3,39
+01/05/1982,Wolverhampton Wanderers,West Bromwich Albion,1,2,39
+21/10/1981,Manchester United,Middlesbrough FC,1,0,40
+24/11/1981,Notts County,Everton FC,2,2,40
+25/11/1981,Sunderland AFC,Nottingham Forest,2,3,40
+20/02/1982,Southampton FC,West Ham United,2,1,40
+20/02/1982,Liverpool FC,Coventry City,4,0,40
+10/03/1982,Leeds United,Manchester City,0,1,40
+04/05/1982,Birmingham City,Arsenal FC,0,1,40
+04/05/1982,Brighton & Hove Albion,Wolverhampton Wanderers,2,0,40
+05/05/1982,Stoke City,Aston Villa,1,0,40
+05/05/1982,Tottenham Hotspur,Swansea City,2,1,40
+05/05/1982,West Bromwich Albion,Ipswich Town,1,2,40
+08/05/1982,Tottenham Hotspur,Leeds United,2,1,41
+08/05/1982,West Ham United,Manchester United,1,1,41
+08/05/1982,West Bromwich Albion,Aston Villa,0,1,41
+08/05/1982,Stoke City,Notts County,2,2,41
+08/05/1982,Nottingham Forest,Swansea City,0,2,41
+08/05/1982,Middlesbrough FC,Arsenal FC,1,3,41
+08/05/1982,Brighton & Hove Albion,Ipswich Town,0,1,41
+08/05/1982,Birmingham City,Liverpool FC,0,1,41
+08/05/1982,Everton FC,Wolverhampton Wanderers,1,1,41
+08/05/1982,Manchester City,Coventry City,1,3,41
+08/05/1982,Southampton FC,Sunderland AFC,1,0,41
+15/05/1982,Aston Villa,Everton FC,1,2,42
+15/05/1982,Ipswich Town,Nottingham Forest,1,3,42
+15/05/1982,Liverpool FC,Tottenham Hotspur,3,1,42
+15/05/1982,Swansea City,Middlesbrough FC,1,2,42
+15/05/1982,Arsenal FC,Southampton FC,4,1,42
+15/05/1982,Wolverhampton Wanderers,West Ham United,2,1,42
+15/05/1982,Sunderland AFC,Manchester City,1,0,42
+15/05/1982,Notts County,West Bromwich Albion,1,2,42
+15/05/1982,Manchester United,Stoke City,2,0,42
+15/05/1982,Leeds United,Brighton & Hove Albion,2,1,42
+15/05/1982,Coventry City,Birmingham City,0,1,42

@@ -1,0 +1,301 @@
+date,home_team,home_score,away_team,away_score,SOOT
+2003-09-24,Djurgarden,0,Linkoping,4,
+2003-09-25,Frolunda,6,Lulea,2,
+2003-09-25,HV 71,2,Brynas,0,
+2003-09-25,Sodertalje,4,Modo,1,
+2003-09-25,Malmo,3,Farjestad,4,
+2003-09-25,Leksand,2,Timra,5,
+2003-09-27,Malmo,3,Frolunda,2,
+2003-09-27,Lulea,2,Timra,1,
+2003-09-27,Linkoping,5,Sodertalje,4,OT
+2003-09-27,Leksand,1,HV 71,5,
+2003-09-27,Brynas,3,Djurgarden,1,
+2003-09-27,Modo,0,Farjestad,6,
+2003-09-30,Timra,4,Frolunda,3,
+2003-09-30,Sodertalje,4,Brynas,5,
+2003-09-30,Modo,2,Malmo,0,
+2003-09-30,HV 71,3,Lulea,0,
+2003-09-30,Farjestad,5,Linkoping,1,
+2003-09-30,Djurgarden,3,Leksand,4,OT
+2003-10-02,Linkoping,1,Modo,2,
+2003-10-02,Brynas,4,Farjestad,3,
+2003-10-02,Frolunda,5,HV 71,3,
+2003-10-02,Leksand,4,Sodertalje,3,OT
+2003-10-02,Lulea,3,Djurgarden,1,
+2003-10-02,Malmo,1,Timra,3,
+2003-10-04,Sodertalje,3,Lulea,1,
+2003-10-04,Modo,4,Brynas,1,
+2003-10-04,Linkoping,2,Malmo,3,
+2003-10-04,HV 71,4,Timra,2,
+2003-10-04,Farjestad,3,Leksand,2,
+2003-10-04,Djurgarden,5,Frolunda,0,
+2003-10-07,Brynas,2,Linkoping,7,
+2003-10-07,Frolunda,4,Sodertalje,1,
+2003-10-07,Timra,2,Djurgarden,4,
+2003-10-07,Lulea,1,Farjestad,2,
+2003-10-07,Malmo,0,HV 71,3,
+2003-10-07,Leksand,1,Modo,2,OT
+2003-10-09,Linkoping,3,Leksand,2,
+2003-10-09,Djurgarden,4,HV 71,1,
+2003-10-09,Farjestad,5,Frolunda,4,OT
+2003-10-09,Malmo,3,Brynas,5,
+2003-10-09,Modo,2,Lulea,3,OT
+2003-10-09,Sodertalje,2,Timra,3,OT
+2003-10-11,Timra,2,Farjestad,4,
+2003-10-11,Leksand,6,Brynas,2,
+2003-10-11,HV 71,5,Sodertalje,1,
+2003-10-11,Frolunda,4,Modo,2,
+2003-10-12,Malmo,4,Djurgarden,2,
+2003-10-12,Lulea,4,Linkoping,3,
+2003-10-14,Brynas,0,Timra,3,
+2003-10-14,Djurgarden,5,Modo,0,
+2003-10-14,Lulea,4,Malmo,1,
+2003-10-14,Frolunda,5,Leksand,4,OT
+2003-10-14,Linkoping,2,HV 71,5,
+2003-10-14,Farjestad,6,Sodertalje,3,
+2003-10-16,Brynas,1,Lulea,0,
+2003-10-16,HV 71,1,Farjestad,5,
+2003-10-16,Linkoping,1,Frolunda,2,OT
+2003-10-16,Modo,5,Timra,3,
+2003-10-16,Sodertalje,2,Djurgarden,4,
+2003-10-16,Leksand,4,Malmo,2,
+2003-10-18,Timra,3,Linkoping,1,
+2003-10-18,Malmo,4,Sodertalje,2,
+2003-10-18,Lulea,0,Leksand,5,
+2003-10-18,HV 71,3,Modo,2,OT
+2003-10-18,Frolunda,6,Brynas,2,
+2003-10-21,Timra,2,Brynas,5,
+2003-10-21,Sodertalje,0,Djurgarden,3,
+2003-10-21,Malmo,5,Frolunda,4,OT
+2003-10-21,Lulea,6,Modo,1,
+2003-10-21,Linkoping,1,HV 71,3,
+2003-10-21,Farjestad,5,Leksand,4,
+2003-10-23,Malmo,1,Linkoping,4,
+2003-10-23,Farjestad,4,Sodertalje,1,
+2003-10-23,Brynas,4,Lulea,1,
+2003-10-23,HV 71,2,Frolunda,1,
+2003-10-23,Leksand,1,Djurgarden,3,
+2003-10-23,Modo,0,Timra,2,
+2003-10-25,Brynas,2,HV 71,1,
+2003-10-25,Timra,2,Leksand,6,
+2003-10-25,Modo,2,Sodertalje,1,
+2003-10-25,Linkoping,3,Djurgarden,0,
+2003-10-27,Malmo,1,Farjestad,3,
+2003-10-27,Lulea,2,Frolunda,3,OT
+2003-10-28,Djurgarden,3,Farjestad,2,OT
+2003-10-30,Sodertalje,2,Linkoping,1,
+2003-10-30,HV 71,5,Leksand,3,
+2003-10-30,Frolunda,4,Malmo,0,
+2003-10-30,Farjestad,5,Modo,3,
+2003-10-30,Djurgarden,5,Brynas,3,
+2003-10-30,Timra,2,Lulea,3,
+2003-11-01,Farjestad,1,Linkoping,5,
+2003-11-01,Malmo,4,Modo,2,
+2003-11-01,Lulea,0,HV 71,3,
+2003-11-01,Frolunda,6,Timra,1,
+2003-11-02,Leksand,8,Djurgarden,3,
+2003-11-02,Brynas,3,Sodertalje,0,
+2003-11-11,Malmo,2,HV 71,4,
+2003-11-11,Lulea,6,Modo,4,
+2003-11-11,Frolunda,4,Brynas,0,
+2003-11-13,Farjestad,3,Brynas,2,
+2003-11-13,HV 71,5,Frolunda,7,
+2003-11-13,Djurgarden,3,Lulea,2,
+2003-11-13,Sodertalje,2,Leksand,1,OT
+2003-11-13,Timra,4,Malmo,2,
+2003-11-13,Modo,4,Linkoping,1,
+2003-11-15,Timra,3,HV 71,2,
+2003-11-15,Lulea,6,Sodertalje,2,
+2003-11-15,Linkoping,4,Malmo,3,
+2003-11-15,Brynas,4,Modo,5,OT
+2003-11-16,Leksand,0,Farjestad,5,
+2003-11-16,Frolunda,3,Djurgarden,2,OT
+2003-11-18,Djurgarden,4,Timra,3,OT
+2003-11-18,Farjestad,3,Lulea,1,
+2003-11-18,Modo,2,Leksand,4,
+2003-11-18,Linkoping,5,Brynas,2,
+2003-11-18,Sodertalje,3,Frolunda,2,
+2003-11-18,HV 71,0,Malmo,2,
+2003-11-19,Frolunda,4,Farjestad,1,
+2003-11-20,Timra,5,Sodertalje,0,
+2003-11-20,Malmo,2,Brynas,3,
+2003-11-20,Leksand,0,Linkoping,4,
+2003-11-20,HV 71,3,Djurgarden,4,OT
+2003-11-22,Sodertalje,5,HV 71,2,
+2003-11-22,Modo,2,Frolunda,1,
+2003-11-22,Farjestad,4,Timra,1,
+2003-11-22,Djurgarden,5,Malmo,0,
+2003-11-22,Brynas,3,Leksand,1,
+2003-11-23,Linkoping,3,Lulea,2,
+2003-11-25,Brynas,0,Timra,4,
+2003-11-25,Leksand,4,Frolunda,5,OT
+2003-11-25,HV 71,4,Linkoping,0,
+2003-11-25,Modo,2,Djurgarden,1,
+2003-11-25,Sodertalje,1,Farjestad,5,
+2003-11-25,Malmo,6,Lulea,5,OT
+2003-11-27,Timra,3,Modo,0,
+2003-11-27,Malmo,3,Leksand,2,OT
+2003-11-27,Lulea,1,Brynas,0,
+2003-11-27,Frolunda,2,Linkoping,4,
+2003-11-27,Farjestad,2,HV 71,4,
+2003-11-27,Djurgarden,3,Sodertalje,1,
+2003-11-29,Brynas,1,Frolunda,2,
+2003-11-29,Leksand,3,Lulea,4,
+2003-11-29,Sodertalje,1,Malmo,4,
+2003-11-29,Farjestad,1,Djurgarden,2,OT
+2003-11-30,Modo,1,HV 71,2,OT
+2003-11-30,Linkoping,2,Timra,1,
+2003-12-02,Timra,4,Lulea,1,
+2003-12-02,Modo,2,Brynas,3,OT
+2003-12-02,Malmo,4,HV 71,3,
+2003-12-02,Leksand,4,Farjestad,3,OT
+2003-12-02,Frolunda,0,Linkoping,3,
+2003-12-02,Djurgarden,4,Sodertalje,5,
+2003-12-04,Brynas,2,Timra,4,
+2003-12-04,Farjestad,2,Djurgarden,3,OT
+2003-12-04,Sodertalje,6,Leksand,3,
+2003-12-04,HV 71,3,Linkoping,1,
+2003-12-04,Frolunda,4,Malmo,1,
+2003-12-04,Modo,5,Lulea,1,
+2003-12-06,Leksand,1,Brynas,3,
+2003-12-06,Frolunda,3,Sodertalje,0,
+2003-12-06,Farjestad,7,Malmo,1,
+2003-12-07,Timra,2,Modo,3,OT
+2003-12-07,Lulea,1,Linkoping,0,
+2003-12-07,HV 71,7,Djurgarden,1,
+2003-12-09,Modo,2,Leksand,1,OT
+2003-12-09,Linkoping,3,Malmo,1,
+2003-12-09,Farjestad,4,Frolunda,2,
+2003-12-09,Djurgarden,1,Timra,2,
+2003-12-09,Brynas,2,Lulea,1,
+2003-12-09,Sodertalje,3,HV 71,2,
+2003-12-11,Frolunda,0,Malmo,1,
+2003-12-11,Brynas,3,Linkoping,2,OT
+2003-12-11,Leksand,4,Djurgarden,1,
+2003-12-11,Lulea,3,Modo,1,
+2003-12-11,HV 71,3,Farjestad,2,OT
+2003-12-11,Timra,5,Sodertalje,6,
+2003-12-13,Modo,2,Brynas,0,
+2003-12-13,Farjestad,3,Timra,2,OT
+2003-12-13,Djurgarden,5,Lulea,1,
+2003-12-14,Sodertalje,1,Leksand,3,
+2003-12-14,Linkoping,4,Frolunda,3,
+2003-12-26,Sodertalje,5,Linkoping,6,OT
+2003-12-26,Modo,0,Malmo,2,
+2003-12-26,Lulea,0,HV 71,5,
+2003-12-26,Leksand,3,Timra,2,OT
+2003-12-26,Djurgarden,3,Farjestad,2,
+2003-12-28,Djurgarden,5,Modo,3,
+2003-12-28,Brynas,3,Sodertalje,4,
+2003-12-28,Farjestad,4,Lulea,2,
+2003-12-28,HV 71,2,Linkoping,5,
+2003-12-28,Frolunda,4,Timra,0,
+2003-12-30,Modo,3,Sodertalje,5,
+2003-12-30,Lulea,5,Malmo,0,
+2003-12-30,Linkoping,2,Djurgarden,5,
+2003-12-30,Leksand,2,Frolunda,3,OT
+2003-12-30,Farjestad,3,Brynas,2,OT
+2003-12-30,Timra,1,HV 71,2,
+2004-01-04,Malmo,3,Leksand,2,OT
+2004-01-06,Linkoping,4,Timra,0,
+2004-01-06,HV 71,3,Leksand,4,
+2004-01-06,Frolunda,5,Lulea,2,
+2004-01-06,Farjestad,2,Modo,3,
+2004-01-06,Brynas,3,Malmo,0,
+2004-01-06,Sodertalje,1,Djurgarden,2,
+2004-01-08,Linkoping,5,Farjestad,1,
+2004-01-08,Djurgarden,0,Frolunda,2,
+2004-01-08,Lulea,2,Leksand,1,
+2004-01-08,Modo,1,HV 71,3,
+2004-01-08,Timra,3,Brynas,2,
+2004-01-08,Malmo,2,Sodertalje,1,
+2004-01-10,Modo,3,Linkoping,0,
+2004-01-10,Lulea,2,Sodertalje,0,
+2004-01-10,Leksand,0,Farjestad,5,
+2004-01-10,HV 71,3,Frolunda,2,
+2004-01-11,Timra,1,Malmo,0,
+2004-01-11,Brynas,3,Djurgarden,4,
+2004-01-13,Farjestad,2,Sodertalje,5,
+2004-01-13,Frolunda,2,Modo,3,OT
+2004-01-13,Timra,2,Lulea,1,
+2004-01-13,Linkoping,6,Leksand,0,
+2004-01-13,Malmo,2,Djurgarden,1,
+2004-01-13,HV 71,5,Brynas,1,
+2004-01-15,Djurgarden,6,Farjestad,2,
+2004-01-15,Leksand,1,Sodertalje,2,OT
+2004-01-15,Frolunda,7,HV 71,2,
+2004-01-15,Malmo,0,Linkoping,2,
+2004-01-15,Timra,6,Modo,1,
+2004-01-15,Lulea,2,Brynas,3,
+2004-01-20,Sodertalje,3,Farjestad,4,OT
+2004-01-20,Lulea,4,Timra,1,
+2004-01-20,Linkoping,0,Frolunda,2,
+2004-01-20,HV 71,4,Malmo,1,
+2004-01-20,Djurgarden,5,Leksand,2,
+2004-01-20,Brynas,0,Modo,2,
+2004-01-22,Brynas,5,Leksand,1,
+2004-01-22,Djurgarden,3,HV 71,4,OT
+2004-01-22,Modo,3,Timra,0,
+2004-01-22,Linkoping,1,Lulea,2,OT
+2004-01-22,Sodertalje,3,Frolunda,1,
+2004-01-22,Farjestad,1,Malmo,3,
+2004-01-24,Malmo,3,Linkoping,2,OT
+2004-01-24,Lulea,6,Brynas,4,
+2004-01-24,Leksand,1,Modo,2,OT
+2004-01-25,Frolunda,7,Farjestad,2,
+2004-01-25,Timra,2,Djurgarden,3,OT
+2004-01-25,HV 71,2,Sodertalje,5,
+2004-01-27,Sodertalje,3,Timra,0,
+2004-01-27,Modo,3,Lulea,0,
+2004-01-27,Malmo,2,Frolunda,3,
+2004-01-27,Linkoping,7,Brynas,0,
+2004-01-27,Farjestad,6,HV 71,1,
+2004-01-27,Djurgarden,2,Leksand,1,
+2004-01-29,Timra,4,Farjestad,0,
+2004-01-29,Lulea,1,Djurgarden,3,
+2004-01-29,Leksand,5,Sodertalje,3,
+2004-01-29,HV 71,6,Malmo,1,
+2004-01-29,Frolunda,2,Linkoping,1,OT
+2004-01-29,Brynas,6,Modo,3,
+2004-02-12,Farjestad,5,Leksand,2,
+2004-02-12,Frolunda,2,HV 71,6,
+2004-02-12,Djurgarden,2,Brynas,1,
+2004-02-12,Malmo,3,Timra,2,OT
+2004-02-12,Sodertalje,5,Lulea,6,OT
+2004-02-12,Linkoping,2,Modo,1,OT
+2004-02-14,Timra,2,Frolunda,0,
+2004-02-14,Sodertalje,4,Brynas,0,
+2004-02-14,Linkoping,0,HV 71,2,
+2004-02-14,Leksand,4,Malmo,1,
+2004-02-15,Modo,5,Djurgarden,4,OT
+2004-02-15,Lulea,2,Farjestad,1,OT
+2004-02-17,Brynas,7,Farjestad,2,
+2004-02-17,Djurgarden,5,Linkoping,2,
+2004-02-17,Sodertalje,1,Modo,2,
+2004-02-17,HV 71,3,Timra,2,OT
+2004-02-17,Malmo,1,Lulea,2,OT
+2004-02-17,Frolunda,3,Leksand,0,
+2004-02-19,Djurgarden,4,Sodertalje,5,
+2004-02-19,Leksand,5,HV 71,4,OT
+2004-02-19,Brynas,5,Malmo,7,
+2004-02-19,Modo,3,Farjestad,4,OT
+2004-02-19,Timra,0,Linkoping,5,
+2004-02-19,Lulea,4,Frolunda,0,
+2004-02-21,Timra,1,Brynas,0,
+2004-02-21,Sodertalje,6,Malmo,4,
+2004-02-21,Frolunda,3,Djurgarden,1,
+2004-02-22,Linkoping,3,Farjestad,1,
+2004-02-22,Leksand,5,Lulea,4,OT
+2004-02-22,HV 71,6,Modo,1,
+2004-02-24,Brynas,4,Frolunda,5,
+2004-02-24,Farjestad,1,Djurgarden,0,OT
+2004-02-24,Linkoping,4,Sodertalje,2,
+2004-02-24,Malmo,5,Modo,4,
+2004-02-24,Timra,2,Leksand,1,OT
+2004-02-24,HV 71,3,Lulea,1,
+2004-02-26,Sodertalje,0,Farjestad,5,
+2004-02-26,Modo,2,Frolunda,6,
+2004-02-26,Lulea,4,Timra,3,
+2004-02-26,Leksand,1,Linkoping,4,
+2004-02-26,Djurgarden,2,Malmo,5,
+2004-02-26,Brynas,2,HV 71,3,OT

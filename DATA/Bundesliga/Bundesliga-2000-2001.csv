@@ -1,0 +1,307 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG
+11/08/00,Dortmund,Hansa Rostock,1,0
+12/08/00,Bayern Munich,Hertha,4,1
+12/08/00,Freiburg,Stuttgart,4,0
+12/08/00,Hamburg,Munich 1860,2,2
+12/08/00,Kaiserslautern,Bochum,0,1
+12/08/00,Leverkusen,Wolfsburg,2,0
+12/08/00,Werder Bremen,Cottbus,3,1
+13/08/00,Ein Frankfurt,Unterhaching,3,0
+13/08/00,Schalke 04,FC Koln,2,1
+18/08/00,Cottbus,Dortmund,1,4
+19/08/00,Munich 1860,Werder Bremen,2,1
+19/08/00,Bochum,Bayern Munich,0,3
+19/08/00,Hertha,Hamburg,4,0
+19/08/00,Stuttgart,Leverkusen,4,1
+19/08/00,Unterhaching,Freiburg,1,1
+19/08/00,Wolfsburg,Kaiserslautern,4,0
+20/08/00,FC Koln,Ein Frankfurt,4,1
+20/08/00,Hansa Rostock,Schalke 04,0,4
+05/09/00,Freiburg,FC Koln,0,0
+05/09/00,Kaiserslautern,Stuttgart,1,0
+05/09/00,Leverkusen,Unterhaching,1,0
+05/09/00,Schalke 04,Cottbus,3,0
+06/09/00,Bayern Munich,Wolfsburg,3,1
+06/09/00,Dortmund,Munich 1860,2,3
+06/09/00,Ein Frankfurt,Hansa Rostock,4,0
+06/09/00,Hamburg,Werder Bremen,2,1
+06/09/00,Hertha,Bochum,4,0
+08/09/00,Unterhaching,Kaiserslautern,0,0
+09/09/00,FC Koln,Leverkusen,1,1
+09/09/00,Munich 1860,Schalke 04,1,1
+09/09/00,Bochum,Hamburg,0,4
+09/09/00,Stuttgart,Bayern Munich,2,1
+09/09/00,Werder Bremen,Dortmund,1,2
+09/09/00,Wolfsburg,Hertha,2,1
+10/09/00,Cottbus,Ein Frankfurt,2,0
+10/09/00,Hansa Rostock,Freiburg,0,0
+15/09/00,Kaiserslautern,FC Koln,3,1
+16/09/00,Bayern Munich,Unterhaching,3,1
+16/09/00,Bochum,Wolfsburg,2,1
+16/09/00,Ein Frankfurt,Munich 1860,1,0
+16/09/00,Freiburg,Cottbus,4,1
+16/09/00,Hamburg,Dortmund,2,3
+16/09/00,Leverkusen,Hansa Rostock,1,2
+17/09/00,Hertha,Stuttgart,2,0
+17/09/00,Schalke 04,Werder Bremen,1,1
+22/09/00,Munich 1860,Freiburg,3,1
+23/09/00,FC Koln,Bayern Munich,1,2
+23/09/00,Cottbus,Leverkusen,1,2
+23/09/00,Dortmund,Schalke 04,0,4
+23/09/00,Stuttgart,Bochum,1,1
+23/09/00,Werder Bremen,Ein Frankfurt,1,1
+23/09/00,Wolfsburg,Hamburg,4,4
+24/09/00,Hansa Rostock,Kaiserslautern,1,0
+24/09/00,Unterhaching,Hertha,5,2
+29/09/00,Ein Frankfurt,Dortmund,1,1
+30/09/00,Bayern Munich,Hansa Rostock,0,1
+30/09/00,Bochum,Unterhaching,3,0
+30/09/00,Hamburg,Schalke 04,2,0
+30/09/00,Hertha,FC Koln,4,2
+30/09/00,Kaiserslautern,Cottbus,1,1
+30/09/00,Leverkusen,Munich 1860,0,0
+01/10/00,Freiburg,Werder Bremen,0,1
+01/10/00,Wolfsburg,Stuttgart,2,2
+13/10/00,Dortmund,Freiburg,1,0
+14/10/00,FC Koln,Bochum,2,0
+14/10/00,Munich 1860,Kaiserslautern,0,4
+14/10/00,Cottbus,Bayern Munich,1,0
+14/10/00,Schalke 04,Ein Frankfurt,4,0
+14/10/00,Stuttgart,Hamburg,3,3
+14/10/00,Werder Bremen,Leverkusen,3,3
+15/10/00,Hansa Rostock,Hertha,0,2
+15/10/00,Unterhaching,Wolfsburg,0,3
+20/10/00,Kaiserslautern,Werder Bremen,2,0
+21/10/00,Bayern Munich,Munich 1860,3,1
+21/10/00,Hamburg,Ein Frankfurt,2,0
+21/10/00,Hertha,Cottbus,3,1
+21/10/00,Leverkusen,Dortmund,2,0
+21/10/00,Stuttgart,Unterhaching,2,2
+21/10/00,Wolfsburg,FC Koln,6,0
+22/10/00,Bochum,Hansa Rostock,1,2
+22/10/00,Freiburg,Schalke 04,3,1
+27/10/00,Cottbus,Bochum,2,0
+28/10/00,Dortmund,Kaiserslautern,1,2
+28/10/00,Ein Frankfurt,Freiburg,3,0
+28/10/00,Hansa Rostock,Wolfsburg,1,1
+28/10/00,Schalke 04,Leverkusen,0,0
+28/10/00,Unterhaching,Hamburg,2,1
+28/10/00,Werder Bremen,Bayern Munich,1,1
+29/10/00,FC Koln,Stuttgart,3,2
+29/10/00,Munich 1860,Hertha,0,1
+03/11/00,Leverkusen,Ein Frankfurt,1,0
+04/11/00,Bayern Munich,Dortmund,6,2
+04/11/00,Bochum,Munich 1860,1,1
+04/11/00,Hamburg,Freiburg,5,0
+04/11/00,Hertha,Werder Bremen,4,1
+04/11/00,Kaiserslautern,Schalke 04,3,2
+04/11/00,Stuttgart,Hansa Rostock,1,0
+05/11/00,Unterhaching,FC Koln,0,0
+05/11/00,Wolfsburg,Cottbus,1,1
+10/11/00,Dortmund,Hertha,2,0
+11/11/00,FC Koln,Hamburg,4,2
+11/11/00,Munich 1860,Wolfsburg,2,2
+11/11/00,Freiburg,Leverkusen,0,1
+11/11/00,Hansa Rostock,Unterhaching,2,2
+11/11/00,Schalke 04,Bayern Munich,3,2
+11/11/00,Werder Bremen,Bochum,2,0
+12/11/00,Cottbus,Stuttgart,2,1
+12/11/00,Ein Frankfurt,Kaiserslautern,3,1
+17/11/00,Stuttgart,Munich 1860,2,2
+18/11/00,FC Koln,Hansa Rostock,5,2
+18/11/00,Bayern Munich,Ein Frankfurt,1,2
+18/11/00,Hamburg,Leverkusen,1,3
+18/11/00,Hertha,Schalke 04,0,4
+18/11/00,Kaiserslautern,Freiburg,0,2
+18/11/00,Wolfsburg,Werder Bremen,1,1
+19/11/00,Bochum,Dortmund,1,1
+19/11/00,Unterhaching,Cottbus,2,1
+24/11/00,Schalke 04,Bochum,2,1
+25/11/00,Cottbus,FC Koln,0,2
+25/11/00,Dortmund,Wolfsburg,2,1
+25/11/00,Ein Frankfurt,Hertha,0,4
+25/11/00,Freiburg,Bayern Munich,1,1
+25/11/00,Hansa Rostock,Hamburg,1,0
+26/11/00,Munich 1860,Unterhaching,0,2
+26/11/00,Leverkusen,Kaiserslautern,4,2
+26/11/00,Werder Bremen,Stuttgart,1,0
+02/12/00,FC Koln,Munich 1860,4,0
+02/12/00,Bayern Munich,Leverkusen,2,0
+02/12/00,Bochum,Ein Frankfurt,2,1
+02/12/00,Hertha,Freiburg,2,2
+02/12/00,Stuttgart,Dortmund,0,2
+02/12/00,Wolfsburg,Schalke 04,2,0
+03/12/00,Cottbus,Hansa Rostock,1,0
+03/12/00,Kaiserslautern,Hamburg,2,1
+08/12/00,Ein Frankfurt,Wolfsburg,1,2
+09/12/00,Munich 1860,Hansa Rostock,2,1
+09/12/00,Dortmund,Unterhaching,3,0
+09/12/00,Freiburg,Bochum,5,0
+09/12/00,Kaiserslautern,Bayern Munich,0,0
+09/12/00,Schalke 04,Stuttgart,2,1
+10/12/00,Hamburg,Cottbus,2,1
+10/12/00,Leverkusen,Hertha,4,0
+10/12/00,Werder Bremen,FC Koln,2,1
+12/12/00,Stuttgart,Ein Frankfurt,4,1
+12/12/00,Unterhaching,Schalke 04,0,2
+12/12/00,Wolfsburg,Freiburg,1,2
+13/12/00,FC Koln,Dortmund,0,0
+13/12/00,Bayern Munich,Hamburg,2,1
+13/12/00,Bochum,Leverkusen,3,2
+13/12/00,Cottbus,Munich 1860,2,3
+13/12/00,Hansa Rostock,Werder Bremen,5,2
+13/12/00,Hertha,Kaiserslautern,2,4
+15/12/00,Unterhaching,Ein Frankfurt,2,0
+16/12/00,FC Koln,Schalke 04,2,2
+16/12/00,Munich 1860,Hamburg,2,1
+16/12/00,Bochum,Kaiserslautern,0,1
+16/12/00,Hansa Rostock,Dortmund,1,2
+16/12/00,Stuttgart,Freiburg,0,0
+16/12/00,Wolfsburg,Leverkusen,2,0
+17/12/00,Cottbus,Werder Bremen,3,1
+17/12/00,Hertha,Bayern Munich,1,3
+20/12/00,Unterhaching,Werder Bremen,0,0
+26/01/01,Schalke 04,Hansa Rostock,2,0
+27/01/01,Bayern Munich,Bochum,3,2
+27/01/01,Dortmund,Cottbus,2,0
+27/01/01,Ein Frankfurt,FC Koln,1,5
+27/01/01,Freiburg,Unterhaching,2,0
+27/01/01,Kaiserslautern,Wolfsburg,0,0
+27/01/01,Werder Bremen,Munich 1860,2,0
+28/01/01,Hamburg,Hertha,1,2
+28/01/01,Leverkusen,Stuttgart,4,0
+02/02/01,Munich 1860,Dortmund,1,0
+03/02/01,FC Koln,Freiburg,0,1
+03/02/01,Bochum,Hertha,1,3
+03/02/01,Cottbus,Schalke 04,4,1
+03/02/01,Stuttgart,Kaiserslautern,6,1
+03/02/01,Werder Bremen,Hamburg,3,1
+03/02/01,Wolfsburg,Bayern Munich,1,3
+04/02/01,Hansa Rostock,Ein Frankfurt,0,2
+04/02/01,Unterhaching,Leverkusen,1,2
+09/02/01,Ein Frankfurt,Cottbus,1,0
+10/02/01,Bayern Munich,Stuttgart,1,0
+10/02/01,Hamburg,Bochum,3,0
+10/02/01,Hertha,Wolfsburg,1,3
+10/02/01,Kaiserslautern,Unterhaching,4,0
+10/02/01,Leverkusen,FC Koln,4,1
+10/02/01,Schalke 04,Munich 1860,2,0
+11/02/01,Dortmund,Werder Bremen,0,0
+11/02/01,Freiburg,Hansa Rostock,0,0
+16/02/01,Munich 1860,Ein Frankfurt,2,2
+17/02/01,Cottbus,Freiburg,0,2
+17/02/01,Dortmund,Hamburg,4,2
+17/02/01,Hansa Rostock,Leverkusen,2,1
+17/02/01,Unterhaching,Bayern Munich,1,0
+17/02/01,Werder Bremen,Schalke 04,2,1
+17/02/01,Wolfsburg,Bochum,0,0
+18/02/01,FC Koln,Kaiserslautern,0,1
+18/02/01,Stuttgart,Hertha,0,1
+23/02/01,Leverkusen,Cottbus,1,3
+24/02/01,Bayern Munich,FC Koln,1,1
+24/02/01,Ein Frankfurt,Werder Bremen,1,2
+24/02/01,Freiburg,Munich 1860,0,3
+24/02/01,Hamburg,Wolfsburg,3,2
+24/02/01,Schalke 04,Dortmund,0,0
+25/02/01,Bochum,Stuttgart,0,0
+25/02/01,Kaiserslautern,Hansa Rostock,0,1
+02/03/01,Dortmund,Ein Frankfurt,6,1
+03/03/01,FC Koln,Hertha,1,0
+03/03/01,Cottbus,Kaiserslautern,0,2
+03/03/01,Hansa Rostock,Bayern Munich,3,2
+03/03/01,Stuttgart,Wolfsburg,2,1
+03/03/01,Unterhaching,Bochum,2,1
+03/03/01,Werder Bremen,Freiburg,3,1
+04/03/01,Munich 1860,Leverkusen,1,0
+04/03/01,Schalke 04,Hamburg,0,1
+07/03/01,Hertha,Unterhaching,2,1
+09/03/01,Leverkusen,Werder Bremen,3,0
+10/03/01,Bayern Munich,Cottbus,2,0
+10/03/01,Bochum,FC Koln,2,3
+10/03/01,Ein Frankfurt,Schalke 04,0,0
+10/03/01,Freiburg,Dortmund,2,2
+10/03/01,Hertha,Hansa Rostock,1,0
+10/03/01,Wolfsburg,Unterhaching,6,1
+11/03/01,Hamburg,Stuttgart,2,2
+11/03/01,Kaiserslautern,Munich 1860,3,2
+16/03/01,FC Koln,Wolfsburg,0,0
+17/03/01,Munich 1860,Bayern Munich,0,2
+17/03/01,Cottbus,Hertha,3,0
+17/03/01,Dortmund,Leverkusen,1,3
+17/03/01,Ein Frankfurt,Hamburg,1,1
+17/03/01,Hansa Rostock,Bochum,2,0
+17/03/01,Schalke 04,Freiburg,0,0
+18/03/01,Unterhaching,Stuttgart,0,0
+18/03/01,Werder Bremen,Kaiserslautern,1,2
+30/03/01,Wolfsburg,Hansa Rostock,2,1
+31/03/01,Bayern Munich,Werder Bremen,2,3
+31/03/01,Freiburg,Ein Frankfurt,5,2
+31/03/01,Hamburg,Unterhaching,1,1
+31/03/01,Hertha,Munich 1860,3,0
+31/03/01,Leverkusen,Schalke 04,0,3
+31/03/01,Stuttgart,FC Koln,0,3
+01/04/01,Bochum,Cottbus,1,0
+01/04/01,Kaiserslautern,Dortmund,1,4
+06/04/01,Cottbus,Wolfsburg,0,0
+07/04/01,FC Koln,Unterhaching,1,1
+07/04/01,Munich 1860,Bochum,2,4
+07/04/01,Dortmund,Bayern Munich,1,1
+07/04/01,Ein Frankfurt,Leverkusen,1,3
+07/04/01,Freiburg,Hamburg,0,0
+07/04/01,Werder Bremen,Hertha,3,1
+08/04/01,Hansa Rostock,Stuttgart,1,1
+08/04/01,Schalke 04,Kaiserslautern,5,1
+12/04/01,Stuttgart,Cottbus,1,0
+14/04/01,Bayern Munich,Schalke 04,1,3
+14/04/01,Bochum,Werder Bremen,1,2
+14/04/01,Hertha,Dortmund,1,0
+14/04/01,Kaiserslautern,Ein Frankfurt,4,2
+14/04/01,Leverkusen,Freiburg,1,3
+14/04/01,Wolfsburg,Munich 1860,0,1
+15/04/01,Hamburg,FC Koln,1,1
+15/04/01,Unterhaching,Hansa Rostock,1,1
+20/04/01,Dortmund,Bochum,5,0
+21/04/01,Cottbus,Unterhaching,1,0
+21/04/01,Ein Frankfurt,Bayern Munich,0,2
+21/04/01,Hansa Rostock,FC Koln,2,1
+21/04/01,Leverkusen,Hamburg,1,1
+21/04/01,Schalke 04,Hertha,3,1
+21/04/01,Werder Bremen,Wolfsburg,2,3
+22/04/01,Munich 1860,Stuttgart,2,1
+22/04/01,Freiburg,Kaiserslautern,5,2
+27/04/01,Wolfsburg,Dortmund,1,1
+28/04/01,FC Koln,Cottbus,4,0
+28/04/01,Bayern Munich,Freiburg,1,0
+28/04/01,Bochum,Schalke 04,1,1
+28/04/01,Hertha,Ein Frankfurt,3,0
+28/04/01,Kaiserslautern,Leverkusen,0,1
+28/04/01,Stuttgart,Werder Bremen,2,1
+29/04/01,Hamburg,Hansa Rostock,2,1
+29/04/01,Unterhaching,Munich 1860,3,2
+04/05/01,Dortmund,Stuttgart,0,0
+05/05/01,Munich 1860,FC Koln,3,1
+05/05/01,Ein Frankfurt,Bochum,3,0
+05/05/01,Hamburg,Kaiserslautern,1,1
+05/05/01,Hansa Rostock,Cottbus,1,0
+05/05/01,Leverkusen,Bayern Munich,0,1
+05/05/01,Schalke 04,Wolfsburg,2,1
+06/05/01,Freiburg,Hertha,1,0
+06/05/01,Werder Bremen,Unterhaching,0,0
+12/05/01,FC Koln,Werder Bremen,1,3
+12/05/01,Bayern Munich,Kaiserslautern,2,1
+12/05/01,Bochum,Freiburg,1,3
+12/05/01,Cottbus,Hamburg,4,2
+12/05/01,Hansa Rostock,Munich 1860,0,0
+12/05/01,Hertha,Leverkusen,1,1
+12/05/01,Stuttgart,Schalke 04,1,0
+12/05/01,Unterhaching,Dortmund,1,4
+12/05/01,Wolfsburg,Ein Frankfurt,3,0
+19/05/01,Munich 1860,Cottbus,0,1
+19/05/01,Dortmund,FC Koln,3,3
+19/05/01,Ein Frankfurt,Stuttgart,2,1
+19/05/01,Freiburg,Wolfsburg,4,1
+19/05/01,Hamburg,Bayern Munich,1,1
+19/05/01,Kaiserslautern,Hertha,0,1
+19/05/01,Leverkusen,Bochum,1,0
+19/05/01,Schalke 04,Unterhaching,5,3
+19/05/01,Werder Bremen,Hansa Rostock,3,0

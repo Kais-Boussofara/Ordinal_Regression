@@ -1,0 +1,463 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,round
+22/08/1964,Aston Villa,Leeds United,1,2,1
+22/08/1964,Tottenham Hotspur,Sheffield United,2,0,1
+22/08/1964,Sunderland AFC,Leicester City,3,3,1
+22/08/1964,Stoke City,Everton FC,0,2,1
+22/08/1964,Sheffield Wednesday,Blackburn Rovers,1,0,1
+22/08/1964,Nottingham Forest,Birmingham City,4,3,1
+22/08/1964,Manchester United,West Bromwich Albion,2,2,1
+22/08/1964,Liverpool FC,Arsenal FC,3,2,1
+22/08/1964,Fulham FC,West Ham United,1,2,1
+22/08/1964,Burnley FC,Blackpool FC,2,2,1
+22/08/1964,Wolverhampton Wanderers,Chelsea FC,0,3,1
+24/08/1964,Blackpool FC,Blackburn Rovers,4,2,2
+24/08/1964,West Ham United,Manchester United,3,1,2
+25/08/1964,Arsenal FC,Sheffield Wednesday,1,1,2
+25/08/1964,Burnley FC,Tottenham Hotspur,2,2,2
+25/08/1964,Everton FC,Nottingham Forest,1,0,2
+26/08/1964,Sheffield United,Stoke City,0,1,2
+26/08/1964,Leicester City,Wolverhampton Wanderers,3,2,2
+26/08/1964,Leeds United,Liverpool FC,4,2,2
+26/08/1964,Chelsea FC,Aston Villa,2,1,2
+26/08/1964,Birmingham City,Fulham FC,2,2,2
+26/08/1964,West Bromwich Albion,Sunderland AFC,4,1,2
+28/08/1964,West Ham United,Nottingham Forest,2,3,3
+29/08/1964,Sheffield United,Burnley FC,2,0,3
+29/08/1964,Leicester City,Manchester United,2,2,3
+29/08/1964,Leeds United,Wolverhampton Wanderers,3,2,3
+29/08/1964,Everton FC,Tottenham Hotspur,4,1,3
+29/08/1964,Chelsea FC,Sunderland AFC,3,1,3
+29/08/1964,Blackpool FC,Sheffield Wednesday,1,0,3
+29/08/1964,Blackburn Rovers,Liverpool FC,3,2,3
+29/08/1964,Birmingham City,Stoke City,1,2,3
+29/08/1964,Arsenal FC,Aston Villa,3,1,3
+29/08/1964,West Bromwich Albion,Fulham FC,2,2,3
+31/08/1964,Aston Villa,Chelsea FC,2,2,4
+01/09/1964,Nottingham Forest,Everton FC,3,1,4
+02/09/1964,Tottenham Hotspur,Burnley FC,4,1,4
+02/09/1964,Sunderland AFC,West Bromwich Albion,2,2,4
+02/09/1964,Stoke City,Sheffield United,0,1,4
+02/09/1964,Sheffield Wednesday,Arsenal FC,2,1,4
+02/09/1964,Manchester United,West Ham United,3,1,4
+02/09/1964,Liverpool FC,Leeds United,2,1,4
+02/09/1964,Fulham FC,Birmingham City,3,1,4
+02/09/1964,Blackburn Rovers,Blackpool FC,4,1,4
+02/09/1964,Wolverhampton Wanderers,Leicester City,1,1,4
+05/09/1964,Aston Villa,Blackburn Rovers,0,4,5
+05/09/1964,Tottenham Hotspur,Birmingham City,4,1,5
+05/09/1964,Sunderland AFC,Leeds United,3,3,5
+05/09/1964,Stoke City,West Ham United,3,1,5
+05/09/1964,Sheffield Wednesday,Sheffield United,0,2,5
+05/09/1964,Nottingham Forest,West Bromwich Albion,0,0,5
+05/09/1964,Liverpool FC,Blackpool FC,2,2,5
+05/09/1964,Leicester City,Chelsea FC,1,1,5
+05/09/1964,Fulham FC,Manchester United,2,1,5
+05/09/1964,Burnley FC,Everton FC,1,1,5
+05/09/1964,Wolverhampton Wanderers,Arsenal FC,0,1,5
+07/09/1964,Blackpool FC,Leeds United,4,0,6
+07/09/1964,West Ham United,Wolverhampton Wanderers,5,0,6
+08/09/1964,Arsenal FC,Blackburn Rovers,1,1,6
+08/09/1964,Burnley FC,Nottingham Forest,2,2,6
+08/09/1964,Everton FC,Manchester United,3,3,6
+09/09/1964,Stoke City,Tottenham Hotspur,2,0,6
+09/09/1964,Sheffield United,Fulham FC,1,1,6
+09/09/1964,Leicester City,Liverpool FC,2,0,6
+09/09/1964,Chelsea FC,Sheffield Wednesday,1,1,6
+09/09/1964,Birmingham City,West Bromwich Albion,1,1,6
+09/09/1964,Sunderland AFC,Aston Villa,2,2,6
+12/09/1964,Arsenal FC,Sunderland AFC,3,1,7
+12/09/1964,West Bromwich Albion,Stoke City,5,3,7
+12/09/1964,Sheffield Wednesday,Liverpool FC,1,0,7
+12/09/1964,Manchester United,Nottingham Forest,3,0,7
+12/09/1964,Leeds United,Leicester City,3,2,7
+12/09/1964,Everton FC,Sheffield United,1,1,7
+12/09/1964,Chelsea FC,Fulham FC,1,0,7
+12/09/1964,Blackpool FC,Aston Villa,3,1,7
+12/09/1964,Blackburn Rovers,Wolverhampton Wanderers,4,1,7
+12/09/1964,Birmingham City,Burnley FC,2,1,7
+12/09/1964,West Ham United,Tottenham Hotspur,3,2,7
+14/09/1964,Aston Villa,Sunderland AFC,2,1,8
+14/09/1964,Wolverhampton Wanderers,West Ham United,4,3,8
+15/09/1964,Nottingham Forest,Burnley FC,3,1,8
+16/09/1964,West Bromwich Albion,Birmingham City,0,2,8
+16/09/1964,Tottenham Hotspur,Stoke City,2,1,8
+16/09/1964,Sheffield Wednesday,Chelsea FC,2,3,8
+16/09/1964,Manchester United,Everton FC,2,1,8
+16/09/1964,Leeds United,Blackpool FC,3,0,8
+16/09/1964,Fulham FC,Sheffield United,1,2,8
+16/09/1964,Blackburn Rovers,Arsenal FC,1,2,8
+13/10/1964,Liverpool FC,Leicester City,0,1,8
+19/09/1964,Liverpool FC,Everton FC,0,4,9
+19/09/1964,Aston Villa,Sheffield Wednesday,2,0,9
+19/09/1964,Wolverhampton Wanderers,Blackpool FC,1,2,9
+19/09/1964,Tottenham Hotspur,West Bromwich Albion,1,0,9
+19/09/1964,Sunderland AFC,Blackburn Rovers,1,0,9
+19/09/1964,Stoke City,Manchester United,1,2,9
+19/09/1964,Sheffield United,Birmingham City,3,1,9
+19/09/1964,Nottingham Forest,Fulham FC,2,3,9
+19/09/1964,Leicester City,Arsenal FC,2,3,9
+19/09/1964,Chelsea FC,Leeds United,2,0,9
+19/09/1964,Burnley FC,West Ham United,3,2,9
+23/09/1964,Sheffield Wednesday,Burnley FC,5,1,10
+28/09/1964,Blackpool FC,Tottenham Hotspur,1,1,10
+30/09/1964,Leicester City,West Bromwich Albion,4,2,10
+30/09/1964,Wolverhampton Wanderers,Birmingham City,0,2,10
+30/09/1964,Leeds United,Fulham FC,2,2,10
+30/09/1964,Chelsea FC,Manchester United,0,2,10
+05/10/1964,Aston Villa,Everton FC,1,2,10
+06/10/1964,Arsenal FC,Nottingham Forest,0,3,10
+07/10/1964,Liverpool FC,Sheffield United,3,1,10
+07/10/1964,Blackburn Rovers,Stoke City,1,1,10
+20/02/1965,Sunderland AFC,West Ham United,3,2,10
+26/09/1964,Blackburn Rovers,Leicester City,3,1,11
+26/09/1964,West Ham United,Sheffield United,3,1,11
+26/09/1964,Manchester United,Tottenham Hotspur,4,1,11
+26/09/1964,Liverpool FC,Aston Villa,5,1,11
+26/09/1964,Leeds United,Nottingham Forest,1,2,11
+26/09/1964,Fulham FC,Stoke City,1,4,11
+26/09/1964,Blackpool FC,Sunderland AFC,3,1,11
+26/09/1964,Birmingham City,Everton FC,3,5,11
+26/09/1964,Arsenal FC,Chelsea FC,1,3,11
+26/09/1964,Sheffield Wednesday,Wolverhampton Wanderers,2,0,11
+26/09/1964,West Bromwich Albion,Burnley FC,1,2,11
+03/10/1964,Everton FC,West Ham United,1,1,12
+03/10/1964,Sheffield United,West Bromwich Albion,1,1,12
+03/10/1964,Stoke City,Nottingham Forest,1,1,12
+03/10/1964,Chelsea FC,Blackburn Rovers,5,1,12
+05/10/1964,Leicester City,Blackpool FC,3,2,12
+05/10/1964,Tottenham Hotspur,Fulham FC,3,0,12
+06/10/1964,Burnley FC,Manchester United,0,0,12
+11/11/1964,Leeds United,Arsenal FC,3,1,12
+12/04/1965,Aston Villa,Birmingham City,3,0,12
+26/04/1965,Wolverhampton Wanderers,Liverpool FC,1,3,12
+28/04/1965,Sunderland AFC,Sheffield Wednesday,3,0,12
+10/10/1964,Birmingham City,Liverpool FC,0,0,13
+10/10/1964,Everton FC,Sheffield Wednesday,1,1,13
+10/10/1964,West Bromwich Albion,Wolverhampton Wanderers,5,1,13
+10/10/1964,West Ham United,Aston Villa,3,0,13
+10/10/1964,Burnley FC,Blackburn Rovers,1,1,13
+10/10/1964,Tottenham Hotspur,Arsenal FC,3,1,13
+10/10/1964,Stoke City,Leeds United,2,3,13
+10/10/1964,Sheffield United,Blackpool FC,1,3,13
+10/10/1964,Nottingham Forest,Chelsea FC,2,2,13
+10/10/1964,Manchester United,Sunderland AFC,1,0,13
+10/10/1964,Fulham FC,Leicester City,5,2,13
+17/10/1964,Aston Villa,West Bromwich Albion,0,1,14
+17/10/1964,Liverpool FC,West Ham United,2,2,14
+17/10/1964,Sheffield Wednesday,Birmingham City,5,2,14
+17/10/1964,Arsenal FC,Burnley FC,3,2,14
+17/10/1964,Wolverhampton Wanderers,Manchester United,2,4,14
+17/10/1964,Sunderland AFC,Fulham FC,0,0,14
+17/10/1964,Leicester City,Nottingham Forest,3,2,14
+17/10/1964,Leeds United,Tottenham Hotspur,3,1,14
+17/10/1964,Chelsea FC,Stoke City,4,0,14
+17/10/1964,Blackpool FC,Everton FC,1,1,14
+17/10/1964,Blackburn Rovers,Sheffield United,4,0,14
+24/10/1964,Manchester United,Aston Villa,7,0,15
+24/10/1964,Sheffield United,Arsenal FC,4,0,15
+24/10/1964,West Bromwich Albion,Liverpool FC,3,0,15
+24/10/1964,West Ham United,Sheffield Wednesday,1,2,15
+24/10/1964,Birmingham City,Blackpool FC,3,0,15
+24/10/1964,Tottenham Hotspur,Chelsea FC,1,1,15
+24/10/1964,Stoke City,Leicester City,3,3,15
+24/10/1964,Nottingham Forest,Sunderland AFC,5,2,15
+24/10/1964,Fulham FC,Wolverhampton Wanderers,2,0,15
+24/10/1964,Everton FC,Blackburn Rovers,2,3,15
+24/10/1964,Burnley FC,Leeds United,0,1,15
+31/10/1964,Sheffield Wednesday,West Bromwich Albion,1,1,16
+31/10/1964,Liverpool FC,Manchester United,0,2,16
+31/10/1964,Leeds United,Sheffield United,4,1,16
+31/10/1964,Blackburn Rovers,Birmingham City,3,1,16
+31/10/1964,Aston Villa,Fulham FC,2,0,16
+31/10/1964,Arsenal FC,Everton FC,3,1,16
+31/10/1964,Blackpool FC,West Ham United,1,2,16
+31/10/1964,Chelsea FC,Burnley FC,0,1,16
+31/10/1964,Leicester City,Tottenham Hotspur,4,2,16
+31/10/1964,Sunderland AFC,Stoke City,2,2,16
+31/10/1964,Wolverhampton Wanderers,Nottingham Forest,1,2,16
+07/11/1964,Tottenham Hotspur,Sunderland AFC,3,0,17
+07/11/1964,Birmingham City,Arsenal FC,2,3,17
+07/11/1964,Nottingham Forest,Aston Villa,4,2,17
+07/11/1964,West Ham United,Blackburn Rovers,1,1,17
+07/11/1964,Burnley FC,Leicester City,2,1,17
+07/11/1964,West Bromwich Albion,Blackpool FC,1,3,17
+07/11/1964,Stoke City,Wolverhampton Wanderers,0,2,17
+07/11/1964,Sheffield United,Chelsea FC,0,2,17
+07/11/1964,Manchester United,Sheffield Wednesday,1,0,17
+07/11/1964,Fulham FC,Liverpool FC,1,1,17
+07/11/1964,Everton FC,Leeds United,0,1,17
+14/11/1964,Arsenal FC,West Ham United,0,3,18
+14/11/1964,Aston Villa,Stoke City,3,0,18
+14/11/1964,Leeds United,Birmingham City,4,1,18
+14/11/1964,Liverpool FC,Nottingham Forest,2,0,18
+14/11/1964,Blackburn Rovers,West Bromwich Albion,4,2,18
+14/11/1964,Wolverhampton Wanderers,Tottenham Hotspur,3,1,18
+14/11/1964,Sunderland AFC,Burnley FC,3,2,18
+14/11/1964,Sheffield Wednesday,Fulham FC,1,1,18
+14/11/1964,Leicester City,Sheffield United,0,2,18
+14/11/1964,Chelsea FC,Everton FC,5,1,18
+14/11/1964,Blackpool FC,Manchester United,1,2,18
+21/11/1964,Sheffield United,Sunderland AFC,3,0,19
+21/11/1964,Birmingham City,Chelsea FC,1,6,19
+21/11/1964,Stoke City,Liverpool FC,1,1,19
+21/11/1964,Tottenham Hotspur,Aston Villa,4,0,19
+21/11/1964,West Ham United,Leeds United,3,1,19
+21/11/1964,Burnley FC,Wolverhampton Wanderers,1,1,19
+21/11/1964,Everton FC,Leicester City,2,2,19
+21/11/1964,Fulham FC,Blackpool FC,3,3,19
+21/11/1964,Manchester United,Blackburn Rovers,3,0,19
+21/11/1964,Nottingham Forest,Sheffield Wednesday,2,2,19
+21/11/1964,West Bromwich Albion,Arsenal FC,0,0,19
+28/11/1964,Sunderland AFC,Everton FC,4,0,20
+28/11/1964,Wolverhampton Wanderers,Sheffield United,1,0,20
+28/11/1964,Sheffield Wednesday,Stoke City,1,1,20
+28/11/1964,Liverpool FC,Tottenham Hotspur,1,1,20
+28/11/1964,Leicester City,Birmingham City,4,4,20
+28/11/1964,Chelsea FC,West Ham United,0,3,20
+28/11/1964,Aston Villa,Burnley FC,1,0,20
+28/11/1964,Arsenal FC,Manchester United,2,3,20
+28/11/1964,Blackburn Rovers,Fulham FC,2,0,20
+28/11/1964,Blackpool FC,Nottingham Forest,0,2,20
+28/11/1964,Leeds United,West Bromwich Albion,1,0,20
+05/12/1964,Birmingham City,Sunderland AFC,4,3,21
+05/12/1964,Everton FC,Wolverhampton Wanderers,5,0,21
+05/12/1964,Sheffield United,Aston Villa,4,2,21
+05/12/1964,Tottenham Hotspur,Sheffield Wednesday,3,2,21
+05/12/1964,West Ham United,Leicester City,0,0,21
+05/12/1964,Burnley FC,Liverpool FC,1,5,21
+05/12/1964,West Bromwich Albion,Chelsea FC,0,2,21
+05/12/1964,Stoke City,Blackpool FC,4,2,21
+05/12/1964,Nottingham Forest,Blackburn Rovers,2,5,21
+05/12/1964,Manchester United,Leeds United,0,1,21
+05/12/1964,Fulham FC,Arsenal FC,3,4,21
+12/12/1964,Leicester City,Sunderland AFC,0,1,22
+12/12/1964,Arsenal FC,Liverpool FC,0,0,22
+12/12/1964,Chelsea FC,Wolverhampton Wanderers,2,1,22
+12/12/1964,Leeds United,Aston Villa,1,0,22
+12/12/1964,Birmingham City,Nottingham Forest,1,1,22
+12/12/1964,West Ham United,Fulham FC,2,0,22
+12/12/1964,West Bromwich Albion,Manchester United,1,1,22
+12/12/1964,Sheffield United,Tottenham Hotspur,3,3,22
+12/12/1964,Everton FC,Stoke City,1,1,22
+12/12/1964,Blackpool FC,Burnley FC,2,4,22
+29/01/1965,Blackburn Rovers,Sheffield Wednesday,0,1,22
+19/12/1964,Sheffield Wednesday,Blackpool FC,4,1,23
+19/12/1964,Sunderland AFC,Chelsea FC,3,0,23
+19/12/1964,Aston Villa,Arsenal FC,3,1,23
+19/12/1964,Liverpool FC,Blackburn Rovers,3,2,23
+19/12/1964,Wolverhampton Wanderers,Leeds United,0,1,23
+19/12/1964,Burnley FC,Sheffield United,3,1,23
+19/12/1964,Fulham FC,West Bromwich Albion,3,1,23
+19/12/1964,Nottingham Forest,West Ham United,3,2,23
+19/12/1964,Tottenham Hotspur,Everton FC,2,2,23
+17/03/1965,Stoke City,Birmingham City,2,1,23
+12/04/1965,Manchester United,Leicester City,1,0,23
+26/12/1964,Leicester City,Sheffield Wednesday,2,2,24
+26/12/1964,Wolverhampton Wanderers,Aston Villa,0,1,24
+26/12/1964,Sunderland AFC,Liverpool FC,2,3,24
+26/12/1964,Birmingham City,West Ham United,2,1,24
+26/12/1964,Arsenal FC,Stoke City,3,2,24
+26/12/1964,Burnley FC,Fulham FC,4,0,24
+26/12/1964,Chelsea FC,Blackpool FC,2,0,24
+26/12/1964,Everton FC,West Bromwich Albion,3,2,24
+26/12/1964,Leeds United,Blackburn Rovers,1,1,24
+26/12/1964,Nottingham Forest,Tottenham Hotspur,1,2,24
+26/12/1964,Sheffield United,Manchester United,0,1,24
+28/12/1964,Sheffield Wednesday,Leicester City,0,0,25
+28/12/1964,West Ham United,Birmingham City,2,1,25
+28/12/1964,Stoke City,Arsenal FC,4,1,25
+28/12/1964,Liverpool FC,Sunderland AFC,0,0,25
+28/12/1964,Blackburn Rovers,Leeds United,0,2,25
+28/12/1964,Fulham FC,Burnley FC,0,1,25
+28/12/1964,Manchester United,Sheffield United,1,1,25
+28/12/1964,Tottenham Hotspur,Nottingham Forest,4,0,25
+22/03/1965,Aston Villa,Wolverhampton Wanderers,3,2,25
+23/03/1965,West Bromwich Albion,Everton FC,4,0,25
+26/04/1965,Blackpool FC,Chelsea FC,3,2,25
+02/01/1965,Arsenal FC,Wolverhampton Wanderers,4,1,26
+02/01/1965,Blackburn Rovers,Aston Villa,5,1,26
+02/01/1965,Leeds United,Sunderland AFC,2,1,26
+02/01/1965,Sheffield United,Sheffield Wednesday,2,3,26
+02/01/1965,West Ham United,Stoke City,0,1,26
+02/01/1965,Chelsea FC,Leicester City,4,1,26
+02/01/1965,Blackpool FC,Liverpool FC,2,3,26
+02/01/1965,Birmingham City,Tottenham Hotspur,1,0,26
+02/01/1965,Everton FC,Burnley FC,2,1,26
+02/01/1965,West Bromwich Albion,Nottingham Forest,2,2,26
+15/03/1965,Manchester United,Fulham FC,4,1,26
+16/01/1965,Aston Villa,Blackpool FC,3,2,27
+16/01/1965,Sunderland AFC,Arsenal FC,0,2,27
+16/01/1965,Wolverhampton Wanderers,Blackburn Rovers,4,2,27
+16/01/1965,Stoke City,West Bromwich Albion,2,0,27
+16/01/1965,Sheffield United,Everton FC,0,0,27
+16/01/1965,Nottingham Forest,Manchester United,2,2,27
+16/01/1965,Liverpool FC,Sheffield Wednesday,4,2,27
+16/01/1965,Fulham FC,Chelsea FC,1,2,27
+16/01/1965,Burnley FC,Birmingham City,2,0,27
+16/01/1965,Leicester City,Leeds United,2,2,27
+16/01/1965,Tottenham Hotspur,West Ham United,3,2,27
+23/01/1965,Blackpool FC,Wolverhampton Wanderers,1,1,28
+23/01/1965,Manchester United,Stoke City,1,1,28
+23/01/1965,Leeds United,Chelsea FC,2,2,28
+23/01/1965,Fulham FC,Nottingham Forest,4,1,28
+23/01/1965,Birmingham City,Sheffield United,1,1,28
+23/01/1965,Arsenal FC,Leicester City,4,3,28
+23/01/1965,West Bromwich Albion,Tottenham Hotspur,2,0,28
+23/01/1965,West Ham United,Burnley FC,3,2,28
+15/03/1965,Sheffield Wednesday,Aston Villa,3,1,28
+23/03/1965,Blackburn Rovers,Sunderland AFC,3,2,28
+12/04/1965,Everton FC,Liverpool FC,2,1,28
+06/02/1965,Aston Villa,Liverpool FC,0,1,29
+06/02/1965,Sunderland AFC,Blackpool FC,1,0,29
+06/02/1965,Everton FC,Birmingham City,1,1,29
+06/02/1965,Wolverhampton Wanderers,Sheffield Wednesday,3,1,29
+06/02/1965,Tottenham Hotspur,Manchester United,1,0,29
+06/02/1965,Stoke City,Fulham FC,3,1,29
+06/02/1965,Sheffield United,West Ham United,2,1,29
+06/02/1965,Leicester City,Blackburn Rovers,2,3,29
+06/02/1965,Burnley FC,West Bromwich Albion,0,1,29
+06/02/1965,Chelsea FC,Arsenal FC,2,1,29
+06/02/1965,Nottingham Forest,Leeds United,0,0,29
+13/02/1965,Birmingham City,Aston Villa,0,1,30
+13/02/1965,Liverpool FC,Wolverhampton Wanderers,2,1,30
+13/02/1965,Sheffield Wednesday,Sunderland AFC,2,0,30
+13/02/1965,West Ham United,Everton FC,0,1,30
+13/02/1965,Fulham FC,Tottenham Hotspur,4,1,30
+13/02/1965,Blackpool FC,Leicester City,1,1,30
+13/02/1965,Blackburn Rovers,Chelsea FC,0,3,30
+13/02/1965,Arsenal FC,Leeds United,1,2,30
+13/02/1965,Manchester United,Burnley FC,3,2,30
+13/02/1965,Nottingham Forest,Stoke City,3,1,30
+13/02/1965,West Bromwich Albion,Sheffield United,0,1,30
+20/02/1965,Sheffield Wednesday,Everton FC,0,1,31
+20/02/1965,Blackpool FC,Sheffield United,2,2,31
+22/02/1965,Chelsea FC,Nottingham Forest,0,1,31
+23/02/1965,Arsenal FC,Tottenham Hotspur,3,1,31
+24/02/1965,Liverpool FC,Birmingham City,4,3,31
+24/02/1965,Sunderland AFC,Manchester United,1,0,31
+24/02/1965,Blackburn Rovers,Burnley FC,1,4,31
+24/02/1965,Leicester City,Fulham FC,5,1,31
+15/03/1965,Wolverhampton Wanderers,West Bromwich Albion,3,2,31
+31/03/1965,Aston Villa,West Ham United,2,3,31
+05/04/1965,Leeds United,Stoke City,3,1,31
+27/02/1965,West Bromwich Albion,Aston Villa,3,1,32
+27/02/1965,Birmingham City,Sheffield Wednesday,0,0,32
+27/02/1965,Stoke City,Chelsea FC,0,2,32
+27/02/1965,West Ham United,Liverpool FC,2,1,32
+27/02/1965,Everton FC,Blackpool FC,0,0,32
+27/02/1965,Manchester United,Wolverhampton Wanderers,3,0,32
+27/02/1965,Burnley FC,Arsenal FC,2,1,32
+27/02/1965,Fulham FC,Sunderland AFC,1,0,32
+27/02/1965,Nottingham Forest,Leicester City,2,1,32
+27/02/1965,Sheffield United,Blackburn Rovers,1,1,32
+27/02/1965,Tottenham Hotspur,Leeds United,0,0,32
+06/03/1965,Sheffield Wednesday,West Ham United,2,0,33
+06/03/1965,Blackburn Rovers,Everton FC,0,2,33
+06/03/1965,Blackpool FC,Birmingham City,3,1,33
+06/03/1965,Sunderland AFC,Nottingham Forest,4,0,33
+06/03/1965,Arsenal FC,Sheffield United,1,1,33
+10/03/1965,Chelsea FC,Tottenham Hotspur,3,1,33
+15/03/1965,Leeds United,Burnley FC,5,1,33
+30/03/1965,Wolverhampton Wanderers,Fulham FC,0,0,33
+06/04/1965,Liverpool FC,West Bromwich Albion,0,3,33
+26/04/1965,Leicester City,Stoke City,0,1,33
+28/04/1965,Aston Villa,Manchester United,2,1,33
+13/03/1965,Everton FC,Aston Villa,3,1,34
+13/03/1965,Birmingham City,Wolverhampton Wanderers,0,1,34
+13/03/1965,Sheffield United,Liverpool FC,3,0,34
+13/03/1965,Stoke City,Blackburn Rovers,1,1,34
+13/03/1965,Manchester United,Chelsea FC,4,0,34
+13/03/1965,West Bromwich Albion,Leicester City,6,0,34
+13/03/1965,West Ham United,Sunderland AFC,2,3,34
+13/03/1965,Burnley FC,Sheffield Wednesday,4,1,34
+13/03/1965,Fulham FC,Leeds United,2,2,34
+13/03/1965,Nottingham Forest,Arsenal FC,3,0,34
+13/03/1965,Tottenham Hotspur,Blackpool FC,4,1,34
+20/03/1965,Aston Villa,Nottingham Forest,2,1,35
+20/03/1965,Leeds United,Everton FC,4,1,35
+20/03/1965,Sunderland AFC,Tottenham Hotspur,2,1,35
+20/03/1965,Wolverhampton Wanderers,Stoke City,3,1,35
+20/03/1965,Sheffield Wednesday,Manchester United,1,0,35
+20/03/1965,Blackpool FC,West Bromwich Albion,3,0,35
+20/03/1965,Blackburn Rovers,West Ham United,4,0,35
+20/03/1965,Leicester City,Burnley FC,0,2,35
+20/03/1965,Liverpool FC,Fulham FC,3,2,35
+22/03/1965,Chelsea FC,Sheffield United,3,0,35
+06/04/1965,Arsenal FC,Birmingham City,3,0,35
+22/03/1965,Manchester United,Blackpool FC,2,0,36
+26/03/1965,Sheffield United,Leicester City,0,2,36
+26/03/1965,West Bromwich Albion,Blackburn Rovers,0,0,36
+27/03/1965,Stoke City,Aston Villa,2,1,36
+27/03/1965,West Ham United,Arsenal FC,2,1,36
+27/03/1965,Burnley FC,Sunderland AFC,0,0,36
+27/03/1965,Fulham FC,Sheffield Wednesday,2,0,36
+27/03/1965,Tottenham Hotspur,Wolverhampton Wanderers,7,4,36
+31/03/1965,Everton FC,Chelsea FC,1,1,36
+01/04/1965,Nottingham Forest,Liverpool FC,2,2,36
+26/04/1965,Birmingham City,Leeds United,3,3,36
+03/04/1965,Liverpool FC,Stoke City,3,2,37
+03/04/1965,Aston Villa,Tottenham Hotspur,1,0,37
+03/04/1965,Chelsea FC,Birmingham City,3,1,37
+03/04/1965,Blackburn Rovers,Manchester United,0,5,37
+03/04/1965,Leicester City,Everton FC,2,1,37
+03/04/1965,Sunderland AFC,Sheffield United,3,1,37
+03/04/1965,Arsenal FC,West Bromwich Albion,1,1,37
+03/04/1965,Leeds United,West Ham United,2,1,37
+03/04/1965,Sheffield Wednesday,Nottingham Forest,0,0,37
+03/04/1965,Wolverhampton Wanderers,Burnley FC,1,2,37
+03/04/1965,Blackpool FC,Fulham FC,3,0,37
+09/04/1965,Tottenham Hotspur,Liverpool FC,3,0,38
+09/04/1965,Fulham FC,Blackburn Rovers,3,2,38
+10/04/1965,Burnley FC,Aston Villa,2,2,38
+10/04/1965,Stoke City,Sheffield Wednesday,4,1,38
+10/04/1965,Sheffield United,Wolverhampton Wanderers,0,2,38
+10/04/1965,Everton FC,Sunderland AFC,1,1,38
+10/04/1965,Birmingham City,Leicester City,2,0,38
+10/04/1965,Nottingham Forest,Blackpool FC,2,0,38
+12/04/1965,West Bromwich Albion,Leeds United,1,2,38
+12/04/1965,West Ham United,Chelsea FC,3,2,38
+26/04/1965,Manchester United,Arsenal FC,3,1,38
+16/12/1964,Manchester United,Birmingham City,1,1,39
+16/04/1965,Sunderland AFC,Wolverhampton Wanderers,1,2,39
+16/04/1965,Chelsea FC,Liverpool FC,4,0,39
+16/04/1965,Blackpool FC,Arsenal FC,1,1,39
+16/04/1965,Tottenham Hotspur,Blackburn Rovers,5,2,39
+16/04/1965,West Ham United,West Bromwich Albion,6,1,39
+16/04/1965,Everton FC,Fulham FC,2,0,39
+20/04/1965,Aston Villa,Leicester City,1,0,39
+20/04/1965,Leeds United,Sheffield Wednesday,2,0,39
+20/04/1965,Sheffield United,Nottingham Forest,0,2,39
+20/04/1965,Burnley FC,Stoke City,1,0,39
+20/02/1965,Arsenal FC,Fulham FC,2,0,40
+17/04/1965,Aston Villa,Sheffield United,2,1,40
+17/04/1965,Blackpool FC,Stoke City,1,1,40
+17/04/1965,Leeds United,Manchester United,0,1,40
+17/04/1965,Sheffield Wednesday,Tottenham Hotspur,1,0,40
+17/04/1965,Wolverhampton Wanderers,Everton FC,2,4,40
+17/04/1965,Sunderland AFC,Birmingham City,2,1,40
+17/04/1965,Liverpool FC,Burnley FC,1,1,40
+17/04/1965,Chelsea FC,West Bromwich Albion,2,2,40
+17/04/1965,Leicester City,West Ham United,1,0,40
+27/04/1965,Blackburn Rovers,Nottingham Forest,1,1,40
+19/04/1965,Birmingham City,Manchester United,2,4,41
+19/04/1965,Leicester City,Aston Villa,1,1,41
+19/04/1965,Nottingham Forest,Sheffield United,0,0,41
+19/04/1965,Sheffield Wednesday,Leeds United,3,0,41
+19/04/1965,Arsenal FC,Blackpool FC,3,1,41
+19/04/1965,Liverpool FC,Chelsea FC,2,0,41
+19/04/1965,Stoke City,Burnley FC,2,0,41
+19/04/1965,Blackburn Rovers,Tottenham Hotspur,3,1,41
+19/04/1965,Fulham FC,Everton FC,1,1,41
+19/04/1965,West Bromwich Albion,West Ham United,4,2,41
+20/04/1965,Wolverhampton Wanderers,Sunderland AFC,3,0,41
+23/04/1965,West Ham United,Blackpool FC,2,1,42
+24/04/1965,West Bromwich Albion,Sheffield Wednesday,1,0,42
+24/04/1965,Stoke City,Sunderland AFC,3,1,42
+24/04/1965,Sheffield United,Leeds United,0,3,42
+24/04/1965,Nottingham Forest,Wolverhampton Wanderers,0,2,42
+24/04/1965,Manchester United,Liverpool FC,3,0,42
+24/04/1965,Fulham FC,Aston Villa,1,1,42
+24/04/1965,Everton FC,Arsenal FC,1,0,42
+24/04/1965,Birmingham City,Blackburn Rovers,5,5,42
+24/04/1965,Burnley FC,Chelsea FC,6,2,42
+24/04/1965,Tottenham Hotspur,Leicester City,6,2,42

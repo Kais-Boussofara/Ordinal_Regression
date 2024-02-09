@@ -1,0 +1,307 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG
+15/08/08,Bayern Munich,Hamburg,2,2
+16/08/08,Bielefeld,Werder Bremen,2,2
+16/08/08,Cottbus,Hoffenheim,0,3
+16/08/08,Karlsruhe,Bochum,1,0
+16/08/08,Leverkusen,Dortmund,2,3
+16/08/08,Schalke 04,Hannover,3,0
+16/08/08,Wolfsburg,FC Koln,2,1
+17/08/08,Ein Frankfurt,Hertha,0,2
+17/08/08,M'gladbach,Stuttgart,1,3
+22/08/08,Hannover,Cottbus,0,0
+23/08/08,Dortmund,Bayern Munich,1,1
+23/08/08,Hamburg,Karlsruhe,2,1
+23/08/08,Hertha,Bielefeld,1,1
+23/08/08,Hoffenheim,M'gladbach,1,0
+23/08/08,Stuttgart,Leverkusen,0,2
+23/08/08,Werder Bremen,Schalke 04,1,1
+24/08/08,Bochum,Wolfsburg,2,2
+24/08/08,FC Koln,Ein Frankfurt,1,1
+29/08/08,Karlsruhe,FC Koln,0,2
+30/08/08,Bielefeld,Hamburg,2,4
+30/08/08,Cottbus,Dortmund,0,1
+30/08/08,Leverkusen,Hoffenheim,5,2
+30/08/08,M'gladbach,Werder Bremen,3,2
+30/08/08,Schalke 04,Bochum,1,0
+30/08/08,Wolfsburg,Ein Frankfurt,2,2
+31/08/08,Bayern Munich,Hertha,4,1
+31/08/08,Stuttgart,Hannover,2,0
+13/09/08,Dortmund,Schalke 04,3,3
+13/09/08,FC Koln,Bayern Munich,0,3
+13/09/08,Hamburg,Leverkusen,3,2
+13/09/08,Hertha,Wolfsburg,2,2
+13/09/08,Hoffenheim,Stuttgart,0,0
+13/09/08,Werder Bremen,Cottbus,3,0
+14/09/08,Bochum,Bielefeld,2,0
+14/09/08,Hannover,M'gladbach,5,1
+19/09/08,Leverkusen,Hannover,4,0
+20/09/08,Bayern Munich,Werder Bremen,2,5
+20/09/08,Bielefeld,FC Koln,2,0
+20/09/08,Cottbus,Bochum,1,1
+20/09/08,M'gladbach,Hertha,0,1
+20/09/08,Schalke 04,Ein Frankfurt,1,0
+21/09/08,Hoffenheim,Dortmund,4,1
+21/09/08,Stuttgart,Karlsruhe,3,1
+21/09/08,Wolfsburg,Hamburg,3,0
+26/09/08,FC Koln,Schalke 04,1,0
+27/09/08,Bochum,Leverkusen,2,3
+27/09/08,Dortmund,Stuttgart,3,0
+27/09/08,Hamburg,M'gladbach,1,0
+27/09/08,Hannover,Bayern Munich,1,0
+27/09/08,Hertha,Cottbus,0,1
+27/09/08,Werder Bremen,Hoffenheim,5,4
+28/09/08,Ein Frankfurt,Bielefeld,1,1
+28/09/08,Karlsruhe,Wolfsburg,2,1
+03/10/08,Bielefeld,Karlsruhe,1,2
+04/10/08,Bayern Munich,Bochum,3,3
+04/10/08,Hoffenheim,Ein Frankfurt,2,1
+04/10/08,Leverkusen,Hertha,0,1
+04/10/08,M'gladbach,FC Koln,1,2
+04/10/08,Stuttgart,Werder Bremen,4,1
+05/10/08,Cottbus,Hamburg,1,2
+05/10/08,Dortmund,Hannover,1,1
+05/10/08,Schalke 04,Wolfsburg,2,2
+17/10/08,Bochum,M'gladbach,2,2
+18/10/08,Ein Frankfurt,Leverkusen,0,2
+18/10/08,FC Koln,Cottbus,1,0
+18/10/08,Hannover,Hoffenheim,2,5
+18/10/08,Hertha,Stuttgart,2,1
+18/10/08,Karlsruhe,Bayern Munich,0,1
+18/10/08,Werder Bremen,Dortmund,3,3
+18/10/08,Wolfsburg,Bielefeld,4,1
+19/10/08,Hamburg,Schalke 04,1,1
+22/10/08,Ein Frankfurt,Karlsruhe,2,1
+24/10/08,Leverkusen,FC Koln,2,0
+25/10/08,Bayern Munich,Wolfsburg,4,2
+25/10/08,Cottbus,Ein Frankfurt,2,3
+25/10/08,Hannover,Werder Bremen,1,1
+25/10/08,M'gladbach,Karlsruhe,1,0
+25/10/08,Schalke 04,Bielefeld,0,0
+26/10/08,Dortmund,Hertha,1,1
+26/10/08,Hoffenheim,Hamburg,3,0
+26/10/08,Stuttgart,Bochum,2,0
+28/10/08,Bielefeld,Cottbus,1,1
+28/10/08,Karlsruhe,Schalke 04,0,3
+28/10/08,Werder Bremen,Leverkusen,0,2
+28/10/08,Wolfsburg,M'gladbach,3,0
+29/10/08,Bochum,Hoffenheim,1,3
+29/10/08,Ein Frankfurt,Bayern Munich,1,2
+29/10/08,FC Koln,Dortmund,0,1
+29/10/08,Hamburg,Stuttgart,2,0
+29/10/08,Hertha,Hannover,3,0
+31/10/08,Leverkusen,Wolfsburg,2,0
+01/11/08,Bayern Munich,Bielefeld,3,1
+01/11/08,Cottbus,Schalke 04,0,2
+01/11/08,Hannover,Hamburg,3,0
+01/11/08,Hoffenheim,Karlsruhe,4,1
+01/11/08,Stuttgart,FC Koln,1,3
+01/11/08,Werder Bremen,Hertha,5,1
+02/11/08,Dortmund,Bochum,1,1
+02/11/08,M'gladbach,Ein Frankfurt,1,2
+07/11/08,FC Koln,Hannover,2,1
+08/11/08,Bielefeld,M'gladbach,0,2
+08/11/08,Bochum,Werder Bremen,0,0
+08/11/08,Hamburg,Dortmund,2,1
+08/11/08,Karlsruhe,Leverkusen,3,3
+08/11/08,Wolfsburg,Cottbus,3,0
+09/11/08,Ein Frankfurt,Stuttgart,2,2
+09/11/08,Hertha,Hoffenheim,1,0
+09/11/08,Schalke 04,Bayern Munich,1,2
+14/11/08,Hannover,Bochum,1,1
+15/11/08,Cottbus,Karlsruhe,1,0
+15/11/08,Dortmund,Ein Frankfurt,4,0
+15/11/08,Hertha,Hamburg,2,1
+15/11/08,Hoffenheim,Wolfsburg,3,2
+15/11/08,Leverkusen,Schalke 04,2,1
+15/11/08,M'gladbach,Bayern Munich,2,2
+15/11/08,Stuttgart,Bielefeld,0,0
+16/11/08,Werder Bremen,FC Koln,3,1
+21/11/08,Karlsruhe,Dortmund,0,1
+22/11/08,Bayern Munich,Cottbus,4,1
+22/11/08,Bielefeld,Leverkusen,2,1
+22/11/08,Bochum,Hertha,2,3
+22/11/08,Ein Frankfurt,Hannover,4,0
+22/11/08,FC Koln,Hoffenheim,1,3
+22/11/08,Schalke 04,M'gladbach,3,1
+22/11/08,Wolfsburg,Stuttgart,4,1
+23/11/08,Hamburg,Werder Bremen,2,1
+28/11/08,Hertha,FC Koln,2,1
+29/11/08,Hannover,Karlsruhe,3,2
+29/11/08,Hoffenheim,Bielefeld,3,0
+29/11/08,Leverkusen,Bayern Munich,0,2
+29/11/08,M'gladbach,Cottbus,1,3
+29/11/08,Werder Bremen,Ein Frankfurt,5,0
+30/11/08,Bochum,Hamburg,1,1
+30/11/08,Dortmund,Wolfsburg,0,0
+30/11/08,Stuttgart,Schalke 04,2,0
+05/12/08,Bayern Munich,Hoffenheim,2,1
+06/12/08,Bielefeld,Dortmund,0,0
+06/12/08,Cottbus,Stuttgart,0,3
+06/12/08,Ein Frankfurt,Bochum,4,0
+06/12/08,Karlsruhe,Werder Bremen,1,0
+06/12/08,M'gladbach,Leverkusen,1,3
+06/12/08,Schalke 04,Hertha,1,0
+07/12/08,FC Koln,Hamburg,1,2
+07/12/08,Wolfsburg,Hannover,2,1
+12/12/08,Dortmund,M'gladbach,2,1
+13/12/08,Bochum,FC Koln,1,2
+13/12/08,Hamburg,Ein Frankfurt,1,0
+13/12/08,Hannover,Bielefeld,1,1
+13/12/08,Hertha,Karlsruhe,4,0
+13/12/08,Leverkusen,Cottbus,1,1
+13/12/08,Stuttgart,Bayern Munich,2,2
+13/12/08,Werder Bremen,Wolfsburg,2,1
+14/12/08,Hoffenheim,Schalke 04,1,1
+30/01/09,Hamburg,Bayern Munich,1,0
+31/01/09,Dortmund,Leverkusen,1,1
+31/01/09,FC Koln,Wolfsburg,1,1
+31/01/09,Hannover,Schalke 04,1,0
+31/01/09,Hertha,Ein Frankfurt,2,1
+31/01/09,Hoffenheim,Cottbus,2,0
+31/01/09,Stuttgart,M'gladbach,2,0
+01/02/09,Bochum,Karlsruhe,2,0
+01/02/09,Werder Bremen,Bielefeld,1,2
+06/02/09,Bielefeld,Hertha,1,1
+07/02/09,Ein Frankfurt,FC Koln,2,2
+07/02/09,Karlsruhe,Hamburg,3,2
+07/02/09,Leverkusen,Stuttgart,2,4
+07/02/09,M'gladbach,Hoffenheim,1,1
+07/02/09,Schalke 04,Werder Bremen,1,0
+07/02/09,Wolfsburg,Bochum,2,0
+08/02/09,Bayern Munich,Dortmund,3,1
+08/02/09,Cottbus,Hannover,3,1
+13/02/09,Hoffenheim,Leverkusen,1,4
+14/02/09,Bochum,Schalke 04,2,1
+14/02/09,Ein Frankfurt,Wolfsburg,0,2
+14/02/09,FC Koln,Karlsruhe,0,0
+14/02/09,Hannover,Stuttgart,3,3
+14/02/09,Hertha,Bayern Munich,2,1
+14/02/09,Werder Bremen,M'gladbach,1,1
+15/02/09,Dortmund,Cottbus,1,1
+15/02/09,Hamburg,Bielefeld,2,0
+20/02/09,Schalke 04,Dortmund,1,1
+21/02/09,Bayern Munich,FC Koln,1,2
+21/02/09,Bielefeld,Bochum,1,1
+21/02/09,Cottbus,Werder Bremen,2,1
+21/02/09,Karlsruhe,Ein Frankfurt,0,1
+21/02/09,M'gladbach,Hannover,3,2
+21/02/09,Stuttgart,Hoffenheim,3,3
+21/02/09,Wolfsburg,Hertha,2,1
+22/02/09,Leverkusen,Hamburg,1,2
+27/02/09,FC Koln,Bielefeld,1,1
+28/02/09,Bochum,Cottbus,3,2
+28/02/09,Dortmund,Hoffenheim,0,0
+28/02/09,Ein Frankfurt,Schalke 04,1,2
+28/02/09,Hannover,Leverkusen,1,0
+28/02/09,Hertha,M'gladbach,2,1
+01/03/09,Hamburg,Wolfsburg,1,3
+01/03/09,Karlsruhe,Stuttgart,0,2
+01/03/09,Werder Bremen,Bayern Munich,0,0
+06/03/09,Schalke 04,FC Koln,1,0
+07/03/09,Bayern Munich,Hannover,5,1
+07/03/09,Cottbus,Hertha,1,3
+07/03/09,Hoffenheim,Werder Bremen,0,0
+07/03/09,M'gladbach,Hamburg,4,1
+07/03/09,Stuttgart,Dortmund,2,1
+07/03/09,Wolfsburg,Karlsruhe,1,0
+08/03/09,Bielefeld,Ein Frankfurt,0,0
+08/03/09,Leverkusen,Bochum,1,1
+13/03/09,Wolfsburg,Schalke 04,4,3
+14/03/09,Bochum,Bayern Munich,0,3
+14/03/09,Ein Frankfurt,Hoffenheim,1,1
+14/03/09,FC Koln,M'gladbach,2,4
+14/03/09,Hannover,Dortmund,4,4
+14/03/09,Hertha,Leverkusen,1,0
+14/03/09,Karlsruhe,Bielefeld,0,1
+15/03/09,Hamburg,Cottbus,2,0
+15/03/09,Werder Bremen,Stuttgart,4,0
+20/03/09,M'gladbach,Bochum,0,1
+21/03/09,Bayern Munich,Karlsruhe,1,0
+21/03/09,Bielefeld,Wolfsburg,0,3
+21/03/09,Cottbus,FC Koln,0,2
+21/03/09,Dortmund,Werder Bremen,1,0
+21/03/09,Hoffenheim,Hannover,2,2
+21/03/09,Leverkusen,Ein Frankfurt,1,1
+21/03/09,Stuttgart,Hertha,2,0
+22/03/09,Schalke 04,Hamburg,1,2
+03/04/09,Bielefeld,Schalke 04,0,2
+04/04/09,Bochum,Stuttgart,1,2
+04/04/09,Ein Frankfurt,Cottbus,2,1
+04/04/09,Hamburg,Hoffenheim,1,0
+04/04/09,Hertha,Dortmund,1,3
+04/04/09,Wolfsburg,Bayern Munich,5,1
+05/04/09,FC Koln,Leverkusen,0,2
+05/04/09,Karlsruhe,M'gladbach,0,0
+05/04/09,Werder Bremen,Hannover,4,1
+11/04/09,Bayern Munich,Ein Frankfurt,4,0
+11/04/09,Cottbus,Bielefeld,2,1
+11/04/09,Dortmund,FC Koln,3,1
+11/04/09,Hannover,Hertha,2,0
+11/04/09,Hoffenheim,Bochum,0,3
+11/04/09,M'gladbach,Wolfsburg,1,2
+11/04/09,Schalke 04,Karlsruhe,2,0
+12/04/09,Leverkusen,Werder Bremen,1,1
+12/04/09,Stuttgart,Hamburg,1,0
+17/04/09,Schalke 04,Cottbus,4,0
+18/04/09,Bielefeld,Bayern Munich,0,1
+18/04/09,Bochum,Dortmund,0,2
+18/04/09,Ein Frankfurt,M'gladbach,4,1
+18/04/09,FC Koln,Stuttgart,0,3
+18/04/09,Karlsruhe,Hoffenheim,2,2
+18/04/09,Wolfsburg,Leverkusen,2,1
+19/04/09,Hamburg,Hannover,2,1
+19/04/09,Hertha,Werder Bremen,2,1
+24/04/09,Hoffenheim,Hertha,0,1
+25/04/09,Bayern Munich,Schalke 04,0,1
+25/04/09,Dortmund,Hamburg,2,0
+25/04/09,Hannover,FC Koln,2,1
+25/04/09,Leverkusen,Karlsruhe,0,1
+25/04/09,Stuttgart,Ein Frankfurt,2,0
+25/04/09,Werder Bremen,Bochum,3,2
+26/04/09,Cottbus,Wolfsburg,2,0
+26/04/09,M'gladbach,Bielefeld,1,1
+01/05/09,Bochum,Hannover,0,2
+02/05/09,Bayern Munich,M'gladbach,2,1
+02/05/09,Bielefeld,Stuttgart,2,2
+02/05/09,Ein Frankfurt,Dortmund,0,2
+02/05/09,Karlsruhe,Cottbus,0,0
+02/05/09,Schalke 04,Leverkusen,1,2
+02/05/09,Wolfsburg,Hoffenheim,4,0
+03/05/09,FC Koln,Werder Bremen,1,0
+03/05/09,Hamburg,Hertha,1,1
+08/05/09,Leverkusen,Bielefeld,2,2
+09/05/09,Cottbus,Bayern Munich,1,3
+09/05/09,Dortmund,Karlsruhe,4,0
+09/05/09,Hannover,Ein Frankfurt,1,1
+09/05/09,Hertha,Bochum,2,0
+09/05/09,Hoffenheim,FC Koln,2,0
+09/05/09,Stuttgart,Wolfsburg,4,1
+10/05/09,M'gladbach,Schalke 04,1,0
+10/05/09,Werder Bremen,Hamburg,2,0
+12/05/09,Bayern Munich,Leverkusen,3,0
+12/05/09,FC Koln,Hertha,1,2
+12/05/09,Karlsruhe,Hannover,2,3
+12/05/09,Wolfsburg,Dortmund,3,0
+13/05/09,Bielefeld,Hoffenheim,0,2
+13/05/09,Cottbus,M'gladbach,0,1
+13/05/09,Ein Frankfurt,Werder Bremen,0,5
+13/05/09,Hamburg,Bochum,3,1
+13/05/09,Schalke 04,Stuttgart,1,2
+16/05/09,Bochum,Ein Frankfurt,2,0
+16/05/09,Dortmund,Bielefeld,6,0
+16/05/09,Hamburg,FC Koln,0,1
+16/05/09,Hannover,Wolfsburg,0,5
+16/05/09,Hertha,Schalke 04,0,0
+16/05/09,Hoffenheim,Bayern Munich,2,2
+16/05/09,Leverkusen,M'gladbach,5,0
+16/05/09,Stuttgart,Cottbus,2,0
+16/05/09,Werder Bremen,Karlsruhe,1,3
+23/05/09,Bayern Munich,Stuttgart,2,1
+23/05/09,Bielefeld,Hannover,2,2
+23/05/09,Cottbus,Leverkusen,3,0
+23/05/09,Ein Frankfurt,Hamburg,2,3
+23/05/09,FC Koln,Bochum,1,1
+23/05/09,Karlsruhe,Hertha,4,0
+23/05/09,M'gladbach,Dortmund,1,1
+23/05/09,Schalke 04,Hoffenheim,2,3
+23/05/09,Wolfsburg,Werder Bremen,5,1

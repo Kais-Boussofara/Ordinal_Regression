@@ -1,0 +1,319 @@
+date,home_team,home_score,away_team,away_score
+2010-12-19,A. Italiano,1,U. Espanola,1
+2010-12-18,U. De Concepcion,3,Curico Unido,2
+2010-12-18,S. Morning,3,Antofagasta,1
+2010-12-15,U. Espanola,2,A. Italiano,1
+2010-12-12,A. Italiano,2,Huachipato,0
+2010-12-12,Antofagasta,2,S. Morning,1
+2010-12-12,Curico Unido,0,U. De Concepcion,2
+2010-12-12,U. De Chile,1,U. Espanola,4
+2010-12-09,U. Espanola,0,U. De Chile,0
+2010-12-08,Huachipato,2,A. Italiano,1
+2010-12-05,Colo Colo,4,U. De Concepcion,2
+2010-12-05,Huachipato,0,Palestino,0
+2010-12-05,Nublense,2,San Felipe,0
+2010-12-05,S. Wanderers,1,S. Morning,1
+2010-12-05,San Luis,2,Cobreloa,1
+2010-12-05,U. Catolica,5,Everton,0
+2010-12-04,U. Espanola,2,Cobresal,0
+2010-12-04,La Serena,4,O'Higgins,2
+2010-12-03,A. Italiano,1,U. De Chile,2
+2010-11-28,U. De Chile,1,Nublense,2
+2010-11-28,Cobresal,0,La Serena,2
+2010-11-28,O'Higgins,2,Colo Colo,1
+2010-11-28,Palestino,3,San Luis,2
+2010-11-28,S. Morning,0,Huachipato,3
+2010-11-27,Everton,1,A. Italiano,2
+2010-11-27,U. De Concepcion,1,S. Wanderers,2
+2010-11-27,Cobreloa,2,U. Catolica,3
+2010-11-26,San Felipe,2,U. Espanola,4
+2010-11-21,A. Italiano,1,S. Morning,0
+2010-11-21,Huachipato,2,Cobreloa,0
+2010-11-21,U. Espanola,1,O'Higgins,1
+2010-11-21,La Serena,0,Palestino,0
+2010-11-21,Nublense,2,U. De Concepcion,2
+2010-11-21,U. Catolica,4,U. De Chile,2
+2010-11-20,Colo Colo,1,Cobresal,0
+2010-11-20,Everton,3,San Felipe,0
+2010-11-19,San Luis,3,S. Wanderers,4
+2010-11-14,O'Higgins,0,Everton,0
+2010-11-14,Cobreloa,3,U. Espanola,1
+2010-11-14,Cobresal,0,San Felipe,0
+2010-11-14,Palestino,2,A. Italiano,5
+2010-11-14,S. Wanderers,2,Nublense,2
+2010-11-13,Colo Colo,0,S. Morning,1
+2010-11-13,U. De Concepcion,1,La Serena,0
+2010-11-13,San Luis,0,U. De Chile,3
+2010-11-12,U. Catolica,2,Huachipato,0
+2010-11-07,Huachipato,2,O'Higgins,1
+2010-11-07,Nublense,3,Cobresal,1
+2010-11-07,S. Morning,2,San Luis,0
+2010-11-07,U. De Chile,2,Colo Colo,2
+2010-11-06,Everton,1,Palestino,1
+2010-11-06,U. Espanola,3,S. Wanderers,0
+2010-11-06,La Serena,1,Cobreloa,0
+2010-11-06,San Felipe,1,U. Catolica,3
+2010-11-05,A. Italiano,4,U. De Concepcion,1
+2010-10-31,Colo Colo,0,Huachipato,0
+2010-10-31,Palestino,1,San Felipe,0
+2010-10-31,S. Wanderers,1,A. Italiano,0
+2010-10-31,Cobreloa,2,S. Morning,1
+2010-10-31,Cobresal,1,Everton,2
+2010-10-31,U. De Concepcion,2,U. De Chile,0
+2010-10-30,U. Catolica,2,La Serena,1
+2010-10-30,O'Higgins,2,Nublense,2
+2010-10-29,San Luis,3,U. Espanola,1
+2010-10-25,U. De Chile,3,Cobreloa,1
+2010-10-24,La Serena,3,U. Espanola,1
+2010-10-24,Nublense,1,U. Catolica,4
+2010-10-24,S. Morning,2,O'Higgins,1
+2010-10-24,San Felipe,3,San Luis,0
+2010-10-23,Huachipato,3,U. De Concepcion,0
+2010-10-23,Everton,0,S. Wanderers,2
+2010-10-21,A. Italiano,4,Cobresal,2
+2010-10-21,Palestino,1,Colo Colo,2
+2010-10-17,Colo Colo,3,U. Catolica,2
+2010-10-17,Cobreloa,4,Everton,0
+2010-10-17,Cobresal,3,U. De Concepcion,1
+2010-10-17,O'Higgins,4,Palestino,1
+2010-10-17,S. Morning,4,Nublense,1
+2010-10-16,San Luis,1,A. Italiano,2
+2010-10-16,U. Espanola,2,U. De Chile,1
+2010-10-16,S. Wanderers,2,San Felipe,1
+2010-10-15,Huachipato,0,La Serena,0
+2010-10-03,Everton,3,La Serena,3
+2010-10-03,Nublense,1,U. Espanola,1
+2010-10-03,O'Higgins,2,Cobreloa,2
+2010-10-03,Palestino,1,Cobresal,0
+2010-10-02,Colo Colo,3,San Luis,1
+2010-10-02,U. De Concepcion,0,S. Morning,0
+2010-10-02,U. Catolica,3,S. Wanderers,1
+2010-10-01,San Felipe,1,U. De Chile,2
+2010-10-01,A. Italiano,1,Huachipato,1
+2010-09-29,Everton,0,Colo Colo,2
+2010-09-26,U. De Chile,1,Palestino,2
+2010-09-26,Huachipato,1,San Felipe,1
+2010-09-26,Cobreloa,3,Nublense,2
+2010-09-26,La Serena,1,Colo Colo,2
+2010-09-26,S. Wanderers,1,O'Higgins,1
+2010-09-25,U. Catolica,2,A. Italiano,3
+2010-09-25,S. Morning,3,Everton,0
+2010-09-25,U. Espanola,3,U. De Concepcion,0
+2010-09-24,San Luis,1,Cobresal,1
+2010-09-22,U. De Chile,0,O'Higgins,1
+2010-09-19,Nublense,4,San Luis,0
+2010-09-19,U. De Concepcion,2,U. Catolica,2
+2010-09-17,A. Italiano,2,La Serena,1
+2010-09-17,U. Espanola,2,S. Morning,2
+2010-09-17,Cobresal,2,Huachipato,1
+2010-09-17,Palestino,0,S. Wanderers,1
+2010-09-17,San Felipe,1,Cobreloa,0
+2010-09-15,San Luis,1,U. De Concepcion,0
+2010-09-13,S. Morning,1,U. De Chile,2
+2010-09-12,Colo Colo,1,A. Italiano,3
+2010-09-12,S. Wanderers,0,Cobresal,4
+2010-09-12,Cobreloa,0,Palestino,0
+2010-09-12,Huachipato,1,Everton,1
+2010-09-12,O'Higgins,1,San Felipe,2
+2010-09-11,La Serena,1,Nublense,0
+2010-09-10,U. Catolica,2,U. Espanola,0
+2010-09-08,Everton,2,Nublense,3
+2010-09-05,U. Espanola,3,Everton,2
+2010-09-05,Cobresal,1,U. De Chile,2
+2010-08-29,A. Italiano,2,O'Higgins,1
+2010-08-29,Nublense,0,Colo Colo,0
+2010-08-28,U. Espanola,5,Huachipato,0
+2010-08-28,U. De Concepcion,3,Cobreloa,0
+2010-08-28,Cobresal,3,U. Catolica,1
+2010-08-28,Everton,1,San Luis,1
+2010-08-28,Palestino,2,S. Morning,1
+2010-08-28,San Felipe,1,La Serena,0
+2010-08-27,U. De Chile,1,S. Wanderers,0
+2010-08-22,Colo Colo,1,U. Espanola,0
+2010-08-22,Cobreloa,1,A. Italiano,1
+2010-08-22,Everton,1,U. De Concepcion,1
+2010-08-22,La Serena,4,S. Wanderers,0
+2010-08-22,Palestino,2,Nublense,0
+2010-08-22,San Felipe,1,S. Morning,0
+2010-08-21,U. Catolica,4,San Luis,1
+2010-08-21,Huachipato,1,U. De Chile,2
+2010-08-20,O'Higgins,0,Cobresal,1
+2010-08-18,U. De Chile,4,Deportes Iquique,1
+2010-08-15,U. De Chile,5,Everton,1
+2010-08-15,Cobresal,0,Cobreloa,1
+2010-08-15,Nublense,1,Huachipato,1
+2010-08-15,S. Morning,0,U. Catolica,2
+2010-08-15,San Luis,0,La Serena,1
+2010-08-14,U. De Concepcion,2,O'Higgins,1
+2010-08-14,U. Espanola,3,Palestino,2
+2010-08-14,S. Wanderers,0,Colo Colo,1
+2010-08-13,A. Italiano,1,San Felipe,0
+2010-08-12,Deportes Iquique,0,U. De Chile,2
+2010-08-08,San Felipe,0,U. De Concepcion,0
+2010-08-08,Huachipato,3,S. Wanderers,2
+2010-08-08,Palestino,0,U. Catolica,1
+2010-08-08,S. Morning,1,Cobresal,1
+2010-08-07,U. De Chile,1,La Serena,2
+2010-08-07,O'Higgins,0,San Luis,0
+2010-08-07,Cobreloa,2,Colo Colo,1
+2010-08-06,A. Italiano,5,U. Espanola,2
+2010-08-01,Colo Colo,5,San Felipe,2
+2010-08-01,La Serena,2,S. Morning,0
+2010-08-01,S. Wanderers,2,Cobreloa,1
+2010-08-01,Nublense,1,A. Italiano,5
+2010-07-31,U. De Concepcion,1,Palestino,0
+2010-07-31,U. Catolica,4,O'Higgins,1
+2010-07-31,San Luis,1,Huachipato,4
+2010-07-25,Cobreloa,5,San Luis,0
+2010-07-25,Cobresal,1,U. Espanola,0
+2010-07-25,S. Morning,2,S. Wanderers,1
+2010-07-25,San Felipe,3,Nublense,1
+2010-07-25,U. De Concepcion,2,Colo Colo,0
+2010-07-25,Palestino,2,Huachipato,1
+2010-07-24,O'Higgins,4,La Serena,0
+2010-07-24,Everton,1,U. Catolica,1
+2010-07-22,U. De Chile,2,A. Italiano,2
+2010-07-21,U. Catolica,1,U. De Concepcion,0
+2010-07-18,U. Catolica,2,Cobreloa,1
+2010-07-18,Huachipato,1,S. Morning,0
+2010-07-18,Colo Colo,2,O'Higgins,0
+2010-07-18,La Serena,3,Cobresal,0
+2010-07-18,S. Wanderers,1,U. De Concepcion,0
+2010-07-18,San Luis,0,Palestino,0
+2010-07-17,A. Italiano,2,Everton,0
+2010-07-17,Nublense,0,U. De Chile,2
+2010-07-16,U. Espanola,1,San Felipe,2
+2010-07-14,Colo Colo,2,Everton,0
+2010-07-14,O'Higgins,3,U. De Chile,3
+2010-07-10,Huachipato,1,A. Italiano,2
+2010-07-10,Cobreloa,0,U. De Chile,2
+2010-05-12,San Felipe,1,Huachipato,1
+2010-05-09,Cobreloa,1,Huachipato,1
+2010-05-09,S. Wanderers,0,San Luis,2
+2010-05-09,San Felipe,1,Everton,3
+2010-05-09,U. De Chile,1,U. Catolica,2
+2010-05-09,U. De Concepcion,4,Nublense,1
+2010-05-09,Palestino,3,La Serena,0
+2010-05-08,O'Higgins,0,U. Espanola,0
+2010-05-08,Cobresal,2,Colo Colo,5
+2010-05-08,S. Morning,0,A. Italiano,1
+2010-05-05,Nublense,1,Cobreloa,1
+2010-05-02,La Serena,0,U. De Concepcion,0
+2010-05-02,U. De Chile,4,San Luis,0
+2010-05-02,A. Italiano,1,Palestino,3
+2010-05-02,Everton,1,O'Higgins,0
+2010-05-02,Nublense,2,S. Wanderers,2
+2010-05-02,U. Espanola,3,Cobreloa,1
+2010-04-30,S. Morning,0,Colo Colo,2
+2010-04-30,Huachipato,1,U. Catolica,3
+2010-04-30,San Felipe,1,Cobresal,0
+2010-04-25,U. Catolica,2,San Felipe,1
+2010-04-25,Cobreloa,4,La Serena,0
+2010-04-25,Cobresal,0,Nublense,0
+2010-04-25,S. Wanderers,1,U. Espanola,1
+2010-04-25,Colo Colo,1,U. De Chile,0
+2010-04-25,Palestino,2,Everton,2
+2010-04-24,O'Higgins,0,Huachipato,0
+2010-04-24,San Luis,2,S. Morning,2
+2010-04-24,U. De Concepcion,1,A. Italiano,3
+2010-04-18,U. Espanola,2,San Luis,1
+2010-04-18,Everton,2,Cobresal,2
+2010-04-18,Nublense,0,O'Higgins,3
+2010-04-18,San Felipe,1,Palestino,1
+2010-04-18,Huachipato,1,Colo Colo,2
+2010-04-17,U. De Chile,4,U. De Concepcion,2
+2010-04-17,La Serena,1,U. Catolica,1
+2010-04-17,A. Italiano,0,S. Wanderers,4
+2010-04-16,S. Morning,0,Cobreloa,0
+2010-04-14,U. De Concepcion,3,U. Espanola,3
+2010-04-11,Colo Colo,3,Palestino,0
+2010-04-11,Cobresal,3,A. Italiano,1
+2010-04-11,S. Wanderers,2,Everton,0
+2010-04-11,San Luis,0,San Felipe,1
+2010-04-11,U. De Concepcion,0,Huachipato,2
+2010-04-10,U. Espanola,1,La Serena,1
+2010-04-10,O'Higgins,1,S. Morning,0
+2010-04-09,U. Catolica,4,Nublense,2
+2010-04-06,Huachipato,4,Cobresal,3
+2010-04-04,Everton,2,Cobreloa,1
+2010-04-04,Nublense,1,S. Morning,1
+2010-04-04,Palestino,1,O'Higgins,0
+2010-04-04,San Felipe,1,S. Wanderers,1
+2010-04-03,U. De Chile,4,U. Espanola,3
+2010-04-03,A. Italiano,2,San Luis,2
+2010-04-03,U. De Concepcion,1,Cobresal,1
+2010-04-03,U. Catolica,0,Colo Colo,0
+2010-04-01,La Serena,0,Huachipato,3
+2010-03-28,La Serena,2,Everton,1
+2010-03-28,S. Morning,2,U. De Concepcion,0
+2010-03-28,Cobresal,2,Palestino,1
+2010-03-28,San Luis,0,Colo Colo,2
+2010-03-27,U. Espanola,1,Nublense,3
+2010-03-27,S. Wanderers,2,U. Catolica,4
+2010-03-27,Cobreloa,1,O'Higgins,1
+2010-03-26,U. De Chile,4,San Felipe,2
+2010-03-21,A. Italiano,1,U. Catolica,3
+2010-03-21,Cobresal,4,San Luis,2
+2010-03-20,Everton,1,S. Morning,1
+2010-03-20,Palestino,0,U. De Chile,1
+2010-03-20,O'Higgins,2,S. Wanderers,2
+2010-03-19,Colo Colo,6,La Serena,1
+2010-03-15,La Serena,1,A. Italiano,3
+2010-03-14,S. Morning,1,U. Espanola,1
+2010-03-14,S. Wanderers,2,Palestino,0
+2010-03-14,Cobreloa,0,San Felipe,0
+2010-03-13,San Luis,3,Nublense,3
+2010-02-21,Nublense,3,La Serena,1
+2010-02-21,U. De Chile,2,S. Morning,1
+2010-02-21,Palestino,1,Cobreloa,0
+2010-02-21,San Felipe,2,O'Higgins,0
+2010-02-21,Cobresal,1,S. Wanderers,0
+2010-02-20,A. Italiano,2,Colo Colo,3
+2010-02-20,U. De Concepcion,1,San Luis,1
+2010-02-20,U. Espanola,2,U. Catolica,1
+2010-02-19,Everton,0,Huachipato,1
+2010-02-17,O'Higgins,1,U. Catolica,0
+2010-02-14,U. Catolica,0,Cobresal,2
+2010-02-14,Huachipato,1,U. Espanola,2
+2010-02-14,San Luis,0,Everton,2
+2010-02-14,O'Higgins,5,A. Italiano,1
+2010-02-14,Cobreloa,1,U. De Concepcion,1
+2010-02-13,La Serena,3,San Felipe,1
+2010-02-13,S. Morning,2,Palestino,1
+2010-02-13,S. Wanderers,3,U. De Chile,3
+2010-02-12,Colo Colo,2,Nublense,2
+2010-02-07,A. Italiano,3,Cobreloa,1
+2010-02-07,Nublense,1,Palestino,0
+2010-02-07,S. Wanderers,5,La Serena,0
+2010-02-07,U. Espanola,1,Colo Colo,0
+2010-02-07,S. Morning,1,San Felipe,0
+2010-02-07,Cobresal,1,O'Higgins,2
+2010-02-06,U. De Chile,3,Huachipato,0
+2010-02-06,U. De Concepcion,2,Everton,1
+2010-02-05,San Luis,1,U. Catolica,1
+2010-02-04,Colo Colo,3,S. Wanderers,0
+2010-02-03,Everton,2,U. De Chile,1
+2010-02-03,Huachipato,1,Nublense,1
+2010-02-03,San Felipe,1,A. Italiano,2
+2010-02-03,Palestino,0,U. Espanola,0
+2010-02-03,Cobreloa,2,Cobresal,1
+2010-02-02,La Serena,1,San Luis,3
+2010-02-02,O'Higgins,1,U. De Concepcion,2
+2010-02-02,U. Catolica,4,S. Morning,0
+2010-01-31,Colo Colo,3,Cobreloa,1
+2010-01-31,U. Espanola,2,A. Italiano,2
+2010-01-30,La Serena,2,U. De Chile,4
+2010-01-30,Nublense,0,Everton,2
+2010-01-30,San Luis,1,O'Higgins,2
+2010-01-30,U. Catolica,2,Palestino,1
+2010-01-30,Cobresal,3,S. Morning,0
+2010-01-29,S. Wanderers,0,Huachipato,0
+2010-01-29,U. De Concepcion,0,San Felipe,1
+2010-01-25,A. Italiano,5,Nublense,6
+2010-01-24,U. De Chile,5,Cobresal,1
+2010-01-24,Huachipato,2,San Luis,1
+2010-01-24,Palestino,1,U. De Concepcion,1
+2010-01-24,S. Morning,2,La Serena,3
+2010-01-24,Cobreloa,2,S. Wanderers,1
+2010-01-23,Everton,0,U. Espanola,1
+2010-01-23,San Felipe,3,Colo Colo,2

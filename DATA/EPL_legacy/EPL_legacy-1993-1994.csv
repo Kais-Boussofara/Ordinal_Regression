@@ -1,0 +1,463 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,round
+14/08/1993,Sheffield United,Swindon Town,3,1,1
+14/08/1993,Arsenal FC,Coventry City,0,3,1
+14/08/1993,Southampton FC,Everton FC,0,2,1
+14/08/1993,Oldham Athletic,Ipswich Town,0,3,1
+14/08/1993,Newcastle United,Tottenham Hotspur,0,1,1
+14/08/1993,Manchester City,Leeds United,1,1,1
+14/08/1993,Liverpool FC,Sheffield Wednesday,2,0,1
+14/08/1993,Chelsea FC,Blackburn Rovers,1,2,1
+14/08/1993,Aston Villa,Queens Park Rangers,4,1,1
+14/08/1993,West Ham United,Wimbledon FC,0,2,1
+15/08/1993,Norwich City,Manchester United,0,2,1
+16/08/1993,Tottenham Hotspur,Arsenal FC,0,1,2
+17/08/1993,Leeds United,West Ham United,1,0,2
+17/08/1993,Ipswich Town,Southampton FC,1,0,2
+17/08/1993,Everton FC,Manchester City,1,0,2
+17/08/1993,Wimbledon FC,Chelsea FC,1,1,2
+18/08/1993,Manchester United,Sheffield United,3,0,2
+18/08/1993,Blackburn Rovers,Norwich City,2,3,2
+18/08/1993,Swindon Town,Oldham Athletic,0,1,2
+18/08/1993,Queens Park Rangers,Liverpool FC,1,3,2
+18/08/1993,Coventry City,Newcastle United,2,1,2
+18/08/1993,Sheffield Wednesday,Aston Villa,0,0,2
+21/08/1993,Leeds United,Norwich City,0,4,3
+21/08/1993,Wimbledon FC,Aston Villa,2,2,3
+21/08/1993,Tottenham Hotspur,Manchester City,1,0,3
+21/08/1993,Sheffield Wednesday,Arsenal FC,0,1,3
+21/08/1993,Manchester United,Newcastle United,1,1,3
+21/08/1993,Ipswich Town,Chelsea FC,1,0,3
+21/08/1993,Everton FC,Sheffield United,4,2,3
+21/08/1993,Coventry City,West Ham United,1,1,3
+21/08/1993,Blackburn Rovers,Oldham Athletic,1,0,3
+21/08/1993,Queens Park Rangers,Southampton FC,2,1,3
+22/08/1993,Swindon Town,Liverpool FC,0,5,3
+23/08/1993,Aston Villa,Manchester United,1,2,4
+24/08/1993,Oldham Athletic,Coventry City,3,3,4
+24/08/1993,Manchester City,Blackburn Rovers,0,2,4
+24/08/1993,Arsenal FC,Leeds United,2,1,4
+24/08/1993,Sheffield United,Wimbledon FC,2,1,4
+25/08/1993,Chelsea FC,Queens Park Rangers,2,0,4
+25/08/1993,Newcastle United,Everton FC,1,0,4
+25/08/1993,West Ham United,Sheffield Wednesday,2,0,4
+25/08/1993,Norwich City,Ipswich Town,1,0,4
+25/08/1993,Liverpool FC,Tottenham Hotspur,1,2,4
+25/08/1993,Southampton FC,Swindon Town,5,1,4
+27/08/1993,Manchester City,Coventry City,1,1,5
+28/08/1993,Liverpool FC,Leeds United,2,0,5
+28/08/1993,West Ham United,Queens Park Rangers,0,4,5
+28/08/1993,Southampton FC,Manchester United,1,3,5
+28/08/1993,Sheffield United,Ipswich Town,1,1,5
+28/08/1993,Norwich City,Swindon Town,0,0,5
+28/08/1993,Chelsea FC,Sheffield Wednesday,1,1,5
+28/08/1993,Aston Villa,Tottenham Hotspur,1,0,5
+28/08/1993,Arsenal FC,Everton FC,2,0,5
+28/08/1993,Oldham Athletic,Wimbledon FC,1,1,5
+29/08/1993,Newcastle United,Blackburn Rovers,1,1,5
+31/08/1993,Wimbledon FC,Southampton FC,1,0,6
+31/08/1993,Ipswich Town,Newcastle United,1,1,6
+31/08/1993,Everton FC,Aston Villa,0,1,6
+31/08/1993,Leeds United,Oldham Athletic,1,0,6
+01/09/1993,Blackburn Rovers,Arsenal FC,1,1,6
+01/09/1993,Swindon Town,Manchester City,1,3,6
+01/09/1993,Sheffield Wednesday,Norwich City,3,3,6
+01/09/1993,Queens Park Rangers,Sheffield United,2,1,6
+01/09/1993,Tottenham Hotspur,Chelsea FC,1,1,6
+01/09/1993,Manchester United,West Ham United,3,0,6
+01/09/1993,Coventry City,Liverpool FC,1,0,6
+11/09/1993,Norwich City,Wimbledon FC,0,1,7
+11/09/1993,West Ham United,Swindon Town,0,0,7
+11/09/1993,Southampton FC,Leeds United,0,2,7
+11/09/1993,Oldham Athletic,Everton FC,0,1,7
+11/09/1993,Manchester City,Queens Park Rangers,3,0,7
+11/09/1993,Chelsea FC,Manchester United,1,0,7
+11/09/1993,Aston Villa,Coventry City,0,0,7
+11/09/1993,Arsenal FC,Ipswich Town,4,0,7
+11/09/1993,Sheffield United,Tottenham Hotspur,2,2,7
+12/09/1993,Liverpool FC,Blackburn Rovers,0,1,7
+13/09/1993,Newcastle United,Sheffield Wednesday,4,2,7
+18/09/1993,Sheffield Wednesday,Southampton FC,2,0,8
+18/09/1993,Coventry City,Chelsea FC,1,1,8
+18/09/1993,Tottenham Hotspur,Oldham Athletic,5,0,8
+18/09/1993,Swindon Town,Newcastle United,2,2,8
+18/09/1993,Leeds United,Sheffield United,2,1,8
+18/09/1993,Blackburn Rovers,West Ham United,0,2,8
+18/09/1993,Everton FC,Liverpool FC,2,0,8
+18/09/1993,Ipswich Town,Aston Villa,1,2,8
+18/09/1993,Queens Park Rangers,Norwich City,2,2,8
+19/09/1993,Manchester United,Arsenal FC,1,0,8
+20/09/1993,Wimbledon FC,Manchester City,1,0,8
+25/09/1993,Everton FC,Norwich City,1,5,9
+25/09/1993,Sheffield United,Manchester City,0,1,9
+25/09/1993,Oldham Athletic,Aston Villa,1,1,9
+25/09/1993,Manchester United,Swindon Town,4,2,9
+25/09/1993,Coventry City,Leeds United,0,2,9
+25/09/1993,Chelsea FC,Liverpool FC,1,0,9
+25/09/1993,Blackburn Rovers,Sheffield Wednesday,1,1,9
+25/09/1993,Arsenal FC,Southampton FC,1,0,9
+25/09/1993,Newcastle United,West Ham United,2,0,9
+26/09/1993,Ipswich Town,Tottenham Hotspur,2,2,9
+27/09/1993,Wimbledon FC,Queens Park Rangers,1,1,9
+02/10/1993,Swindon Town,Blackburn Rovers,1,3,10
+02/10/1993,Queens Park Rangers,Ipswich Town,3,0,10
+02/10/1993,West Ham United,Chelsea FC,1,0,10
+02/10/1993,Aston Villa,Newcastle United,0,2,10
+02/10/1993,Norwich City,Coventry City,1,0,10
+02/10/1993,Liverpool FC,Arsenal FC,0,0,10
+02/10/1993,Leeds United,Wimbledon FC,4,0,10
+02/10/1993,Southampton FC,Sheffield United,3,3,10
+02/10/1993,Sheffield Wednesday,Manchester United,2,3,10
+03/10/1993,Tottenham Hotspur,Everton FC,3,2,10
+04/10/1993,Manchester City,Oldham Athletic,1,1,10
+16/10/1993,Manchester United,Tottenham Hotspur,2,1,11
+16/10/1993,West Ham United,Aston Villa,0,0,11
+16/10/1993,Swindon Town,Everton FC,1,1,11
+16/10/1993,Newcastle United,Queens Park Rangers,1,2,11
+16/10/1993,Liverpool FC,Oldham Athletic,2,1,11
+16/10/1993,Coventry City,Southampton FC,1,1,11
+16/10/1993,Chelsea FC,Norwich City,1,2,11
+16/10/1993,Arsenal FC,Manchester City,0,0,11
+16/10/1993,Sheffield Wednesday,Wimbledon FC,2,2,11
+17/10/1993,Ipswich Town,Leeds United,0,0,11
+18/10/1993,Blackburn Rovers,Sheffield United,0,0,11
+23/10/1993,Queens Park Rangers,Coventry City,5,1,12
+23/10/1993,Tottenham Hotspur,Swindon Town,1,1,12
+23/10/1993,Sheffield United,Sheffield Wednesday,1,1,12
+23/10/1993,Norwich City,West Ham United,0,0,12
+23/10/1993,Manchester City,Liverpool FC,1,1,12
+23/10/1993,Leeds United,Blackburn Rovers,3,3,12
+23/10/1993,Aston Villa,Chelsea FC,1,0,12
+23/10/1993,Everton FC,Manchester United,0,1,12
+23/10/1993,Oldham Athletic,Arsenal FC,0,0,12
+24/10/1993,Southampton FC,Newcastle United,2,1,12
+25/10/1993,Wimbledon FC,Ipswich Town,0,2,12
+30/10/1993,Swindon Town,Aston Villa,1,2,13
+30/10/1993,Sheffield Wednesday,Leeds United,3,3,13
+30/10/1993,Newcastle United,Wimbledon FC,4,0,13
+30/10/1993,Liverpool FC,Southampton FC,4,2,13
+30/10/1993,Ipswich Town,Everton FC,0,2,13
+30/10/1993,Chelsea FC,Oldham Athletic,0,1,13
+30/10/1993,Blackburn Rovers,Tottenham Hotspur,1,0,13
+30/10/1993,Arsenal FC,Norwich City,0,0,13
+30/10/1993,Manchester United,Queens Park Rangers,2,1,13
+31/10/1993,Coventry City,Sheffield United,0,0,13
+01/11/1993,West Ham United,Manchester City,3,1,13
+06/11/1993,Sheffield United,Norwich City,1,2,14
+06/11/1993,Queens Park Rangers,Blackburn Rovers,1,0,14
+06/11/1993,Liverpool FC,West Ham United,2,0,14
+06/11/1993,Arsenal FC,Aston Villa,1,2,14
+06/11/1993,Southampton FC,Tottenham Hotspur,1,0,14
+06/11/1993,Leeds United,Chelsea FC,4,1,14
+06/11/1993,Ipswich Town,Sheffield Wednesday,1,4,14
+06/11/1993,Coventry City,Everton FC,2,1,14
+06/11/1993,Wimbledon FC,Swindon Town,3,0,14
+07/11/1993,Manchester City,Manchester United,2,3,14
+08/11/1993,Oldham Athletic,Newcastle United,1,3,14
+20/11/1993,West Ham United,Oldham Athletic,2,0,15
+20/11/1993,Swindon Town,Ipswich Town,2,2,15
+20/11/1993,Chelsea FC,Arsenal FC,0,2,15
+20/11/1993,Tottenham Hotspur,Leeds United,1,1,15
+20/11/1993,Manchester United,Wimbledon FC,3,1,15
+20/11/1993,Aston Villa,Sheffield United,1,0,15
+20/11/1993,Everton FC,Queens Park Rangers,0,3,15
+20/11/1993,Sheffield Wednesday,Coventry City,0,0,15
+20/11/1993,Blackburn Rovers,Southampton FC,2,0,15
+20/11/1993,Norwich City,Manchester City,1,1,15
+21/11/1993,Newcastle United,Liverpool FC,3,0,15
+22/11/1993,Chelsea FC,Manchester City,0,0,16
+23/11/1993,Everton FC,Leeds United,1,1,16
+23/11/1993,Blackburn Rovers,Coventry City,2,1,16
+24/11/1993,Manchester United,Ipswich Town,0,0,16
+24/11/1993,West Ham United,Arsenal FC,0,0,16
+24/11/1993,Tottenham Hotspur,Wimbledon FC,1,1,16
+24/11/1993,Swindon Town,Queens Park Rangers,1,0,16
+24/11/1993,Newcastle United,Sheffield United,4,0,16
+24/11/1993,Aston Villa,Southampton FC,0,2,16
+24/11/1993,Sheffield Wednesday,Oldham Athletic,3,0,16
+05/02/1994,Norwich City,Liverpool FC,2,2,16
+27/11/1993,Sheffield United,Chelsea FC,1,0,17
+27/11/1993,Wimbledon FC,Everton FC,1,1,17
+27/11/1993,Queens Park Rangers,Tottenham Hotspur,1,1,17
+27/11/1993,Arsenal FC,Newcastle United,2,1,17
+27/11/1993,Manchester City,Sheffield Wednesday,1,3,17
+27/11/1993,Leeds United,Swindon Town,3,0,17
+27/11/1993,Ipswich Town,Blackburn Rovers,1,0,17
+27/11/1993,Coventry City,Manchester United,0,1,17
+27/11/1993,Oldham Athletic,Norwich City,2,1,17
+28/11/1993,Liverpool FC,Aston Villa,2,1,17
+29/11/1993,Southampton FC,West Ham United,0,2,17
+04/12/1993,Coventry City,Arsenal FC,1,0,18
+04/12/1993,Queens Park Rangers,Aston Villa,2,2,18
+04/12/1993,Wimbledon FC,West Ham United,1,2,18
+04/12/1993,Tottenham Hotspur,Newcastle United,1,2,18
+04/12/1993,Sheffield Wednesday,Liverpool FC,3,1,18
+04/12/1993,Manchester United,Norwich City,2,2,18
+04/12/1993,Leeds United,Manchester City,3,2,18
+04/12/1993,Ipswich Town,Oldham Athletic,0,0,18
+04/12/1993,Everton FC,Southampton FC,1,0,18
+04/12/1993,Swindon Town,Sheffield United,0,0,18
+05/12/1993,Blackburn Rovers,Chelsea FC,2,0,18
+06/12/1993,Arsenal FC,Tottenham Hotspur,1,1,19
+07/12/1993,Oldham Athletic,Swindon Town,2,1,19
+07/12/1993,Sheffield United,Manchester United,0,3,19
+08/12/1993,Southampton FC,Ipswich Town,0,1,19
+08/12/1993,West Ham United,Leeds United,0,1,19
+08/12/1993,Manchester City,Everton FC,1,0,19
+08/12/1993,Liverpool FC,Queens Park Rangers,3,2,19
+08/12/1993,Aston Villa,Sheffield Wednesday,2,2,19
+22/02/1994,Norwich City,Blackburn Rovers,2,2,19
+23/02/1994,Newcastle United,Coventry City,4,0,19
+16/03/1994,Chelsea FC,Wimbledon FC,2,0,19
+11/12/1993,Oldham Athletic,Blackburn Rovers,1,2,20
+11/12/1993,West Ham United,Coventry City,3,2,20
+11/12/1993,Southampton FC,Queens Park Rangers,0,1,20
+11/12/1993,Newcastle United,Manchester United,1,1,20
+11/12/1993,Sheffield United,Everton FC,0,0,20
+11/12/1993,Aston Villa,Wimbledon FC,0,1,20
+11/12/1993,Manchester City,Tottenham Hotspur,0,2,20
+11/12/1993,Liverpool FC,Swindon Town,2,2,20
+11/12/1993,Chelsea FC,Ipswich Town,1,1,20
+12/12/1993,Arsenal FC,Sheffield Wednesday,1,0,20
+13/12/1993,Norwich City,Leeds United,2,1,20
+18/12/1993,Tottenham Hotspur,Liverpool FC,3,3,21
+18/12/1993,Sheffield Wednesday,West Ham United,5,0,21
+18/12/1993,Blackburn Rovers,Manchester City,2,0,21
+18/12/1993,Wimbledon FC,Sheffield United,2,0,21
+18/12/1993,Swindon Town,Southampton FC,2,1,21
+18/12/1993,Leeds United,Arsenal FC,2,1,21
+18/12/1993,Ipswich Town,Norwich City,2,1,21
+18/12/1993,Everton FC,Newcastle United,0,2,21
+18/12/1993,Coventry City,Oldham Athletic,1,1,21
+19/12/1993,Manchester United,Aston Villa,3,1,21
+13/04/1994,Queens Park Rangers,Chelsea FC,1,1,21
+22/12/1993,Newcastle United,Leeds United,1,1,22
+26/12/1993,Manchester United,Blackburn Rovers,1,1,22
+26/12/1993,Wimbledon FC,Coventry City,1,2,22
+26/12/1993,Sheffield United,Liverpool FC,0,0,22
+27/12/1993,Ipswich Town,West Ham United,1,1,22
+27/12/1993,Tottenham Hotspur,Norwich City,1,3,22
+27/12/1993,Swindon Town,Arsenal FC,0,4,22
+27/12/1993,Southampton FC,Chelsea FC,3,1,22
+27/12/1993,Queens Park Rangers,Oldham Athletic,2,0,22
+27/12/1993,Everton FC,Sheffield Wednesday,0,2,22
+22/02/1994,Aston Villa,Manchester City,0,0,22
+28/12/1993,Chelsea FC,Newcastle United,1,0,23
+28/12/1993,West Ham United,Tottenham Hotspur,1,3,23
+28/12/1993,Liverpool FC,Wimbledon FC,1,1,23
+28/12/1993,Manchester City,Southampton FC,1,1,23
+29/12/1993,Sheffield Wednesday,Swindon Town,3,3,23
+29/12/1993,Oldham Athletic,Manchester United,2,5,23
+29/12/1993,Blackburn Rovers,Everton FC,2,0,23
+29/12/1993,Leeds United,Queens Park Rangers,1,1,23
+29/12/1993,Arsenal FC,Sheffield United,3,0,23
+29/12/1993,Norwich City,Aston Villa,1,2,23
+02/02/1994,Coventry City,Ipswich Town,1,0,23
+01/01/1994,Tottenham Hotspur,Coventry City,1,2,24
+01/01/1994,Manchester United,Leeds United,0,0,24
+01/01/1994,Swindon Town,Chelsea FC,1,3,24
+01/01/1994,Wimbledon FC,Arsenal FC,0,3,24
+01/01/1994,Southampton FC,Norwich City,0,1,24
+01/01/1994,Queens Park Rangers,Sheffield Wednesday,1,2,24
+01/01/1994,Aston Villa,Blackburn Rovers,0,1,24
+01/01/1994,Newcastle United,Manchester City,2,0,24
+01/01/1994,Sheffield United,Oldham Athletic,2,1,24
+01/01/1994,Everton FC,West Ham United,0,1,24
+01/01/1994,Ipswich Town,Liverpool FC,1,2,24
+03/01/1994,Chelsea FC,Everton FC,4,2,25
+03/01/1994,West Ham United,Sheffield United,0,0,25
+03/01/1994,Coventry City,Swindon Town,1,1,25
+03/01/1994,Arsenal FC,Queens Park Rangers,0,0,25
+03/01/1994,Sheffield Wednesday,Tottenham Hotspur,1,0,25
+04/01/1994,Norwich City,Newcastle United,1,2,25
+04/01/1994,Liverpool FC,Manchester United,3,3,25
+16/03/1994,Leeds United,Aston Villa,2,0,25
+29/03/1994,Ipswich Town,Manchester City,2,2,25
+29/03/1994,Wimbledon FC,Blackburn Rovers,4,1,25
+30/03/1994,Southampton FC,Oldham Athletic,1,3,25
+15/01/1994,Oldham Athletic,Liverpool FC,0,3,26
+15/01/1994,Sheffield United,Blackburn Rovers,1,2,26
+15/01/1994,Wimbledon FC,Sheffield Wednesday,2,1,26
+15/01/1994,Tottenham Hotspur,Manchester United,0,1,26
+15/01/1994,Norwich City,Chelsea FC,1,1,26
+15/01/1994,Aston Villa,West Ham United,3,1,26
+15/01/1994,Manchester City,Arsenal FC,0,0,26
+15/01/1994,Leeds United,Ipswich Town,0,0,26
+15/01/1994,Everton FC,Swindon Town,6,2,26
+15/01/1994,Southampton FC,Coventry City,1,0,26
+16/01/1994,Queens Park Rangers,Newcastle United,1,2,26
+22/01/1994,Liverpool FC,Manchester City,2,1,27
+22/01/1994,Swindon Town,Tottenham Hotspur,2,1,27
+22/01/1994,Sheffield Wednesday,Sheffield United,3,1,27
+22/01/1994,Manchester United,Everton FC,1,0,27
+22/01/1994,Ipswich Town,Wimbledon FC,0,0,27
+22/01/1994,Coventry City,Queens Park Rangers,0,1,27
+22/01/1994,Chelsea FC,Aston Villa,1,1,27
+22/01/1994,Arsenal FC,Oldham Athletic,1,1,27
+22/01/1994,Newcastle United,Southampton FC,1,2,27
+23/01/1994,Blackburn Rovers,Leeds United,2,1,27
+24/01/1994,West Ham United,Norwich City,3,3,27
+05/02/1994,Tottenham Hotspur,Sheffield Wednesday,1,3,28
+05/02/1994,Swindon Town,Coventry City,3,1,28
+05/02/1994,Manchester City,Ipswich Town,2,1,28
+05/02/1994,Blackburn Rovers,Wimbledon FC,3,0,28
+05/02/1994,Everton FC,Chelsea FC,4,2,28
+05/02/1994,Oldham Athletic,Southampton FC,2,1,28
+06/02/1994,Aston Villa,Leeds United,1,0,28
+28/03/1994,Sheffield United,West Ham United,3,2,28
+29/03/1994,Newcastle United,Norwich City,3,0,28
+30/03/1994,Manchester United,Liverpool FC,1,0,28
+27/04/1994,Queens Park Rangers,Arsenal FC,1,1,28
+05/02/1994,Queens Park Rangers,Manchester United,2,3,29
+12/02/1994,Aston Villa,Swindon Town,5,0,29
+12/02/1994,Wimbledon FC,Newcastle United,4,2,29
+12/02/1994,Tottenham Hotspur,Blackburn Rovers,0,2,29
+12/02/1994,Oldham Athletic,Chelsea FC,2,1,29
+12/02/1994,Manchester City,West Ham United,0,0,29
+12/02/1994,Everton FC,Ipswich Town,0,0,29
+12/02/1994,Sheffield United,Coventry City,0,0,29
+13/02/1994,Norwich City,Arsenal FC,1,1,29
+14/02/1994,Southampton FC,Liverpool FC,4,2,29
+03/05/1994,Leeds United,Sheffield Wednesday,2,2,29
+19/02/1994,Everton FC,Arsenal FC,1,1,30
+19/02/1994,Leeds United,Liverpool FC,2,0,30
+19/02/1994,Coventry City,Manchester City,4,0,30
+19/02/1994,Swindon Town,Norwich City,3,3,30
+19/02/1994,Blackburn Rovers,Newcastle United,1,0,30
+26/02/1994,Ipswich Town,Sheffield United,3,2,30
+02/03/1994,Tottenham Hotspur,Aston Villa,1,1,30
+30/03/1994,Sheffield Wednesday,Chelsea FC,3,1,30
+26/04/1994,Wimbledon FC,Oldham Athletic,3,0,30
+03/05/1994,Queens Park Rangers,West Ham United,0,0,30
+04/05/1994,Manchester United,Southampton FC,2,0,30
+26/02/1994,West Ham United,Manchester United,2,2,31
+26/02/1994,Southampton FC,Wimbledon FC,1,0,31
+26/02/1994,Manchester City,Swindon Town,2,1,31
+26/02/1994,Liverpool FC,Coventry City,1,0,31
+26/02/1994,Arsenal FC,Blackburn Rovers,1,0,31
+26/02/1994,Norwich City,Sheffield Wednesday,1,1,31
+27/02/1994,Chelsea FC,Tottenham Hotspur,4,3,31
+28/02/1994,Oldham Athletic,Leeds United,1,1,31
+16/03/1994,Sheffield United,Queens Park Rangers,1,1,31
+23/03/1994,Newcastle United,Ipswich Town,2,0,31
+30/03/1994,Aston Villa,Everton FC,0,0,31
+05/03/1994,Tottenham Hotspur,Sheffield United,2,2,32
+05/03/1994,Manchester United,Chelsea FC,0,1,32
+05/03/1994,Swindon Town,West Ham United,1,1,32
+05/03/1994,Sheffield Wednesday,Newcastle United,0,1,32
+05/03/1994,Queens Park Rangers,Manchester City,1,1,32
+05/03/1994,Ipswich Town,Arsenal FC,1,5,32
+05/03/1994,Everton FC,Oldham Athletic,2,1,32
+05/03/1994,Leeds United,Southampton FC,0,0,32
+05/03/1994,Wimbledon FC,Norwich City,3,1,32
+05/03/1994,Blackburn Rovers,Liverpool FC,2,0,32
+06/03/1994,Coventry City,Aston Villa,0,1,32
+12/03/1994,Manchester City,Wimbledon FC,0,1,33
+12/03/1994,Southampton FC,Sheffield Wednesday,1,1,33
+12/03/1994,Newcastle United,Swindon Town,7,1,33
+12/03/1994,Aston Villa,Ipswich Town,0,1,33
+12/03/1994,Norwich City,Queens Park Rangers,3,4,33
+13/03/1994,Liverpool FC,Everton FC,2,1,33
+13/03/1994,Sheffield United,Leeds United,2,2,33
+22/03/1994,Arsenal FC,Manchester United,2,2,33
+27/04/1994,West Ham United,Blackburn Rovers,1,2,33
+04/05/1994,Chelsea FC,Coventry City,1,2,33
+05/05/1994,Oldham Athletic,Tottenham Hotspur,0,2,33
+19/03/1994,Aston Villa,Oldham Athletic,1,2,34
+19/03/1994,Manchester City,Sheffield United,0,0,34
+19/03/1994,West Ham United,Newcastle United,2,4,34
+19/03/1994,Tottenham Hotspur,Ipswich Town,1,1,34
+19/03/1994,Swindon Town,Manchester United,2,2,34
+19/03/1994,Southampton FC,Arsenal FC,0,4,34
+19/03/1994,Leeds United,Coventry City,1,0,34
+19/03/1994,Liverpool FC,Chelsea FC,2,1,34
+19/03/1994,Queens Park Rangers,Wimbledon FC,1,0,34
+20/03/1994,Sheffield Wednesday,Blackburn Rovers,1,2,34
+21/03/1994,Norwich City,Everton FC,3,0,34
+26/03/1994,Wimbledon FC,Leeds United,1,0,34
+16/03/1994,Manchester United,Sheffield Wednesday,5,0,35
+26/03/1994,Sheffield United,Southampton FC,0,0,35
+26/03/1994,Oldham Athletic,Manchester City,0,0,35
+26/03/1994,Ipswich Town,Queens Park Rangers,1,3,35
+26/03/1994,Everton FC,Tottenham Hotspur,0,1,35
+26/03/1994,Chelsea FC,West Ham United,2,0,35
+26/03/1994,Arsenal FC,Liverpool FC,1,0,35
+26/03/1994,Coventry City,Norwich City,2,1,35
+26/03/1994,Blackburn Rovers,Swindon Town,3,1,35
+27/04/1994,Newcastle United,Aston Villa,5,1,35
+01/04/1994,Leeds United,Newcastle United,1,1,36
+02/04/1994,Chelsea FC,Southampton FC,2,0,36
+02/04/1994,West Ham United,Ipswich Town,2,1,36
+02/04/1994,Sheffield Wednesday,Everton FC,5,1,36
+02/04/1994,Oldham Athletic,Queens Park Rangers,4,1,36
+02/04/1994,Norwich City,Tottenham Hotspur,1,2,36
+02/04/1994,Coventry City,Wimbledon FC,1,2,36
+02/04/1994,Blackburn Rovers,Manchester United,2,0,36
+02/04/1994,Arsenal FC,Swindon Town,1,1,36
+02/04/1994,Liverpool FC,Sheffield United,1,2,36
+02/04/1994,Manchester City,Aston Villa,3,0,36
+04/04/1994,Manchester United,Oldham Athletic,3,2,37
+04/04/1994,Wimbledon FC,Liverpool FC,1,1,37
+04/04/1994,Tottenham Hotspur,West Ham United,1,4,37
+04/04/1994,Swindon Town,Sheffield Wednesday,0,1,37
+04/04/1994,Southampton FC,Manchester City,0,1,37
+04/04/1994,Sheffield United,Arsenal FC,1,1,37
+04/04/1994,Ipswich Town,Coventry City,0,2,37
+04/04/1994,Everton FC,Blackburn Rovers,0,3,37
+04/04/1994,Aston Villa,Norwich City,0,0,37
+04/04/1994,Queens Park Rangers,Leeds United,0,4,37
+04/04/1994,Newcastle United,Chelsea FC,0,0,37
+09/04/1994,Sheffield Wednesday,Queens Park Rangers,3,1,38
+09/04/1994,West Ham United,Everton FC,0,1,38
+09/04/1994,Norwich City,Southampton FC,4,5,38
+09/04/1994,Manchester City,Newcastle United,2,1,38
+09/04/1994,Liverpool FC,Ipswich Town,1,0,38
+09/04/1994,Coventry City,Tottenham Hotspur,1,0,38
+11/04/1994,Blackburn Rovers,Aston Villa,1,0,38
+19/04/1994,Arsenal FC,Wimbledon FC,1,1,38
+27/04/1994,Chelsea FC,Swindon Town,2,0,38
+27/04/1994,Leeds United,Manchester United,0,2,38
+03/05/1994,Oldham Athletic,Sheffield United,1,1,38
+16/04/1994,Queens Park Rangers,Everton FC,2,1,39
+16/04/1994,Arsenal FC,Chelsea FC,1,0,39
+16/04/1994,Southampton FC,Blackburn Rovers,3,1,39
+16/04/1994,Wimbledon FC,Manchester United,1,0,39
+16/04/1994,Coventry City,Sheffield Wednesday,1,1,39
+16/04/1994,Liverpool FC,Newcastle United,0,2,39
+16/04/1994,Oldham Athletic,West Ham United,1,2,39
+16/04/1994,Manchester City,Norwich City,1,1,39
+16/04/1994,Ipswich Town,Swindon Town,1,1,39
+16/04/1994,Sheffield United,Aston Villa,1,2,39
+17/04/1994,Leeds United,Tottenham Hotspur,2,0,39
+23/04/1994,Tottenham Hotspur,Southampton FC,3,0,40
+23/04/1994,West Ham United,Liverpool FC,1,2,40
+23/04/1994,Manchester United,Manchester City,2,0,40
+23/04/1994,Sheffield Wednesday,Ipswich Town,5,0,40
+23/04/1994,Norwich City,Sheffield United,0,1,40
+23/04/1994,Newcastle United,Oldham Athletic,3,2,40
+23/04/1994,Everton FC,Coventry City,0,0,40
+23/04/1994,Chelsea FC,Leeds United,1,1,40
+23/04/1994,Aston Villa,Arsenal FC,1,2,40
+23/04/1994,Swindon Town,Wimbledon FC,2,4,40
+24/04/1994,Blackburn Rovers,Queens Park Rangers,1,1,40
+30/04/1994,Liverpool FC,Norwich City,0,1,41
+30/04/1994,Wimbledon FC,Tottenham Hotspur,2,1,41
+30/04/1994,Southampton FC,Aston Villa,4,1,41
+30/04/1994,Sheffield United,Newcastle United,2,0,41
+30/04/1994,Queens Park Rangers,Swindon Town,1,3,41
+30/04/1994,Leeds United,Everton FC,3,0,41
+30/04/1994,Arsenal FC,West Ham United,0,2,41
+30/04/1994,Oldham Athletic,Sheffield Wednesday,0,0,41
+30/04/1994,Manchester City,Chelsea FC,2,2,41
+01/05/1994,Ipswich Town,Manchester United,1,2,41
+02/05/1994,Coventry City,Blackburn Rovers,2,1,41
+07/05/1994,Sheffield Wednesday,Manchester City,1,1,42
+07/05/1994,West Ham United,Southampton FC,3,3,42
+07/05/1994,Tottenham Hotspur,Queens Park Rangers,1,2,42
+07/05/1994,Swindon Town,Leeds United,0,5,42
+07/05/1994,Newcastle United,Arsenal FC,2,0,42
+07/05/1994,Everton FC,Wimbledon FC,3,2,42
+07/05/1994,Chelsea FC,Sheffield United,3,2,42
+07/05/1994,Aston Villa,Liverpool FC,2,1,42
+07/05/1994,Blackburn Rovers,Ipswich Town,0,0,42
+07/05/1994,Norwich City,Oldham Athletic,1,1,42
+08/05/1994,Manchester United,Coventry City,0,0,42

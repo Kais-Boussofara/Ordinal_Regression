@@ -1,0 +1,463 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,round
+27/08/1983,Arsenal FC,Luton Town,2,1,1
+27/08/1983,West Ham United,Birmingham City,4,0,1
+27/08/1983,Watford FC,Coventry City,2,3,1
+27/08/1983,Sunderland AFC,Norwich City,1,1,1
+27/08/1983,Nottingham Forest,Southampton FC,0,1,1
+27/08/1983,Manchester United,Queens Park Rangers,3,1,1
+27/08/1983,Leicester City,Notts County,0,4,1
+27/08/1983,Ipswich Town,Tottenham Hotspur,3,1,1
+27/08/1983,Everton FC,Stoke City,1,0,1
+27/08/1983,Aston Villa,West Bromwich Albion,4,3,1
+27/08/1983,Wolverhampton Wanderers,Liverpool FC,1,1,1
+29/08/1983,Aston Villa,Sunderland AFC,1,0,2
+29/08/1983,Wolverhampton Wanderers,Arsenal FC,1,2,2
+29/08/1983,Tottenham Hotspur,Coventry City,1,1,2
+29/08/1983,Stoke City,West Bromwich Albion,3,1,2
+29/08/1983,Southampton FC,Queens Park Rangers,0,0,2
+29/08/1983,Manchester United,Nottingham Forest,1,2,2
+29/08/1983,Everton FC,West Ham United,0,1,2
+30/08/1983,Notts County,Birmingham City,2,1,2
+30/08/1983,Watford FC,Ipswich Town,2,2,2
+31/08/1983,Leicester City,Luton Town,0,3,2
+31/08/1983,Norwich City,Liverpool FC,0,1,2
+03/09/1983,Birmingham City,Watford FC,2,0,3
+03/09/1983,Tottenham Hotspur,West Ham United,0,2,3
+03/09/1983,Stoke City,Manchester United,0,1,3
+03/09/1983,Southampton FC,Arsenal FC,1,0,3
+03/09/1983,Queens Park Rangers,Aston Villa,2,1,3
+03/09/1983,Notts County,Ipswich Town,0,2,3
+03/09/1983,Norwich City,Wolverhampton Wanderers,3,0,3
+03/09/1983,Luton Town,Sunderland AFC,4,1,3
+03/09/1983,Liverpool FC,Nottingham Forest,1,0,3
+03/09/1983,Coventry City,Everton FC,1,1,3
+03/09/1983,West Bromwich Albion,Leicester City,1,0,3
+06/09/1983,Arsenal FC,Manchester United,2,3,4
+06/09/1983,West Ham United,Leicester City,3,1,4
+06/09/1983,Queens Park Rangers,Watford FC,1,1,4
+06/09/1983,Luton Town,Norwich City,2,2,4
+06/09/1983,Liverpool FC,Southampton FC,1,1,4
+06/09/1983,Ipswich Town,Everton FC,3,0,4
+06/09/1983,Coventry City,Notts County,2,1,4
+06/09/1983,Birmingham City,Stoke City,1,0,4
+07/09/1983,Nottingham Forest,Aston Villa,2,2,4
+07/09/1983,Sunderland AFC,Wolverhampton Wanderers,3,2,4
+07/09/1983,West Bromwich Albion,Tottenham Hotspur,1,1,4
+10/09/1983,Arsenal FC,Liverpool FC,0,2,5
+10/09/1983,West Ham United,Coventry City,5,2,5
+10/09/1983,Watford FC,Notts County,3,1,5
+10/09/1983,Sunderland AFC,Southampton FC,0,2,5
+10/09/1983,Nottingham Forest,Queens Park Rangers,3,2,5
+10/09/1983,Manchester United,Luton Town,2,0,5
+10/09/1983,Leicester City,Tottenham Hotspur,0,3,5
+10/09/1983,Ipswich Town,Stoke City,5,0,5
+10/09/1983,Everton FC,West Bromwich Albion,0,0,5
+10/09/1983,Aston Villa,Norwich City,1,0,5
+10/09/1983,Wolverhampton Wanderers,Birmingham City,1,1,5
+17/09/1983,Birmingham City,Ipswich Town,1,0,6
+17/09/1983,Tottenham Hotspur,Everton FC,1,2,6
+17/09/1983,Stoke City,Watford FC,0,4,6
+17/09/1983,Southampton FC,Manchester United,3,0,6
+17/09/1983,Queens Park Rangers,Sunderland AFC,3,0,6
+17/09/1983,Notts County,Arsenal FC,0,4,6
+17/09/1983,Norwich City,Nottingham Forest,2,3,6
+17/09/1983,Luton Town,Wolverhampton Wanderers,4,0,6
+17/09/1983,Liverpool FC,Aston Villa,2,1,6
+17/09/1983,Coventry City,Leicester City,2,1,6
+17/09/1983,West Bromwich Albion,West Ham United,1,0,6
+24/09/1983,Arsenal FC,Norwich City,3,0,7
+24/09/1983,West Ham United,Notts County,3,0,7
+24/09/1983,Watford FC,Tottenham Hotspur,2,3,7
+24/09/1983,Sunderland AFC,Coventry City,1,0,7
+24/09/1983,Nottingham Forest,Luton Town,1,0,7
+24/09/1983,Manchester United,Liverpool FC,1,0,7
+24/09/1983,Leicester City,Stoke City,2,2,7
+24/09/1983,Ipswich Town,West Bromwich Albion,3,4,7
+24/09/1983,Everton FC,Birmingham City,1,1,7
+24/09/1983,Aston Villa,Southampton FC,1,0,7
+24/09/1983,Wolverhampton Wanderers,Queens Park Rangers,0,4,7
+01/10/1983,Birmingham City,Leicester City,2,1,8
+01/10/1983,West Bromwich Albion,Watford FC,2,0,8
+01/10/1983,Stoke City,West Ham United,3,1,8
+01/10/1983,Southampton FC,Wolverhampton Wanderers,1,0,8
+01/10/1983,Queens Park Rangers,Arsenal FC,2,0,8
+01/10/1983,Notts County,Everton FC,0,1,8
+01/10/1983,Norwich City,Manchester United,3,3,8
+01/10/1983,Luton Town,Aston Villa,1,0,8
+01/10/1983,Liverpool FC,Sunderland AFC,0,1,8
+01/10/1983,Coventry City,Ipswich Town,1,2,8
+02/10/1983,Tottenham Hotspur,Nottingham Forest,2,1,8
+15/10/1983,Arsenal FC,Coventry City,0,1,9
+15/10/1983,Wolverhampton Wanderers,Tottenham Hotspur,2,3,9
+15/10/1983,West Ham United,Liverpool FC,1,3,9
+15/10/1983,Watford FC,Norwich City,1,3,9
+15/10/1983,Sunderland AFC,Stoke City,2,2,9
+15/10/1983,Manchester United,West Bromwich Albion,3,0,9
+15/10/1983,Ipswich Town,Queens Park Rangers,0,2,9
+15/10/1983,Everton FC,Luton Town,0,1,9
+15/10/1983,Aston Villa,Birmingham City,1,0,9
+16/10/1983,Nottingham Forest,Notts County,3,1,9
+30/11/1983,Leicester City,Southampton FC,2,1,9
+22/10/1983,Luton Town,Southampton FC,3,1,10
+22/10/1983,Arsenal FC,Nottingham Forest,4,1,10
+22/10/1983,West Ham United,Norwich City,0,0,10
+22/10/1983,Sunderland AFC,Manchester United,0,1,10
+22/10/1983,Queens Park Rangers,Liverpool FC,0,1,10
+22/10/1983,Notts County,Stoke City,1,1,10
+22/10/1983,Ipswich Town,Leicester City,0,0,10
+22/10/1983,Everton FC,Watford FC,1,0,10
+22/10/1983,Coventry City,West Bromwich Albion,1,2,10
+22/10/1983,Birmingham City,Tottenham Hotspur,0,1,10
+23/10/1983,Wolverhampton Wanderers,Aston Villa,1,1,10
+28/10/1983,Watford FC,West Ham United,0,0,11
+29/10/1983,West Bromwich Albion,Birmingham City,1,2,11
+29/10/1983,Tottenham Hotspur,Notts County,1,0,11
+29/10/1983,Stoke City,Coventry City,1,3,11
+29/10/1983,Southampton FC,Ipswich Town,3,2,11
+29/10/1983,Nottingham Forest,Sunderland AFC,1,1,11
+29/10/1983,Manchester United,Wolverhampton Wanderers,3,0,11
+29/10/1983,Liverpool FC,Luton Town,6,0,11
+29/10/1983,Leicester City,Everton FC,2,0,11
+29/10/1983,Aston Villa,Arsenal FC,2,6,11
+29/10/1983,Norwich City,Queens Park Rangers,0,3,11
+05/11/1983,Norwich City,Southampton FC,1,0,12
+05/11/1983,West Ham United,Ipswich Town,2,1,12
+05/11/1983,West Bromwich Albion,Notts County,2,0,12
+05/11/1983,Watford FC,Leicester City,3,3,12
+05/11/1983,Stoke City,Tottenham Hotspur,1,1,12
+05/11/1983,Queens Park Rangers,Luton Town,0,1,12
+05/11/1983,Nottingham Forest,Wolverhampton Wanderers,5,0,12
+05/11/1983,Manchester United,Aston Villa,1,2,12
+05/11/1983,Birmingham City,Coventry City,1,2,12
+05/11/1983,Arsenal FC,Sunderland AFC,1,2,12
+06/11/1983,Liverpool FC,Everton FC,3,0,12
+12/11/1983,Southampton FC,West Bromwich Albion,1,0,13
+12/11/1983,Aston Villa,Stoke City,1,1,13
+12/11/1983,Wolverhampton Wanderers,West Ham United,0,3,13
+12/11/1983,Tottenham Hotspur,Liverpool FC,2,2,13
+12/11/1983,Sunderland AFC,Watford FC,3,0,13
+12/11/1983,Notts County,Norwich City,1,1,13
+12/11/1983,Luton Town,Birmingham City,1,1,13
+12/11/1983,Leicester City,Manchester United,1,1,13
+12/11/1983,Ipswich Town,Arsenal FC,1,0,13
+12/11/1983,Everton FC,Nottingham Forest,1,0,13
+12/11/1983,Coventry City,Queens Park Rangers,1,0,13
+19/11/1983,Southampton FC,Notts County,0,2,14
+19/11/1983,Arsenal FC,Everton FC,2,1,14
+19/11/1983,Wolverhampton Wanderers,Coventry City,0,0,14
+19/11/1983,Sunderland AFC,West Ham United,0,1,14
+19/11/1983,Queens Park Rangers,Birmingham City,2,1,14
+19/11/1983,Nottingham Forest,Ipswich Town,2,1,14
+19/11/1983,Manchester United,Watford FC,4,1,14
+19/11/1983,Luton Town,Tottenham Hotspur,2,4,14
+19/11/1983,Liverpool FC,Stoke City,1,0,14
+19/11/1983,Aston Villa,Leicester City,3,1,14
+19/11/1983,Norwich City,West Bromwich Albion,2,0,14
+26/11/1983,Coventry City,Southampton FC,0,0,15
+26/11/1983,West Bromwich Albion,Wolverhampton Wanderers,1,3,15
+26/11/1983,Watford FC,Luton Town,1,2,15
+26/11/1983,Tottenham Hotspur,Queens Park Rangers,3,2,15
+26/11/1983,Stoke City,Nottingham Forest,1,1,15
+26/11/1983,Notts County,Aston Villa,5,2,15
+26/11/1983,Leicester City,Arsenal FC,3,0,15
+26/11/1983,Ipswich Town,Liverpool FC,1,1,15
+26/11/1983,Everton FC,Norwich City,0,2,15
+26/11/1983,Birmingham City,Sunderland AFC,0,1,15
+27/11/1983,West Ham United,Manchester United,1,1,15
+03/12/1983,Sunderland AFC,Ipswich Town,1,1,16
+03/12/1983,Southampton FC,Stoke City,3,1,16
+03/12/1983,Queens Park Rangers,Notts County,1,0,16
+03/12/1983,Norwich City,Tottenham Hotspur,2,1,16
+03/12/1983,Manchester United,Everton FC,0,1,16
+03/12/1983,Luton Town,Coventry City,2,4,16
+03/12/1983,Liverpool FC,Birmingham City,1,0,16
+03/12/1983,Aston Villa,West Ham United,1,0,16
+03/12/1983,Arsenal FC,West Bromwich Albion,0,1,16
+03/12/1983,Wolverhampton Wanderers,Watford FC,0,5,16
+04/12/1983,Nottingham Forest,Leicester City,3,2,16
+10/12/1983,West Bromwich Albion,Queens Park Rangers,1,2,17
+10/12/1983,Watford FC,Nottingham Forest,3,2,17
+10/12/1983,Tottenham Hotspur,Southampton FC,0,0,17
+10/12/1983,Stoke City,Luton Town,2,4,17
+10/12/1983,Notts County,Sunderland AFC,6,1,17
+10/12/1983,Ipswich Town,Manchester United,0,2,17
+10/12/1983,Everton FC,Aston Villa,1,1,17
+10/12/1983,Coventry City,Liverpool FC,4,0,17
+10/12/1983,West Ham United,Arsenal FC,3,1,17
+10/12/1983,Birmingham City,Norwich City,0,1,17
+10/12/1983,Leicester City,Wolverhampton Wanderers,5,1,17
+16/12/1983,Manchester United,Tottenham Hotspur,4,2,18
+17/12/1983,Wolverhampton Wanderers,Stoke City,0,0,18
+17/12/1983,Southampton FC,Birmingham City,2,1,18
+17/12/1983,Queens Park Rangers,Everton FC,2,0,18
+17/12/1983,Nottingham Forest,West Ham United,3,0,18
+17/12/1983,Liverpool FC,Notts County,5,0,18
+17/12/1983,Aston Villa,Ipswich Town,4,0,18
+17/12/1983,Arsenal FC,Watford FC,3,1,18
+17/12/1983,Norwich City,Coventry City,0,0,18
+18/12/1983,Luton Town,West Bromwich Albion,2,0,18
+18/12/1983,Sunderland AFC,Leicester City,1,1,18
+26/12/1983,West Bromwich Albion,Liverpool FC,1,2,19
+26/12/1983,Watford FC,Aston Villa,3,2,19
+26/12/1983,Tottenham Hotspur,Arsenal FC,2,4,19
+26/12/1983,Stoke City,Norwich City,2,0,19
+26/12/1983,Notts County,Luton Town,0,3,19
+26/12/1983,Ipswich Town,Wolverhampton Wanderers,3,1,19
+26/12/1983,Everton FC,Sunderland AFC,0,0,19
+26/12/1983,Coventry City,Manchester United,1,1,19
+26/12/1983,Birmingham City,Nottingham Forest,1,2,19
+26/12/1983,West Ham United,Southampton FC,0,1,19
+26/12/1983,Leicester City,Queens Park Rangers,2,1,19
+27/12/1983,Wolverhampton Wanderers,Everton FC,3,0,20
+27/12/1983,Sunderland AFC,West Bromwich Albion,3,0,20
+27/12/1983,Southampton FC,Watford FC,1,0,20
+27/12/1983,Norwich City,Ipswich Town,0,0,20
+27/12/1983,Manchester United,Notts County,3,3,20
+27/12/1983,Luton Town,West Ham United,0,1,20
+27/12/1983,Aston Villa,Tottenham Hotspur,0,0,20
+27/12/1983,Arsenal FC,Birmingham City,1,1,20
+27/12/1983,Liverpool FC,Leicester City,2,2,20
+28/12/1983,Nottingham Forest,Coventry City,3,0,20
+17/01/1984,Queens Park Rangers,Stoke City,6,0,20
+31/12/1983,West Ham United,Tottenham Hotspur,4,1,21
+31/12/1983,Watford FC,Birmingham City,1,0,21
+31/12/1983,Sunderland AFC,Luton Town,2,0,21
+31/12/1983,Nottingham Forest,Liverpool FC,0,1,21
+31/12/1983,Manchester United,Stoke City,1,0,21
+31/12/1983,Ipswich Town,Notts County,1,0,21
+31/12/1983,Everton FC,Coventry City,0,0,21
+31/12/1983,Aston Villa,Queens Park Rangers,2,1,21
+31/12/1983,Arsenal FC,Southampton FC,2,2,21
+31/12/1983,Wolverhampton Wanderers,Norwich City,2,0,21
+31/12/1983,Leicester City,West Bromwich Albion,1,1,21
+02/01/1984,Tottenham Hotspur,Watford FC,2,3,22
+02/01/1984,Southampton FC,Aston Villa,2,2,22
+02/01/1984,Queens Park Rangers,Wolverhampton Wanderers,2,1,22
+02/01/1984,Notts County,West Ham United,2,2,22
+02/01/1984,Norwich City,Arsenal FC,1,1,22
+02/01/1984,Luton Town,Nottingham Forest,2,3,22
+02/01/1984,Liverpool FC,Manchester United,1,1,22
+02/01/1984,Coventry City,Sunderland AFC,2,1,22
+02/01/1984,Birmingham City,Everton FC,0,2,22
+02/01/1984,West Bromwich Albion,Ipswich Town,2,1,22
+02/01/1984,Stoke City,Leicester City,0,1,22
+13/01/1984,Queens Park Rangers,Manchester United,1,1,23
+14/01/1984,West Bromwich Albion,Aston Villa,3,1,23
+14/01/1984,Tottenham Hotspur,Ipswich Town,2,0,23
+14/01/1984,Stoke City,Everton FC,1,1,23
+14/01/1984,Norwich City,Sunderland AFC,3,0,23
+14/01/1984,Luton Town,Arsenal FC,1,2,23
+14/01/1984,Liverpool FC,Wolverhampton Wanderers,0,1,23
+14/01/1984,Coventry City,Watford FC,1,2,23
+14/01/1984,Birmingham City,West Ham United,3,0,23
+14/01/1984,Notts County,Leicester City,2,5,23
+23/01/1984,Southampton FC,Nottingham Forest,0,1,23
+20/01/1984,Aston Villa,Liverpool FC,1,3,24
+21/01/1984,Nottingham Forest,Norwich City,3,0,24
+21/01/1984,Wolverhampton Wanderers,Luton Town,1,2,24
+21/01/1984,West Ham United,West Bromwich Albion,1,0,24
+21/01/1984,Watford FC,Stoke City,2,0,24
+21/01/1984,Manchester United,Southampton FC,3,2,24
+21/01/1984,Ipswich Town,Birmingham City,1,2,24
+21/01/1984,Everton FC,Tottenham Hotspur,2,1,24
+21/01/1984,Arsenal FC,Notts County,1,1,24
+21/01/1984,Leicester City,Coventry City,1,1,24
+07/03/1984,Sunderland AFC,Queens Park Rangers,1,0,24
+19/10/1983,Norwich City,Leicester City,3,1,25
+28/01/1984,Stoke City,Arsenal FC,1,0,25
+01/02/1984,Liverpool FC,Watford FC,3,0,25
+07/02/1984,Birmingham City,Manchester United,2,2,25
+07/02/1984,Queens Park Rangers,West Ham United,1,1,25
+08/02/1984,Tottenham Hotspur,Sunderland AFC,3,0,25
+08/02/1984,West Bromwich Albion,Nottingham Forest,0,5,25
+13/03/1984,Coventry City,Aston Villa,3,3,25
+13/03/1984,Luton Town,Ipswich Town,2,1,25
+17/04/1984,Southampton FC,Everton FC,3,1,25
+01/05/1984,Notts County,Wolverhampton Wanderers,4,0,25
+04/02/1984,Sunderland AFC,Liverpool FC,0,0,26
+04/02/1984,Wolverhampton Wanderers,Southampton FC,0,1,26
+04/02/1984,West Ham United,Stoke City,3,0,26
+04/02/1984,Nottingham Forest,Tottenham Hotspur,2,2,26
+04/02/1984,Manchester United,Norwich City,0,0,26
+04/02/1984,Ipswich Town,Coventry City,3,1,26
+04/02/1984,Everton FC,Notts County,4,1,26
+04/02/1984,Aston Villa,Luton Town,0,0,26
+04/02/1984,Arsenal FC,Queens Park Rangers,0,2,26
+04/02/1984,Leicester City,Birmingham City,2,3,26
+04/02/1984,Watford FC,West Bromwich Albion,3,1,26
+11/02/1984,Birmingham City,Wolverhampton Wanderers,0,0,27
+11/02/1984,Norwich City,Aston Villa,3,1,27
+11/02/1984,Southampton FC,Sunderland AFC,1,1,27
+11/02/1984,Stoke City,Ipswich Town,1,0,27
+11/02/1984,West Bromwich Albion,Everton FC,1,1,27
+11/02/1984,Coventry City,West Ham United,1,2,27
+11/02/1984,Liverpool FC,Arsenal FC,2,1,27
+11/02/1984,Notts County,Watford FC,3,5,27
+11/02/1984,Queens Park Rangers,Nottingham Forest,0,1,27
+11/02/1984,Tottenham Hotspur,Leicester City,3,2,27
+12/02/1984,Luton Town,Manchester United,0,5,27
+14/02/1984,Queens Park Rangers,Norwich City,2,0,28
+18/02/1984,Arsenal FC,Aston Villa,1,1,28
+18/02/1984,Coventry City,Stoke City,2,3,28
+18/02/1984,Luton Town,Liverpool FC,0,0,28
+18/02/1984,Sunderland AFC,Nottingham Forest,1,1,28
+18/02/1984,Wolverhampton Wanderers,Manchester United,1,1,28
+21/02/1984,Ipswich Town,Southampton FC,0,3,28
+21/02/1984,West Ham United,Watford FC,2,4,28
+21/02/1984,Notts County,Tottenham Hotspur,0,0,28
+28/02/1984,Birmingham City,West Bromwich Albion,2,1,28
+20/03/1984,Everton FC,Leicester City,1,1,28
+25/02/1984,Watford FC,Everton FC,4,4,29
+25/02/1984,Aston Villa,Wolverhampton Wanderers,4,0,29
+25/02/1984,Leicester City,Ipswich Town,2,0,29
+25/02/1984,Southampton FC,Luton Town,2,1,29
+25/02/1984,West Bromwich Albion,Coventry City,1,1,29
+25/02/1984,Liverpool FC,Queens Park Rangers,2,0,29
+25/02/1984,Tottenham Hotspur,Birmingham City,0,1,29
+25/02/1984,Stoke City,Notts County,1,0,29
+25/02/1984,Nottingham Forest,Arsenal FC,0,1,29
+25/02/1984,Norwich City,West Ham United,1,0,29
+25/02/1984,Manchester United,Sunderland AFC,2,1,29
+03/03/1984,Everton FC,Liverpool FC,1,1,30
+03/03/1984,Southampton FC,Norwich City,2,1,30
+03/03/1984,Notts County,West Bromwich Albion,1,1,30
+03/03/1984,Luton Town,Queens Park Rangers,0,0,30
+03/03/1984,Leicester City,Watford FC,4,1,30
+03/03/1984,Ipswich Town,West Ham United,0,3,30
+03/03/1984,Aston Villa,Manchester United,0,3,30
+03/03/1984,Coventry City,Birmingham City,0,1,30
+03/03/1984,Sunderland AFC,Arsenal FC,2,2,30
+03/03/1984,Tottenham Hotspur,Stoke City,1,0,30
+03/03/1984,Wolverhampton Wanderers,Nottingham Forest,1,0,30
+10/03/1984,Stoke City,Aston Villa,1,0,31
+10/03/1984,Queens Park Rangers,Coventry City,2,1,31
+10/03/1984,Manchester United,Leicester City,2,0,31
+10/03/1984,Arsenal FC,Ipswich Town,4,1,31
+10/03/1984,Liverpool FC,Tottenham Hotspur,3,1,31
+10/03/1984,West Ham United,Wolverhampton Wanderers,1,1,31
+13/03/1984,Nottingham Forest,Everton FC,1,0,31
+13/03/1984,Norwich City,Notts County,0,1,31
+20/03/1984,Birmingham City,Luton Town,1,1,31
+20/03/1984,Watford FC,Sunderland AFC,2,1,31
+14/05/1984,West Bromwich Albion,Southampton FC,0,2,31
+16/03/1984,Southampton FC,Liverpool FC,2,0,32
+17/03/1984,Everton FC,Ipswich Town,1,0,32
+17/03/1984,Wolverhampton Wanderers,Sunderland AFC,0,0,32
+17/03/1984,Watford FC,Queens Park Rangers,1,0,32
+17/03/1984,Notts County,Coventry City,2,1,32
+17/03/1984,Leicester City,West Ham United,4,1,32
+17/03/1984,Aston Villa,Nottingham Forest,1,0,32
+17/03/1984,Manchester United,Arsenal FC,4,0,32
+17/03/1984,Norwich City,Luton Town,0,0,32
+17/03/1984,Stoke City,Birmingham City,2,1,32
+17/03/1984,Tottenham Hotspur,West Bromwich Albion,0,1,32
+24/03/1984,Queens Park Rangers,Southampton FC,4,0,33
+24/03/1984,Birmingham City,Notts County,0,0,33
+24/03/1984,Arsenal FC,Wolverhampton Wanderers,4,1,33
+24/03/1984,West Bromwich Albion,Stoke City,3,0,33
+24/03/1984,Sunderland AFC,Aston Villa,0,1,33
+24/03/1984,Luton Town,Leicester City,0,0,33
+24/03/1984,Ipswich Town,Watford FC,0,0,33
+24/03/1984,Coventry City,Tottenham Hotspur,2,4,33
+14/05/1984,West Ham United,Everton FC,0,1,33
+15/05/1984,Liverpool FC,Norwich City,1,1,33
+16/05/1984,Nottingham Forest,Manchester United,2,0,33
+31/03/1984,Notts County,Nottingham Forest,0,0,34
+31/03/1984,Tottenham Hotspur,Wolverhampton Wanderers,1,0,34
+31/03/1984,West Bromwich Albion,Manchester United,2,0,34
+31/03/1984,Birmingham City,Aston Villa,2,1,34
+31/03/1984,Stoke City,Sunderland AFC,2,1,34
+31/03/1984,Coventry City,Arsenal FC,1,4,34
+07/04/1984,Luton Town,Everton FC,0,3,34
+07/04/1984,Liverpool FC,West Ham United,6,0,34
+07/04/1984,Southampton FC,Leicester City,2,2,34
+07/04/1984,Queens Park Rangers,Ipswich Town,1,0,34
+07/04/1984,Norwich City,Watford FC,6,1,34
+31/03/1984,Everton FC,Southampton FC,1,0,35
+31/03/1984,West Ham United,Queens Park Rangers,2,2,35
+31/03/1984,Watford FC,Liverpool FC,0,2,35
+31/03/1984,Leicester City,Norwich City,2,1,35
+31/03/1984,Ipswich Town,Luton Town,3,0,35
+07/04/1984,Manchester United,Birmingham City,1,0,35
+07/04/1984,Nottingham Forest,West Bromwich Albion,3,1,35
+07/04/1984,Wolverhampton Wanderers,Notts County,0,1,35
+07/04/1984,Arsenal FC,Stoke City,3,1,35
+07/04/1984,Sunderland AFC,Tottenham Hotspur,1,1,35
+07/04/1984,Aston Villa,Coventry City,2,0,35
+09/04/1984,Everton FC,Arsenal FC,0,0,36
+14/04/1984,Coventry City,Wolverhampton Wanderers,2,1,36
+14/04/1984,West Bromwich Albion,Norwich City,0,0,36
+14/04/1984,West Ham United,Sunderland AFC,0,1,36
+14/04/1984,Tottenham Hotspur,Luton Town,2,1,36
+14/04/1984,Stoke City,Liverpool FC,2,0,36
+14/04/1984,Leicester City,Aston Villa,2,0,36
+14/04/1984,Ipswich Town,Nottingham Forest,2,2,36
+14/04/1984,Birmingham City,Queens Park Rangers,0,2,36
+17/04/1984,Watford FC,Manchester United,0,0,36
+17/05/1984,Notts County,Southampton FC,1,3,36
+21/04/1984,Luton Town,Notts County,3,2,37
+21/04/1984,Sunderland AFC,Everton FC,2,1,37
+21/04/1984,Wolverhampton Wanderers,Ipswich Town,0,3,37
+21/04/1984,Southampton FC,West Ham United,2,0,37
+21/04/1984,Nottingham Forest,Birmingham City,5,1,37
+21/04/1984,Norwich City,Stoke City,2,2,37
+21/04/1984,Manchester United,Coventry City,4,1,37
+21/04/1984,Liverpool FC,West Bromwich Albion,3,0,37
+21/04/1984,Arsenal FC,Tottenham Hotspur,3,2,37
+21/04/1984,Aston Villa,Watford FC,2,1,37
+21/04/1984,Queens Park Rangers,Leicester City,2,0,37
+14/04/1984,Notts County,Manchester United,1,0,38
+17/04/1984,Coventry City,Nottingham Forest,2,1,38
+17/04/1984,West Ham United,Luton Town,3,1,38
+18/04/1984,Leicester City,Liverpool FC,3,3,38
+18/04/1984,Tottenham Hotspur,Aston Villa,2,1,38
+23/04/1984,Everton FC,Wolverhampton Wanderers,2,0,38
+23/04/1984,Birmingham City,Arsenal FC,1,1,38
+23/04/1984,Ipswich Town,Norwich City,2,0,38
+23/04/1984,Stoke City,Queens Park Rangers,1,2,38
+23/04/1984,West Bromwich Albion,Sunderland AFC,3,1,38
+24/04/1984,Watford FC,Southampton FC,1,1,38
+28/04/1984,Southampton FC,Coventry City,8,2,39
+28/04/1984,Manchester United,West Ham United,0,0,39
+28/04/1984,Norwich City,Everton FC,1,1,39
+28/04/1984,Nottingham Forest,Stoke City,0,0,39
+28/04/1984,Wolverhampton Wanderers,West Bromwich Albion,0,0,39
+28/04/1984,Arsenal FC,Leicester City,2,1,39
+28/04/1984,Sunderland AFC,Birmingham City,2,1,39
+28/04/1984,Queens Park Rangers,Tottenham Hotspur,2,1,39
+28/04/1984,Luton Town,Watford FC,1,2,39
+28/04/1984,Liverpool FC,Ipswich Town,2,2,39
+28/04/1984,Aston Villa,Notts County,3,1,39
+05/05/1984,Stoke City,Southampton FC,1,1,40
+05/05/1984,Everton FC,Manchester United,1,1,40
+05/05/1984,Notts County,Queens Park Rangers,0,3,40
+05/05/1984,Birmingham City,Liverpool FC,0,0,40
+05/05/1984,West Ham United,Aston Villa,0,1,40
+05/05/1984,West Bromwich Albion,Arsenal FC,1,3,40
+05/05/1984,Watford FC,Wolverhampton Wanderers,0,0,40
+05/05/1984,Tottenham Hotspur,Norwich City,2,0,40
+05/05/1984,Leicester City,Nottingham Forest,2,1,40
+05/05/1984,Ipswich Town,Sunderland AFC,1,0,40
+05/05/1984,Coventry City,Luton Town,2,2,40
+07/05/1984,Southampton FC,Tottenham Hotspur,5,0,41
+07/05/1984,Norwich City,Birmingham City,1,1,41
+07/05/1984,Nottingham Forest,Watford FC,5,1,41
+07/05/1984,Arsenal FC,West Ham United,3,3,41
+07/05/1984,Wolverhampton Wanderers,Leicester City,1,0,41
+07/05/1984,Sunderland AFC,Notts County,0,0,41
+07/05/1984,Queens Park Rangers,West Bromwich Albion,1,1,41
+07/05/1984,Manchester United,Ipswich Town,1,2,41
+07/05/1984,Luton Town,Stoke City,0,1,41
+07/05/1984,Liverpool FC,Coventry City,5,0,41
+07/05/1984,Aston Villa,Everton FC,0,2,41
+12/05/1984,Birmingham City,Southampton FC,0,0,42
+12/05/1984,Coventry City,Norwich City,2,1,42
+12/05/1984,Everton FC,Queens Park Rangers,3,1,42
+12/05/1984,Notts County,Liverpool FC,0,0,42
+12/05/1984,Tottenham Hotspur,Manchester United,1,1,42
+12/05/1984,West Ham United,Nottingham Forest,1,2,42
+12/05/1984,Ipswich Town,Aston Villa,2,1,42
+12/05/1984,Leicester City,Sunderland AFC,0,2,42
+12/05/1984,Stoke City,Wolverhampton Wanderers,4,0,42
+12/05/1984,Watford FC,Arsenal FC,2,1,42
+12/05/1984,West Bromwich Albion,Luton Town,3,0,42

@@ -1,0 +1,341 @@
+date,home_team,home_score,away_team,away_score
+2011-12-29,U. De Chile,3,Cobreloa,0
+2011-12-26,Cobreloa,0,U. De Chile,0
+2011-12-22,U. De Chile,1,U. Catolica,2
+2011-12-20,Cobreloa,1,Colo Colo,2
+2011-12-18,U. Catolica,1,U. De Chile,2
+2011-12-17,Colo Colo,2,Cobreloa,3
+2011-12-11,San Felipe,2,Everton,0
+2011-12-11,U. De Chile,3,U. Espanola,0
+2011-12-11,Cobreloa,4,Union La Calera,3
+2011-12-10,A. Italiano,0,U. Catolica,1
+2011-12-10,Colo Colo,3,La Serena,1
+2011-12-10,S. Wanderers,2,C.D.S. Naval,2
+2011-12-04,Everton,1,San Felipe,0
+2011-12-04,U. Espanola,0,U. De Chile,1
+2011-12-04,Union La Calera,0,Cobreloa,1
+2011-12-04,C.D.S. Naval,0,S. Wanderers,1
+2011-12-03,U. Catolica,3,A. Italiano,1
+2011-12-03,La Serena,2,Colo Colo,6
+2011-11-27,A. Italiano,1,U. De Chile,1
+2011-11-27,Cobreloa,2,S. Morning,1
+2011-11-27,Cobresal,3,Deportes Iquique,3
+2011-11-27,O'Higgins,4,Huachipato,4
+2011-11-27,Palestino,1,San Felipe,0
+2011-11-27,U. De Concepcion,2,U. Espanola,2
+2011-11-27,Union La Calera,1,S. Wanderers,0
+2011-11-26,Colo Colo,2,Nublense,1
+2011-11-26,U. Catolica,4,La Serena,1
+2011-11-20,Nublense,1,Union La Calera,3
+2011-11-20,U. De Chile,0,U. Catolica,0
+2011-11-19,U. Espanola,5,A. Italiano,2
+2011-11-19,La Serena,2,Cobreloa,1
+2011-11-19,San Felipe,1,Cobresal,1
+2011-11-19,S. Wanderers,1,O'Higgins,0
+2011-11-19,S. Morning,0,U. De Concepcion,3
+2011-11-19,Deportes Iquique,1,Colo Colo,1
+2011-11-18,Huachipato,0,Palestino,1
+2011-11-06,U. De Chile,5,Huachipato,3
+2011-11-06,Cobreloa,1,S. Wanderers,0
+2011-11-06,Cobresal,2,La Serena,1
+2011-11-06,O'Higgins,2,Colo Colo,0
+2011-11-05,Union La Calera,1,Deportes Iquique,2
+2011-11-05,U. Espanola,1,U. Catolica,2
+2011-11-05,U. De Concepcion,2,San Felipe,1
+2011-11-05,Palestino,2,S. Morning,4
+2011-11-04,A. Italiano,2,Nublense,0
+2011-10-30,U. Catolica,2,U. De Concepcion,1
+2011-10-30,Colo Colo,2,U. De Chile,2
+2011-10-29,La Serena,3,U. Espanola,2
+2011-10-29,Nublense,3,Palestino,1
+2011-10-29,Huachipato,1,Union La Calera,0
+2011-10-29,S. Morning,5,Cobresal,0
+2011-10-29,Deportes Iquique,3,O'Higgins,2
+2011-10-29,S. Wanderers,2,A. Italiano,0
+2011-10-28,San Felipe,1,Cobreloa,1
+2011-10-23,Colo Colo,3,S. Morning,1
+2011-10-23,Cobreloa,1,Huachipato,0
+2011-10-23,Cobresal,2,U. Catolica,2
+2011-10-22,U. Espanola,3,Nublense,1
+2011-10-22,Palestino,1,U. De Chile,1
+2011-10-22,La Serena,2,San Felipe,1
+2011-10-22,U. De Concepcion,2,S. Wanderers,2
+2011-10-22,Union La Calera,1,O'Higgins,0
+2011-10-21,A. Italiano,3,Deportes Iquique,0
+2011-10-16,O'Higgins,0,A. Italiano,1
+2011-10-16,Cobresal,0,Cobreloa,3
+2011-10-16,U. Catolica,4,Colo Colo,0
+2011-10-15,Deportes Iquique,1,Palestino,3
+2011-10-15,Nublense,2,U. De Concepcion,1
+2011-10-15,S. Wanderers,0,La Serena,2
+2011-10-15,S. Morning,1,San Felipe,1
+2011-10-14,Huachipato,2,U. Espanola,1
+2011-10-12,U. De Chile,3,Union La Calera,2
+2011-10-03,A. Italiano,1,Huachipato,1
+2011-10-02,U. Espanola,3,O'Higgins,1
+2011-10-02,La Serena,4,Colo Colo,0
+2011-10-02,S. Morning,1,Nublense,3
+2011-10-02,San Felipe,0,S. Wanderers,2
+2011-10-02,Union La Calera,3,Palestino,2
+2011-10-01,U. De Chile,2,Deportes Iquique,2
+2011-10-01,U. De Concepcion,0,Cobresal,0
+2011-10-01,Cobreloa,2,U. Catolica,0
+2011-09-29,Colo Colo,3,A. Italiano,0
+2011-09-29,Huachipato,1,S. Morning,3
+2011-09-28,Deportes Iquique,1,La Serena,1
+2011-09-28,Nublense,0,Cobresal,2
+2011-09-28,O'Higgins,3,U. De Concepcion,0
+2011-09-28,S. Wanderers,1,U. De Chile,1
+2011-09-28,Palestino,0,Cobreloa,2
+2011-09-27,U. Catolica,0,San Felipe,1
+2011-09-27,Union La Calera,2,U. Espanola,0
+2011-09-25,U. De Chile,3,O'Higgins,0
+2011-09-25,Cobreloa,0,Colo Colo,1
+2011-09-24,U. De Concepcion,0,Palestino,0
+2011-09-24,Cobresal,3,S. Wanderers,2
+2011-09-24,S. Morning,3,U. Catolica,2
+2011-09-24,San Felipe,1,Nublense,2
+2011-09-23,Deportes Iquique,1,U. Espanola,5
+2011-09-23,La Serena,1,Huachipato,0
+2011-09-23,A. Italiano,2,Union La Calera,1
+2011-09-17,Nublense,2,U. Catolica,0
+2011-09-17,O'Higgins,2,Cobreloa,2
+2011-09-17,Palestino,1,La Serena,1
+2011-09-17,S. Wanderers,2,Deportes Iquique,2
+2011-09-17,Union La Calera,3,Colo Colo,0
+2011-09-17,U. De Chile,3,Cobresal,1
+2011-09-16,U. Espanola,1,S. Morning,0
+2011-09-16,Huachipato,2,San Felipe,2
+2011-09-15,A. Italiano,2,U. De Concepcion,1
+2011-09-11,U. Catolica,2,Palestino,1
+2011-09-11,Cobreloa,3,A. Italiano,4
+2011-09-11,Cobresal,1,O'Higgins,0
+2011-09-11,Deportes Iquique,3,Huachipato,2
+2011-09-10,Colo Colo,3,U. Espanola,2
+2011-09-10,San Felipe,0,U. De Chile,3
+2011-09-10,S. Morning,3,S. Wanderers,0
+2011-09-10,U. De Concepcion,0,Union La Calera,0
+2011-09-09,La Serena,3,Nublense,1
+2011-09-03,Nublense,1,U. De Chile,4
+2011-09-03,Cobresal,0,Colo Colo,2
+2011-08-28,U. De Chile,2,U. De Concepcion,0
+2011-08-28,A. Italiano,5,S. Morning,0
+2011-08-28,Nublense,1,Deportes Iquique,2
+2011-08-28,S. Wanderers,2,U. Catolica,0
+2011-08-28,Union La Calera,0,Cobreloa,1
+2011-08-27,U. Espanola,3,San Felipe,0
+2011-08-27,Huachipato,1,Colo Colo,2
+2011-08-27,Palestino,2,Cobresal,1
+2011-08-26,O'Higgins,1,La Serena,1
+2011-08-25,S. Morning,0,U. De Chile,2
+2011-08-24,Colo Colo,3,Palestino,1
+2011-08-24,San Felipe,2,A. Italiano,2
+2011-08-24,Cobresal,2,U. Espanola,2
+2011-08-24,U. De Concepcion,3,Deportes Iquique,1
+2011-08-24,S. Wanderers,2,Huachipato,1
+2011-08-23,U. Catolica,2,O'Higgins,0
+2011-08-23,Cobreloa,2,Nublense,0
+2011-08-22,La Serena,0,Union La Calera,0
+2011-08-21,Colo Colo,2,San Felipe,2
+2011-08-21,Deportes Iquique,4,S. Morning,2
+2011-08-21,U. Espanola,0,U. De Chile,1
+2011-08-20,O'Higgins,1,Nublense,1
+2011-08-20,Huachipato,1,U. Catolica,1
+2011-08-20,Cobreloa,1,U. De Concepcion,1
+2011-08-20,Palestino,1,S. Wanderers,1
+2011-08-19,A. Italiano,2,La Serena,1
+2011-08-19,Union La Calera,0,Cobresal,1
+2011-08-14,U. De Chile,3,Cobreloa,1
+2011-08-14,Nublense,2,Huachipato,4
+2011-08-14,S. Morning,4,La Serena,1
+2011-08-14,U. De Concepcion,3,Colo Colo,0
+2011-08-13,U. Catolica,4,Union La Calera,0
+2011-08-13,S. Wanderers,1,U. Espanola,1
+2011-08-13,Cobresal,3,A. Italiano,2
+2011-08-13,Palestino,2,O'Higgins,2
+2011-08-12,San Felipe,2,Deportes Iquique,1
+2011-08-07,Colo Colo,3,S. Wanderers,1
+2011-08-07,Deportes Iquique,2,Cobreloa,4
+2011-08-07,La Serena,2,U. De Concepcion,0
+2011-08-07,O'Higgins,2,S. Morning,1
+2011-08-06,San Felipe,1,Union La Calera,1
+2011-08-06,A. Italiano,0,U. Catolica,0
+2011-08-06,Huachipato,1,Cobresal,0
+2011-08-05,U. Espanola,0,Palestino,0
+2011-08-03,U. De Chile,2,D. Concepcion,0
+2011-07-31,U. De Concepcion,1,Huachipato,1
+2011-07-31,Cobreloa,0,U. Espanola,0
+2011-07-31,S. Wanderers,0,Nublense,1
+2011-07-31,Union La Calera,2,S. Morning,0
+2011-07-30,U. De Chile,3,La Serena,0
+2011-07-30,U. Catolica,4,Deportes Iquique,1
+2011-07-30,Palestino,0,A. Italiano,0
+2011-07-29,O'Higgins,3,San Felipe,0
+2011-07-27,D. Concepcion,2,U. De Chile,2
+2011-06-12,U. Catolica,1,U. De Chile,4
+2011-06-09,U. De Chile,0,U. Catolica,2
+2011-06-05,U. Catolica,1,Union La Calera,0
+2011-06-04,U. De Chile,7,O'Higgins,1
+2011-06-02,Union La Calera,2,U. Catolica,1
+2011-06-01,O'Higgins,0,U. De Chile,1
+2011-05-29,U. Espanola,0,Union La Calera,0
+2011-05-29,U. Catolica,1,Colo Colo,1
+2011-05-28,U. De Chile,1,San Felipe,1
+2011-05-28,Palestino,0,O'Higgins,3
+2011-05-26,Colo Colo,2,U. Catolica,4
+2011-05-26,Union La Calera,1,U. Espanola,0
+2011-05-25,O'Higgins,1,Palestino,1
+2011-05-25,San Felipe,1,U. De Chile,2
+2011-05-22,La Serena,2,U. Catolica,2
+2011-05-22,Nublense,2,Colo Colo,3
+2011-05-22,S. Morning,1,Cobreloa,1
+2011-05-22,S. Wanderers,1,Union La Calera,1
+2011-05-21,Deportes Iquique,1,Cobresal,1
+2011-05-21,Huachipato,2,O'Higgins,1
+2011-05-21,San Felipe,2,Palestino,3
+2011-05-21,U. De Chile,2,A. Italiano,1
+2011-05-20,U. Espanola,1,U. De Concepcion,1
+2011-05-15,A. Italiano,1,U. Espanola,2
+2011-05-15,Cobreloa,3,La Serena,3
+2011-05-15,Cobresal,1,San Felipe,2
+2011-05-15,U. Catolica,2,U. De Chile,2
+2011-05-15,Union La Calera,2,Nublense,0
+2011-05-14,Colo Colo,1,Deportes Iquique,1
+2011-05-14,O'Higgins,1,S. Wanderers,1
+2011-05-14,Palestino,1,Huachipato,0
+2011-05-13,U. De Concepcion,2,S. Morning,1
+2011-05-08,Colo Colo,5,O'Higgins,1
+2011-05-08,Nublense,0,A. Italiano,0
+2011-05-08,San Felipe,1,U. De Concepcion,3
+2011-05-08,S. Morning,0,Palestino,4
+2011-05-07,Deportes Iquique,1,Union La Calera,0
+2011-05-07,U. Catolica,0,U. Espanola,0
+2011-05-07,S. Wanderers,2,Cobreloa,0
+2011-05-07,Huachipato,1,U. De Chile,3
+2011-05-06,La Serena,2,Cobresal,1
+2011-04-30,Union La Calera,0,Huachipato,0
+2011-04-30,U. De Concepcion,1,U. Catolica,2
+2011-04-30,Cobreloa,1,San Felipe,1
+2011-04-30,Cobresal,1,S. Morning,4
+2011-04-30,U. De Chile,2,Colo Colo,1
+2011-04-30,Palestino,1,Nublense,0
+2011-04-29,U. Espanola,4,La Serena,3
+2011-04-29,O'Higgins,0,Deportes Iquique,1
+2011-04-28,A. Italiano,4,S. Wanderers,0
+2011-04-24,S. Morning,0,Colo Colo,1
+2011-04-24,San Felipe,0,La Serena,1
+2011-04-23,Deportes Iquique,2,A. Italiano,0
+2011-04-23,U. Catolica,5,Cobresal,2
+2011-04-23,Huachipato,1,Cobreloa,1
+2011-04-23,U. De Chile,0,Palestino,0
+2011-04-23,S. Wanderers,2,U. De Concepcion,1
+2011-04-23,O'Higgins,2,Union La Calera,0
+2011-04-21,Nublense,0,U. Espanola,5
+2011-04-17,U. Espanola,4,Huachipato,2
+2011-04-17,Cobreloa,1,Cobresal,0
+2011-04-17,Colo Colo,1,U. Catolica,1
+2011-04-17,La Serena,3,S. Wanderers,1
+2011-04-16,A. Italiano,1,O'Higgins,3
+2011-04-16,U. De Concepcion,1,Nublense,0
+2011-04-16,Palestino,1,Deportes Iquique,0
+2011-04-16,Union La Calera,0,U. De Chile,2
+2011-04-15,San Felipe,3,S. Morning,1
+2011-04-10,U. Catolica,2,Cobreloa,0
+2011-04-10,Cobresal,4,U. De Concepcion,3
+2011-04-10,Nublense,1,S. Morning,1
+2011-04-10,O'Higgins,0,U. Espanola,0
+2011-04-09,Deportes Iquique,2,U. De Chile,2
+2011-04-09,Colo Colo,4,La Serena,1
+2011-04-09,Huachipato,1,A. Italiano,1
+2011-04-09,Palestino,1,Union La Calera,1
+2011-04-08,S. Wanderers,1,San Felipe,2
+2011-04-03,U. De Chile,4,S. Wanderers,1
+2011-04-03,A. Italiano,2,Colo Colo,1
+2011-04-03,Cobreloa,1,Palestino,0
+2011-04-03,Cobresal,1,Nublense,2
+2011-04-03,S. Morning,1,Huachipato,1
+2011-04-02,La Serena,0,Deportes Iquique,0
+2011-04-02,U. De Concepcion,0,O'Higgins,1
+2011-04-02,San Felipe,1,U. Catolica,2
+2011-03-31,U. Espanola,3,Union La Calera,1
+2011-03-27,Colo Colo,1,Huachipato,2
+2011-03-27,O'Higgins,1,Palestino,2
+2011-03-24,Cobresal,2,U. De Chile,5
+2011-03-20,Union La Calera,3,A. Italiano,1
+2011-03-20,Colo Colo,1,Cobreloa,1
+2011-03-20,Palestino,3,U. De Concepcion,2
+2011-03-20,S. Wanderers,3,Cobresal,0
+2011-03-19,Huachipato,0,La Serena,4
+2011-03-19,Nublense,1,San Felipe,0
+2011-03-19,U. Espanola,3,Deportes Iquique,0
+2011-03-19,O'Higgins,1,U. De Chile,1
+2011-03-18,U. Catolica,2,S. Morning,1
+2011-03-13,U. Catolica,2,Nublense,0
+2011-03-13,Deportes Iquique,4,S. Wanderers,1
+2011-03-13,S. Morning,1,U. Espanola,1
+2011-03-13,Cobreloa,2,O'Higgins,3
+2011-03-13,La Serena,2,Palestino,3
+2011-03-12,San Felipe,2,Huachipato,1
+2011-03-12,U. De Concepcion,1,A. Italiano,0
+2011-03-11,Colo Colo,2,Union La Calera,0
+2011-03-06,Palestino,1,U. Catolica,2
+2011-03-06,U. Espanola,1,Colo Colo,2
+2011-03-06,S. Wanderers,4,S. Morning,1
+2011-03-06,Union La Calera,2,U. De Concepcion,0
+2011-03-05,Nublense,2,La Serena,3
+2011-03-05,U. De Chile,0,San Felipe,2
+2011-03-05,Huachipato,3,Deportes Iquique,1
+2011-03-05,O'Higgins,3,Cobresal,0
+2011-03-04,A. Italiano,1,Cobreloa,0
+2011-02-27,San Felipe,1,U. Espanola,1
+2011-02-27,S. Morning,2,A. Italiano,2
+2011-02-27,Deportes Iquique,2,Nublense,1
+2011-02-27,U. De Concepcion,1,U. De Chile,5
+2011-02-27,Cobreloa,0,Union La Calera,1
+2011-02-27,Cobresal,2,Palestino,1
+2011-02-26,U. Catolica,1,S. Wanderers,1
+2011-02-25,La Serena,1,O'Higgins,2
+2011-02-24,U. De Chile,1,S. Morning,2
+2011-02-24,U. Espanola,3,Cobresal,0
+2011-02-23,Deportes Iquique,1,U. De Concepcion,3
+2011-02-23,A. Italiano,2,San Felipe,1
+2011-02-23,Huachipato,3,S. Wanderers,1
+2011-02-23,Palestino,0,Colo Colo,3
+2011-02-22,Nublense,2,Cobreloa,1
+2011-02-22,Union La Calera,2,La Serena,0
+2011-02-22,O'Higgins,2,U. Catolica,3
+2011-02-20,U. De Chile,2,U. Espanola,1
+2011-02-20,San Felipe,2,Colo Colo,0
+2011-02-19,U. Catolica,2,Huachipato,1
+2011-02-19,U. De Concepcion,0,Cobreloa,1
+2011-02-19,S. Morning,3,Deportes Iquique,1
+2011-02-19,Cobresal,3,Union La Calera,1
+2011-02-18,La Serena,2,A. Italiano,3
+2011-02-18,Nublense,2,O'Higgins,3
+2011-02-18,S. Wanderers,1,Palestino,1
+2011-02-13,A. Italiano,3,Cobresal,2
+2011-02-13,Cobreloa,1,U. De Chile,4
+2011-02-12,Deportes Iquique,1,San Felipe,1
+2011-02-12,Colo Colo,1,U. De Concepcion,5
+2011-02-12,Huachipato,3,Nublense,1
+2011-02-12,La Serena,0,S. Morning,0
+2011-02-12,Union La Calera,2,U. Catolica,1
+2011-02-11,U. Espanola,2,S. Wanderers,1
+2011-02-06,Union La Calera,1,San Felipe,0
+2011-02-06,Palestino,1,U. Espanola,2
+2011-02-06,S. Morning,2,O'Higgins,4
+2011-02-06,Cobreloa,0,Deportes Iquique,0
+2011-02-05,U. De Chile,3,Nublense,1
+2011-02-05,U. De Concepcion,0,La Serena,0
+2011-02-05,S. Wanderers,2,Colo Colo,1
+2011-02-05,Cobresal,3,Huachipato,2
+2011-02-04,U. Catolica,3,A. Italiano,1
+2011-01-30,U. Espanola,0,Cobreloa,2
+2011-01-30,Colo Colo,0,Cobresal,3
+2011-01-30,S. Morning,1,Union La Calera,1
+2011-01-30,San Felipe,3,O'Higgins,1
+2011-01-29,Huachipato,1,U. De Concepcion,0
+2011-01-29,La Serena,1,U. De Chile,1
+2011-01-29,Nublense,2,S. Wanderers,0
+2011-01-29,A. Italiano,1,Palestino,3
+2011-01-28,Deportes Iquique,0,U. Catolica,2

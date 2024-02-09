@@ -1,0 +1,307 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG
+10/08/07,Aachen,CZ Jena,2,2
+10/08/07,Osnabruck,Freiburg,2,1
+10/08/07,St Pauli,FC Koln,0,2
+12/08/07,Augsburg,Munich 1860,2,6
+12/08/07,Erzgebirge Aue,Greuther Furth,1,1
+12/08/07,Hoffenheim,Wehen,2,3
+12/08/07,Mainz,Koblenz,4,1
+12/08/07,Paderborn,Offenbach,0,2
+13/08/07,Kaiserslautern,M'gladbach,1,1
+17/08/07,Freiburg,Paderborn,1,0
+17/08/07,Koblenz,Augsburg,2,1
+17/08/07,Wehen,Osnabruck,1,1
+19/08/07,CZ Jena,St Pauli,0,1
+19/08/07,Greuther Furth,Mainz,3,0
+19/08/07,M'gladbach,Hoffenheim,0,0
+19/08/07,Munich 1860,Kaiserslautern,3,1
+19/08/07,Offenbach,Erzgebirge Aue,3,2
+20/08/07,FC Koln,Aachen,0,1
+24/08/07,FC Koln,CZ Jena,4,3
+24/08/07,Mainz,M'gladbach,4,1
+24/08/07,Osnabruck,Paderborn,0,0
+26/08/07,Aachen,Offenbach,4,0
+26/08/07,Erzgebirge Aue,Wehen,3,0
+26/08/07,Hoffenheim,Munich 1860,0,3
+26/08/07,Kaiserslautern,Greuther Furth,0,1
+26/08/07,St Pauli,Koblenz,1,0
+27/08/07,Augsburg,Freiburg,1,1
+31/08/07,Koblenz,Kaiserslautern,2,2
+31/08/07,Munich 1860,FC Koln,1,1
+31/08/07,Offenbach,Augsburg,1,0
+02/09/07,CZ Jena,Mainz,1,2
+02/09/07,Greuther Furth,St Pauli,2,1
+02/09/07,M'gladbach,Osnabruck,2,1
+02/09/07,Paderborn,Erzgebirge Aue,0,1
+02/09/07,Wehen,Aachen,3,0
+03/09/07,Freiburg,Hoffenheim,3,2
+14/09/07,CZ Jena,Koblenz,1,2
+14/09/07,Kaiserslautern,Paderborn,0,0
+14/09/07,St Pauli,Offenbach,3,1
+16/09/07,Aachen,Munich 1860,0,0
+16/09/07,Augsburg,Wehen,5,1
+16/09/07,FC Koln,Greuther Furth,0,0
+16/09/07,Hoffenheim,Osnabruck,3,1
+16/09/07,Mainz,Freiburg,1,1
+17/09/07,Erzgebirge Aue,M'gladbach,2,3
+21/09/07,Greuther Furth,Aachen,2,0
+21/09/07,M'gladbach,Augsburg,4,2
+21/09/07,Munich 1860,St Pauli,2,1
+21/09/07,Osnabruck,Erzgebirge Aue,2,1
+21/09/07,Paderborn,Hoffenheim,0,2
+23/09/07,Freiburg,Kaiserslautern,1,0
+23/09/07,Koblenz,FC Koln,1,2
+23/09/07,Offenbach,Mainz,2,0
+23/09/07,Wehen,CZ Jena,5,1
+25/09/07,Aachen,Paderborn,3,1
+25/09/07,Augsburg,Osnabruck,2,0
+25/09/07,Erzgebirge Aue,Hoffenheim,2,2
+25/09/07,St Pauli,M'gladbach,0,3
+26/09/07,CZ Jena,Offenbach,2,0
+26/09/07,FC Koln,Freiburg,1,3
+26/09/07,Kaiserslautern,Wehen,0,2
+26/09/07,Koblenz,Greuther Furth,3,0
+27/09/07,Mainz,Munich 1860,3,0
+28/09/07,M'gladbach,Aachen,2,1
+28/09/07,Osnabruck,St Pauli,3,1
+28/09/07,Paderborn,Augsburg,1,1
+30/09/07,Freiburg,Erzgebirge Aue,2,0
+30/09/07,Greuther Furth,CZ Jena,2,2
+30/09/07,Hoffenheim,Mainz,1,0
+30/09/07,Munich 1860,Koblenz,2,2
+30/09/07,Wehen,FC Koln,4,3
+01/10/07,Offenbach,Kaiserslautern,0,0
+05/10/07,CZ Jena,Munich 1860,0,2
+05/10/07,FC Koln,Offenbach,4,1
+05/10/07,Greuther Furth,Wehen,1,1
+07/10/07,Augsburg,Hoffenheim,2,2
+07/10/07,Kaiserslautern,Osnabruck,3,0
+07/10/07,Koblenz,M'gladbach,0,5
+07/10/07,Mainz,Erzgebirge Aue,4,1
+07/10/07,St Pauli,Paderborn,2,1
+08/10/07,Aachen,Freiburg,2,0
+19/10/07,Hoffenheim,Kaiserslautern,1,0
+19/10/07,Offenbach,Koblenz,1,1
+19/10/07,Osnabruck,Aachen,2,2
+21/10/07,Erzgebirge Aue,Augsburg,3,0
+21/10/07,Freiburg,St Pauli,2,0
+21/10/07,Munich 1860,Greuther Furth,0,3
+21/10/07,Paderborn,CZ Jena,2,2
+21/10/07,Wehen,Mainz,1,3
+22/10/07,M'gladbach,FC Koln,2,2
+26/10/07,Aachen,Hoffenheim,2,2
+26/10/07,Greuther Furth,M'gladbach,1,3
+26/10/07,Mainz,Augsburg,1,1
+26/10/07,Munich 1860,Offenbach,3,0
+26/10/07,St Pauli,Wehen,1,1
+28/10/07,CZ Jena,Freiburg,1,2
+28/10/07,FC Koln,Paderborn,2,1
+28/10/07,Kaiserslautern,Erzgebirge Aue,2,0
+28/10/07,Koblenz,Osnabruck,1,0
+01/11/07,Osnabruck,FC Koln,2,1
+02/11/07,Erzgebirge Aue,Aachen,2,1
+02/11/07,Hoffenheim,St Pauli,1,1
+02/11/07,Offenbach,Greuther Furth,1,2
+04/11/07,Augsburg,Kaiserslautern,0,0
+04/11/07,Freiburg,Koblenz,4,2
+04/11/07,Paderborn,Mainz,1,1
+04/11/07,Wehen,Munich 1860,0,0
+05/11/07,M'gladbach,CZ Jena,2,1
+09/11/07,FC Koln,Erzgebirge Aue,3,2
+09/11/07,Mainz,Osnabruck,4,1
+09/11/07,Offenbach,Wehen,0,0
+11/11/07,Aachen,Kaiserslautern,2,1
+11/11/07,CZ Jena,Hoffenheim,0,1
+11/11/07,Greuther Furth,Freiburg,1,1
+11/11/07,St Pauli,Augsburg,2,0
+12/11/07,Munich 1860,M'gladbach,0,0
+13/11/07,Koblenz,Paderborn,0,0
+23/11/07,M'gladbach,Offenbach,3,0
+23/11/07,Osnabruck,CZ Jena,1,1
+23/11/07,Paderborn,Greuther Furth,1,0
+23/11/07,Wehen,Koblenz,0,2
+25/11/07,Augsburg,Aachen,1,0
+25/11/07,Erzgebirge Aue,St Pauli,0,0
+25/11/07,Freiburg,Munich 1860,2,2
+25/11/07,Hoffenheim,FC Koln,0,2
+26/11/07,Kaiserslautern,Mainz,0,0
+30/11/07,CZ Jena,Erzgebirge Aue,2,1
+30/11/07,St Pauli,Kaiserslautern,3,4
+30/11/07,Wehen,M'gladbach,1,1
+02/12/07,FC Koln,Augsburg,3,0
+02/12/07,Greuther Furth,Osnabruck,6,3
+02/12/07,Koblenz,Hoffenheim,2,2
+02/12/07,Munich 1860,Paderborn,0,0
+02/12/07,Offenbach,Freiburg,0,0
+03/12/07,Aachen,Mainz,0,3
+07/12/07,Aachen,St Pauli,2,2
+07/12/07,Erzgebirge Aue,Koblenz,0,0
+07/12/07,Mainz,FC Koln,1,0
+09/12/07,Augsburg,Greuther Furth,3,0
+09/12/07,Hoffenheim,Offenbach,2,2
+09/12/07,Kaiserslautern,CZ Jena,2,3
+09/12/07,Osnabruck,Munich 1860,3,0
+09/12/07,Paderborn,Wehen,1,1
+10/12/07,Freiburg,M'gladbach,1,3
+14/12/07,Koblenz,Aachen,0,0
+14/12/07,Offenbach,Osnabruck,3,3
+14/12/07,St Pauli,Mainz,1,0
+16/12/07,CZ Jena,Augsburg,1,2
+16/12/07,Greuther Furth,Hoffenheim,4,1
+16/12/07,M'gladbach,Paderborn,1,1
+16/12/07,Munich 1860,Erzgebirge Aue,5,0
+16/12/07,Wehen,Freiburg,2,2
+17/12/07,FC Koln,Kaiserslautern,2,1
+01/02/08,FC Koln,St Pauli,1,1
+01/02/08,M'gladbach,Kaiserslautern,1,1
+01/02/08,Wehen,Hoffenheim,0,2
+03/02/08,Freiburg,Osnabruck,1,1
+03/02/08,Greuther Furth,Erzgebirge Aue,2,0
+03/02/08,Koblenz,Mainz,1,1
+03/02/08,Munich 1860,Augsburg,0,3
+03/02/08,Offenbach,Paderborn,2,1
+04/02/08,CZ Jena,Aachen,2,3
+08/02/08,Erzgebirge Aue,Offenbach,3,1
+08/02/08,Kaiserslautern,Munich 1860,1,2
+08/02/08,St Pauli,CZ Jena,2,2
+10/02/08,Augsburg,Koblenz,1,0
+10/02/08,Hoffenheim,M'gladbach,4,2
+10/02/08,Mainz,Greuther Furth,1,2
+10/02/08,Osnabruck,Wehen,0,2
+10/02/08,Paderborn,Freiburg,3,2
+11/02/08,Aachen,FC Koln,3,2
+15/02/08,CZ Jena,FC Koln,1,3
+15/02/08,Koblenz,St Pauli,1,1
+15/02/08,Wehen,Erzgebirge Aue,3,0
+17/02/08,Freiburg,Augsburg,1,0
+17/02/08,Greuther Furth,Kaiserslautern,0,1
+17/02/08,Munich 1860,Hoffenheim,0,1
+17/02/08,Offenbach,Aachen,1,1
+17/02/08,Paderborn,Osnabruck,1,3
+18/02/08,M'gladbach,Mainz,0,1
+22/02/08,FC Koln,Munich 1860,0,0
+22/02/08,Hoffenheim,Freiburg,2,0
+22/02/08,Mainz,CZ Jena,2,2
+24/02/08,Aachen,Wehen,2,3
+24/02/08,Augsburg,Offenbach,1,1
+24/02/08,Erzgebirge Aue,Paderborn,6,0
+24/02/08,Osnabruck,M'gladbach,2,2
+24/02/08,St Pauli,Greuther Furth,1,1
+25/02/08,Kaiserslautern,Koblenz,2,3
+29/02/08,Greuther Furth,FC Koln,2,2
+29/02/08,M'gladbach,Erzgebirge Aue,2,0
+29/02/08,Wehen,Augsburg,2,1
+02/03/08,Koblenz,CZ Jena,2,0
+02/03/08,Munich 1860,Aachen,0,0
+02/03/08,Offenbach,St Pauli,4,3
+02/03/08,Osnabruck,Hoffenheim,0,3
+02/03/08,Paderborn,Kaiserslautern,0,0
+03/03/08,Freiburg,Mainz,1,1
+07/03/08,Aachen,Greuther Furth,2,5
+07/03/08,Augsburg,M'gladbach,0,2
+07/03/08,Kaiserslautern,Freiburg,0,0
+09/03/08,CZ Jena,Wehen,2,2
+09/03/08,Erzgebirge Aue,Osnabruck,0,1
+09/03/08,FC Koln,Koblenz,1,0
+09/03/08,Hoffenheim,Paderborn,1,0
+09/03/08,Mainz,Offenbach,1,0
+10/03/08,St Pauli,Munich 1860,0,0
+14/03/08,Offenbach,CZ Jena,2,1
+14/03/08,Paderborn,Aachen,0,1
+14/03/08,Wehen,Kaiserslautern,0,2
+16/03/08,Greuther Furth,Koblenz,0,1
+16/03/08,Hoffenheim,Erzgebirge Aue,1,0
+16/03/08,M'gladbach,St Pauli,1,0
+16/03/08,Munich 1860,Mainz,1,1
+16/03/08,Osnabruck,Augsburg,0,2
+17/03/08,Freiburg,FC Koln,1,0
+20/03/08,Augsburg,Paderborn,0,1
+20/03/08,Kaiserslautern,Offenbach,1,1
+20/03/08,St Pauli,Osnabruck,2,1
+23/03/08,CZ Jena,Greuther Furth,1,0
+23/03/08,Erzgebirge Aue,Freiburg,2,2
+23/03/08,FC Koln,Wehen,2,1
+23/03/08,Koblenz,Munich 1860,3,1
+23/03/08,Mainz,Hoffenheim,1,1
+24/03/08,Aachen,M'gladbach,1,1
+28/03/08,Erzgebirge Aue,Mainz,3,3
+28/03/08,Freiburg,Aachen,1,0
+28/03/08,Hoffenheim,Augsburg,2,0
+30/03/08,M'gladbach,Koblenz,1,0
+30/03/08,Munich 1860,CZ Jena,1,2
+30/03/08,Offenbach,FC Koln,1,3
+30/03/08,Paderborn,St Pauli,4,1
+30/03/08,Wehen,Greuther Furth,1,1
+31/03/08,Osnabruck,Kaiserslautern,2,0
+04/04/08,Greuther Furth,Munich 1860,3,1
+04/04/08,Kaiserslautern,Hoffenheim,0,2
+04/04/08,Koblenz,Offenbach,1,1
+06/04/08,Aachen,Osnabruck,3,0
+06/04/08,Augsburg,Erzgebirge Aue,1,1
+06/04/08,CZ Jena,Paderborn,3,0
+06/04/08,Mainz,Wehen,3,0
+06/04/08,St Pauli,Freiburg,5,0
+07/04/08,FC Koln,M'gladbach,1,1
+11/04/08,Augsburg,Mainz,2,1
+11/04/08,Erzgebirge Aue,Kaiserslautern,0,0
+11/04/08,Osnabruck,Koblenz,2,0
+11/04/08,Paderborn,FC Koln,2,2
+13/04/08,Freiburg,CZ Jena,2,0
+13/04/08,Hoffenheim,Aachen,1,2
+13/04/08,M'gladbach,Greuther Furth,3,0
+13/04/08,Offenbach,Munich 1860,2,0
+13/04/08,Wehen,St Pauli,1,3
+15/04/08,FC Koln,Osnabruck,2,0
+15/04/08,Kaiserslautern,Augsburg,2,0
+15/04/08,Mainz,Paderborn,6,1
+16/04/08,Aachen,Erzgebirge Aue,1,0
+16/04/08,CZ Jena,M'gladbach,2,2
+16/04/08,Greuther Furth,Offenbach,2,1
+16/04/08,Koblenz,Freiburg,3,2
+16/04/08,St Pauli,Hoffenheim,3,1
+17/04/08,Munich 1860,Wehen,2,1
+25/04/08,Erzgebirge Aue,FC Koln,3,3
+25/04/08,Kaiserslautern,Aachen,2,1
+25/04/08,Paderborn,Koblenz,3,2
+27/04/08,Augsburg,St Pauli,1,0
+27/04/08,Hoffenheim,CZ Jena,5,0
+27/04/08,M'gladbach,Munich 1860,2,2
+27/04/08,Osnabruck,Mainz,1,2
+27/04/08,Wehen,Offenbach,2,1
+28/04/08,Freiburg,Greuther Furth,3,2
+02/05/08,CZ Jena,Osnabruck,1,1
+02/05/08,Greuther Furth,Paderborn,1,1
+02/05/08,Mainz,Kaiserslautern,2,1
+02/05/08,Munich 1860,Freiburg,0,3
+02/05/08,St Pauli,Erzgebirge Aue,4,2
+04/05/08,Aachen,Augsburg,3,0
+04/05/08,FC Koln,Hoffenheim,3,1
+04/05/08,Koblenz,Wehen,2,0
+04/05/08,Offenbach,M'gladbach,1,7
+06/05/08,Erzgebirge Aue,CZ Jena,5,0
+06/05/08,Kaiserslautern,St Pauli,2,0
+06/05/08,Osnabruck,Greuther Furth,0,0
+06/05/08,Paderborn,Munich 1860,3,1
+07/05/08,Augsburg,FC Koln,1,3
+07/05/08,Freiburg,Offenbach,0,1
+07/05/08,Hoffenheim,Koblenz,3,1
+07/05/08,Mainz,Aachen,0,1
+07/05/08,M'gladbach,Wehen,3,0
+11/05/08,CZ Jena,Kaiserslautern,2,2
+11/05/08,FC Koln,Mainz,2,0
+11/05/08,Greuther Furth,Augsburg,3,2
+11/05/08,Koblenz,Erzgebirge Aue,2,2
+11/05/08,M'gladbach,Freiburg,2,3
+11/05/08,Munich 1860,Osnabruck,1,1
+11/05/08,Offenbach,Hoffenheim,1,1
+11/05/08,St Pauli,Aachen,0,2
+11/05/08,Wehen,Paderborn,1,1
+18/05/08,Aachen,Koblenz,1,3
+18/05/08,Augsburg,CZ Jena,1,1
+18/05/08,Erzgebirge Aue,Munich 1860,1,1
+18/05/08,Freiburg,Wehen,0,2
+18/05/08,Hoffenheim,Greuther Furth,5,0
+18/05/08,Kaiserslautern,FC Koln,3,0
+18/05/08,Mainz,St Pauli,5,1
+18/05/08,Osnabruck,Offenbach,3,0
+18/05/08,Paderborn,M'gladbach,2,3

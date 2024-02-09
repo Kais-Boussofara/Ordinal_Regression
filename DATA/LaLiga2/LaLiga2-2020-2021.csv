@@ -1,0 +1,463 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG
+12/09/2020,Ponferradina,Castellon,1,2
+12/09/2020,Leganes,Las Palmas,1,0
+12/09/2020,Sp Gijon,Logrones,1,0
+12/09/2020,Espanol,Albacete,3,0
+13/09/2020,Oviedo,Cartagena,0,0
+13/09/2020,Mallorca,Vallecano,0,1
+13/09/2020,Fuenlabrada,Lugo,2,0
+13/09/2020,Mirandes,Alcorcon,0,0
+13/09/2020,Tenerife,Malaga,2,0
+19/09/2020,Mirandes,Oviedo,1,1
+19/09/2020,Alcorcon,Tenerife,2,0
+19/09/2020,Castellon,Malaga,0,1
+19/09/2020,Vallecano,Sabadell,2,1
+20/09/2020,Lugo,Leganes,2,1
+20/09/2020,Espanol,Mallorca,0,0
+20/09/2020,Albacete,Ponferradina,0,2
+20/09/2020,Cartagena,Sp Gijon,0,1
+20/09/2020,Las Palmas,Fuenlabrada,3,3
+26/09/2020,Zaragoza,Las Palmas,2,2
+26/09/2020,Logrones,Castellon,1,1
+26/09/2020,Malaga,Alcorcon,1,0
+26/09/2020,Sp Gijon,Girona,2,0
+26/09/2020,Fuenlabrada,Albacete,1,0
+27/09/2020,Lugo,Almeria,0,2
+27/09/2020,Mallorca,Sabadell,1,0
+27/09/2020,Oviedo,Espanol,0,2
+27/09/2020,Ponferradina,Vallecano,3,0
+27/09/2020,Tenerife,Mirandes,1,2
+27/09/2020,Leganes,Cartagena,3,1
+03/10/2020,Alcorcon,Zaragoza,0,0
+03/10/2020,Mirandes,Ponferradina,0,1
+03/10/2020,Albacete,Oviedo,1,1
+03/10/2020,Mallorca,Tenerife,2,0
+03/10/2020,Las Palmas,Logrones,2,1
+03/10/2020,Vallecano,Malaga,4,0
+04/10/2020,Girona,Fuenlabrada,0,1
+04/10/2020,Sabadell,Espanol,0,1
+04/10/2020,Almeria,Sp Gijon,0,1
+04/10/2020,Castellon,Leganes,2,0
+04/10/2020,Cartagena,Lugo,2,1
+10/10/2020,Sabadell,Mirandes,0,2
+10/10/2020,Espanol,Alcorcon,1,0
+10/10/2020,Logrones,Almeria,1,0
+10/10/2020,Tenerife,Vallecano,1,0
+11/10/2020,Fuenlabrada,Castellon,1,1
+11/10/2020,Lugo,Mallorca,0,1
+11/10/2020,Leganes,Girona,0,1
+11/10/2020,Malaga,Las Palmas,0,0
+11/10/2020,Zaragoza,Albacete,1,0
+11/10/2020,Ponferradina,Cartagena,0,2
+11/10/2020,Oviedo,Sp Gijon,1,0
+17/10/2020,Albacete,Sabadell,3,0
+17/10/2020,Castellon,Lugo,0,1
+17/10/2020,Cartagena,Fuenlabrada,1,1
+17/10/2020,Las Palmas,Almeria,2,0
+17/10/2020,Logrones,Leganes,0,1
+18/10/2020,Vallecano,Espanol,1,0
+18/10/2020,Mirandes,Mallorca,0,0
+18/10/2020,Zaragoza,Malaga,1,2
+18/10/2020,Girona,Oviedo,1,0
+18/10/2020,Sp Gijon,Tenerife,1,1
+21/10/2020,Espanol,Mirandes,2,0
+21/10/2020,Las Palmas,Castellon,2,1
+21/10/2020,Lugo,Girona,3,0
+21/10/2020,Ponferradina,Tenerife,1,0
+21/10/2020,Almeria,Cartagena,1,1
+21/10/2020,Fuenlabrada,Logrones,0,0
+22/10/2020,Leganes,Zaragoza,1,0
+22/10/2020,Malaga,Sp Gijon,1,0
+22/10/2020,Mallorca,Albacete,0,0
+22/10/2020,Oviedo,Vallecano,0,0
+24/10/2020,Cartagena,Las Palmas,3,0
+24/10/2020,Logrones,Lugo,2,3
+24/10/2020,Almeria,Fuenlabrada,3,0
+24/10/2020,Castellon,Girona,0,1
+25/10/2020,Sp Gijon,Ponferradina,2,1
+25/10/2020,Leganes,Oviedo,2,1
+25/10/2020,Tenerife,Espanol,0,0
+25/10/2020,Albacete,Vallecano,2,1
+25/10/2020,Malaga,Mirandes,1,1
+25/10/2020,Zaragoza,Sabadell,0,0
+26/10/2020,Alcorcon,Mallorca,0,2
+27/10/2020,Girona,Cartagena,2,1
+28/10/2020,Albacete,Las Palmas,1,1
+28/10/2020,Castellon,Almeria,1,2
+28/10/2020,Espanol,Ponferradina,2,0
+28/10/2020,Oviedo,Logrones,2,3
+29/10/2020,Alcorcon,Sp Gijon,1,2
+29/10/2020,Mallorca,Malaga,3,1
+29/10/2020,Mirandes,Zaragoza,1,0
+29/10/2020,Tenerife,Lugo,1,1
+29/10/2020,Sabadell,Leganes,1,0
+29/10/2020,Vallecano,Fuenlabrada,2,0
+31/10/2020,Cartagena,Albacete,3,1
+31/10/2020,Las Palmas,Oviedo,1,2
+01/11/2020,Leganes,Mirandes,1,0
+01/11/2020,Zaragoza,Mallorca,0,0
+01/11/2020,Fuenlabrada,Tenerife,1,1
+01/11/2020,Ponferradina,Sabadell,0,3
+01/11/2020,Lugo,Vallecano,1,0
+01/11/2020,Almeria,Girona,0,0
+02/11/2020,Logrones,Alcorcon,1,0
+02/11/2020,Sp Gijon,Castellon,1,0
+02/11/2020,Malaga,Espanol,0,3
+04/11/2020,Zaragoza,Girona,2,2
+05/11/2020,Alcorcon,Ponferradina,0,1
+05/11/2020,Sabadell,Almeria,1,2
+06/11/2020,Albacete,Leganes,0,0
+07/11/2020,Cartagena,Logrones,0,1
+07/11/2020,Mirandes,Sp Gijon,1,0
+07/11/2020,Espanol,Lugo,2,1
+08/11/2020,Sabadell,Malaga,1,2
+08/11/2020,Alcorcon,Fuenlabrada,0,3
+08/11/2020,Vallecano,Almeria,0,1
+08/11/2020,Mallorca,Ponferradina,3,0
+08/11/2020,Oviedo,Castellon,4,0
+08/11/2020,Tenerife,Zaragoza,1,0
+09/11/2020,Girona,Las Palmas,1,1
+13/11/2020,Zaragoza,Oviedo,1,2
+14/11/2020,Fuenlabrada,Espanol,1,1
+14/11/2020,Almeria,Mirandes,2,1
+14/11/2020,Girona,Mallorca,0,1
+14/11/2020,Lugo,Albacete,1,0
+15/11/2020,Leganes,Alcorcon,1,0
+15/11/2020,Ponferradina,Malaga,1,1
+15/11/2020,Castellon,Cartagena,2,1
+15/11/2020,Logrones,Sabadell,1,0
+15/11/2020,Las Palmas,Tenerife,1,0
+16/11/2020,Sp Gijon,Vallecano,1,1
+20/11/2020,Alcorcon,Lugo,1,0
+20/11/2020,Espanol,Girona,1,2
+21/11/2020,Malaga,Leganes,1,2
+21/11/2020,Mirandes,Cartagena,4,1
+21/11/2020,Vallecano,Castellon,2,1
+21/11/2020,Oviedo,Fuenlabrada,1,1
+22/11/2020,Sabadell,Las Palmas,3,1
+22/11/2020,Mallorca,Sp Gijon,0,0
+22/11/2020,Tenerife,Logrones,0,1
+22/11/2020,Ponferradina,Zaragoza,2,1
+23/11/2020,Albacete,Almeria,1,2
+24/11/2020,Castellon,Alcorcon,0,2
+24/11/2020,Girona,Malaga,0,1
+24/11/2020,Lugo,Oviedo,0,0
+25/11/2020,Las Palmas,Mirandes,0,2
+25/11/2020,Sp Gijon,Sabadell,3,1
+25/11/2020,Zaragoza,Vallecano,1,2
+25/11/2020,Cartagena,Mallorca,1,2
+25/11/2020,Fuenlabrada,Ponferradina,1,1
+26/11/2020,Leganes,Espanol,2,0
+26/11/2020,Logrones,Albacete,2,0
+26/11/2020,Almeria,Tenerife,2,0
+27/11/2020,Alcorcon,Girona,1,0
+27/11/2020,Malaga,Lugo,2,2
+28/11/2020,Sabadell,Fuenlabrada,1,2
+28/11/2020,Vallecano,Cartagena,0,0
+28/11/2020,Mirandes,Castellon,1,1
+29/11/2020,Albacete,Tenerife,0,2
+29/11/2020,Espanol,Zaragoza,2,0
+29/11/2020,Mallorca,Logrones,4,0
+29/11/2020,Ponferradina,Leganes,3,2
+29/11/2020,Las Palmas,Sp Gijon,3,2
+30/11/2020,Oviedo,Almeria,1,2
+01/12/2020,Fuenlabrada,Malaga,0,2
+01/12/2020,Girona,Mirandes,1,0
+02/12/2020,Cartagena,Espanol,1,3
+02/12/2020,Leganes,Vallecano,1,0
+02/12/2020,Logrones,Ponferradina,1,2
+02/12/2020,Castellon,Zaragoza,1,0
+02/12/2020,Lugo,Las Palmas,1,1
+03/12/2020,Almeria,Mallorca,0,1
+03/12/2020,Oviedo,Alcorcon,1,1
+03/12/2020,Tenerife,Sabadell,1,2
+03/12/2020,Sp Gijon,Albacete,0,0
+05/12/2020,Vallecano,Logrones,2,1
+05/12/2020,Ponferradina,Las Palmas,0,0
+05/12/2020,Mirandes,Lugo,0,0
+05/12/2020,Malaga,Cartagena,1,2
+06/12/2020,Alcorcon,Almeria,0,1
+06/12/2020,Espanol,Sp Gijon,2,0
+06/12/2020,Albacete,Girona,0,2
+06/12/2020,Sabadell,Oviedo,0,1
+06/12/2020,Zaragoza,Fuenlabrada,1,0
+07/12/2020,Tenerife,Leganes,0,0
+07/12/2020,Mallorca,Castellon,3,1
+09/12/2020,Almeria,Zaragoza,1,0
+09/12/2020,Sabadell,Alcorcon,1,1
+10/12/2020,Girona,Logrones,2,0
+11/12/2020,Lugo,Ponferradina,1,0
+11/12/2020,Oviedo,Tenerife,4,2
+12/12/2020,Leganes,Mallorca,0,1
+12/12/2020,Castellon,Albacete,3,0
+12/12/2020,Fuenlabrada,Mirandes,0,1
+13/12/2020,Logrones,Espanol,0,3
+13/12/2020,Almeria,Malaga,3,1
+13/12/2020,Las Palmas,Alcorcon,0,0
+13/12/2020,Cartagena,Sabadell,1,2
+13/12/2020,Sp Gijon,Zaragoza,1,0
+14/12/2020,Girona,Vallecano,0,0
+18/12/2020,Ponferradina,Oviedo,1,0
+19/12/2020,Sabadell,Castellon,1,1
+19/12/2020,Mallorca,Fuenlabrada,2,3
+19/12/2020,Zaragoza,Lugo,1,0
+20/12/2020,Alcorcon,Cartagena,2,1
+20/12/2020,Espanol,Almeria,2,1
+20/12/2020,Vallecano,Las Palmas,2,0
+20/12/2020,Malaga,Logrones,0,0
+21/12/2020,Mirandes,Albacete,0,2
+21/12/2020,Sp Gijon,Leganes,1,1
+21/12/2020,Tenerife,Girona,2,0
+02/01/2021,Fuenlabrada,Leganes,0,0
+02/01/2021,Vallecano,Alcorcon,2,1
+02/01/2021,Logrones,Mirandes,2,1
+02/01/2021,Cartagena,Zaragoza,1,1
+03/01/2021,Castellon,Tenerife,0,1
+03/01/2021,Las Palmas,Espanol,1,0
+03/01/2021,Albacete,Malaga,1,1
+03/01/2021,Almeria,Ponferradina,3,1
+03/01/2021,Oviedo,Mallorca,2,2
+04/01/2021,Girona,Sabadell,0,0
+04/01/2021,Lugo,Sp Gijon,0,0
+08/01/2021,Zaragoza,Logrones,2,0
+09/01/2021,Malaga,Oviedo,1,1
+10/01/2021,Mallorca,Las Palmas,0,1
+10/01/2021,Tenerife,Cartagena,3,0
+10/01/2021,Espanol,Castellon,2,0
+11/01/2021,Ponferradina,Girona,1,1
+11/01/2021,Sp Gijon,Fuenlabrada,2,1
+11/01/2021,Sabadell,Lugo,1,1
+19/01/2021,Mirandes,Vallecano,0,2
+22/01/2021,Fuenlabrada,Alcorcon,0,0
+22/01/2021,Albacete,Zaragoza,1,0
+23/01/2021,Vallecano,Mallorca,1,3
+23/01/2021,Girona,Espanol,1,0
+23/01/2021,Lugo,Tenerife,2,0
+23/01/2021,Malaga,Ponferradina,0,2
+24/01/2021,Almeria,Sabadell,2,2
+24/01/2021,Logrones,Oviedo,0,0
+24/01/2021,Castellon,Sp Gijon,2,0
+24/01/2021,Las Palmas,Leganes,2,1
+25/01/2021,Cartagena,Mirandes,0,2
+26/01/2021,Alcorcon,Albacete,1,2
+29/01/2021,Zaragoza,Ponferradina,1,0
+30/01/2021,Oviedo,Albacete,0,1
+30/01/2021,Alcorcon,Malaga,0,1
+30/01/2021,Mallorca,Girona,1,0
+30/01/2021,Almeria,Castellon,3,1
+31/01/2021,Sp Gijon,Cartagena,0,0
+31/01/2021,Espanol,Vallecano,2,3
+31/01/2021,Mirandes,Las Palmas,2,0
+31/01/2021,Tenerife,Fuenlabrada,1,1
+01/02/2021,Leganes,Lugo,3,2
+01/02/2021,Sabadell,Logrones,0,0
+05/02/2021,Albacete,Mallorca,0,1
+06/02/2021,Cartagena,Oviedo,2,0
+06/02/2021,Logrones,Sp Gijon,0,4
+06/02/2021,Fuenlabrada,Almeria,1,1
+07/02/2021,Girona,Leganes,0,2
+07/02/2021,Malaga,Zaragoza,1,2
+07/02/2021,Castellon,Mirandes,0,1
+07/02/2021,Vallecano,Tenerife,0,1
+07/02/2021,Las Palmas,Sabadell,0,1
+08/02/2021,Ponferradina,Alcorcon,2,0
+08/02/2021,Lugo,Espanol,1,1
+12/02/2021,Sabadell,Zaragoza,1,1
+13/02/2021,Cartagena,Vallecano,2,2
+13/02/2021,Mirandes,Girona,3,3
+13/02/2021,Tenerife,Ponferradina,1,0
+14/02/2021,Mallorca,Espanol,1,2
+14/02/2021,Almeria,Las Palmas,3,1
+14/02/2021,Alcorcon,Logrones,1,0
+14/02/2021,Leganes,Albacete,3,1
+14/02/2021,Sp Gijon,Malaga,1,0
+15/02/2021,Castellon,Fuenlabrada,1,2
+15/02/2021,Oviedo,Lugo,3,1
+17/02/2021,Leganes,Almeria,2,1
+19/02/2021,Ponferradina,Mirandes,1,0
+20/02/2021,Espanol,Sabadell,1,0
+20/02/2021,Albacete,Sp Gijon,0,1
+20/02/2021,Las Palmas,Cartagena,2,0
+21/02/2021,Leganes,Tenerife,1,0
+21/02/2021,Mallorca,Almeria,2,0
+21/02/2021,Girona,Castellon,2,1
+21/02/2021,Lugo,Logrones,1,1
+21/02/2021,Malaga,Vallecano,2,0
+22/02/2021,Fuenlabrada,Oviedo,2,2
+22/02/2021,Zaragoza,Alcorcon,0,1
+26/02/2021,Sabadell,Albacete,0,0
+26/02/2021,Cartagena,Leganes,1,0
+27/02/2021,Vallecano,Ponferradina,1,1
+27/02/2021,Almeria,Lugo,4,1
+27/02/2021,Castellon,Las Palmas,4,0
+27/02/2021,Logrones,Mallorca,0,1
+28/02/2021,Fuenlabrada,Girona,1,1
+28/02/2021,Sp Gijon,Espanol,1,1
+28/02/2021,Tenerife,Alcorcon,3,1
+28/02/2021,Oviedo,Zaragoza,1,0
+01/03/2021,Mirandes,Malaga,1,0
+05/03/2021,Espanol,Oviedo,1,1
+06/03/2021,Zaragoza,Tenerife,1,0
+06/03/2021,Las Palmas,Vallecano,1,1
+06/03/2021,Leganes,Castellon,0,0
+06/03/2021,Albacete,Logrones,1,1
+07/03/2021,Malaga,Sabadell,2,0
+07/03/2021,Ponferradina,Sp Gijon,2,2
+07/03/2021,Mallorca,Cartagena,2,1
+07/03/2021,Girona,Almeria,0,1
+08/03/2021,Alcorcon,Mirandes,4,0
+08/03/2021,Lugo,Fuenlabrada,0,0
+12/03/2021,Cartagena,Ponferradina,1,1
+12/03/2021,Vallecano,Zaragoza,3,2
+13/03/2021,Fuenlabrada,Las Palmas,1,2
+13/03/2021,Girona,Lugo,1,1
+13/03/2021,Castellon,Sabadell,2,1
+13/03/2021,Mirandes,Espanol,2,2
+14/03/2021,Logrones,Malaga,0,1
+14/03/2021,Sp Gijon,Mallorca,2,0
+14/03/2021,Tenerife,Albacete,2,0
+14/03/2021,Oviedo,Leganes,1,3
+15/03/2021,Almeria,Alcorcon,0,0
+19/03/2021,Las Palmas,Girona,1,2
+20/03/2021,Sabadell,Sp Gijon,1,1
+20/03/2021,Mallorca,Oviedo,0,0
+20/03/2021,Leganes,Fuenlabrada,0,2
+20/03/2021,Espanol,Logrones,4,0
+21/03/2021,Ponferradina,Almeria,2,1
+21/03/2021,Malaga,Tenerife,1,1
+21/03/2021,Lugo,Castellon,0,0
+21/03/2021,Alcorcon,Vallecano,0,3
+22/03/2021,Albacete,Cartagena,2,0
+22/03/2021,Zaragoza,Mirandes,1,0
+26/03/2021,Sp Gijon,Alcorcon,0,0
+26/03/2021,Castellon,Espanol,1,3
+27/03/2021,Oviedo,Ponferradina,1,1
+27/03/2021,Almeria,Leganes,1,1
+27/03/2021,Cartagena,Malaga,1,1
+27/03/2021,Logrones,Zaragoza,1,1
+28/03/2021,Lugo,Sabadell,0,1
+28/03/2021,Girona,Albacete,2,1
+28/03/2021,Tenerife,Las Palmas,1,1
+29/03/2021,Fuenlabrada,Mallorca,4,1
+30/03/2021,Alcorcon,Oviedo,1,1
+30/03/2021,Malaga,Almeria,0,3
+30/03/2021,Ponferradina,Logrones,2,2
+30/03/2021,Vallecano,Sp Gijon,0,1
+31/03/2021,Albacete,Castellon,0,1
+31/03/2021,Sabadell,Girona,2,2
+01/04/2021,Espanol,Fuenlabrada,4,0
+01/04/2021,Mallorca,Leganes,1,0
+01/04/2021,Las Palmas,Lugo,6,1
+01/04/2021,Zaragoza,Cartagena,0,0
+02/04/2021,Almeria,Vallecano,0,1
+03/04/2021,Logrones,Tenerife,1,0
+03/04/2021,Girona,Ponferradina,3,1
+03/04/2021,Castellon,Oviedo,1,0
+04/04/2021,Sp Gijon,Mirandes,1,2
+04/04/2021,Albacete,Espanol,0,3
+04/04/2021,Leganes,Sabadell,2,1
+04/04/2021,Lugo,Malaga,0,1
+04/04/2021,Las Palmas,Mallorca,1,1
+05/04/2021,Cartagena,Alcorcon,2,1
+05/04/2021,Fuenlabrada,Zaragoza,0,1
+09/04/2021,Tenerife,Sp Gijon,1,0
+10/04/2021,Ponferradina,Fuenlabrada,0,0
+10/04/2021,Oviedo,Las Palmas,0,0
+10/04/2021,Vallecano,Girona,2,1
+11/04/2021,Malaga,Albacete,2,0
+11/04/2021,Zaragoza,Almeria,2,1
+11/04/2021,Mallorca,Lugo,2,0
+11/04/2021,Mirandes,Logrones,0,1
+11/04/2021,Sabadell,Cartagena,1,1
+11/04/2021,Espanol,Leganes,2,1
+12/04/2021,Alcorcon,Castellon,2,1
+14/04/2021,Vallecano,Mirandes,0,1
+16/04/2021,Fuenlabrada,Sabadell,2,2
+16/04/2021,Girona,Zaragoza,3,0
+17/04/2021,Lugo,Alcorcon,1,3
+17/04/2021,Castellon,Mallorca,1,0
+17/04/2021,Las Palmas,Malaga,1,1
+17/04/2021,Sp Gijon,Oviedo,0,1
+18/04/2021,Albacete,Mirandes,1,0
+18/04/2021,Logrones,Vallecano,0,0
+18/04/2021,Cartagena,Tenerife,0,0
+19/04/2021,Leganes,Ponferradina,1,1
+19/04/2021,Almeria,Espanol,1,1
+21/04/2021,Mirandes,Tenerife,0,0
+23/04/2021,Zaragoza,Sp Gijon,0,0
+24/04/2021,Logrones,Cartagena,0,1
+24/04/2021,Malaga,Fuenlabrada,0,1
+24/04/2021,Espanol,Las Palmas,4,0
+24/04/2021,Ponferradina,Lugo,2,0
+25/04/2021,Oviedo,Girona,0,1
+25/04/2021,Mirandes,Almeria,1,1
+25/04/2021,Alcorcon,Leganes,1,2
+25/04/2021,Tenerife,Castellon,1,1
+26/04/2021,Vallecano,Albacete,2,2
+26/04/2021,Sabadell,Mallorca,1,0
+30/04/2021,Lugo,Zaragoza,2,2
+01/05/2021,Girona,Tenerife,1,0
+01/05/2021,Almeria,Oviedo,2,2
+01/05/2021,Mallorca,Mirandes,2,1
+02/05/2021,Fuenlabrada,Cartagena,2,1
+02/05/2021,Espanol,Malaga,3,0
+02/05/2021,Castellon,Logrones,0,0
+02/05/2021,Leganes,Sp Gijon,0,0
+02/05/2021,Las Palmas,Ponferradina,2,0
+03/05/2021,Sabadell,Vallecano,2,0
+03/05/2021,Albacete,Alcorcon,0,1
+07/05/2021,Tenerife,Almeria,0,1
+08/05/2021,Ponferradina,Albacete,0,1
+08/05/2021,Zaragoza,Espanol,0,0
+08/05/2021,Alcorcon,Las Palmas,0,0
+08/05/2021,Malaga,Mallorca,1,1
+09/05/2021,Mirandes,Fuenlabrada,2,1
+09/05/2021,Oviedo,Sabadell,2,1
+09/05/2021,Cartagena,Castellon,1,0
+09/05/2021,Logrones,Girona,1,4
+10/05/2021,Vallecano,Leganes,1,1
+10/05/2021,Sp Gijon,Lugo,1,0
+14/05/2021,Espanol,Cartagena,0,2
+15/05/2021,Castellon,Ponferradina,0,2
+15/05/2021,Lugo,Mirandes,2,1
+15/05/2021,Almeria,Albacete,1,1
+15/05/2021,Las Palmas,Zaragoza,0,2
+16/05/2021,Sabadell,Tenerife,0,2
+16/05/2021,Fuenlabrada,Vallecano,1,2
+16/05/2021,Mallorca,Alcorcon,2,0
+16/05/2021,Leganes,Logrones,3,0
+17/05/2021,Oviedo,Malaga,1,0
+17/05/2021,Girona,Sp Gijon,1,0
+18/05/2021,Cartagena,Almeria,3,2
+18/05/2021,Albacete,Lugo,1,1
+18/05/2021,Ponferradina,Espanol,1,4
+19/05/2021,Alcorcon,Sabadell,2,0
+19/05/2021,Logrones,Fuenlabrada,1,0
+19/05/2021,Mirandes,Leganes,0,0
+19/05/2021,Tenerife,Mallorca,0,1
+20/05/2021,Malaga,Girona,0,1
+20/05/2021,Sp Gijon,Las Palmas,1,0
+20/05/2021,Vallecano,Oviedo,4,1
+20/05/2021,Zaragoza,Castellon,3,0
+23/05/2021,Espanol,Tenerife,1,1
+23/05/2021,Mallorca,Zaragoza,2,1
+24/05/2021,Oviedo,Mirandes,1,1
+24/05/2021,Almeria,Logrones,2,1
+24/05/2021,Castellon,Vallecano,0,2
+24/05/2021,Fuenlabrada,Sp Gijon,0,0
+24/05/2021,Girona,Alcorcon,1,0
+24/05/2021,Las Palmas,Albacete,3,2
+24/05/2021,Leganes,Malaga,1,0
+24/05/2021,Lugo,Cartagena,2,1
+24/05/2021,Sabadell,Ponferradina,2,0
+29/05/2021,Tenerife,Oviedo,2,2
+30/05/2021,Albacete,Fuenlabrada,1,2
+30/05/2021,Alcorcon,Espanol,1,0
+30/05/2021,Cartagena,Girona,1,1
+30/05/2021,Logrones,Las Palmas,0,1
+30/05/2021,Malaga,Castellon,3,0
+30/05/2021,Mirandes,Sabadell,0,2
+30/05/2021,Ponferradina,Mallorca,2,2
+30/05/2021,Sp Gijon,Almeria,0,2
+30/05/2021,Vallecano,Lugo,0,1
+30/05/2021,Zaragoza,Leganes,0,5

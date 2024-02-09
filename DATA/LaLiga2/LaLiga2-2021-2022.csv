@@ -1,0 +1,463 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG
+13/08/2021,Huesca,Eibar,2,0
+13/08/2021,Zaragoza,Ibiza,0,0
+14/08/2021,Sociedad B,Leganes,1,0
+14/08/2021,Girona,Amorebieta,2,0
+14/08/2021,Ponferradina,Alcorcon,1,0
+15/08/2021,Sp Gijon,Burgos,1,0
+15/08/2021,Oviedo,Lugo,2,2
+15/08/2021,Fuenlabrada,Tenerife,1,2
+15/08/2021,Las Palmas,Valladolid,1,1
+16/08/2021,Malaga,Mirandes,0,0
+16/08/2021,Cartagena,Almeria,1,3
+20/08/2021,Valladolid,Zaragoza,2,0
+20/08/2021,Almeria,Oviedo,2,1
+21/08/2021,Lugo,Sociedad B,0,0
+21/08/2021,Tenerife,Sp Gijon,0,0
+21/08/2021,Alcorcon,Fuenlabrada,0,2
+22/08/2021,Ibiza,Malaga,2,2
+22/08/2021,Eibar,Ponferradina,0,1
+22/08/2021,Girona,Las Palmas,0,0
+22/08/2021,Huesca,Cartagena,2,0
+23/08/2021,Mirandes,Amorebieta,2,0
+23/08/2021,Leganes,Burgos,0,0
+27/08/2021,Las Palmas,Huesca,2,1
+27/08/2021,Malaga,Alcorcon,1,0
+28/08/2021,Sp Gijon,Mirandes,2,1
+28/08/2021,Leganes,Ibiza,1,2
+28/08/2021,Oviedo,Tenerife,0,0
+28/08/2021,Ponferradina,Girona,2,1
+29/08/2021,Amorebieta,Almeria,2,1
+29/08/2021,Lugo,Valladolid,0,2
+29/08/2021,Sociedad B,Fuenlabrada,0,0
+29/08/2021,Burgos,Eibar,0,1
+30/08/2021,Zaragoza,Cartagena,0,1
+03/09/2021,Girona,Sp Gijon,1,2
+04/09/2021,Eibar,Leganes,1,1
+04/09/2021,Cartagena,Sociedad B,1,0
+04/09/2021,Tenerife,Ponferradina,2,0
+04/09/2021,Almeria,Malaga,2,0
+04/09/2021,Fuenlabrada,Lugo,1,1
+05/09/2021,Burgos,Valladolid,3,0
+05/09/2021,Ibiza,Amorebieta,1,1
+05/09/2021,Alcorcon,Zaragoza,1,2
+05/09/2021,Mirandes,Las Palmas,4,2
+06/09/2021,Huesca,Oviedo,1,2
+10/09/2021,Sp Gijon,Leganes,2,1
+11/09/2021,Amorebieta,Burgos,2,2
+11/09/2021,Sociedad B,Eibar,2,3
+11/09/2021,Las Palmas,Ibiza,1,1
+11/09/2021,Mirandes,Alcorcon,1,3
+12/09/2021,Oviedo,Cartagena,2,0
+12/09/2021,Valladolid,Tenerife,0,2
+12/09/2021,Ponferradina,Almeria,1,0
+12/09/2021,Fuenlabrada,Zaragoza,1,1
+12/09/2021,Malaga,Girona,2,0
+13/09/2021,Lugo,Huesca,3,2
+17/09/2021,Alcorcon,Almeria,0,4
+18/09/2021,Ibiza,Oviedo,1,1
+18/09/2021,Leganes,Amorebieta,1,0
+18/09/2021,Zaragoza,Sociedad B,1,1
+18/09/2021,Girona,Valladolid,1,0
+18/09/2021,Cartagena,Lugo,2,1
+19/09/2021,Huesca,Fuenlabrada,0,0
+19/09/2021,Ponferradina,Malaga,4,0
+19/09/2021,Eibar,Sp Gijon,3,2
+19/09/2021,Tenerife,Mirandes,1,2
+20/09/2021,Burgos,Las Palmas,0,0
+24/09/2021,Sociedad B,Huesca,0,2
+24/09/2021,Almeria,Tenerife,3,1
+25/09/2021,Ibiza,Burgos,2,0
+25/09/2021,Amorebieta,Eibar,1,1
+25/09/2021,Las Palmas,Ponferradina,2,1
+26/09/2021,Mirandes,Leganes,1,2
+26/09/2021,Sp Gijon,Malaga,2,1
+26/09/2021,Oviedo,Girona,0,0
+26/09/2021,Lugo,Zaragoza,1,1
+26/09/2021,Valladolid,Alcorcon,2,0
+27/09/2021,Fuenlabrada,Cartagena,2,1
+01/10/2021,Ponferradina,Valladolid,2,2
+02/10/2021,Amorebieta,Sp Gijon,1,1
+02/10/2021,Huesca,Tenerife,1,2
+02/10/2021,Zaragoza,Oviedo,0,0
+02/10/2021,Alcorcon,Sociedad B,1,4
+03/10/2021,Eibar,Ibiza,3,1
+03/10/2021,Malaga,Fuenlabrada,1,0
+03/10/2021,Burgos,Mirandes,1,0
+03/10/2021,Las Palmas,Cartagena,4,1
+03/10/2021,Leganes,Lugo,1,1
+04/10/2021,Girona,Almeria,1,2
+08/10/2021,Valladolid,Malaga,1,1
+09/10/2021,Lugo,Girona,1,0
+09/10/2021,Mirandes,Eibar,3,3
+09/10/2021,Almeria,Las Palmas,1,1
+09/10/2021,Oviedo,Sp Gijon,1,1
+10/10/2021,Sociedad B,Ponferradina,1,1
+10/10/2021,Cartagena,Ibiza,5,1
+10/10/2021,Alcorcon,Burgos,1,0
+10/10/2021,Fuenlabrada,Leganes,2,1
+10/10/2021,Tenerife,Amorebieta,2,1
+11/10/2021,Zaragoza,Huesca,0,0
+15/10/2021,Eibar,Almeria,1,0
+16/10/2021,Amorebieta,Cartagena,2,3
+16/10/2021,Girona,Huesca,1,3
+16/10/2021,Las Palmas,Tenerife,2,1
+16/10/2021,Malaga,Zaragoza,1,1
+16/10/2021,Sp Gijon,Alcorcon,1,0
+17/10/2021,Ibiza,Mirandes,0,2
+17/10/2021,Leganes,Valladolid,0,2
+17/10/2021,Burgos,Lugo,1,1
+17/10/2021,Sociedad B,Oviedo,1,1
+17/10/2021,Ponferradina,Fuenlabrada,0,0
+19/10/2021,Cartagena,Sp Gijon,1,0
+19/10/2021,Huesca,Malaga,0,0
+19/10/2021,Tenerife,Eibar,0,1
+20/10/2021,Fuenlabrada,Amorebieta,0,0
+20/10/2021,Valladolid,Ibiza,1,1
+20/10/2021,Alcorcon,Leganes,3,3
+20/10/2021,Lugo,Las Palmas,2,0
+21/10/2021,Almeria,Sociedad B,3,1
+21/10/2021,Zaragoza,Ponferradina,1,1
+21/10/2021,Mirandes,Girona,1,2
+21/10/2021,Oviedo,Burgos,1,3
+22/10/2021,Eibar,Cartagena,2,1
+23/10/2021,Ibiza,Fuenlabrada,3,1
+23/10/2021,Sp Gijon,Valladolid,1,2
+23/10/2021,Malaga,Lugo,1,0
+23/10/2021,Leganes,Tenerife,1,2
+24/10/2021,Amorebieta,Sociedad B,1,2
+24/10/2021,Mirandes,Almeria,1,4
+24/10/2021,Burgos,Huesca,3,1
+24/10/2021,Ponferradina,Oviedo,1,2
+24/10/2021,Las Palmas,Alcorcon,3,0
+25/10/2021,Girona,Zaragoza,1,1
+29/10/2021,Almeria,Leganes,1,0
+29/10/2021,Sociedad B,Las Palmas,0,1
+30/10/2021,Huesca,Amorebieta,1,1
+30/10/2021,Lugo,Sp Gijon,1,1
+30/10/2021,Cartagena,Ponferradina,0,1
+31/10/2021,Fuenlabrada,Girona,1,2
+31/10/2021,Oviedo,Malaga,2,1
+31/10/2021,Valladolid,Eibar,2,0
+31/10/2021,Zaragoza,Mirandes,1,1
+01/11/2021,Alcorcon,Ibiza,0,2
+01/11/2021,Tenerife,Burgos,4,0
+02/11/2021,Ponferradina,Huesca,1,1
+02/11/2021,Sp Gijon,Almeria,0,1
+02/11/2021,Leganes,Cartagena,1,1
+03/11/2021,Amorebieta,Valladolid,4,1
+03/11/2021,Mirandes,Lugo,3,2
+03/11/2021,Eibar,Oviedo,1,0
+03/11/2021,Las Palmas,Fuenlabrada,2,1
+04/11/2021,Burgos,Zaragoza,0,1
+04/11/2021,Girona,Alcorcon,3,1
+04/11/2021,Ibiza,Tenerife,0,0
+04/11/2021,Malaga,Sociedad B,2,1
+05/11/2021,Huesca,Leganes,0,2
+06/11/2021,Lugo,Ponferradina,1,2
+06/11/2021,Oviedo,Las Palmas,1,1
+06/11/2021,Valladolid,Mirandes,3,1
+06/11/2021,Fuenlabrada,Eibar,0,0
+07/11/2021,Alcorcon,Amorebieta,2,2
+07/11/2021,Zaragoza,Sp Gijon,2,0
+07/11/2021,Almeria,Burgos,2,0
+07/11/2021,Cartagena,Malaga,3,1
+07/11/2021,Sociedad B,Ibiza,0,1
+08/11/2021,Tenerife,Girona,2,1
+12/11/2021,Sp Gijon,Sociedad B,0,1
+13/11/2021,Valladolid,Fuenlabrada,3,0
+13/11/2021,Eibar,Alcorcon,2,1
+13/11/2021,Mirandes,Huesca,0,1
+13/11/2021,Las Palmas,Zaragoza,2,3
+14/11/2021,Amorebieta,Lugo,1,3
+14/11/2021,Girona,Cartagena,2,0
+14/11/2021,Ibiza,Almeria,0,1
+14/11/2021,Burgos,Ponferradina,1,0
+14/11/2021,Leganes,Oviedo,0,0
+15/11/2021,Malaga,Tenerife,1,0
+19/11/2021,Fuenlabrada,Mirandes,1,1
+20/11/2021,Oviedo,Amorebieta,2,0
+20/11/2021,Malaga,Las Palmas,2,1
+20/11/2021,Almeria,Valladolid,3,1
+21/11/2021,Cartagena,Burgos,1,0
+21/11/2021,Lugo,Eibar,2,2
+21/11/2021,Huesca,Ibiza,0,0
+21/11/2021,Tenerife,Alcorcon,1,0
+21/11/2021,Ponferradina,Sp Gijon,4,1
+22/11/2021,Sociedad B,Girona,1,2
+22/11/2021,Zaragoza,Leganes,0,2
+26/11/2021,Alcorcon,Lugo,1,1
+26/11/2021,Mirandes,Oviedo,1,1
+27/11/2021,Burgos,Malaga,3,0
+27/11/2021,Almeria,Huesca,0,0
+27/11/2021,Sp Gijon,Fuenlabrada,1,1
+27/11/2021,Valladolid,Cartagena,2,0
+28/11/2021,Leganes,Las Palmas,4,1
+28/11/2021,Amorebieta,Zaragoza,1,1
+28/11/2021,Ibiza,Ponferradina,0,1
+28/11/2021,Tenerife,Sociedad B,2,0
+29/11/2021,Eibar,Girona,4,2
+03/12/2021,Huesca,Valladolid,3,2
+04/12/2021,Fuenlabrada,Almeria,1,1
+05/12/2021,Ponferradina,Mirandes,2,1
+05/12/2021,Malaga,Amorebieta,1,2
+05/12/2021,Lugo,Ibiza,0,0
+05/12/2021,Oviedo,Alcorcon,3,1
+05/12/2021,Sociedad B,Burgos,0,1
+05/12/2021,Las Palmas,Sp Gijon,1,0
+06/12/2021,Zaragoza,Eibar,1,0
+06/12/2021,Cartagena,Tenerife,1,1
+06/12/2021,Girona,Leganes,3,0
+10/12/2021,Sp Gijon,Huesca,1,1
+11/12/2021,Burgos,Fuenlabrada,2,0
+11/12/2021,Ibiza,Girona,1,1
+11/12/2021,Almeria,Zaragoza,3,0
+11/12/2021,Eibar,Malaga,2,2
+11/12/2021,Tenerife,Lugo,1,1
+12/12/2021,Leganes,Ponferradina,1,1
+12/12/2021,Valladolid,Oviedo,2,1
+12/12/2021,Alcorcon,Cartagena,1,1
+12/12/2021,Amorebieta,Las Palmas,1,1
+13/12/2021,Mirandes,Sociedad B,2,0
+17/12/2021,Girona,Burgos,3,1
+18/12/2021,Ibiza,Sp Gijon,0,2
+18/12/2021,Malaga,Leganes,0,2
+18/12/2021,Las Palmas,Eibar,0,1
+19/12/2021,Fuenlabrada,Oviedo,0,0
+19/12/2021,Ponferradina,Amorebieta,1,1
+19/12/2021,Zaragoza,Tenerife,0,2
+19/12/2021,Cartagena,Mirandes,3,0
+19/12/2021,Huesca,Alcorcon,0,0
+19/12/2021,Sociedad B,Valladolid,0,2
+31/12/2021,Oviedo,Ponferradina,2,0
+31/12/2021,Burgos,Amorebieta,2,2
+31/12/2021,Eibar,Sociedad B,3,2
+02/01/2022,Almeria,Cartagena,0,1
+02/01/2022,Valladolid,Leganes,1,0
+02/01/2022,Sp Gijon,Lugo,1,1
+02/01/2022,Huesca,Girona,0,1
+02/01/2022,Mirandes,Zaragoza,2,0
+02/01/2022,Fuenlabrada,Ibiza,1,2
+02/01/2022,Tenerife,Las Palmas,0,1
+03/01/2022,Alcorcon,Malaga,0,1
+07/01/2022,Amorebieta,Tenerife,1,1
+08/01/2022,Cartagena,Huesca,0,3
+08/01/2022,Ibiza,Alcorcon,6,2
+08/01/2022,Valladolid,Burgos,1,0
+08/01/2022,Leganes,Sociedad B,1,1
+09/01/2022,Girona,Fuenlabrada,2,1
+09/01/2022,Lugo,Mirandes,2,1
+09/01/2022,Malaga,Sp Gijon,2,2
+09/01/2022,Ponferradina,Zaragoza,0,0
+09/01/2022,Las Palmas,Almeria,1,1
+10/01/2022,Oviedo,Eibar,1,1
+19/01/2022,Lugo,Almeria,2,1
+21/01/2022,Tenerife,Oviedo,4,0
+22/01/2022,Zaragoza,Valladolid,0,0
+22/01/2022,Fuenlabrada,Las Palmas,3,2
+22/01/2022,Malaga,Ibiza,0,5
+23/01/2022,Burgos,Leganes,4,0
+23/01/2022,Sp Gijon,Amorebieta,2,1
+23/01/2022,Girona,Lugo,1,1
+23/01/2022,Huesca,Ponferradina,1,2
+23/01/2022,Alcorcon,Mirandes,0,0
+24/01/2022,Almeria,Eibar,0,2
+24/01/2022,Sociedad B,Cartagena,1,2
+28/01/2022,Valladolid,Sp Gijon,1,0
+29/01/2022,Amorebieta,Girona,1,0
+29/01/2022,Eibar,Huesca,2,1
+29/01/2022,Lugo,Burgos,1,0
+29/01/2022,Oviedo,Almeria,2,0
+30/01/2022,Leganes,Alcorcon,1,0
+30/01/2022,Cartagena,Fuenlabrada,3,0
+30/01/2022,Las Palmas,Sociedad B,0,0
+30/01/2022,Mirandes,Malaga,3,0
+30/01/2022,Ponferradina,Tenerife,1,2
+31/01/2022,Ibiza,Zaragoza,2,2
+04/02/2022,Almeria,Ibiza,2,0
+04/02/2022,Burgos,Alcorcon,3,1
+05/02/2022,Sociedad B,Lugo,1,1
+05/02/2022,Zaragoza,Malaga,1,1
+05/02/2022,Girona,Ponferradina,3,0
+05/02/2022,Sp Gijon,Eibar,0,1
+06/02/2022,Amorebieta,Oviedo,1,1
+06/02/2022,Fuenlabrada,Valladolid,0,0
+06/02/2022,Cartagena,Las Palmas,0,2
+06/02/2022,Huesca,Mirandes,4,0
+06/02/2022,Tenerife,Leganes,0,0
+11/02/2022,Leganes,Zaragoza,2,1
+12/02/2022,Mirandes,Sp Gijon,0,3
+12/02/2022,Ibiza,Cartagena,2,1
+12/02/2022,Valladolid,Girona,2,2
+12/02/2022,Malaga,Almeria,0,1
+13/02/2022,Eibar,Fuenlabrada,0,0
+13/02/2022,Oviedo,Huesca,3,3
+13/02/2022,Alcorcon,Tenerife,0,2
+13/02/2022,Lugo,Amorebieta,1,1
+13/02/2022,Las Palmas,Burgos,0,2
+14/02/2022,Ponferradina,Sociedad B,3,2
+18/02/2022,Cartagena,Valladolid,2,3
+19/02/2022,Zaragoza,Las Palmas,2,1
+19/02/2022,Girona,Eibar,0,1
+19/02/2022,Tenerife,Ibiza,2,0
+19/02/2022,Sociedad B,Malaga,2,0
+20/02/2022,Fuenlabrada,Alcorcon,2,2
+20/02/2022,Burgos,Oviedo,0,1
+20/02/2022,Huesca,Lugo,1,0
+20/02/2022,Sp Gijon,Ponferradina,2,3
+20/02/2022,Almeria,Mirandes,2,1
+21/02/2022,Amorebieta,Leganes,1,3
+25/02/2022,Almeria,Fuenlabrada,3,1
+26/02/2022,Ibiza,Huesca,2,1
+26/02/2022,Mirandes,Tenerife,2,1
+26/02/2022,Oviedo,Sociedad B,0,1
+26/02/2022,Las Palmas,Lugo,2,2
+27/02/2022,Eibar,Burgos,2,0
+27/02/2022,Sp Gijon,Zaragoza,1,2
+27/02/2022,Leganes,Girona,1,1
+27/02/2022,Valladolid,Amorebieta,5,1
+27/02/2022,Alcorcon,Ponferradina,2,2
+28/02/2022,Malaga,Cartagena,1,1
+04/03/2022,Zaragoza,Almeria,2,0
+05/03/2022,Fuenlabrada,Burgos,1,2
+05/03/2022,Huesca,Las Palmas,0,0
+05/03/2022,Tenerife,Valladolid,1,4
+06/03/2022,Lugo,Alcorcon,1,0
+06/03/2022,Ponferradina,Ibiza,1,1
+06/03/2022,Amorebieta,Malaga,1,2
+06/03/2022,Cartagena,Eibar,4,1
+06/03/2022,Leganes,Mirandes,2,0
+06/03/2022,Girona,Oviedo,2,1
+07/03/2022,Sociedad B,Sp Gijon,2,1
+11/03/2022,Zaragoza,Fuenlabrada,2,1
+12/03/2022,Ibiza,Leganes,1,1
+12/03/2022,Mirandes,Cartagena,2,1
+12/03/2022,Almeria,Lugo,3,3
+12/03/2022,Las Palmas,Girona,1,3
+12/03/2022,Malaga,Ponferradina,0,0
+13/03/2022,Burgos,Sociedad B,0,0
+13/03/2022,Eibar,Amorebieta,1,0
+13/03/2022,Sp Gijon,Tenerife,1,2
+13/03/2022,Alcorcon,Huesca,1,0
+13/03/2022,Oviedo,Valladolid,3,0
+18/03/2022,Huesca,Burgos,1,0
+19/03/2022,Sociedad B,Mirandes,1,3
+19/03/2022,Cartagena,Zaragoza,3,0
+19/03/2022,Fuenlabrada,Malaga,1,0
+19/03/2022,Lugo,Oviedo,1,1
+19/03/2022,Valladolid,Las Palmas,0,1
+19/03/2022,Girona,Ibiza,5,1
+20/03/2022,Amorebieta,Alcorcon,0,0
+20/03/2022,Ponferradina,Eibar,2,2
+20/03/2022,Leganes,Sp Gijon,1,1
+21/03/2022,Tenerife,Almeria,0,1
+25/03/2022,Zaragoza,Amorebieta,1,1
+26/03/2022,Ibiza,Sociedad B,2,2
+26/03/2022,Eibar,Lugo,1,0
+26/03/2022,Sp Gijon,Cartagena,4,1
+26/03/2022,Oviedo,Fuenlabrada,3,0
+27/03/2022,Mirandes,Ponferradina,3,1
+27/03/2022,Burgos,Tenerife,1,0
+27/03/2022,Alcorcon,Valladolid,1,2
+27/03/2022,Malaga,Huesca,0,2
+27/03/2022,Almeria,Girona,0,1
+28/03/2022,Las Palmas,Leganes,4,2
+01/04/2022,Girona,Malaga,1,0
+02/04/2022,Sociedad B,Alcorcon,2,4
+02/04/2022,Valladolid,Lugo,4,1
+02/04/2022,Amorebieta,Ibiza,3,1
+02/04/2022,Tenerife,Zaragoza,1,1
+03/04/2022,Cartagena,Oviedo,1,2
+03/04/2022,Burgos,Sp Gijon,0,0
+03/04/2022,Ponferradina,Las Palmas,1,2
+03/04/2022,Eibar,Mirandes,1,1
+03/04/2022,Huesca,Almeria,1,1
+04/04/2022,Leganes,Fuenlabrada,3,2
+08/04/2022,Lugo,Cartagena,1,0
+09/04/2022,Sociedad B,Tenerife,1,2
+09/04/2022,Alcorcon,Sp Gijon,1,1
+09/04/2022,Malaga,Valladolid,2,2
+09/04/2022,Las Palmas,Amorebieta,1,0
+10/04/2022,Fuenlabrada,Huesca,2,3
+10/04/2022,Zaragoza,Girona,1,0
+10/04/2022,Ibiza,Eibar,2,0
+10/04/2022,Mirandes,Burgos,3,1
+10/04/2022,Oviedo,Leganes,1,0
+11/04/2022,Almeria,Ponferradina,3,0
+15/04/2022,Eibar,Las Palmas,2,2
+15/04/2022,Amorebieta,Mirandes,1,0
+16/04/2022,Leganes,Malaga,0,3
+16/04/2022,Valladolid,Almeria,2,2
+16/04/2022,Sp Gijon,Oviedo,0,1
+16/04/2022,Cartagena,Alcorcon,3,1
+17/04/2022,Ponferradina,Lugo,3,1
+17/04/2022,Burgos,Ibiza,2,1
+17/04/2022,Huesca,Zaragoza,1,1
+17/04/2022,Tenerife,Fuenlabrada,3,1
+18/04/2022,Girona,Sociedad B,2,0
+22/04/2022,Tenerife,Huesca,0,0
+23/04/2022,Sociedad B,Amorebieta,2,1
+23/04/2022,Cartagena,Girona,3,0
+23/04/2022,Fuenlabrada,Ponferradina,2,3
+23/04/2022,Malaga,Eibar,1,3
+24/04/2022,Alcorcon,Oviedo,1,2
+24/04/2022,Ibiza,Las Palmas,1,1
+24/04/2022,Mirandes,Valladolid,0,1
+24/04/2022,Lugo,Leganes,0,0
+24/04/2022,Zaragoza,Burgos,0,0
+25/04/2022,Almeria,Sp Gijon,1,0
+29/04/2022,Las Palmas,Malaga,2,1
+30/04/2022,Oviedo,Mirandes,3,0
+30/04/2022,Eibar,Zaragoza,2,0
+30/04/2022,Burgos,Almeria,0,2
+01/05/2022,Amorebieta,Fuenlabrada,2,1
+01/05/2022,Alcorcon,Girona,0,1
+01/05/2022,Sp Gijon,Ibiza,0,1
+01/05/2022,Lugo,Tenerife,0,2
+01/05/2022,Ponferradina,Cartagena,4,2
+02/05/2022,Leganes,Huesca,2,1
+02/05/2022,Valladolid,Sociedad B,1,2
+06/05/2022,Las Palmas,Mirandes,1,0
+07/05/2022,Fuenlabrada,Sociedad B,1,2
+07/05/2022,Huesca,Sp Gijon,1,1
+07/05/2022,Almeria,Amorebieta,3,0
+07/05/2022,Malaga,Oviedo,0,0
+07/05/2022,Ponferradina,Burgos,3,1
+08/05/2022,Cartagena,Leganes,0,0
+08/05/2022,Eibar,Valladolid,0,2
+08/05/2022,Ibiza,Lugo,1,1
+08/05/2022,Zaragoza,Alcorcon,0,3
+09/05/2022,Girona,Tenerife,0,1
+13/05/2022,Sociedad B,Almeria,0,2
+14/05/2022,Amorebieta,Huesca,1,0
+14/05/2022,Burgos,Cartagena,1,1
+14/05/2022,Lugo,Fuenlabrada,1,3
+14/05/2022,Valladolid,Ponferradina,2,0
+14/05/2022,Leganes,Eibar,2,3
+15/05/2022,Alcorcon,Las Palmas,0,2
+15/05/2022,Mirandes,Ibiza,4,0
+15/05/2022,Sp Gijon,Girona,2,1
+15/05/2022,Tenerife,Malaga,0,2
+16/05/2022,Oviedo,Zaragoza,3,3
+20/05/2022,Zaragoza,Lugo,1,0
+21/05/2022,Cartagena,Amorebieta,5,0
+21/05/2022,Fuenlabrada,Sp Gijon,0,0
+21/05/2022,Huesca,Sociedad B,3,2
+21/05/2022,Malaga,Burgos,0,1
+21/05/2022,Almeria,Alcorcon,1,1
+21/05/2022,Eibar,Tenerife,2,0
+21/05/2022,Girona,Mirandes,2,0
+21/05/2022,Ibiza,Valladolid,1,2
+21/05/2022,Las Palmas,Oviedo,2,1
+21/05/2022,Ponferradina,Leganes,0,3
+27/05/2022,Mirandes,Fuenlabrada,5,1
+27/05/2022,Sociedad B,Zaragoza,1,2
+28/05/2022,Amorebieta,Ponferradina,1,0
+28/05/2022,Lugo,Malaga,1,0
+29/05/2022,Alcorcon,Eibar,1,0
+29/05/2022,Burgos,Girona,0,0
+29/05/2022,Leganes,Almeria,2,2
+29/05/2022,Oviedo,Ibiza,3,2
+29/05/2022,Sp Gijon,Las Palmas,0,1
+29/05/2022,Tenerife,Cartagena,1,2
+29/05/2022,Valladolid,Huesca,3,0

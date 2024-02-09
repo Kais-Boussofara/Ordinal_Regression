@@ -1,0 +1,307 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG
+06/08/04,Werder Bremen,Schalke 04,1,0
+07/08/04,Dortmund,Wolfsburg,1,2
+07/08/04,Freiburg,Hansa Rostock,0,0
+07/08/04,Hamburg,Bayern Munich,0,2
+07/08/04,Hertha,Bochum,2,2
+07/08/04,Kaiserslautern,Nurnberg,1,3
+07/08/04,Leverkusen,Hannover,2,1
+08/08/04,Bielefeld,M'gladbach,0,0
+08/08/04,Stuttgart,Mainz,4,2
+14/08/04,Bayern Munich,Hertha,1,1
+14/08/04,Hansa Rostock,Werder Bremen,0,4
+14/08/04,Mainz,Hamburg,2,1
+14/08/04,M'gladbach,Dortmund,2,3
+14/08/04,Nurnberg,Stuttgart,1,1
+14/08/04,Schalke 04,Kaiserslautern,2,1
+15/08/04,Bochum,Leverkusen,2,2
+15/08/04,Wolfsburg,Freiburg,0,1
+28/08/04,Bielefeld,Bochum,1,2
+28/08/04,Freiburg,M'gladbach,1,1
+28/08/04,Hamburg,Nurnberg,4,3
+28/08/04,Hertha,Mainz,1,1
+28/08/04,Kaiserslautern,Stuttgart,2,3
+28/08/04,Leverkusen,Bayern Munich,4,1
+28/08/04,Schalke 04,Hansa Rostock,0,2
+29/08/04,Dortmund,Hannover,1,1
+29/08/04,Werder Bremen,Wolfsburg,1,2
+11/09/04,Bayern Munich,Bielefeld,1,0
+11/09/04,Bochum,Dortmund,2,2
+11/09/04,Mainz,Leverkusen,2,0
+11/09/04,M'gladbach,Werder Bremen,3,1
+11/09/04,Nurnberg,Hertha,0,0
+11/09/04,Stuttgart,Hamburg,2,0
+11/09/04,Wolfsburg,Schalke 04,3,0
+12/09/04,Hannover,Freiburg,2,2
+12/09/04,Hansa Rostock,Kaiserslautern,2,3
+18/09/04,Bielefeld,Mainz,1,1
+18/09/04,Dortmund,Bayern Munich,2,2
+18/09/04,Hansa Rostock,Wolfsburg,1,2
+18/09/04,Kaiserslautern,Hamburg,2,1
+18/09/04,Leverkusen,Nurnberg,2,2
+18/09/04,Schalke 04,M'gladbach,3,2
+18/09/04,Werder Bremen,Hannover,3,0
+19/09/04,Freiburg,Bochum,1,1
+19/09/04,Hertha,Stuttgart,0,0
+25/09/04,Bayern Munich,Freiburg,3,1
+25/09/04,Bochum,Werder Bremen,1,4
+25/09/04,Hannover,Schalke 04,1,0
+25/09/04,M'gladbach,Hansa Rostock,2,2
+25/09/04,Nurnberg,Bielefeld,1,2
+25/09/04,Stuttgart,Leverkusen,3,0
+25/09/04,Wolfsburg,Kaiserslautern,2,1
+26/09/04,Hamburg,Hertha,2,1
+26/09/04,Mainz,Dortmund,1,1
+28/09/04,Hannover,Bielefeld,0,1
+02/10/04,Dortmund,Nurnberg,2,2
+02/10/04,Freiburg,Mainz,1,2
+02/10/04,Hansa Rostock,Hannover,1,3
+02/10/04,Kaiserslautern,Hertha,0,2
+02/10/04,Leverkusen,Hamburg,3,0
+02/10/04,Werder Bremen,Bayern Munich,1,2
+02/10/04,Wolfsburg,M'gladbach,2,1
+03/10/04,Bielefeld,Stuttgart,0,2
+03/10/04,Schalke 04,Bochum,3,2
+16/10/04,Bayern Munich,Schalke 04,0,1
+16/10/04,Bochum,Hansa Rostock,0,1
+16/10/04,Hamburg,Bielefeld,0,2
+16/10/04,Hertha,Leverkusen,3,1
+16/10/04,Mainz,Werder Bremen,2,1
+16/10/04,Nurnberg,Freiburg,3,0
+16/10/04,Stuttgart,Dortmund,2,0
+17/10/04,Hannover,Wolfsburg,3,0
+17/10/04,M'gladbach,Kaiserslautern,2,0
+23/10/04,Bielefeld,Hertha,1,0
+23/10/04,Dortmund,Hamburg,0,2
+23/10/04,Hansa Rostock,Bayern Munich,0,2
+23/10/04,Kaiserslautern,Leverkusen,0,0
+23/10/04,M'gladbach,Hannover,0,2
+23/10/04,Werder Bremen,Nurnberg,4,1
+23/10/04,Wolfsburg,Bochum,3,0
+24/10/04,Freiburg,Stuttgart,2,0
+24/10/04,Schalke 04,Mainz,2,1
+26/10/04,Bayern Munich,Wolfsburg,2,0
+26/10/04,Bochum,M'gladbach,3,0
+26/10/04,Hannover,Kaiserslautern,3,1
+26/10/04,Hertha,Dortmund,0,1
+27/10/04,Hamburg,Freiburg,4,0
+27/10/04,Leverkusen,Bielefeld,3,2
+27/10/04,Mainz,Hansa Rostock,3,1
+27/10/04,Nurnberg,Schalke 04,0,2
+27/10/04,Stuttgart,Werder Bremen,1,2
+30/10/04,Dortmund,Leverkusen,1,0
+30/10/04,Freiburg,Hertha,1,3
+30/10/04,Hannover,Bochum,3,0
+30/10/04,M'gladbach,Bayern Munich,2,0
+30/10/04,Schalke 04,Stuttgart,3,2
+30/10/04,Werder Bremen,Hamburg,1,1
+30/10/04,Wolfsburg,Mainz,4,3
+31/10/04,Hansa Rostock,Nurnberg,0,2
+31/10/04,Kaiserslautern,Bielefeld,2,1
+06/11/04,Bayern Munich,Hannover,3,0
+06/11/04,Bielefeld,Dortmund,1,0
+06/11/04,Bochum,Kaiserslautern,1,1
+06/11/04,Hertha,Werder Bremen,1,1
+06/11/04,Leverkusen,Freiburg,4,1
+06/11/04,Mainz,M'gladbach,1,1
+06/11/04,Nurnberg,Wolfsburg,4,0
+07/11/04,Hamburg,Schalke 04,1,2
+07/11/04,Stuttgart,Hansa Rostock,4,0
+13/11/04,Freiburg,Bielefeld,2,3
+13/11/04,Hannover,Mainz,2,0
+13/11/04,Kaiserslautern,Dortmund,1,0
+13/11/04,M'gladbach,Nurnberg,2,1
+13/11/04,Schalke 04,Hertha,1,3
+13/11/04,Werder Bremen,Leverkusen,2,2
+13/11/04,Wolfsburg,Stuttgart,3,0
+14/11/04,Bochum,Bayern Munich,1,3
+14/11/04,Hansa Rostock,Hamburg,0,6
+20/11/04,Bayern Munich,Kaiserslautern,3,1
+20/11/04,Bielefeld,Werder Bremen,2,1
+20/11/04,Dortmund,Freiburg,2,0
+20/11/04,Hertha,Hansa Rostock,1,1
+20/11/04,Leverkusen,Schalke 04,0,3
+20/11/04,Mainz,Bochum,1,0
+20/11/04,Stuttgart,M'gladbach,1,0
+21/11/04,Hamburg,Wolfsburg,3,1
+21/11/04,Nurnberg,Hannover,1,1
+27/11/04,Bayern Munich,Mainz,4,2
+27/11/04,Bochum,Nurnberg,3,1
+27/11/04,Hansa Rostock,Leverkusen,0,2
+27/11/04,Kaiserslautern,Freiburg,3,0
+27/11/04,M'gladbach,Hamburg,1,3
+27/11/04,Werder Bremen,Dortmund,2,0
+27/11/04,Wolfsburg,Hertha,2,3
+28/11/04,Hannover,Stuttgart,0,0
+28/11/04,Schalke 04,Bielefeld,2,1
+04/12/04,Bielefeld,Hansa Rostock,1,1
+04/12/04,Freiburg,Werder Bremen,0,6
+04/12/04,Hamburg,Hannover,0,2
+04/12/04,Hertha,M'gladbach,6,0
+04/12/04,Leverkusen,Wolfsburg,2,1
+04/12/04,Nurnberg,Bayern Munich,2,2
+04/12/04,Stuttgart,Bochum,5,2
+05/12/04,Dortmund,Schalke 04,0,1
+05/12/04,Kaiserslautern,Mainz,2,0
+11/12/04,Bayern Munich,Stuttgart,2,2
+11/12/04,Bochum,Hamburg,1,2
+11/12/04,Hannover,Hertha,0,1
+11/12/04,Hansa Rostock,Dortmund,1,1
+11/12/04,Mainz,Nurnberg,0,1
+11/12/04,Schalke 04,Freiburg,1,1
+11/12/04,Werder Bremen,Kaiserslautern,1,1
+12/12/04,M'gladbach,Leverkusen,1,1
+12/12/04,Wolfsburg,Bielefeld,5,0
+21/01/05,Bayern Munich,Hamburg,3,0
+22/01/05,Hansa Rostock,Freiburg,0,0
+22/01/05,Mainz,Stuttgart,2,3
+22/01/05,M'gladbach,Bielefeld,1,0
+22/01/05,Nurnberg,Kaiserslautern,1,3
+22/01/05,Schalke 04,Werder Bremen,2,1
+22/01/05,Wolfsburg,Dortmund,1,2
+23/01/05,Bochum,Hertha,2,2
+23/01/05,Hannover,Leverkusen,0,3
+29/01/05,Bielefeld,Hannover,0,1
+29/01/05,Dortmund,M'gladbach,1,1
+29/01/05,Freiburg,Wolfsburg,1,0
+29/01/05,Hamburg,Mainz,2,1
+29/01/05,Kaiserslautern,Schalke 04,2,0
+29/01/05,Leverkusen,Bochum,4,0
+29/01/05,Stuttgart,Nurnberg,2,4
+30/01/05,Hertha,Bayern Munich,0,0
+30/01/05,Werder Bremen,Hansa Rostock,3,2
+05/02/05,Bayern Munich,Leverkusen,2,0
+05/02/05,Bochum,Bielefeld,1,1
+05/02/05,Hannover,Dortmund,1,3
+05/02/05,Hansa Rostock,Schalke 04,2,2
+05/02/05,Mainz,Hertha,0,3
+05/02/05,Nurnberg,Hamburg,1,3
+05/02/05,Stuttgart,Kaiserslautern,1,1
+06/02/05,M'gladbach,Freiburg,3,2
+06/02/05,Wolfsburg,Werder Bremen,2,3
+12/02/05,Dortmund,Bochum,1,0
+12/02/05,Freiburg,Hannover,0,0
+12/02/05,Hamburg,Stuttgart,2,1
+12/02/05,Hertha,Nurnberg,2,1
+12/02/05,Kaiserslautern,Hansa Rostock,2,1
+12/02/05,Schalke 04,Wolfsburg,3,0
+12/02/05,Werder Bremen,M'gladbach,2,0
+13/02/05,Bielefeld,Bayern Munich,3,1
+13/02/05,Leverkusen,Mainz,2,0
+19/02/05,Bayern Munich,Dortmund,5,0
+19/02/05,Bochum,Freiburg,3,1
+19/02/05,Hamburg,Kaiserslautern,2,1
+19/02/05,Hannover,Werder Bremen,1,4
+19/02/05,Mainz,Bielefeld,0,0
+19/02/05,Nurnberg,Leverkusen,2,4
+19/02/05,Wolfsburg,Hansa Rostock,4,0
+20/02/05,M'gladbach,Schalke 04,1,3
+20/02/05,Stuttgart,Hertha,1,0
+26/02/05,Bielefeld,Nurnberg,3,1
+26/02/05,Dortmund,Mainz,3,0
+26/02/05,Freiburg,Bayern Munich,0,1
+26/02/05,Hansa Rostock,M'gladbach,0,0
+26/02/05,Hertha,Hamburg,4,1
+26/02/05,Kaiserslautern,Wolfsburg,0,0
+26/02/05,Werder Bremen,Bochum,4,0
+27/02/05,Leverkusen,Stuttgart,1,1
+27/02/05,Schalke 04,Hannover,1,0
+05/03/05,Bayern Munich,Werder Bremen,1,0
+05/03/05,Bochum,Schalke 04,0,2
+05/03/05,Hamburg,Leverkusen,1,0
+05/03/05,Hannover,Hansa Rostock,0,1
+05/03/05,Mainz,Freiburg,5,0
+05/03/05,M'gladbach,Wolfsburg,1,0
+05/03/05,Stuttgart,Bielefeld,2,1
+06/03/05,Hertha,Kaiserslautern,1,1
+06/03/05,Nurnberg,Dortmund,2,2
+12/03/05,Bielefeld,Hamburg,3,4
+12/03/05,Freiburg,Nurnberg,2,3
+12/03/05,Hansa Rostock,Bochum,3,1
+12/03/05,Kaiserslautern,M'gladbach,1,0
+12/03/05,Leverkusen,Hertha,3,3
+12/03/05,Werder Bremen,Mainz,0,0
+12/03/05,Wolfsburg,Hannover,1,0
+13/03/05,Dortmund,Stuttgart,0,2
+13/03/05,Schalke 04,Bayern Munich,1,0
+19/03/05,Bayern Munich,Hansa Rostock,3,1
+19/03/05,Bochum,Wolfsburg,5,1
+19/03/05,Hamburg,Dortmund,2,3
+19/03/05,Hannover,M'gladbach,2,1
+19/03/05,Hertha,Bielefeld,3,0
+19/03/05,Leverkusen,Kaiserslautern,2,0
+19/03/05,Nurnberg,Werder Bremen,1,2
+20/03/05,Mainz,Schalke 04,2,1
+20/03/05,Stuttgart,Freiburg,1,0
+02/04/05,Bielefeld,Leverkusen,1,0
+02/04/05,Freiburg,Hamburg,1,1
+02/04/05,Hansa Rostock,Mainz,2,0
+02/04/05,Kaiserslautern,Hannover,0,2
+02/04/05,Schalke 04,Nurnberg,4,1
+02/04/05,Werder Bremen,Stuttgart,1,2
+02/04/05,Wolfsburg,Bayern Munich,0,3
+03/04/05,Dortmund,Hertha,2,1
+03/04/05,M'gladbach,Bochum,2,2
+09/04/05,Bayern Munich,M'gladbach,2,1
+09/04/05,Bochum,Hannover,1,0
+09/04/05,Hamburg,Werder Bremen,1,2
+09/04/05,Hertha,Freiburg,3,1
+09/04/05,Leverkusen,Dortmund,0,1
+09/04/05,Mainz,Wolfsburg,0,2
+09/04/05,Stuttgart,Schalke 04,3,0
+10/04/05,Bielefeld,Kaiserslautern,0,2
+10/04/05,Nurnberg,Hansa Rostock,3,0
+16/04/05,Dortmund,Bielefeld,1,1
+16/04/05,Freiburg,Leverkusen,1,3
+16/04/05,Hannover,Bayern Munich,0,1
+16/04/05,Hansa Rostock,Stuttgart,2,1
+16/04/05,M'gladbach,Mainz,1,1
+16/04/05,Schalke 04,Hamburg,1,2
+16/04/05,Werder Bremen,Hertha,0,1
+17/04/05,Kaiserslautern,Bochum,1,2
+17/04/05,Wolfsburg,Nurnberg,0,1
+23/04/05,Bayern Munich,Bochum,3,1
+23/04/05,Bielefeld,Freiburg,3,1
+23/04/05,Dortmund,Kaiserslautern,4,2
+23/04/05,Hamburg,Hansa Rostock,3,0
+23/04/05,Hertha,Schalke 04,4,1
+23/04/05,Mainz,Hannover,2,0
+23/04/05,Stuttgart,Wolfsburg,0,0
+24/04/05,Leverkusen,Werder Bremen,2,1
+24/04/05,Nurnberg,M'gladbach,0,0
+30/04/05,Bochum,Mainz,2,6
+30/04/05,Freiburg,Dortmund,2,2
+30/04/05,Hansa Rostock,Hertha,2,1
+30/04/05,Kaiserslautern,Bayern Munich,0,4
+30/04/05,M'gladbach,Stuttgart,2,0
+30/04/05,Schalke 04,Leverkusen,3,3
+30/04/05,Werder Bremen,Bielefeld,3,0
+01/05/05,Hannover,Nurnberg,1,0
+01/05/05,Wolfsburg,Hamburg,1,0
+07/05/05,Bielefeld,Schalke 04,0,2
+07/05/05,Freiburg,Kaiserslautern,1,2
+07/05/05,Hertha,Wolfsburg,3,1
+07/05/05,Leverkusen,Hansa Rostock,3,0
+07/05/05,Mainz,Bayern Munich,2,4
+07/05/05,Nurnberg,Bochum,2,1
+07/05/05,Stuttgart,Hannover,1,0
+08/05/05,Dortmund,Werder Bremen,1,0
+08/05/05,Hamburg,M'gladbach,0,0
+14/05/05,Bayern Munich,Nurnberg,6,3
+14/05/05,Bochum,Stuttgart,2,0
+14/05/05,Hannover,Hamburg,2,1
+14/05/05,Hansa Rostock,Bielefeld,1,1
+14/05/05,Mainz,Kaiserslautern,3,2
+14/05/05,M'gladbach,Hertha,0,0
+14/05/05,Schalke 04,Dortmund,1,2
+14/05/05,Werder Bremen,Freiburg,4,1
+14/05/05,Wolfsburg,Leverkusen,2,2
+21/05/05,Bielefeld,Wolfsburg,1,2
+21/05/05,Dortmund,Hansa Rostock,2,1
+21/05/05,Freiburg,Schalke 04,2,3
+21/05/05,Hamburg,Bochum,0,1
+21/05/05,Hertha,Hannover,0,0
+21/05/05,Kaiserslautern,Werder Bremen,1,2
+21/05/05,Leverkusen,M'gladbach,5,1
+21/05/05,Nurnberg,Mainz,1,2
+21/05/05,Stuttgart,Bayern Munich,1,3

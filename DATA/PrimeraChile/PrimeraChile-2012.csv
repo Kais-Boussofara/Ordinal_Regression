@@ -1,0 +1,339 @@
+date,home_team,home_score,away_team,away_score
+2012-12-09,Huachipato,4,U. Espanola,1
+2012-12-05,U. Espanola,3,Huachipato,1
+2012-12-02,Rangers,1,Huachipato,1
+2012-12-02,Colo Colo,0,U. Espanola,2
+2012-11-29,Huachipato,1,Rangers,0
+2012-11-28,U. Espanola,3,Colo Colo,1
+2012-11-25,Deportes Iquique,0,Rangers,1
+2012-11-25,U. De Chile,1,U. Espanola,4
+2012-11-25,U. De Concepcion,1,Everton,3
+2012-11-24,Colo Colo,4,A. Italiano,5
+2012-11-24,Palestino,1,Huachipato,2
+2012-11-24,Cobresal,3,Barnechea,0
+2012-11-21,Rangers,1,Deportes Iquique,0
+2012-11-21,U. Espanola,0,U. De Chile,0
+2012-11-20,Huachipato,1,Palestino,1
+2012-11-20,A. Italiano,0,Colo Colo,2
+2012-11-18,Barnechea,3,Cobresal,1
+2012-11-18,Everton,1,U. De Concepcion,0
+2012-11-14,O'Higgins,1,Cobresal,2
+2012-11-14,Rangers,2,Antofagasta,2
+2012-11-14,S. Wanderers,2,Union La Calera,0
+2012-11-14,San Felipe,1,Deportes Iquique,2
+2012-11-14,U. De Chile,3,U. De Concepcion,1
+2012-11-11,U. Espanola,2,Cobreloa,1
+2012-11-11,U. Catolica,2,U. De Concepcion,2
+2012-11-10,Colo Colo,5,A. Italiano,1
+2012-11-10,La Serena,1,Palestino,1
+2012-11-10,Huachipato,0,U. De Chile,3
+2012-11-04,Union La Calera,0,Huachipato,2
+2012-11-04,Cobreloa,2,S. Wanderers,4
+2012-11-04,U. De Chile,0,U. Catolica,0
+2012-11-03,A. Italiano,5,O'Higgins,1
+2012-11-03,Deportes Iquique,2,U. Espanola,4
+2012-11-03,Cobresal,2,La Serena,2
+2012-11-03,Palestino,1,San Felipe,2
+2012-11-03,Antofagasta,1,Colo Colo,2
+2012-11-02,U. De Concepcion,1,Rangers,0
+2012-10-27,La Serena,0,Union La Calera,1
+2012-10-27,U. Espanola,2,Antofagasta,1
+2012-10-27,Cobresal,2,U. Catolica,2
+2012-10-27,Palestino,2,Cobreloa,1
+2012-10-27,Rangers,1,O'Higgins,2
+2012-10-26,Huachipato,1,A. Italiano,1
+2012-10-26,San Felipe,2,Colo Colo,1
+2012-10-24,S. Wanderers,2,Deportes Iquique,1
+2012-10-21,A. Italiano,2,Union La Calera,1
+2012-10-21,Cobreloa,2,San Felipe,1
+2012-10-21,Colo Colo,1,U. De Chile,0
+2012-10-21,Antofagasta,2,La Serena,1
+2012-10-21,Rangers,2,Cobresal,0
+2012-10-20,O'Higgins,1,S. Wanderers,1
+2012-10-20,U. Catolica,0,Huachipato,2
+2012-10-20,Deportes Iquique,2,Palestino,1
+2012-10-20,U. De Concepcion,2,U. Espanola,1
+2012-10-08,San Felipe,1,A. Italiano,3
+2012-10-07,Colo Colo,2,Rangers,2
+2012-10-07,Cobreloa,3,Cobresal,0
+2012-10-07,Union La Calera,1,Deportes Iquique,1
+2012-10-07,Antofagasta,2,U. De Chile,4
+2012-10-06,La Serena,1,U. Catolica,3
+2012-10-06,Huachipato,2,U. De Concepcion,0
+2012-10-06,Palestino,2,O'Higgins,1
+2012-10-05,U. Espanola,2,S. Wanderers,2
+2012-09-30,S. Wanderers,2,Palestino,3
+2012-09-30,Deportes Iquique,1,Cobreloa,1
+2012-09-30,U. Catolica,0,Colo Colo,2
+2012-09-29,A. Italiano,3,La Serena,2
+2012-09-29,Rangers,1,U. Espanola,0
+2012-09-29,Cobresal,3,Antofagasta,1
+2012-09-29,U. De Concepcion,1,San Felipe,1
+2012-09-29,U. De Chile,0,Union La Calera,0
+2012-09-28,O'Higgins,2,Huachipato,4
+2012-09-23,Colo Colo,3,U. Espanola,0
+2012-09-23,Cobreloa,4,U. Catolica,3
+2012-09-23,Union La Calera,2,Rangers,2
+2012-09-22,San Felipe,1,O'Higgins,1
+2012-09-22,A. Italiano,1,Antofagasta,2
+2012-09-22,Huachipato,1,Cobresal,1
+2012-09-22,S. Wanderers,2,U. De Chile,2
+2012-09-22,Palestino,1,U. De Concepcion,0
+2012-09-21,La Serena,2,Deportes Iquique,3
+2012-09-16,U. Espanola,0,Union La Calera,0
+2012-09-16,Colo Colo,3,Huachipato,0
+2012-09-16,Antofagasta,0,Palestino,1
+2012-09-15,San Felipe,3,La Serena,0
+2012-09-15,O'Higgins,1,Cobreloa,0
+2012-09-15,Cobresal,2,S. Wanderers,1
+2012-09-15,U. De Concepcion,0,Deportes Iquique,1
+2012-09-15,Rangers,2,U. De Chile,2
+2012-09-14,U. Catolica,1,A. Italiano,0
+2012-09-04,Cobreloa,0,U. De Chile,1
+2012-09-02,Palestino,0,Colo Colo,3
+2012-09-02,Union La Calera,0,O'Higgins,0
+2012-09-01,La Serena,2,U. Espanola,1
+2012-09-01,Huachipato,1,Rangers,2
+2012-09-01,U. De Chile,2,San Felipe,0
+2012-09-01,Cobreloa,3,Antofagasta,1
+2012-09-01,Deportes Iquique,3,U. Catolica,2
+2012-09-01,S. Wanderers,3,U. De Concepcion,1
+2012-08-31,A. Italiano,1,Cobresal,1
+2012-08-29,U. De Chile,1,O'Higgins,1
+2012-08-26,U. Catolica,1,Union La Calera,1
+2012-08-26,Rangers,1,A. Italiano,0
+2012-08-26,Antofagasta,3,Huachipato,0
+2012-08-25,San Felipe,1,S. Wanderers,0
+2012-08-25,O'Higgins,0,Deportes Iquique,1
+2012-08-25,Cobresal,0,Palestino,1
+2012-08-25,Colo Colo,3,Cobreloa,1
+2012-08-25,U. Espanola,5,U. De Chile,2
+2012-08-24,U. De Concepcion,3,La Serena,1
+2012-08-19,U. Catolica,1,O'Higgins,0
+2012-08-19,Cobreloa,3,U. De Concepcion,1
+2012-08-19,Deportes Iquique,3,Cobresal,2
+2012-08-19,La Serena,1,Colo Colo,1
+2012-08-18,S. Wanderers,0,Antofagasta,1
+2012-08-18,Union La Calera,1,San Felipe,3
+2012-08-18,U. De Chile,2,A. Italiano,1
+2012-08-18,Palestino,4,Rangers,1
+2012-08-17,Huachipato,2,U. Espanola,0
+2012-08-15,Antofagasta,2,O'Higgins,3
+2012-08-12,Colo Colo,1,S. Wanderers,1
+2012-08-12,O'Higgins,4,U. De Concepcion,1
+2012-08-12,Antofagasta,2,Union La Calera,1
+2012-08-12,Rangers,1,U. Catolica,0
+2012-08-11,La Serena,0,Cobreloa,0
+2012-08-11,Huachipato,1,San Felipe,0
+2012-08-11,Cobresal,1,U. De Chile,2
+2012-08-11,U. Espanola,1,Palestino,0
+2012-08-10,A. Italiano,0,Deportes Iquique,1
+2012-08-08,U. De Chile,3,Palestino,2
+2012-08-05,U. Catolica,3,U. Espanola,0
+2012-08-05,U. De Concepcion,1,Colo Colo,1
+2012-08-05,Union La Calera,1,Cobresal,1
+2012-08-04,Huachipato,4,Deportes Iquique,1
+2012-08-04,S. Wanderers,1,La Serena,1
+2012-08-04,Cobreloa,0,Rangers,1
+2012-08-04,Palestino,0,A. Italiano,0
+2012-08-03,San Felipe,2,Antofagasta,1
+2012-07-29,O'Higgins,2,La Serena,1
+2012-07-29,Union La Calera,1,Colo Colo,1
+2012-07-28,A. Italiano,4,S. Wanderers,1
+2012-07-28,Huachipato,0,Cobreloa,1
+2012-07-28,Cobresal,1,U. De Concepcion,1
+2012-07-28,U. Espanola,3,San Felipe,1
+2012-07-28,Antofagasta,2,U. Catolica,2
+2012-07-27,Rangers,5,Deportes Iquique,0
+2012-07-22,San Felipe,0,U. Catolica,1
+2012-07-22,Colo Colo,1,Cobresal,2
+2012-07-21,La Serena,2,Huachipato,1
+2012-07-21,S. Wanderers,2,Rangers,2
+2012-07-21,Cobreloa,1,A. Italiano,2
+2012-07-21,Deportes Iquique,0,U. De Chile,0
+2012-07-21,Palestino,1,Union La Calera,0
+2012-07-21,O'Higgins,1,U. Espanola,3
+2012-07-20,U. De Concepcion,0,Antofagasta,2
+2012-07-16,U. De Chile,5,La Serena,2
+2012-07-15,Rangers,1,San Felipe,0
+2012-07-15,O'Higgins,1,Colo Colo,1
+2012-07-14,Huachipato,1,Palestino,1
+2012-07-14,U. Catolica,3,S. Wanderers,2
+2012-07-14,Cobresal,2,U. Espanola,1
+2012-07-14,Union La Calera,1,Cobreloa,0
+2012-07-13,Deportes Iquique,2,Antofagasta,1
+2012-07-13,A. Italiano,2,U. De Concepcion,2
+2012-07-08,U. Catolica,0,Palestino,1
+2012-07-08,Deportes Iquique,0,Colo Colo,1
+2012-07-07,San Felipe,0,Cobresal,0
+2012-07-07,S. Wanderers,1,Huachipato,1
+2012-07-07,U. De Concepcion,0,Union La Calera,0
+2012-07-07,U. Espanola,3,A. Italiano,3
+2012-07-06,La Serena,1,Rangers,1
+2012-07-02,U. De Chile,3,O'Higgins,1
+2012-06-28,O'Higgins,2,U. De Chile,1
+2012-06-24,U. De Chile,4,Colo Colo,0
+2012-06-23,O'Higgins,2,U. Espanola,1
+2012-06-17,Colo Colo,2,U. De Chile,0
+2012-06-16,U. Espanola,1,O'Higgins,0
+2012-06-11,U. De Chile,2,Cobreloa,1
+2012-05-27,O'Higgins,3,Union La Calera,2
+2012-05-27,Cobreloa,0,U. De Chile,2
+2012-05-26,Deportes Iquique,1,Colo Colo,2
+2012-05-26,U. Catolica,1,U. Espanola,1
+2012-05-24,Union La Calera,0,O'Higgins,1
+2012-05-23,U. Espanola,3,U. Catolica,0
+2012-05-23,Colo Colo,3,Deportes Iquique,3
+2012-05-20,U. De Chile,4,Huachipato,0
+2012-05-20,Cobresal,1,O'Higgins,0
+2012-05-20,U. De Concepcion,1,U. Catolica,1
+2012-05-20,Antofagasta,0,Rangers,1
+2012-05-19,A. Italiano,1,Colo Colo,3
+2012-05-19,Deportes Iquique,4,San Felipe,1
+2012-05-19,Palestino,1,La Serena,0
+2012-05-19,Cobreloa,1,U. Espanola,2
+2012-05-18,Union La Calera,2,S. Wanderers,1
+2012-05-13,O'Higgins,3,A. Italiano,1
+2012-05-13,U. Catolica,2,U. De Chile,1
+2012-05-12,San Felipe,1,Palestino,0
+2012-05-12,Colo Colo,1,Antofagasta,0
+2012-05-12,La Serena,1,Cobresal,1
+2012-05-12,Rangers,1,U. De Concepcion,2
+2012-05-12,S. Wanderers,1,Cobreloa,3
+2012-05-12,U. Espanola,1,Deportes Iquique,2
+2012-05-11,Huachipato,1,Union La Calera,2
+2012-05-06,U. Catolica,5,Cobresal,0
+2012-05-06,U. De Concepcion,2,U. De Chile,0
+2012-05-06,Antofagasta,1,U. Espanola,1
+2012-05-05,Colo Colo,1,San Felipe,0
+2012-05-05,O'Higgins,2,Rangers,2
+2012-05-05,Cobreloa,1,Palestino,0
+2012-05-05,Deportes Iquique,2,S. Wanderers,1
+2012-05-05,Union La Calera,3,La Serena,0
+2012-05-04,A. Italiano,2,Huachipato,2
+2012-04-29,Union La Calera,1,A. Italiano,1
+2012-04-29,U. De Chile,5,Colo Colo,0
+2012-04-28,S. Wanderers,0,O'Higgins,1
+2012-04-28,Huachipato,2,U. Catolica,2
+2012-04-28,La Serena,4,Antofagasta,1
+2012-04-28,Cobresal,1,Rangers,0
+2012-04-28,Palestino,0,Deportes Iquique,1
+2012-04-28,U. Espanola,4,U. De Concepcion,1
+2012-04-27,San Felipe,0,Cobreloa,3
+2012-04-22,U. De Chile,4,Antofagasta,0
+2012-04-22,Cobresal,0,Cobreloa,1
+2012-04-22,Rangers,2,Colo Colo,2
+2012-04-21,U. Catolica,3,La Serena,0
+2012-04-21,U. De Concepcion,1,Huachipato,1
+2012-04-21,Deportes Iquique,3,Union La Calera,3
+2012-04-21,S. Wanderers,2,U. Espanola,2
+2012-04-21,O'Higgins,5,Palestino,0
+2012-04-20,A. Italiano,0,San Felipe,0
+2012-04-15,Huachipato,2,O'Higgins,1
+2012-04-15,Cobreloa,0,Deportes Iquique,1
+2012-04-15,Union La Calera,0,U. De Chile,1
+2012-04-15,Antofagasta,2,Cobresal,1
+2012-04-14,La Serena,2,A. Italiano,4
+2012-04-14,San Felipe,2,U. De Concepcion,2
+2012-04-14,Colo Colo,1,U. Catolica,1
+2012-04-14,Palestino,2,S. Wanderers,1
+2012-04-13,U. Espanola,2,Rangers,1
+2012-04-08,U. Catolica,5,Cobreloa,1
+2012-04-08,Cobresal,0,Huachipato,2
+2012-04-08,U. De Chile,3,S. Wanderers,0
+2012-04-08,Antofagasta,1,A. Italiano,2
+2012-04-07,U. De Concepcion,2,Palestino,0
+2012-04-07,O'Higgins,2,San Felipe,1
+2012-04-07,Deportes Iquique,3,La Serena,1
+2012-04-07,Rangers,2,Union La Calera,0
+2012-04-07,U. Espanola,4,Colo Colo,2
+2012-04-01,U. De Chile,2,Rangers,0
+2012-04-01,Cobreloa,0,O'Higgins,1
+2012-04-01,Huachipato,0,Colo Colo,3
+2012-03-31,Union La Calera,1,U. Espanola,0
+2012-03-31,A. Italiano,2,U. Catolica,0
+2012-03-31,Deportes Iquique,2,U. De Concepcion,0
+2012-03-31,Palestino,0,Antofagasta,0
+2012-03-31,S. Wanderers,5,Cobresal,2
+2012-03-30,La Serena,2,San Felipe,1
+2012-03-25,Colo Colo,0,Palestino,1
+2012-03-25,Cobresal,3,A. Italiano,1
+2012-03-25,Antofagasta,1,Cobreloa,0
+2012-03-24,Rangers,2,Huachipato,1
+2012-03-24,U. Catolica,1,Deportes Iquique,1
+2012-03-24,O'Higgins,2,Union La Calera,1
+2012-03-24,U. Espanola,5,La Serena,2
+2012-03-23,U. De Concepcion,2,S. Wanderers,5
+2012-03-23,San Felipe,0,U. De Chile,1
+2012-03-18,A. Italiano,3,Rangers,0
+2012-03-18,Union La Calera,1,U. Catolica,0
+2012-03-17,Huachipato,2,Antofagasta,0
+2012-03-17,U. De Chile,3,U. Espanola,2
+2012-03-17,Cobreloa,0,Colo Colo,2
+2012-03-17,Deportes Iquique,1,O'Higgins,2
+2012-03-17,Palestino,2,Cobresal,1
+2012-03-17,La Serena,1,U. De Concepcion,0
+2012-03-16,S. Wanderers,1,San Felipe,0
+2012-03-11,Colo Colo,0,La Serena,2
+2012-03-11,Cobresal,0,Deportes Iquique,4
+2012-03-11,O'Higgins,1,U. Catolica,2
+2012-03-11,Antofagasta,1,S. Wanderers,0
+2012-03-10,San Felipe,0,Union La Calera,0
+2012-03-10,A. Italiano,0,U. De Chile,6
+2012-03-10,U. De Concepcion,3,Cobreloa,1
+2012-03-10,U. Espanola,1,Huachipato,3
+2012-03-09,Rangers,2,Palestino,0
+2012-03-04,Union La Calera,0,Antofagasta,0
+2012-03-04,Cobreloa,2,La Serena,2
+2012-03-04,S. Wanderers,0,Colo Colo,0
+2012-03-03,San Felipe,1,Huachipato,2
+2012-03-03,U. De Chile,3,Cobresal,1
+2012-03-03,Deportes Iquique,1,A. Italiano,2
+2012-03-03,U. De Concepcion,1,O'Higgins,3
+2012-03-03,Palestino,1,U. Espanola,3
+2012-03-02,U. Catolica,2,Rangers,0
+2012-02-28,U. De Chile,4,Cobreloa,1
+2012-02-26,U. Espanola,2,U. Catolica,2
+2012-02-26,Cobresal,1,Union La Calera,4
+2012-02-26,Antofagasta,0,San Felipe,0
+2012-02-25,La Serena,3,S. Wanderers,1
+2012-02-25,Colo Colo,1,U. De Concepcion,2
+2012-02-25,Deportes Iquique,1,Huachipato,0
+2012-02-25,O'Higgins,3,U. De Chile,0
+2012-02-25,Rangers,0,Cobreloa,3
+2012-02-24,A. Italiano,1,Palestino,2
+2012-02-19,Colo Colo,3,Union La Calera,1
+2012-02-19,Cobreloa,4,Huachipato,2
+2012-02-19,U. Catolica,1,Antofagasta,0
+2012-02-18,La Serena,2,O'Higgins,2
+2012-02-18,Palestino,1,U. De Chile,3
+2012-02-18,Deportes Iquique,2,Rangers,0
+2012-02-18,S. Wanderers,4,A. Italiano,2
+2012-02-18,U. De Concepcion,1,Cobresal,1
+2012-02-17,San Felipe,3,U. Espanola,1
+2012-02-12,U. Catolica,1,San Felipe,1
+2012-02-12,U. Espanola,0,O'Higgins,2
+2012-02-12,Antofagasta,2,U. De Concepcion,1
+2012-02-12,Rangers,2,S. Wanderers,3
+2012-02-11,A. Italiano,1,Cobreloa,1
+2012-02-11,Huachipato,1,La Serena,1
+2012-02-11,Cobresal,2,Colo Colo,2
+2012-02-11,Union La Calera,1,Palestino,1
+2012-02-10,U. De Chile,1,Deportes Iquique,1
+2012-02-05,San Felipe,0,Rangers,0
+2012-02-05,Cobreloa,1,Union La Calera,0
+2012-02-05,U. Espanola,6,Cobresal,1
+2012-02-05,Antofagasta,1,Deportes Iquique,1
+2012-02-04,Colo Colo,1,O'Higgins,0
+2012-02-04,La Serena,1,U. De Chile,3
+2012-02-04,S. Wanderers,2,U. Catolica,1
+2012-02-04,Palestino,2,Huachipato,2
+2012-02-03,U. De Concepcion,1,A. Italiano,1
+2012-01-29,A. Italiano,0,U. Espanola,2
+2012-01-29,Cobresal,1,San Felipe,1
+2012-01-29,Colo Colo,0,Deportes Iquique,0
+2012-01-29,Union La Calera,1,U. De Concepcion,1
+2012-01-28,Huachipato,2,S. Wanderers,1
+2012-01-28,Palestino,1,U. Catolica,2
+2012-01-28,Rangers,2,La Serena,0
+2012-01-27,O'Higgins,1,Antofagasta,0

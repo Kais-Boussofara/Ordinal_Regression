@@ -1,0 +1,365 @@
+date,home_team,home_score,away_team,away_score,SOOT
+2018-09-15,Mora,2,Orebro,4,
+2018-09-15,Farjestad,3,HV 71,1,
+2018-09-15,Lulea,3,Brynas,1,
+2018-09-15,Linkoping,4,Timra,1,
+2018-09-15,Frolunda,2,Djurgarden,1,
+2018-09-15,Skelleftea,5,Rogle,1,
+2018-09-20,Timra,2,Vaxjo,1,
+2018-09-20,Mora,2,Malmo,1,OT
+2018-09-20,Lulea,2,Orebro,3,SO
+2018-09-20,Linkoping,5,HV 71,1,
+2018-09-20,Farjestad,1,Skelleftea,2,OT
+2018-09-20,Djurgarden,5,Rogle,2,
+2018-09-20,Brynas,3,Frolunda,4,OT
+2018-09-22,Frolunda,3,Mora,4,
+2018-09-22,Orebro,2,Djurgarden,8,
+2018-09-22,Rogle,0,Brynas,4,
+2018-09-22,Malmo,4,Farjestad,1,
+2018-09-22,Vaxjo,0,Linkoping,1,OT
+2018-09-22,HV 71,5,Lulea,2,
+2018-09-22,Skelleftea,3,Timra,2,OT
+2018-09-27,Brynas,1,Vaxjo,4,
+2018-09-27,Djurgarden,4,Mora,1,
+2018-09-27,HV 71,0,Malmo,1,
+2018-09-27,Timra,1,Farjestad,0,
+2018-09-27,Orebro,3,Linkoping,2,OT
+2018-09-27,Rogle,1,Frolunda,2,OT
+2018-09-27,Lulea,3,Skelleftea,5,
+2018-09-29,Skelleftea,2,HV 71,3,SO
+2018-09-29,Malmo,4,Djurgarden,3,SO
+2018-09-29,Linkoping,2,Lulea,1,
+2018-09-29,Vaxjo,2,Orebro,3,SO
+2018-09-29,Mora,3,Brynas,2,OT
+2018-10-02,Linkoping,4,Brynas,0,
+2018-10-02,Malmo,1,Frolunda,2,
+2018-10-02,Skelleftea,2,Vaxjo,1,
+2018-10-04,Vaxjo,1,Frolunda,0,
+2018-10-04,Rogle,1,Malmo,2,
+2018-10-04,Lulea,3,Farjestad,0,
+2018-10-04,Linkoping,7,Mora,4,
+2018-10-04,HV 71,1,Djurgarden,3,
+2018-10-04,Brynas,3,Timra,4,
+2018-10-06,Djurgarden,1,Lulea,2,OT
+2018-10-06,HV 71,3,Rogle,2,
+2018-10-06,Brynas,3,Skelleftea,1,
+2018-10-06,Orebro,1,Malmo,5,
+2018-10-06,Farjestad,3,Linkoping,0,
+2018-10-06,Timra,2,Mora,1,OT
+2018-10-11,Vaxjo,1,Malmo,0,
+2018-10-11,Rogle,2,Orebro,0,
+2018-10-11,Mora,4,Farjestad,3,SO
+2018-10-11,Lulea,2,Frolunda,3,
+2018-10-11,Linkoping,4,Timra,2,
+2018-10-13,Farjestad,3,Frolunda,4,
+2018-10-13,HV 71,3,Orebro,1,
+2018-10-13,Djurgarden,7,Timra,4,
+2018-10-13,Lulea,3,Rogle,1,
+2018-10-13,Mora,3,Skelleftea,2,SO
+2018-10-13,Malmo,2,Vaxjo,1,
+2018-10-18,Vaxjo,0,HV 71,4,
+2018-10-18,Timra,4,Rogle,3,OT
+2018-10-18,Skelleftea,0,Djurgarden,5,
+2018-10-18,Orebro,3,Farjestad,6,
+2018-10-18,Malmo,4,Brynas,3,OT
+2018-10-18,Frolunda,1,Lulea,5,
+2018-10-20,Farjestad,4,Djurgarden,3,
+2018-10-20,Brynas,3,Orebro,2,
+2018-10-20,Frolunda,4,HV 71,1,
+2018-10-20,Lulea,3,Malmo,1,
+2018-10-20,Rogle,3,Timra,1,
+2018-10-20,Mora,1,Vaxjo,4,
+2018-10-21,Linkoping,2,Skelleftea,1,OT
+2018-10-23,Linkoping,4,Frolunda,3,OT
+2018-10-24,Djurgarden,1,Brynas,2,
+2018-10-25,HV 71,2,Mora,5,
+2018-10-25,Malmo,3,Linkoping,2,SO
+2018-10-25,Farjestad,5,Rogle,2,
+2018-10-25,Skelleftea,2,Frolunda,3,SO
+2018-10-25,Vaxjo,3,Lulea,2,OT
+2018-10-25,Orebro,5,Timra,1,
+2018-10-27,Orebro,4,Skelleftea,3,
+2018-10-27,Malmo,5,Frolunda,3,
+2018-10-27,Djurgarden,2,Vaxjo,0,
+2018-10-27,Timra,2,HV 71,1,
+2018-10-27,Rogle,3,Linkoping,2,
+2018-10-27,Lulea,2,Mora,1,
+2018-10-27,Brynas,0,Farjestad,6,
+2018-10-30,Frolunda,2,Orebro,1,
+2018-10-30,Linkoping,3,Djurgarden,4,SO
+2018-10-30,HV 71,4,Brynas,1,
+2018-10-30,Skelleftea,2,Malmo,4,
+2018-10-30,Mora,1,Rogle,3,
+2018-10-30,Timra,3,Lulea,5,
+2018-10-30,Vaxjo,3,Farjestad,2,
+2018-11-01,Brynas,5,Mora,3,
+2018-11-01,Djurgarden,2,Linkoping,1,
+2018-11-01,Farjestad,2,Skelleftea,3,OT
+2018-11-01,Rogle,6,Vaxjo,3,
+2018-11-01,Lulea,3,Timra,2,
+2018-11-01,Orebro,5,HV 71,1,
+2018-11-01,Frolunda,3,Malmo,0,
+2018-11-03,Vaxjo,6,Mora,1,
+2018-11-03,HV 71,5,Timra,0,
+2018-11-03,Frolunda,4,Linkoping,1,
+2018-11-03,Farjestad,4,Malmo,1,
+2018-11-03,Djurgarden,1,Rogle,2,
+2018-11-03,Skelleftea,0,Lulea,1,
+2018-11-03,Orebro,0,Brynas,1,
+2018-11-13,Rogle,2,Farjestad,3,SO
+2018-11-13,Frolunda,2,Skelleftea,3,
+2018-11-13,Linkoping,1,Vaxjo,3,
+2018-11-13,Timra,3,Djurgarden,6,
+2018-11-13,Malmo,4,Brynas,3,OT
+2018-11-13,Mora,2,Orebro,1,OT
+2018-11-13,Lulea,3,HV 71,2,SO
+2018-11-15,Djurgarden,3,Frolunda,4,SO
+2018-11-15,Brynas,2,Farjestad,3,OT
+2018-11-15,HV 71,1,Linkoping,3,
+2018-11-15,Orebro,1,Rogle,4,
+2018-11-15,Skelleftea,9,Malmo,0,
+2018-11-15,Timra,4,Mora,3,
+2018-11-15,Vaxjo,2,Lulea,1,
+2018-11-17,Skelleftea,4,HV 71,3,SO
+2018-11-17,Rogle,4,Mora,1,
+2018-11-17,Linkoping,3,Orebro,4,OT
+2018-11-17,Farjestad,4,Vaxjo,3,OT
+2018-11-17,Brynas,2,Djurgarden,0,
+2018-11-18,Malmo,4,Timra,1,
+2018-11-22,HV 71,1,Brynas,2,
+2018-11-22,Linkoping,2,Rogle,3,
+2018-11-22,Vaxjo,4,Djurgarden,3,OT
+2018-11-22,Orebro,2,Lulea,3,
+2018-11-22,Timra,3,Skelleftea,5,
+2018-11-22,Mora,2,Malmo,3,SO
+2018-11-23,Frolunda,4,Farjestad,1,
+2018-11-24,Farjestad,3,Frolunda,1,
+2018-11-24,Malmo,2,HV 71,1,SO
+2018-11-24,Brynas,3,Lulea,4,SO
+2018-11-24,Djurgarden,4,Orebro,1,
+2018-11-24,Timra,4,Rogle,2,
+2018-11-24,Vaxjo,4,Skelleftea,2,
+2018-11-24,Mora,1,Linkoping,2,
+2018-11-27,Frolunda,1,Rogle,2,
+2018-11-28,Vaxjo,3,Orebro,2,
+2018-11-28,Farjestad,2,Timra,1,
+2018-11-29,Lulea,2,Linkoping,1,SO
+2018-11-29,Frolunda,1,Brynas,0,OT
+2018-11-29,Skelleftea,2,Mora,0,
+2018-11-29,Rogle,0,HV 71,1,
+2018-12-01,Timra,2,Orebro,1,OT
+2018-12-01,Rogle,2,Lulea,3,SO
+2018-12-01,Linkoping,4,Malmo,3,
+2018-12-01,Skelleftea,0,Brynas,2,
+2018-12-01,Mora,3,Frolunda,0,
+2018-12-01,HV 71,4,Vaxjo,2,
+2018-12-01,Djurgarden,2,Farjestad,3,
+2018-12-06,Brynas,2,Linkoping,5,
+2018-12-06,Farjestad,1,Lulea,0,
+2018-12-06,Djurgarden,3,Skelleftea,2,OT
+2018-12-06,Malmo,2,Rogle,1,SO
+2018-12-06,Orebro,7,Frolunda,1,
+2018-12-06,Vaxjo,2,Timra,1,
+2018-12-06,HV 71,6,Mora,0,
+2018-12-08,Rogle,4,Skelleftea,1,
+2018-12-08,Linkoping,0,Farjestad,1,
+2018-12-08,Frolunda,1,Vaxjo,0,SO
+2018-12-08,Orebro,1,Malmo,3,
+2018-12-08,Mora,2,HV 71,1,
+2018-12-08,Lulea,4,Djurgarden,1,
+2018-12-08,Brynas,5,Timra,1,
+2018-12-19,Djurgarden,3,HV 71,2,OT
+2018-12-19,Farjestad,4,Orebro,3,OT
+2018-12-19,Lulea,5,Mora,2,
+2018-12-19,Timra,2,Frolunda,4,
+2018-12-19,Skelleftea,6,Linkoping,2,
+2018-12-19,Vaxjo,3,Malmo,1,
+2018-12-19,Rogle,0,Brynas,4,
+2018-12-21,Orebro,2,Skelleftea,4,
+2018-12-21,Mora,3,Djurgarden,2,SO
+2018-12-21,Malmo,4,Lulea,0,
+2018-12-21,HV 71,4,Farjestad,3,
+2018-12-21,Frolunda,3,Timra,2,
+2018-12-21,Brynas,3,Vaxjo,1,
+2018-12-26,Timra,3,Brynas,2,OT
+2018-12-26,Frolunda,5,Lulea,3,
+2018-12-26,Mora,3,Skelleftea,1,
+2018-12-26,Orebro,5,Rogle,3,
+2018-12-26,Malmo,2,Linkoping,3,OT
+2018-12-26,Farjestad,3,Vaxjo,2,
+2018-12-26,Djurgarden,0,HV 71,2,
+2018-12-28,Vaxjo,5,Mora,2,
+2018-12-28,Skelleftea,3,Frolunda,5,
+2018-12-28,Rogle,2,Djurgarden,1,OT
+2018-12-28,Lulea,1,Timra,2,OT
+2018-12-28,Linkoping,5,Farjestad,4,
+2018-12-28,HV 71,3,Malmo,1,
+2018-12-28,Brynas,3,Orebro,4,OT
+2018-12-30,Frolunda,2,Rogle,3,OT
+2018-12-30,Malmo,3,Skelleftea,2,
+2018-12-30,Timra,3,Linkoping,4,
+2018-12-30,Orebro,1,HV 71,3,
+2018-12-30,Farjestad,3,Brynas,4,SO
+2018-12-30,Mora,4,Lulea,7,
+2018-12-30,Djurgarden,4,Vaxjo,2,
+2019-01-05,Brynas,1,Rogle,4,
+2019-01-05,Mora,5,Djurgarden,3,
+2019-01-05,Linkoping,4,HV 71,3,OT
+2019-01-05,Frolunda,4,Timra,5,
+2019-01-05,Malmo,2,Orebro,3,
+2019-01-05,Skelleftea,4,Farjestad,2,
+2019-01-05,Lulea,2,Vaxjo,3,
+2019-01-10,Vaxjo,3,Timra,2,
+2019-01-10,Skelleftea,1,Djurgarden,3,
+2019-01-10,Rogle,6,Malmo,4,
+2019-01-10,Lulea,4,Orebro,2,
+2019-01-10,Linkoping,2,Mora,4,
+2019-01-10,HV 71,3,Farjestad,2,
+2019-01-10,Brynas,2,Frolunda,1,OT
+2019-01-12,Farjestad,3,Malmo,1,
+2019-01-12,Mora,2,Frolunda,3,
+2019-01-12,Timra,4,Skelleftea,6,
+2019-01-12,Orebro,1,Lulea,2,
+2019-01-12,Vaxjo,3,Brynas,2,OT
+2019-01-12,Djurgarden,6,Linkoping,3,
+2019-01-12,Rogle,1,HV 71,3,
+2019-01-17,Frolunda,0,Farjestad,3,
+2019-01-17,Skelleftea,3,Vaxjo,0,
+2019-01-17,Mora,4,Rogle,1,
+2019-01-17,Linkoping,5,Orebro,4,OT
+2019-01-17,HV 71,0,Lulea,4,
+2019-01-18,Brynas,1,Djurgarden,2,
+2019-01-19,Rogle,1,Linkoping,3,
+2019-01-19,Orebro,1,Mora,2,OT
+2019-01-19,Lulea,4,Farjestad,5,SO
+2019-01-19,HV 71,1,Skelleftea,3,
+2019-01-19,Vaxjo,3,Frolunda,4,OT
+2019-01-19,Djurgarden,3,Brynas,0,
+2019-01-19,Timra,3,Malmo,4,OT
+2019-01-22,Malmo,3,Djurgarden,1,
+2019-01-23,Orebro,4,Vaxjo,2,
+2019-01-23,Farjestad,4,Rogle,6,
+2019-01-24,Brynas,2,HV 71,3,
+2019-01-24,Djurgarden,2,Malmo,3,
+2019-01-24,Lulea,2,Skelleftea,3,
+2019-01-24,Mora,0,Timra,5,
+2019-01-24,Linkoping,2,Frolunda,3,
+2019-01-26,Malmo,5,Mora,1,
+2019-01-26,Frolunda,1,Djurgarden,6,
+2019-01-26,Timra,2,Farjestad,5,
+2019-01-26,Skelleftea,3,Orebro,2,OT
+2019-01-26,Rogle,2,Lulea,3,OT
+2019-01-26,HV 71,4,Vaxjo,2,
+2019-01-26,Brynas,4,Linkoping,1,
+2019-01-29,Djurgarden,3,Farjestad,2,
+2019-01-29,Brynas,1,Mora,4,
+2019-01-29,HV 71,7,Timra,1,
+2019-01-29,Skelleftea,2,Rogle,3,OT
+2019-01-29,Orebro,4,Frolunda,3,OT
+2019-01-29,Vaxjo,2,Linkoping,3,OT
+2019-01-29,Malmo,1,Lulea,2,SO
+2019-01-31,Timra,4,Djurgarden,5,
+2019-01-31,Rogle,2,Vaxjo,1,OT
+2019-01-31,Mora,2,HV 71,3,
+2019-01-31,Lulea,2,Brynas,3,
+2019-01-31,Linkoping,1,Skelleftea,3,
+2019-01-31,Farjestad,7,Orebro,1,
+2019-02-02,HV 71,5,Frolunda,3,
+2019-02-02,Lulea,2,Djurgarden,1,
+2019-02-02,Skelleftea,2,Linkoping,4,
+2019-02-02,Farjestad,3,Mora,2,
+2019-02-02,Brynas,4,Malmo,1,
+2019-02-02,Orebro,3,Timra,2,
+2019-02-02,Vaxjo,5,Rogle,3,
+2019-02-12,Brynas,1,Lulea,2,OT
+2019-02-12,Djurgarden,2,Timra,1,OT
+2019-02-12,Frolunda,4,Vaxjo,3,SO
+2019-02-12,Malmo,5,Farjestad,6,
+2019-02-12,Mora,3,Linkoping,2,SO
+2019-02-12,Rogle,5,Orebro,2,
+2019-02-12,HV 71,1,Skelleftea,3,
+2019-02-14,Vaxjo,5,Brynas,3,
+2019-02-14,Timra,1,Frolunda,5,
+2019-02-14,Skelleftea,3,Mora,4,OT
+2019-02-14,Lulea,5,Malmo,1,
+2019-02-14,Linkoping,3,Rogle,4,
+2019-02-15,Orebro,5,Djurgarden,2,
+2019-02-15,Farjestad,6,HV 71,2,
+2019-02-16,Farjestad,3,Linkoping,0,
+2019-02-16,Djurgarden,0,Orebro,2,
+2019-02-16,Frolunda,7,Skelleftea,1,
+2019-02-16,Timra,2,Brynas,4,
+2019-02-16,Malmo,3,Vaxjo,1,
+2019-02-16,Mora,1,Lulea,2,OT
+2019-02-17,HV 71,2,Rogle,3,
+2019-02-18,Malmo,6,Timra,2,
+2019-02-20,Rogle,1,Farjestad,6,
+2019-02-20,Orebro,4,Linkoping,2,
+2019-02-20,Djurgarden,2,Malmo,1,
+2019-02-21,Brynas,2,HV 71,4,
+2019-02-21,Timra,1,Vaxjo,5,
+2019-02-21,Skelleftea,1,Lulea,2,
+2019-02-21,Frolunda,4,Mora,2,
+2019-02-23,Rogle,5,Mora,1,
+2019-02-23,Malmo,0,Skelleftea,2,
+2019-02-23,Farjestad,1,Timra,0,OT
+2019-02-23,Vaxjo,3,HV 71,2,
+2019-02-23,Orebro,3,Brynas,1,
+2019-02-23,Lulea,3,Frolunda,1,
+2019-02-23,Linkoping,2,Djurgarden,3,
+2019-02-26,Frolunda,4,Malmo,2,
+2019-02-26,HV 71,1,Orebro,2,
+2019-02-26,Lulea,1,Rogle,0,OT
+2019-02-26,Vaxjo,2,Djurgarden,0,
+2019-02-26,Skelleftea,1,Farjestad,3,
+2019-02-26,Timra,1,Linkoping,3,
+2019-02-26,Mora,6,Brynas,1,
+2019-02-28,Djurgarden,1,Lulea,3,
+2019-02-28,Frolunda,4,Orebro,1,
+2019-02-28,Brynas,3,Skelleftea,4,SO
+2019-02-28,Malmo,4,HV 71,3,
+2019-02-28,Rogle,2,Timra,5,
+2019-02-28,Linkoping,2,Vaxjo,4,
+2019-03-01,Mora,3,Farjestad,0,
+2019-03-02,HV 71,2,Djurgarden,3,
+2019-03-02,Rogle,5,Frolunda,7,
+2019-03-02,Farjestad,8,Mora,3,
+2019-03-02,Linkoping,2,Malmo,3,
+2019-03-02,Orebro,2,Vaxjo,1,SO
+2019-03-02,Timra,0,Lulea,2,
+2019-03-02,Skelleftea,3,Brynas,2,OT
+2019-03-05,Vaxjo,4,Rogle,1,
+2019-03-05,Timra,3,Orebro,5,
+2019-03-05,Malmo,7,Mora,1,
+2019-03-05,Lulea,3,HV 71,2,OT
+2019-03-05,Frolunda,3,Linkoping,1,
+2019-03-05,Farjestad,4,Brynas,1,
+2019-03-05,Djurgarden,2,Skelleftea,3,SO
+2019-03-07,Linkoping,0,Lulea,3,
+2019-03-07,Mora,5,Vaxjo,1,
+2019-03-07,Brynas,4,Malmo,3,
+2019-03-07,Rogle,5,Djurgarden,3,
+2019-03-07,Skelleftea,7,Timra,0,
+2019-03-07,Orebro,1,Farjestad,4,
+2019-03-08,HV 71,6,Frolunda,1,
+2019-03-09,Lulea,4,Linkoping,3,
+2019-03-09,Frolunda,6,HV 71,1,
+2019-03-09,Djurgarden,7,Mora,1,
+2019-03-09,Vaxjo,1,Farjestad,2,
+2019-03-09,Timra,2,Malmo,1,
+2019-03-09,Skelleftea,2,Orebro,1,SO
+2019-03-09,Brynas,1,Rogle,4,
+2019-03-12,Djurgarden,4,Frolunda,2,
+2019-03-12,Farjestad,3,Lulea,0,
+2019-03-12,Linkoping,3,Brynas,2,OT
+2019-03-12,Orebro,4,Mora,1,
+2019-03-12,Timra,3,HV 71,5,
+2019-03-12,Vaxjo,1,Skelleftea,2,SO
+2019-03-12,Malmo,3,Rogle,0,
+2019-03-14,Rogle,2,Skelleftea,3,
+2019-03-14,Mora,5,Timra,3,
+2019-03-14,Malmo,3,Orebro,1,
+2019-03-14,Lulea,3,Vaxjo,2,
+2019-03-14,HV 71,4,Linkoping,0,
+2019-03-14,Frolunda,5,Brynas,2,
+2019-03-14,Farjestad,2,Djurgarden,3,SO

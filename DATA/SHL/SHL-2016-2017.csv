@@ -1,0 +1,365 @@
+date,home_team,home_score,away_team,away_score,SOOT
+2016-09-17,Malmo,3,Frolunda,2,
+2016-09-17,Lulea,4,Linkoping,0,
+2016-09-17,Farjestad,2,Orebro,1,
+2016-09-21,Malmo,3,Karlskrona,0,
+2016-09-21,Linkoping,1,HV 71,3,
+2016-09-22,Rogle,3,Vaxjo,5,
+2016-09-22,Leksand,2,Djurgarden,5,
+2016-09-23,Lulea,1,Skelleftea,2,SO
+2016-09-23,Brynas,7,Frolunda,2,
+2016-09-24,Karlskrona,3,Leksand,1,
+2016-09-24,Djurgarden,1,Malmo,2,
+2016-09-24,Vaxjo,4,HV 71,3,OT
+2016-09-24,Skelleftea,3,Lulea,2,
+2016-09-24,Orebro,3,Rogle,4,
+2016-09-24,Frolunda,3,Brynas,1,
+2016-09-25,Linkoping,3,Farjestad,4,OT
+2016-09-27,Vaxjo,4,Leksand,1,
+2016-09-28,Djurgarden,0,Karlskrona,4,
+2016-09-29,Skelleftea,3,Vaxjo,2,OT
+2016-09-29,Rogle,3,Linkoping,2,OT
+2016-09-29,Orebro,3,Brynas,5,
+2016-09-29,Lulea,5,Leksand,1,
+2016-09-29,HV 71,2,Frolunda,3,
+2016-09-29,Farjestad,2,Malmo,4,
+2016-10-01,Leksand,2,Orebro,3,OT
+2016-10-01,Vaxjo,1,Lulea,3,
+2016-10-01,Brynas,1,Linkoping,2,
+2016-10-01,Karlskrona,5,Farjestad,2,
+2016-10-01,HV 71,7,Skelleftea,1,
+2016-10-01,Rogle,6,Malmo,7,
+2016-10-02,Frolunda,4,Djurgarden,1,
+2016-10-04,Malmo,5,Leksand,1,
+2016-10-06,Linkoping,2,Leksand,1,OT
+2016-10-06,Frolunda,3,Vaxjo,1,
+2016-10-06,Farjestad,1,HV 71,4,
+2016-10-06,Djurgarden,2,Skelleftea,1,
+2016-10-06,Brynas,5,Lulea,2,
+2016-10-07,Karlskrona,4,Rogle,1,
+2016-10-07,Malmo,1,Orebro,0,SO
+2016-10-08,HV 71,5,Djurgarden,1,
+2016-10-08,Farjestad,2,Frolunda,1,OT
+2016-10-08,Rogle,2,Karlskrona,4,
+2016-10-08,Orebro,5,Malmo,4,
+2016-10-08,Skelleftea,1,Brynas,2,
+2016-10-12,Vaxjo,2,Karlskrona,3,SO
+2016-10-13,Brynas,1,Leksand,3,
+2016-10-13,Djurgarden,3,Lulea,4,SO
+2016-10-13,Frolunda,2,Rogle,1,
+2016-10-13,Linkoping,3,Malmo,5,
+2016-10-13,HV 71,3,Orebro,5,
+2016-10-13,Skelleftea,0,Farjestad,5,
+2016-10-15,Vaxjo,1,Brynas,2,
+2016-10-15,Rogle,1,HV 71,4,
+2016-10-15,Frolunda,2,Linkoping,3,
+2016-10-15,Djurgarden,0,Orebro,3,
+2016-10-15,Lulea,1,Farjestad,3,
+2016-10-15,Karlskrona,1,Skelleftea,2,
+2016-10-18,HV 71,4,Karlskrona,1,
+2016-10-18,Brynas,4,Rogle,3,
+2016-10-18,Lulea,4,Malmo,2,
+2016-10-18,Orebro,2,Frolunda,4,
+2016-10-18,Leksand,1,Skelleftea,6,
+2016-10-19,Linkoping,2,Vaxjo,5,
+2016-10-19,Farjestad,3,Djurgarden,2,SO
+2016-10-20,Skelleftea,4,Orebro,1,
+2016-10-20,Rogle,2,Lulea,3,SO
+2016-10-20,Karlskrona,4,Brynas,2,
+2016-10-20,Frolunda,5,Leksand,1,
+2016-10-21,Vaxjo,1,Farjestad,3,
+2016-10-21,Djurgarden,4,Linkoping,5,
+2016-10-22,Brynas,3,Malmo,5,
+2016-10-22,Farjestad,4,Vaxjo,1,
+2016-10-22,Orebro,1,Karlskrona,3,
+2016-10-22,Leksand,0,Rogle,2,
+2016-10-22,Linkoping,2,Djurgarden,1,
+2016-10-22,Skelleftea,2,Frolunda,3,
+2016-10-23,Lulea,3,HV 71,1,
+2016-10-24,Rogle,3,Skelleftea,2,
+2016-10-25,Vaxjo,5,Djurgarden,3,
+2016-10-25,Lulea,1,Karlskrona,2,
+2016-10-25,Linkoping,1,Orebro,3,
+2016-10-25,HV 71,5,Leksand,2,
+2016-10-25,Frolunda,3,Malmo,1,
+2016-10-25,Farjestad,1,Brynas,5,
+2016-10-27,Skelleftea,4,Linkoping,1,
+2016-10-27,Orebro,3,Lulea,2,
+2016-10-27,Malmo,0,Vaxjo,3,
+2016-10-27,Karlskrona,2,Frolunda,1,
+2016-10-27,Djurgarden,0,Rogle,4,
+2016-10-27,Brynas,5,HV 71,3,
+2016-10-29,Vaxjo,4,Orebro,2,
+2016-10-29,Malmo,1,Karlskrona,3,
+2016-10-29,Frolunda,4,Skelleftea,2,
+2016-10-29,HV 71,4,Brynas,2,
+2016-10-29,Farjestad,5,Leksand,3,
+2016-10-29,Lulea,3,Linkoping,5,
+2016-10-30,Leksand,1,Farjestad,2,
+2016-11-10,Orebro,1,Karlskrona,0,SO
+2016-11-10,Lulea,0,Malmo,5,
+2016-11-10,Linkoping,1,Farjestad,2,SO
+2016-11-10,Leksand,1,Brynas,4,
+2016-11-10,Djurgarden,4,Frolunda,3,
+2016-11-11,Rogle,0,Skelleftea,3,
+2016-11-11,HV 71,2,Vaxjo,4,
+2016-11-12,Brynas,4,Djurgarden,0,
+2016-11-12,Orebro,3,Linkoping,4,OT
+2016-11-12,Skelleftea,4,Rogle,1,
+2016-11-12,Leksand,4,Lulea,0,
+2016-11-12,Farjestad,1,Malmo,0,OT
+2016-11-12,Karlskrona,0,Frolunda,3,
+2016-11-12,Vaxjo,3,HV 71,4,SO
+2016-11-14,Malmo,2,Rogle,1,
+2016-11-15,HV 71,3,Farjestad,1,
+2016-11-15,Djurgarden,4,Skelleftea,2,
+2016-11-15,Linkoping,6,Leksand,1,
+2016-11-15,Karlskrona,1,Brynas,2,
+2016-11-15,Frolunda,5,Orebro,0,
+2016-11-15,Lulea,4,Vaxjo,2,
+2016-11-17,Vaxjo,2,Malmo,1,
+2016-11-17,Skelleftea,1,HV 71,0,OT
+2016-11-17,Rogle,3,Lulea,5,
+2016-11-17,Orebro,3,Djurgarden,0,
+2016-11-17,Linkoping,2,Brynas,1,
+2016-11-17,Farjestad,3,Frolunda,4,OT
+2016-11-18,Leksand,0,Karlskrona,1,
+2016-11-18,Brynas,4,Linkoping,1,
+2016-11-19,Karlskrona,0,Leksand,2,
+2016-11-19,Lulea,2,Orebro,0,
+2016-11-19,Frolunda,2,HV 71,1,
+2016-11-19,Malmo,0,Djurgarden,1,SO
+2016-11-19,Vaxjo,4,Skelleftea,0,
+2016-11-19,Rogle,5,Farjestad,3,
+2016-11-22,Brynas,4,Orebro,3,OT
+2016-11-22,Linkoping,5,Rogle,2,
+2016-11-22,Leksand,3,Vaxjo,1,
+2016-11-22,Frolunda,2,Malmo,1,SO
+2016-11-22,Farjestad,5,Skelleftea,3,
+2016-11-22,Djurgarden,3,Lulea,2,SO
+2016-11-23,HV 71,2,Karlskrona,0,
+2016-11-24,Skelleftea,4,Leksand,1,
+2016-11-24,Rogle,2,Frolunda,4,
+2016-11-24,Orebro,3,Farjestad,1,
+2016-11-24,Malmo,2,Brynas,1,
+2016-11-24,Vaxjo,4,Linkoping,1,
+2016-11-25,Lulea,2,HV 71,3,
+2016-11-25,Karlskrona,3,Djurgarden,7,
+2016-11-26,HV 71,2,Lulea,1,SO
+2016-11-26,Farjestad,1,Vaxjo,3,
+2016-11-26,Rogle,2,Brynas,4,
+2016-11-26,Skelleftea,5,Orebro,4,
+2016-11-26,Linkoping,3,Frolunda,0,
+2016-11-27,Leksand,1,Malmo,0,SO
+2016-11-27,Djurgarden,2,Karlskrona,1,
+2016-11-29,Vaxjo,2,Farjestad,3,SO
+2016-11-29,Malmo,4,HV 71,3,
+2016-11-29,Lulea,2,Djurgarden,1,SO
+2016-12-01,HV 71,2,Djurgarden,1,SO
+2016-12-01,Karlskrona,4,Farjestad,1,
+2016-12-01,Brynas,2,Skelleftea,3,
+2016-12-01,Orebro,4,Leksand,3,
+2016-12-01,Vaxjo,2,Rogle,0,
+2016-12-01,Linkoping,2,Malmo,0,
+2016-12-02,Frolunda,4,Lulea,0,
+2016-12-03,Skelleftea,2,Karlskrona,0,
+2016-12-03,Farjestad,2,Djurgarden,1,OT
+2016-12-03,Brynas,2,Vaxjo,0,
+2016-12-03,Orebro,0,HV 71,3,
+2016-12-03,Lulea,0,Frolunda,1,
+2016-12-04,Leksand,3,Rogle,2,
+2016-12-05,Malmo,2,Linkoping,3,
+2016-12-06,Rogle,2,Leksand,3,
+2016-12-08,Karlskrona,3,Linkoping,1,
+2016-12-08,Leksand,4,Frolunda,0,
+2016-12-08,Vaxjo,4,Djurgarden,1,
+2016-12-08,Skelleftea,1,Lulea,3,
+2016-12-08,Malmo,4,HV 71,0,
+2016-12-09,Rogle,5,Orebro,0,
+2016-12-09,Farjestad,3,Brynas,2,OT
+2016-12-10,Karlskrona,0,Lulea,4,
+2016-12-10,HV 71,2,Linkoping,3,
+2016-12-10,Frolunda,8,Vaxjo,5,
+2016-12-10,Djurgarden,3,Leksand,1,
+2016-12-10,Orebro,2,Rogle,3,
+2016-12-10,Brynas,6,Farjestad,2,
+2016-12-11,Malmo,0,Skelleftea,3,
+2016-12-20,Linkoping,1,Vaxjo,4,
+2016-12-20,Frolunda,2,HV 71,1,
+2016-12-20,Farjestad,6,Orebro,4,
+2016-12-20,Brynas,3,Karlskrona,5,
+2016-12-21,Skelleftea,3,Malmo,0,
+2016-12-26,Brynas,2,HV 71,1,OT
+2016-12-26,Malmo,1,Linkoping,3,
+2016-12-26,Orebro,3,Skelleftea,2,SO
+2016-12-26,Farjestad,3,Rogle,4,SO
+2016-12-26,Frolunda,2,Karlskrona,1,
+2016-12-26,Leksand,0,Lulea,3,
+2016-12-26,Djurgarden,2,Vaxjo,3,SO
+2016-12-28,Skelleftea,4,Leksand,3,OT
+2016-12-28,Rogle,1,Brynas,3,
+2016-12-28,Orebro,2,Vaxjo,3,
+2016-12-28,Karlskrona,3,Djurgarden,1,
+2016-12-28,HV 71,5,Malmo,3,
+2016-12-28,Frolunda,3,Lulea,1,
+2016-12-28,Farjestad,3,Linkoping,0,
+2016-12-30,Karlskrona,3,Rogle,2,OT
+2016-12-30,Djurgarden,3,Frolunda,2,
+2016-12-30,Leksand,2,Farjestad,1,
+2016-12-30,Lulea,0,Brynas,4,
+2016-12-30,Vaxjo,5,Skelleftea,2,
+2016-12-30,Malmo,6,Orebro,0,
+2016-12-30,Linkoping,0,HV 71,1,OT
+2017-01-03,Linkoping,5,Skelleftea,2,
+2017-01-03,Frolunda,5,Farjestad,0,
+2017-01-05,Skelleftea,3,Rogle,1,
+2017-01-05,Lulea,3,Karlskrona,2,SO
+2017-01-05,HV 71,1,Vaxjo,2,OT
+2017-01-05,Djurgarden,0,Linkoping,4,
+2017-01-05,Brynas,1,Farjestad,0,
+2017-01-06,Orebro,1,Frolunda,3,
+2017-01-06,Malmo,3,Leksand,1,
+2017-01-07,Rogle,1,Djurgarden,3,
+2017-01-07,Linkoping,5,Lulea,2,
+2017-01-07,Karlskrona,2,HV 71,3,
+2017-01-07,Farjestad,1,Skelleftea,2,
+2017-01-07,Brynas,1,Vaxjo,4,
+2017-01-07,Leksand,4,Malmo,3,
+2017-01-07,Frolunda,2,Orebro,1,OT
+2017-01-12,Djurgarden,4,Brynas,3,SO
+2017-01-12,Linkoping,4,Karlskrona,3,SO
+2017-01-12,Vaxjo,4,Frolunda,1,
+2017-01-12,Malmo,2,Farjestad,3,
+2017-01-12,Orebro,4,Leksand,3,SO
+2017-01-12,Lulea,3,Skelleftea,4,SO
+2017-01-13,Rogle,1,HV 71,3,
+2017-01-14,Skelleftea,3,Karlskrona,2,
+2017-01-14,Malmo,1,Lulea,2,OT
+2017-01-14,Brynas,0,Djurgarden,3,
+2017-01-14,Vaxjo,4,Leksand,1,
+2017-01-14,Orebro,0,Linkoping,1,
+2017-01-14,HV 71,5,Rogle,3,
+2017-01-19,Brynas,3,Orebro,4,OT
+2017-01-19,Djurgarden,2,HV 71,3,SO
+2017-01-19,Rogle,1,Malmo,2,OT
+2017-01-19,Frolunda,2,Skelleftea,3,
+2017-01-19,Leksand,5,Linkoping,1,
+2017-01-19,Farjestad,3,Lulea,2,OT
+2017-01-20,Karlskrona,1,Vaxjo,4,
+2017-01-21,HV 71,5,Orebro,1,
+2017-01-21,Djurgarden,4,Leksand,3,
+2017-01-21,Vaxjo,4,Karlskrona,0,
+2017-01-21,Lulea,5,Farjestad,4,OT
+2017-01-21,Skelleftea,3,Brynas,0,
+2017-01-21,Linkoping,2,Rogle,1,
+2017-01-24,Skelleftea,3,HV 71,2,
+2017-01-24,Rogle,1,Djurgarden,3,
+2017-01-24,Frolunda,4,Karlskrona,3,
+2017-01-26,Frolunda,2,Brynas,4,
+2017-01-26,Karlskrona,0,Malmo,2,
+2017-01-26,Djurgarden,1,Farjestad,3,
+2017-01-26,Orebro,2,Lulea,1,
+2017-01-26,Vaxjo,4,Rogle,2,
+2017-01-26,Linkoping,3,Skelleftea,0,
+2017-01-27,HV 71,3,Leksand,1,
+2017-01-28,Orebro,3,Djurgarden,2,OT
+2017-01-28,Farjestad,4,Karlskrona,3,
+2017-01-28,Rogle,3,Frolunda,4,
+2017-01-28,Lulea,4,Vaxjo,3,SO
+2017-01-28,Leksand,1,HV 71,2,
+2017-01-28,Brynas,2,Malmo,4,
+2017-01-31,Djurgarden,1,HV 71,2,
+2017-01-31,Leksand,2,Linkoping,5,
+2017-01-31,Brynas,2,Skelleftea,6,
+2017-01-31,Orebro,0,Farjestad,1,
+2017-01-31,Malmo,5,Lulea,1,
+2017-01-31,Rogle,3,Vaxjo,4,
+2017-02-02,Vaxjo,3,Frolunda,2,SO
+2017-02-02,Lulea,4,Brynas,5,SO
+2017-02-02,Linkoping,4,Djurgarden,1,
+2017-02-02,Karlskrona,2,Orebro,3,OT
+2017-02-02,HV 71,7,Rogle,0,
+2017-02-02,Farjestad,5,Leksand,2,
+2017-02-03,Skelleftea,0,Malmo,4,
+2017-02-04,Brynas,6,Lulea,2,
+2017-02-04,Malmo,1,Skelleftea,4,
+2017-02-04,Karlskrona,0,Vaxjo,4,
+2017-02-04,HV 71,2,Linkoping,3,SO
+2017-02-04,Leksand,1,Orebro,2,
+2017-02-04,Djurgarden,1,Rogle,2,OT
+2017-02-05,Frolunda,2,Farjestad,3,
+2017-02-14,Orebro,1,Skelleftea,2,OT
+2017-02-14,Malmo,2,Frolunda,3,
+2017-02-14,Linkoping,2,Lulea,0,
+2017-02-14,Leksand,2,HV 71,1,
+2017-02-14,Djurgarden,5,Brynas,6,OT
+2017-02-15,Rogle,4,Karlskrona,1,
+2017-02-16,Brynas,4,Leksand,0,
+2017-02-16,Frolunda,2,Djurgarden,1,OT
+2017-02-16,Lulea,2,Orebro,1,
+2017-02-16,Skelleftea,4,Vaxjo,5,OT
+2017-02-16,HV 71,3,Malmo,6,
+2017-02-17,Karlskrona,3,Linkoping,1,
+2017-02-17,Farjestad,4,Rogle,5,
+2017-02-18,Orebro,0,HV 71,3,
+2017-02-18,Rogle,2,Farjestad,1,
+2017-02-18,Linkoping,3,Karlskrona,2,
+2017-02-18,Lulea,4,Frolunda,2,
+2017-02-18,Malmo,2,Brynas,3,
+2017-02-18,Skelleftea,3,Djurgarden,2,
+2017-02-18,Leksand,0,Vaxjo,6,
+2017-02-21,Vaxjo,3,Lulea,2,OT
+2017-02-21,Rogle,3,Linkoping,2,SO
+2017-02-21,Orebro,3,Brynas,6,
+2017-02-21,Karlskrona,1,Malmo,3,
+2017-02-21,Djurgarden,0,Farjestad,2,
+2017-02-22,Leksand,1,Skelleftea,3,
+2017-02-22,HV 71,2,Frolunda,1,OT
+2017-02-23,Brynas,4,Rogle,1,
+2017-02-23,Farjestad,2,Karlskrona,0,
+2017-02-23,Linkoping,5,Orebro,1,
+2017-02-23,Malmo,4,Vaxjo,3,SO
+2017-02-23,Lulea,1,Djurgarden,2,OT
+2017-02-24,Frolunda,1,Leksand,5,
+2017-02-24,HV 71,5,Skelleftea,2,
+2017-02-25,Malmo,4,Rogle,0,
+2017-02-25,Karlskrona,3,Lulea,1,
+2017-02-25,Farjestad,1,Linkoping,5,
+2017-02-25,Djurgarden,2,Orebro,0,
+2017-02-25,Vaxjo,1,Brynas,4,
+2017-02-25,Leksand,4,Frolunda,5,OT
+2017-02-28,Frolunda,3,Linkoping,4,SO
+2017-02-28,HV 71,3,Brynas,0,
+2017-02-28,Leksand,1,Karlskrona,4,
+2017-02-28,Skelleftea,0,Farjestad,3,
+2017-02-28,Lulea,3,Rogle,0,
+2017-03-01,Orebro,2,Malmo,1,
+2017-03-01,Djurgarden,2,Vaxjo,1,SO
+2017-03-02,Skelleftea,3,Linkoping,1,
+2017-03-02,Rogle,4,Leksand,1,
+2017-03-02,Karlskrona,2,HV 71,5,
+2017-03-02,Farjestad,5,Lulea,0,
+2017-03-02,Brynas,2,Frolunda,3,OT
+2017-03-03,Malmo,2,Djurgarden,3,OT
+2017-03-03,Vaxjo,7,Orebro,4,
+2017-03-04,Lulea,5,Leksand,2,
+2017-03-04,Karlskrona,6,Skelleftea,1,
+2017-03-04,Frolunda,3,Rogle,1,
+2017-03-04,Farjestad,1,HV 71,0,
+2017-03-04,Orebro,2,Vaxjo,3,OT
+2017-03-04,Djurgarden,4,Malmo,0,
+2017-03-05,Linkoping,3,Brynas,0,
+2017-03-07,Brynas,5,Karlskrona,2,
+2017-03-07,HV 71,6,Lulea,0,
+2017-03-07,Leksand,0,Djurgarden,5,
+2017-03-07,Malmo,2,Farjestad,5,
+2017-03-07,Skelleftea,2,Frolunda,1,
+2017-03-07,Vaxjo,2,Linkoping,3,
+2017-03-07,Rogle,5,Orebro,1,
+2017-03-09,Vaxjo,4,Malmo,5,
+2017-03-09,Skelleftea,1,Djurgarden,2,OT
+2017-03-09,Lulea,4,Rogle,1,
+2017-03-09,Linkoping,2,Frolunda,4,
+2017-03-09,Leksand,1,Brynas,2,
+2017-03-09,Karlskrona,4,Orebro,0,
+2017-03-09,HV 71,3,Farjestad,2,

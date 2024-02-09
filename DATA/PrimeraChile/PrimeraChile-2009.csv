@@ -1,0 +1,335 @@
+date,home_team,home_score,away_team,away_score
+2009-12-09,U. Catolica,2,Colo Colo,4
+2009-12-05,Colo Colo,2,U. Catolica,2
+2009-12-02,La Serena,0,Colo Colo,3
+2009-12-02,U. Catolica,5,S. Morning,3
+2009-11-29,Colo Colo,1,La Serena,0
+2009-11-28,S. Morning,0,U. Catolica,3
+2009-11-25,Colo Colo,4,U. De Concepcion,3
+2009-11-25,A. Italiano,2,S. Morning,1
+2009-11-24,U. Catolica,0,Everton,0
+2009-11-24,La Serena,2,U. Espanola,1
+2009-11-22,S. Morning,4,A. Italiano,2
+2009-11-22,U. De Concepcion,1,Colo Colo,2
+2009-11-21,Everton,0,U. Catolica,2
+2009-11-21,U. Espanola,1,La Serena,1
+2009-11-08,A. Italiano,0,Cobresal,0
+2009-11-08,Cobreloa,1,Rangers,0
+2009-11-08,Curico Unido,2,Everton,2
+2009-11-08,Huachipato,1,U. De Chile,0
+2009-11-08,La Serena,2,Deportes Iquique,1
+2009-11-08,Nublense,1,U. Espanola,1
+2009-11-07,U. Catolica,4,U. De Concepcion,1
+2009-11-07,Colo Colo,1,Palestino,2
+2009-11-06,S. Morning,1,O'Higgins,1
+2009-11-01,U. Espanola,3,Curico Unido,0
+2009-11-01,Everton,1,A. Italiano,2
+2009-11-01,Rangers,3,S. Morning,1
+2009-11-01,U. De Concepcion,1,Nublense,1
+2009-10-31,Deportes Iquique,2,Cobreloa,1
+2009-10-31,U. De Chile,2,U. Catolica,3
+2009-10-31,Palestino,1,Huachipato,3
+2009-10-31,Cobresal,0,Colo Colo,2
+2009-10-30,O'Higgins,1,La Serena,3
+2009-10-25,U. Catolica,3,S. Morning,0
+2009-10-25,Curico Unido,0,O'Higgins,1
+2009-10-25,Nublense,3,Huachipato,0
+2009-10-25,La Serena,3,U. De Chile,0
+2009-10-24,Deportes Iquique,1,Cobresal,1
+2009-10-24,Colo Colo,2,Cobreloa,1
+2009-10-24,Palestino,0,Everton,1
+2009-10-24,U. De Concepcion,1,U. Espanola,2
+2009-10-23,A. Italiano,1,Rangers,0
+2009-10-18,U. De Chile,1,U. De Concepcion,1
+2009-10-18,Cobreloa,0,A. Italiano,1
+2009-10-18,Cobresal,2,Everton,0
+2009-10-18,Curico Unido,3,Nublense,0
+2009-10-18,Huachipato,0,Colo Colo,2
+2009-10-18,Rangers,1,Palestino,0
+2009-10-17,O'Higgins,2,Deportes Iquique,2
+2009-10-17,U. Espanola,4,U. Catolica,3
+2009-10-16,S. Morning,1,La Serena,2
+2009-10-12,Curico Unido,1,S. Morning,1
+2009-10-11,U. De Chile,1,Cobresal,1
+2009-10-09,U. Espanola,3,Rangers,3
+2009-10-04,U. Espanola,0,S. Morning,1
+2009-10-04,Everton,0,Cobreloa,3
+2009-10-04,Nublense,1,Palestino,0
+2009-10-04,U. De Concepcion,3,Curico Unido,1
+2009-10-03,A. Italiano,1,O'Higgins,1
+2009-10-03,La Serena,3,Cobresal,2
+2009-10-03,Colo Colo,1,U. De Chile,0
+2009-10-02,Deportes Iquique,2,Huachipato,2
+2009-10-02,U. Catolica,5,Rangers,1
+2009-09-27,Colo Colo,3,Nublense,1
+2009-09-27,La Serena,4,A. Italiano,2
+2009-09-27,Cobreloa,0,Curico Unido,0
+2009-09-27,Cobresal,3,U. De Concepcion,0
+2009-09-27,Huachipato,1,Everton,2
+2009-09-27,Rangers,5,Deportes Iquique,3
+2009-09-27,O'Higgins,2,U. Espanola,0
+2009-09-26,S. Morning,3,U. De Chile,1
+2009-09-26,Palestino,1,U. Catolica,1
+2009-09-24,Everton,3,Colo Colo,2
+2009-09-23,A. Italiano,0,U. Catolica,4
+2009-09-23,Cobreloa,2,Huachipato,0
+2009-09-23,Palestino,1,La Serena,0
+2009-09-23,U. De Concepcion,2,Deportes Iquique,0
+2009-09-22,Nublense,1,O'Higgins,0
+2009-09-20,Cobresal,0,Palestino,1
+2009-09-20,Deportes Iquique,1,Colo Colo,1
+2009-09-20,S. Morning,2,Everton,1
+2009-09-19,Rangers,2,Nublense,0
+2009-09-19,U. De Concepcion,1,Cobreloa,0
+2009-09-18,Huachipato,2,A. Italiano,2
+2009-09-18,U. Catolica,7,Curico Unido,0
+2009-09-17,U. Espanola,1,La Serena,4
+2009-09-17,O'Higgins,1,U. De Chile,1
+2009-09-13,Colo Colo,1,U. Espanola,1
+2009-09-13,Cobreloa,5,O'Higgins,1
+2009-09-13,Curico Unido,2,Cobresal,1
+2009-09-13,A. Italiano,2,Deportes Iquique,0
+2009-09-12,Everton,1,U. Catolica,1
+2009-09-12,La Serena,0,U. De Concepcion,1
+2009-09-12,Huachipato,0,Rangers,3
+2009-09-12,Nublense,0,U. De Chile,2
+2009-09-12,Palestino,0,S. Morning,1
+2009-09-06,U. Espanola,2,A. Italiano,4
+2009-09-06,Everton,1,O'Higgins,1
+2009-09-06,Rangers,1,U. De Concepcion,1
+2009-08-30,Cobresal,3,S. Morning,1
+2009-08-30,Deportes Iquique,1,Nublense,3
+2009-08-30,O'Higgins,2,Huachipato,1
+2009-08-30,U. De Chile,3,A. Italiano,2
+2009-08-30,Rangers,0,Curico Unido,0
+2009-08-29,U. Espanola,2,Cobreloa,0
+2009-08-29,U. Catolica,2,Colo Colo,1
+2009-08-29,U. De Concepcion,2,Palestino,0
+2009-08-28,Everton,0,La Serena,1
+2009-08-23,U. De Chile,1,Everton,1
+2009-08-23,Cobreloa,0,U. Catolica,2
+2009-08-23,S. Morning,3,Deportes Iquique,2
+2009-08-23,Nublense,1,La Serena,0
+2009-08-22,Huachipato,2,Cobresal,1
+2009-08-22,O'Higgins,2,Colo Colo,2
+2009-08-22,Palestino,3,U. Espanola,3
+2009-08-21,A. Italiano,1,Curico Unido,1
+2009-08-16,U. Catolica,3,Huachipato,1
+2009-08-16,Cobresal,0,Nublense,0
+2009-08-16,La Serena,4,Cobreloa,2
+2009-08-16,Colo Colo,3,Rangers,0
+2009-08-16,Curico Unido,2,Palestino,1
+2009-08-15,Deportes Iquique,0,U. De Chile,2
+2009-08-15,U. De Concepcion,2,S. Morning,1
+2009-08-09,A. Italiano,2,U. De Concepcion,1
+2009-08-09,Cobresal,2,Rangers,0
+2009-08-09,Deportes Iquique,3,U. Espanola,4
+2009-08-09,Everton,1,Nublense,0
+2009-08-08,Huachipato,2,La Serena,0
+2009-08-08,U. Catolica,0,O'Higgins,0
+2009-08-08,Palestino,2,Cobreloa,1
+2009-08-08,S. Morning,2,Colo Colo,1
+2009-08-07,U. De Chile,1,Curico Unido,1
+2009-08-02,La Serena,2,Curico Unido,0
+2009-08-02,Nublense,0,U. Catolica,0
+2009-08-02,Cobreloa,0,Cobresal,1
+2009-08-02,Colo Colo,0,A. Italiano,1
+2009-08-02,Rangers,0,Everton,2
+2009-08-01,Huachipato,0,S. Morning,1
+2009-08-01,U. De Chile,2,U. Espanola,1
+2009-08-01,Palestino,1,Deportes Iquique,1
+2009-07-31,O'Higgins,0,U. De Concepcion,2
+2009-07-27,U. Catolica,2,La Serena,0
+2009-07-26,U. Espanola,1,Cobresal,0
+2009-07-26,Cobreloa,0,U. De Chile,3
+2009-07-26,Deportes Iquique,1,Everton,2
+2009-07-26,Curico Unido,1,Huachipato,0
+2009-07-26,Rangers,2,O'Higgins,0
+2009-07-26,S. Morning,3,Nublense,1
+2009-07-25,A. Italiano,2,Palestino,2
+2009-07-25,U. De Concepcion,1,Colo Colo,3
+2009-07-23,U. Espanola,0,Everton,1
+2009-07-22,Palestino,0,U. De Chile,0
+2009-07-19,U. De Chile,3,Rangers,5
+2009-07-19,Cobresal,1,U. Catolica,1
+2009-07-19,Everton,0,U. De Concepcion,1
+2009-07-19,Curico Unido,1,Deportes Iquique,1
+2009-07-19,Nublense,1,Cobreloa,2
+2009-07-18,Colo Colo,2,La Serena,1
+2009-07-18,Huachipato,1,U. Espanola,2
+2009-07-18,S. Morning,0,A. Italiano,1
+2009-07-17,O'Higgins,0,Palestino,1
+2009-07-12,U. Catolica,2,Deportes Iquique,0
+2009-07-12,Cobreloa,3,S. Morning,0
+2009-07-12,Colo Colo,1,Curico Unido,1
+2009-07-11,La Serena,2,Rangers,0
+2009-07-11,O'Higgins,2,Cobresal,0
+2009-07-11,U. De Concepcion,2,Huachipato,4
+2009-07-10,A. Italiano,2,Nublense,1
+2009-07-07,U. Espanola,0,U. De Chile,1
+2009-07-04,U. De Chile,1,U. Espanola,1
+2009-06-29,U. Espanola,1,U. Catolica,0
+2009-06-27,U. De Chile,3,Everton,1
+2009-06-25,U. Catolica,0,U. Espanola,0
+2009-06-24,Everton,1,U. De Chile,0
+2009-06-21,S. Morning,1,U. Catolica,4
+2009-06-21,Everton,2,Deportes Iquique,1
+2009-06-21,U. Espanola,6,O'Higgins,1
+2009-06-20,U. De Chile,2,A. Italiano,4
+2009-06-16,U. Catolica,4,S. Morning,0
+2009-06-14,Deportes Iquique,2,Everton,2
+2009-06-13,O'Higgins,1,U. Espanola,1
+2009-06-13,A. Italiano,1,U. De Chile,4
+2009-05-21,Cobresal,3,U. De Chile,2
+2009-05-17,Everton,3,Curico Unido,2
+2009-05-17,Rangers,4,Cobreloa,1
+2009-05-17,U. De Chile,1,Huachipato,3
+2009-05-16,Deportes Iquique,2,La Serena,0
+2009-05-16,O'Higgins,3,S. Morning,2
+2009-05-16,U. Espanola,1,Nublense,2
+2009-05-16,Cobresal,1,A. Italiano,0
+2009-05-16,Palestino,1,Colo Colo,0
+2009-05-15,U. De Concepcion,0,U. Catolica,2
+2009-05-13,Colo Colo,1,Everton,1
+2009-05-10,Cobreloa,0,Deportes Iquique,2
+2009-05-10,Nublense,2,U. De Concepcion,3
+2009-05-10,U. Catolica,0,U. De Chile,1
+2009-05-10,Curico Unido,1,U. Espanola,3
+2009-05-09,A. Italiano,0,Everton,1
+2009-05-09,La Serena,1,O'Higgins,2
+2009-05-09,Colo Colo,5,Cobresal,2
+2009-05-09,Huachipato,4,Palestino,1
+2009-05-09,S. Morning,2,Rangers,1
+2009-05-06,Everton,1,Cobresal,1
+2009-05-03,U. Espanola,2,U. De Concepcion,1
+2009-05-03,O'Higgins,5,Curico Unido,3
+2009-05-03,S. Morning,0,U. Catolica,1
+2009-05-03,Rangers,0,A. Italiano,1
+2009-05-02,Everton,1,Palestino,1
+2009-05-02,Huachipato,3,Nublense,1
+2009-05-02,U. De Chile,3,La Serena,2
+2009-05-02,Cobresal,2,Deportes Iquique,5
+2009-05-02,Cobreloa,2,Colo Colo,0
+2009-04-26,U. Catolica,1,U. Espanola,1
+2009-04-26,A. Italiano,0,Cobreloa,0
+2009-04-26,La Serena,1,S. Morning,4
+2009-04-26,Nublense,1,Curico Unido,1
+2009-04-26,Palestino,1,Rangers,0
+2009-04-25,Deportes Iquique,3,O'Higgins,1
+2009-04-25,Colo Colo,2,Huachipato,2
+2009-04-25,U. De Concepcion,1,U. De Chile,1
+2009-04-22,La Serena,1,Everton,3
+2009-04-22,Curico Unido,1,U. De Chile,3
+2009-04-19,Cobreloa,1,Everton,0
+2009-04-19,Cobresal,2,La Serena,2
+2009-04-19,U. De Chile,1,Colo Colo,3
+2009-04-19,Curico Unido,0,U. De Concepcion,1
+2009-04-19,Palestino,1,Nublense,1
+2009-04-19,S. Morning,1,U. Espanola,3
+2009-04-18,O'Higgins,1,A. Italiano,2
+2009-04-18,Rangers,2,U. Catolica,1
+2009-04-17,Huachipato,3,Deportes Iquique,1
+2009-04-12,A. Italiano,1,La Serena,2
+2009-04-12,U. Catolica,4,Palestino,1
+2009-04-12,Curico Unido,2,Cobreloa,0
+2009-04-12,Deportes Iquique,1,Rangers,1
+2009-04-12,Nublense,2,Colo Colo,0
+2009-04-11,U. De Chile,1,S. Morning,3
+2009-04-11,U. De Concepcion,3,Cobresal,1
+2009-04-11,U. Espanola,2,O'Higgins,1
+2009-04-09,Everton,5,Huachipato,1
+2009-04-09,U. Catolica,0,A. Italiano,2
+2009-04-08,O'Higgins,1,Nublense,0
+2009-04-05,Cobreloa,2,U. De Concepcion,0
+2009-04-05,Curico Unido,3,U. Catolica,2
+2009-04-05,Palestino,2,Cobresal,0
+2009-04-04,A. Italiano,2,Huachipato,0
+2009-04-04,La Serena,0,U. Espanola,3
+2009-04-04,Nublense,1,Rangers,1
+2009-04-04,Everton,1,S. Morning,3
+2009-04-04,U. De Chile,2,O'Higgins,2
+2009-04-04,Colo Colo,1,Deportes Iquique,2
+2009-04-02,U. De Chile,3,Palestino,0
+2009-03-28,Deportes Iquique,1,U. De Concepcion,1
+2009-03-28,La Serena,0,Palestino,3
+2009-03-28,Nublense,1,Everton,1
+2009-03-28,Rangers,1,U. Espanola,3
+2009-03-28,S. Morning,0,Curico Unido,1
+2009-03-27,Huachipato,3,Cobreloa,2
+2009-03-22,U. De Chile,3,Nublense,0
+2009-03-22,O'Higgins,1,Cobreloa,1
+2009-03-22,U. Catolica,1,Everton,1
+2009-03-22,Cobresal,1,Curico Unido,0
+2009-03-22,Deportes Iquique,3,A. Italiano,3
+2009-03-22,Rangers,1,Huachipato,1
+2009-03-22,S. Morning,5,Palestino,1
+2009-03-21,U. De Concepcion,0,La Serena,0
+2009-03-21,U. Espanola,5,Colo Colo,2
+2009-03-18,Colo Colo,1,O'Higgins,1
+2009-03-15,Colo Colo,0,U. Catolica,1
+2009-03-15,Cobreloa,2,U. Espanola,1
+2009-03-15,S. Morning,3,Cobresal,3
+2009-03-15,Curico Unido,2,Rangers,1
+2009-03-14,Nublense,2,Deportes Iquique,1
+2009-03-14,A. Italiano,1,U. De Chile,2
+2009-03-14,Palestino,4,U. De Concepcion,2
+2009-03-13,Huachipato,3,O'Higgins,0
+2009-03-08,U. Catolica,4,Cobreloa,0
+2009-03-08,Curico Unido,1,A. Italiano,4
+2009-03-08,La Serena,3,Nublense,0
+2009-03-08,Cobresal,0,Huachipato,0
+2009-03-08,Deportes Iquique,2,S. Morning,2
+2009-03-07,U. De Concepcion,2,Rangers,2
+2009-03-07,U. Espanola,2,Palestino,1
+2009-03-07,Everton,1,U. De Chile,1
+2009-03-01,A. Italiano,2,U. Espanola,2
+2009-03-01,O'Higgins,0,Everton,1
+2009-03-01,Palestino,0,Curico Unido,4
+2009-03-01,S. Morning,5,U. De Concepcion,4
+2009-03-01,Cobreloa,1,La Serena,1
+2009-03-01,Huachipato,2,U. Catolica,0
+2009-02-28,Nublense,1,Cobresal,1
+2009-02-28,U. De Chile,0,Deportes Iquique,0
+2009-02-28,Rangers,2,Colo Colo,1
+2009-02-26,U. De Concepcion,3,A. Italiano,1
+2009-02-25,Colo Colo,4,S. Morning,2
+2009-02-25,La Serena,3,Huachipato,1
+2009-02-25,Rangers,1,Cobresal,2
+2009-02-25,U. Espanola,2,Deportes Iquique,0
+2009-02-25,O'Higgins,3,U. Catolica,1
+2009-02-25,Cobreloa,4,Palestino,0
+2009-02-22,A. Italiano,2,Colo Colo,1
+2009-02-22,Curico Unido,1,La Serena,1
+2009-02-22,U. Catolica,1,Nublense,0
+2009-02-22,Cobresal,1,Cobreloa,4
+2009-02-22,Deportes Iquique,3,Palestino,0
+2009-02-21,Everton,3,Rangers,2
+2009-02-21,U. De Concepcion,2,O'Higgins,0
+2009-02-21,U. Espanola,0,U. De Chile,1
+2009-02-21,S. Morning,5,Huachipato,0
+2009-02-18,Rangers,0,U. De Chile,4
+2009-02-15,U. De Chile,4,Cobreloa,1
+2009-02-15,Huachipato,0,Curico Unido,0
+2009-02-15,O'Higgins,1,Rangers,0
+2009-02-15,Cobresal,1,U. Espanola,3
+2009-02-14,La Serena,1,U. Catolica,2
+2009-02-14,Nublense,2,S. Morning,1
+2009-02-14,Colo Colo,2,U. De Concepcion,0
+2009-02-14,Palestino,0,A. Italiano,2
+2009-02-13,Everton,1,Deportes Iquique,0
+2009-02-08,U. Espanola,4,Huachipato,0
+2009-02-08,Cobreloa,3,Nublense,0
+2009-02-08,Deportes Iquique,1,Curico Unido,0
+2009-02-07,A. Italiano,1,S. Morning,1
+2009-02-07,U. Catolica,1,Cobresal,1
+2009-02-07,U. De Concepcion,0,Everton,0
+2009-02-07,Palestino,1,O'Higgins,2
+2009-02-06,La Serena,0,Colo Colo,3
+2009-02-01,Rangers,1,La Serena,1
+2009-02-01,S. Morning,2,Cobreloa,0
+2009-02-01,Cobresal,1,O'Higgins,1
+2009-02-01,Deportes Iquique,0,U. Catolica,4
+2009-01-31,Everton,0,U. Espanola,1
+2009-01-31,Nublense,2,A. Italiano,1
+2009-01-31,Huachipato,0,U. De Concepcion,1
+2009-01-31,Curico Unido,2,Colo Colo,2

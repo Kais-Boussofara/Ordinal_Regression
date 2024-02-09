@@ -1,0 +1,307 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG
+09/08/13,Bayern Munich,M'gladbach,3,1
+10/08/13,Augsburg,Dortmund,0,4
+10/08/13,Braunschweig,Werder Bremen,0,1
+10/08/13,Hannover,Wolfsburg,2,0
+10/08/13,Hertha,Ein Frankfurt,6,1
+10/08/13,Hoffenheim,Nurnberg,2,2
+10/08/13,Leverkusen,Freiburg,3,1
+11/08/13,Mainz,Stuttgart,3,2
+11/08/13,Schalke 04,Hamburg,3,3
+17/08/13,Ein Frankfurt,Bayern Munich,0,1
+17/08/13,Freiburg,Mainz,1,2
+17/08/13,Hamburg,Hoffenheim,1,5
+17/08/13,M'gladbach,Hannover,3,0
+17/08/13,Stuttgart,Leverkusen,0,1
+17/08/13,Werder Bremen,Augsburg,1,0
+17/08/13,Wolfsburg,Schalke 04,4,0
+18/08/13,Dortmund,Braunschweig,2,1
+18/08/13,Nurnberg,Hertha,2,2
+23/08/13,Dortmund,Werder Bremen,1,0
+24/08/13,Bayern Munich,Nurnberg,2,0
+24/08/13,Hannover,Schalke 04,2,1
+24/08/13,Hertha,Hamburg,1,0
+24/08/13,Hoffenheim,Freiburg,3,3
+24/08/13,Leverkusen,M'gladbach,4,2
+24/08/13,Mainz,Wolfsburg,2,0
+25/08/13,Augsburg,Stuttgart,2,1
+25/08/13,Braunschweig,Ein Frankfurt,0,2
+27/08/13,Freiburg,Bayern Munich,1,1
+31/08/13,Hamburg,Braunschweig,4,0
+31/08/13,Hannover,Mainz,4,1
+31/08/13,M'gladbach,Werder Bremen,4,1
+31/08/13,Nurnberg,Augsburg,0,1
+31/08/13,Schalke 04,Leverkusen,2,0
+31/08/13,Wolfsburg,Hertha,2,0
+01/09/13,Ein Frankfurt,Dortmund,1,2
+01/09/13,Stuttgart,Hoffenheim,6,2
+13/09/13,Hertha,Stuttgart,0,1
+14/09/13,Augsburg,Freiburg,2,1
+14/09/13,Bayern Munich,Hannover,2,0
+14/09/13,Dortmund,Hamburg,6,2
+14/09/13,Leverkusen,Wolfsburg,3,1
+14/09/13,Mainz,Schalke 04,0,1
+14/09/13,Werder Bremen,Ein Frankfurt,0,3
+15/09/13,Braunschweig,Nurnberg,1,1
+15/09/13,Hoffenheim,M'gladbach,2,1
+20/09/13,M'gladbach,Braunschweig,4,1
+21/09/13,Hamburg,Werder Bremen,0,2
+21/09/13,Hannover,Augsburg,2,1
+21/09/13,Mainz,Leverkusen,1,4
+21/09/13,Nurnberg,Dortmund,1,1
+21/09/13,Schalke 04,Bayern Munich,0,4
+21/09/13,Wolfsburg,Hoffenheim,2,1
+22/09/13,Freiburg,Hertha,1,1
+22/09/13,Stuttgart,Ein Frankfurt,1,1
+27/09/13,Augsburg,M'gladbach,2,2
+28/09/13,Bayern Munich,Wolfsburg,1,0
+28/09/13,Dortmund,Freiburg,5,0
+28/09/13,Ein Frankfurt,Hamburg,2,2
+28/09/13,Hertha,Mainz,3,1
+28/09/13,Hoffenheim,Schalke 04,3,3
+28/09/13,Leverkusen,Hannover,2,0
+29/09/13,Braunschweig,Stuttgart,0,4
+29/09/13,Werder Bremen,Nurnberg,3,3
+04/10/13,Hannover,Hertha,1,1
+05/10/13,Leverkusen,Bayern Munich,1,1
+05/10/13,Mainz,Hoffenheim,2,2
+05/10/13,M'gladbach,Dortmund,2,0
+05/10/13,Schalke 04,Augsburg,4,1
+05/10/13,Stuttgart,Werder Bremen,1,1
+05/10/13,Wolfsburg,Braunschweig,0,2
+06/10/13,Freiburg,Ein Frankfurt,1,1
+06/10/13,Nurnberg,Hamburg,0,5
+18/10/13,Hoffenheim,Leverkusen,1,2
+19/10/13,Bayern Munich,Mainz,4,1
+19/10/13,Braunschweig,Schalke 04,2,3
+19/10/13,Dortmund,Hannover,1,0
+19/10/13,Ein Frankfurt,Nurnberg,1,1
+19/10/13,Hertha,M'gladbach,1,0
+19/10/13,Werder Bremen,Freiburg,0,0
+20/10/13,Augsburg,Wolfsburg,1,2
+20/10/13,Hamburg,Stuttgart,3,3
+25/10/13,Stuttgart,Nurnberg,1,1
+26/10/13,Bayern Munich,Hertha,3,2
+26/10/13,Hannover,Hoffenheim,1,4
+26/10/13,Leverkusen,Augsburg,2,1
+26/10/13,Mainz,Braunschweig,2,0
+26/10/13,Schalke 04,Dortmund,1,3
+26/10/13,Wolfsburg,Werder Bremen,3,0
+27/10/13,Freiburg,Hamburg,0,3
+27/10/13,M'gladbach,Ein Frankfurt,4,1
+01/11/13,Dortmund,Stuttgart,6,1
+02/11/13,Braunschweig,Leverkusen,1,0
+02/11/13,Ein Frankfurt,Wolfsburg,1,2
+02/11/13,Hamburg,M'gladbach,0,2
+02/11/13,Hertha,Schalke 04,0,2
+02/11/13,Hoffenheim,Bayern Munich,1,2
+02/11/13,Nurnberg,Freiburg,0,3
+03/11/13,Augsburg,Mainz,2,1
+03/11/13,Werder Bremen,Hannover,3,2
+08/11/13,Hannover,Braunschweig,0,0
+09/11/13,Bayern Munich,Augsburg,3,0
+09/11/13,Hoffenheim,Hertha,2,3
+09/11/13,Leverkusen,Hamburg,5,3
+09/11/13,M'gladbach,Nurnberg,3,1
+09/11/13,Schalke 04,Werder Bremen,3,1
+09/11/13,Wolfsburg,Dortmund,2,1
+10/11/13,Freiburg,Stuttgart,1,3
+10/11/13,Mainz,Ein Frankfurt,1,0
+22/11/13,Stuttgart,M'gladbach,0,2
+23/11/13,Augsburg,Hoffenheim,2,0
+23/11/13,Braunschweig,Freiburg,0,1
+23/11/13,Dortmund,Bayern Munich,0,3
+23/11/13,Ein Frankfurt,Schalke 04,3,3
+23/11/13,Hertha,Leverkusen,0,1
+23/11/13,Nurnberg,Wolfsburg,1,1
+24/11/13,Hamburg,Hannover,3,1
+24/11/13,Werder Bremen,Mainz,2,3
+29/11/13,Wolfsburg,Hamburg,1,1
+30/11/13,Bayern Munich,Braunschweig,2,0
+30/11/13,Hertha,Augsburg,0,0
+30/11/13,Hoffenheim,Werder Bremen,4,4
+30/11/13,Leverkusen,Nurnberg,3,0
+30/11/13,Mainz,Dortmund,1,3
+30/11/13,Schalke 04,Stuttgart,3,0
+01/12/13,Hannover,Ein Frankfurt,2,0
+01/12/13,M'gladbach,Freiburg,1,0
+06/12/13,Nurnberg,Mainz,1,1
+07/12/13,Dortmund,Leverkusen,0,1
+07/12/13,Ein Frankfurt,Hoffenheim,1,2
+07/12/13,Hamburg,Augsburg,0,1
+07/12/13,M'gladbach,Schalke 04,2,1
+07/12/13,Stuttgart,Hannover,4,2
+07/12/13,Werder Bremen,Bayern Munich,0,7
+08/12/13,Braunschweig,Hertha,0,2
+08/12/13,Freiburg,Wolfsburg,0,3
+13/12/13,Hertha,Werder Bremen,3,2
+14/12/13,Augsburg,Braunschweig,4,1
+14/12/13,Bayern Munich,Hamburg,3,1
+14/12/13,Hannover,Nurnberg,3,3
+14/12/13,Hoffenheim,Dortmund,2,2
+14/12/13,Mainz,M'gladbach,0,0
+14/12/13,Wolfsburg,Stuttgart,3,1
+15/12/13,Leverkusen,Ein Frankfurt,0,1
+15/12/13,Schalke 04,Freiburg,2,0
+20/12/13,Ein Frankfurt,Augsburg,1,1
+21/12/13,Braunschweig,Hoffenheim,1,0
+21/12/13,Dortmund,Hertha,1,2
+21/12/13,Freiburg,Hannover,2,1
+21/12/13,Hamburg,Mainz,2,3
+21/12/13,Nurnberg,Schalke 04,0,0
+21/12/13,Werder Bremen,Leverkusen,1,0
+22/12/13,M'gladbach,Wolfsburg,2,2
+24/01/14,M'gladbach,Bayern Munich,0,2
+25/01/14,Dortmund,Augsburg,2,2
+25/01/14,Ein Frankfurt,Hertha,1,0
+25/01/14,Freiburg,Leverkusen,3,2
+25/01/14,Nurnberg,Hoffenheim,4,0
+25/01/14,Stuttgart,Mainz,1,2
+25/01/14,Wolfsburg,Hannover,1,3
+26/01/14,Hamburg,Schalke 04,0,3
+26/01/14,Werder Bremen,Braunschweig,0,0
+29/01/14,Stuttgart,Bayern Munich,1,2
+31/01/14,Braunschweig,Dortmund,1,2
+01/02/14,Augsburg,Werder Bremen,3,1
+01/02/14,Hannover,M'gladbach,3,1
+01/02/14,Hoffenheim,Hamburg,3,0
+01/02/14,Leverkusen,Stuttgart,2,1
+01/02/14,Mainz,Freiburg,2,0
+01/02/14,Schalke 04,Wolfsburg,2,1
+02/02/14,Bayern Munich,Ein Frankfurt,5,0
+02/02/14,Hertha,Nurnberg,1,3
+07/02/14,M'gladbach,Leverkusen,0,1
+08/02/14,Ein Frankfurt,Braunschweig,3,0
+08/02/14,Freiburg,Hoffenheim,1,1
+08/02/14,Hamburg,Hertha,0,3
+08/02/14,Nurnberg,Bayern Munich,0,2
+08/02/14,Werder Bremen,Dortmund,1,5
+08/02/14,Wolfsburg,Mainz,3,0
+09/02/14,Schalke 04,Hannover,2,0
+09/02/14,Stuttgart,Augsburg,1,4
+14/02/14,Mainz,Hannover,2,0
+15/02/14,Bayern Munich,Freiburg,4,0
+15/02/14,Braunschweig,Hamburg,4,2
+15/02/14,Dortmund,Ein Frankfurt,4,0
+15/02/14,Hoffenheim,Stuttgart,4,1
+15/02/14,Leverkusen,Schalke 04,1,2
+15/02/14,Werder Bremen,M'gladbach,1,1
+16/02/14,Augsburg,Nurnberg,0,1
+16/02/14,Hertha,Wolfsburg,1,2
+21/02/14,Schalke 04,Mainz,0,0
+22/02/14,Freiburg,Augsburg,2,4
+22/02/14,Hamburg,Dortmund,3,0
+22/02/14,M'gladbach,Hoffenheim,2,2
+22/02/14,Nurnberg,Braunschweig,2,1
+22/02/14,Stuttgart,Hertha,1,2
+22/02/14,Wolfsburg,Leverkusen,3,1
+23/02/14,Ein Frankfurt,Werder Bremen,0,0
+23/02/14,Hannover,Bayern Munich,0,4
+28/02/14,Hertha,Freiburg,0,0
+01/03/14,Augsburg,Hannover,1,1
+01/03/14,Bayern Munich,Schalke 04,5,1
+01/03/14,Braunschweig,M'gladbach,1,1
+01/03/14,Dortmund,Nurnberg,3,0
+01/03/14,Leverkusen,Mainz,0,1
+01/03/14,Werder Bremen,Hamburg,1,0
+02/03/14,Ein Frankfurt,Stuttgart,2,1
+02/03/14,Hoffenheim,Wolfsburg,6,2
+08/03/14,Hamburg,Ein Frankfurt,1,1
+08/03/14,Hannover,Leverkusen,1,1
+08/03/14,M'gladbach,Augsburg,1,2
+08/03/14,Nurnberg,Werder Bremen,0,2
+08/03/14,Schalke 04,Hoffenheim,4,0
+08/03/14,Stuttgart,Braunschweig,2,2
+08/03/14,Wolfsburg,Bayern Munich,1,6
+09/03/14,Freiburg,Dortmund,0,1
+09/03/14,Mainz,Hertha,1,1
+14/03/14,Augsburg,Schalke 04,1,2
+15/03/14,Bayern Munich,Leverkusen,2,1
+15/03/14,Braunschweig,Wolfsburg,1,1
+15/03/14,Dortmund,M'gladbach,1,2
+15/03/14,Hertha,Hannover,0,3
+15/03/14,Hoffenheim,Mainz,2,4
+15/03/14,Werder Bremen,Stuttgart,1,1
+16/03/14,Ein Frankfurt,Freiburg,1,4
+16/03/14,Hamburg,Nurnberg,2,1
+21/03/14,Freiburg,Werder Bremen,3,1
+22/03/14,Hannover,Dortmund,0,3
+22/03/14,Mainz,Bayern Munich,0,2
+22/03/14,M'gladbach,Hertha,3,0
+22/03/14,Schalke 04,Braunschweig,3,1
+22/03/14,Stuttgart,Hamburg,1,0
+22/03/14,Wolfsburg,Augsburg,1,1
+23/03/14,Leverkusen,Hoffenheim,2,3
+23/03/14,Nurnberg,Ein Frankfurt,2,5
+25/03/14,Braunschweig,Mainz,3,1
+25/03/14,Dortmund,Schalke 04,0,0
+25/03/14,Hertha,Bayern Munich,1,3
+25/03/14,Werder Bremen,Wolfsburg,1,3
+26/03/14,Augsburg,Leverkusen,1,3
+26/03/14,Ein Frankfurt,M'gladbach,1,0
+26/03/14,Hamburg,Freiburg,1,1
+26/03/14,Hoffenheim,Hannover,3,1
+26/03/14,Nurnberg,Stuttgart,2,0
+28/03/14,Schalke 04,Hertha,2,0
+29/03/14,Bayern Munich,Hoffenheim,3,3
+29/03/14,Freiburg,Nurnberg,3,2
+29/03/14,Leverkusen,Braunschweig,1,1
+29/03/14,Mainz,Augsburg,3,0
+29/03/14,Stuttgart,Dortmund,2,3
+29/03/14,Wolfsburg,Ein Frankfurt,2,1
+30/03/14,Hannover,Werder Bremen,1,2
+30/03/14,M'gladbach,Hamburg,3,1
+04/04/14,Hamburg,Leverkusen,2,1
+05/04/14,Augsburg,Bayern Munich,1,0
+05/04/14,Dortmund,Wolfsburg,2,1
+05/04/14,Ein Frankfurt,Mainz,2,0
+05/04/14,Nurnberg,M'gladbach,0,2
+05/04/14,Stuttgart,Freiburg,2,0
+05/04/14,Werder Bremen,Schalke 04,1,1
+06/04/14,Braunschweig,Hannover,3,0
+06/04/14,Hertha,Hoffenheim,1,1
+11/04/14,Schalke 04,Ein Frankfurt,2,0
+12/04/14,Bayern Munich,Dortmund,0,3
+12/04/14,Freiburg,Braunschweig,2,0
+12/04/14,Hannover,Hamburg,2,1
+12/04/14,Mainz,Werder Bremen,3,0
+12/04/14,M'gladbach,Stuttgart,1,1
+12/04/14,Wolfsburg,Nurnberg,4,1
+13/04/14,Hoffenheim,Augsburg,2,0
+13/04/14,Leverkusen,Hertha,2,1
+17/04/14,Ein Frankfurt,Hannover,2,3
+19/04/14,Augsburg,Hertha,0,0
+19/04/14,Braunschweig,Bayern Munich,0,2
+19/04/14,Dortmund,Mainz,4,2
+19/04/14,Freiburg,M'gladbach,4,2
+19/04/14,Hamburg,Wolfsburg,1,3
+19/04/14,Werder Bremen,Hoffenheim,3,1
+20/04/14,Nurnberg,Leverkusen,1,4
+20/04/14,Stuttgart,Schalke 04,3,1
+25/04/14,Hannover,Stuttgart,0,0
+26/04/14,Bayern Munich,Werder Bremen,5,2
+26/04/14,Hertha,Braunschweig,2,0
+26/04/14,Hoffenheim,Ein Frankfurt,0,0
+26/04/14,Leverkusen,Dortmund,2,2
+26/04/14,Mainz,Nurnberg,2,0
+26/04/14,Wolfsburg,Freiburg,2,2
+27/04/14,Augsburg,Hamburg,3,1
+27/04/14,Schalke 04,M'gladbach,0,1
+03/05/14,Braunschweig,Augsburg,0,1
+03/05/14,Dortmund,Hoffenheim,3,2
+03/05/14,Ein Frankfurt,Leverkusen,0,2
+03/05/14,Freiburg,Schalke 04,0,2
+03/05/14,Hamburg,Bayern Munich,1,4
+03/05/14,M'gladbach,Mainz,3,1
+03/05/14,Nurnberg,Hannover,0,2
+03/05/14,Stuttgart,Wolfsburg,1,2
+03/05/14,Werder Bremen,Hertha,2,0
+10/05/14,Augsburg,Ein Frankfurt,2,1
+10/05/14,Bayern Munich,Stuttgart,1,0
+10/05/14,Hannover,Freiburg,3,2
+10/05/14,Hertha,Dortmund,0,4
+10/05/14,Hoffenheim,Braunschweig,3,1
+10/05/14,Leverkusen,Werder Bremen,2,1
+10/05/14,Mainz,Hamburg,3,2
+10/05/14,Schalke 04,Nurnberg,4,1
+10/05/14,Wolfsburg,M'gladbach,3,1

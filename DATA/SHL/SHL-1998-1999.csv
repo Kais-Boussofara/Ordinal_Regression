@@ -1,0 +1,301 @@
+date,home_team,home_score,away_team,away_score,SOOT
+1998-09-17,Modo,2,Malmo,4,
+1998-09-17,AIK,5,Djurgarden,6,
+1998-09-17,Brynas,2,Vasteras,4,
+1998-09-17,IF Bjorkloven,1,Lulea,4,
+1998-09-17,HV 71,1,Frolunda,3,
+1998-09-17,Farjestad,6,Leksand,3,
+1998-09-20,Vasteras,6,HV 71,1,
+1998-09-20,Malmo,4,IF Bjorkloven,1,
+1998-09-20,Lulea,3,AIK,2,
+1998-09-20,Leksand,6,Modo,3,
+1998-09-20,Frolunda,1,Farjestad,2,
+1998-09-20,Djurgarden,4,Brynas,3,
+1998-09-24,Modo,3,Frolunda,0,
+1998-09-24,Lulea,4,Djurgarden,2,
+1998-09-24,IF Bjorkloven,1,Leksand,1,OT
+1998-09-24,HV 71,2,Brynas,5,
+1998-09-24,Farjestad,5,Vasteras,2,
+1998-09-24,AIK,2,Malmo,0,
+1998-09-26,Brynas,2,Modo,4,
+1998-09-26,Djurgarden,3,Leksand,6,
+1998-09-26,Frolunda,3,Farjestad,1,
+1998-09-26,IF Bjorkloven,1,Lulea,4,
+1998-09-26,Vasteras,3,AIK,2,
+1998-09-26,HV 71,4,Malmo,5,
+1998-09-27,Djurgarden,2,HV 71,1,OT
+1998-09-29,Vasteras,1,Modo,3,
+1998-09-29,Malmo,3,Lulea,2,
+1998-09-29,Leksand,2,AIK,3,
+1998-09-29,Frolunda,2,IF Bjorkloven,0,
+1998-09-29,Brynas,3,Farjestad,2,
+1998-10-01,Modo,2,Brynas,0,
+1998-10-01,Malmo,1,Djurgarden,2,
+1998-10-01,Lulea,1,Leksand,1,OT
+1998-10-01,IF Bjorkloven,4,Vasteras,3,
+1998-10-01,Farjestad,1,HV 71,3,
+1998-10-01,AIK,3,Frolunda,1,
+1998-10-03,Frolunda,2,Lulea,2,OT
+1998-10-03,Brynas,8,IF Bjorkloven,1,
+1998-10-03,Leksand,3,Malmo,2,
+1998-10-03,HV 71,4,Modo,2,
+1998-10-03,Vasteras,1,AIK,4,
+1998-10-04,Djurgarden,5,Farjestad,4,
+1998-10-06,AIK,1,Djurgarden,1,OT
+1998-10-08,IF Bjorkloven,3,HV 71,1,
+1998-10-08,Leksand,10,Djurgarden,2,
+1998-10-08,AIK,3,Brynas,5,
+1998-10-08,Malmo,2,Frolunda,4,
+1998-10-08,Modo,1,Farjestad,2,
+1998-10-08,Lulea,3,Vasteras,2,OT
+1998-10-11,Lulea,3,Brynas,4,
+1998-10-11,HV 71,1,AIK,1,OT
+1998-10-11,Frolunda,2,Leksand,3,
+1998-10-11,Farjestad,3,IF Bjorkloven,3,OT
+1998-10-11,Djurgarden,2,Modo,1,
+1998-10-11,Vasteras,2,Malmo,4,
+1998-10-15,Brynas,5,Frolunda,2,
+1998-10-15,AIK,2,IF Bjorkloven,7,
+1998-10-15,Malmo,1,Farjestad,2,
+1998-10-15,Modo,1,Lulea,0,
+1998-10-15,Vasteras,5,Djurgarden,3,
+1998-10-15,Leksand,4,HV 71,4,OT
+1998-10-18,Leksand,3,Vasteras,2,
+1998-10-18,AIK,4,Farjestad,4,OT
+1998-10-20,Malmo,2,Brynas,4,
+1998-10-20,Lulea,3,HV 71,1,
+1998-10-20,IF Bjorkloven,1,Modo,4,
+1998-10-20,Frolunda,2,Djurgarden,3,
+1998-10-22,Brynas,1,Leksand,0,OT
+1998-10-22,Djurgarden,3,IF Bjorkloven,3,OT
+1998-10-22,Vasteras,2,Frolunda,1,
+1998-10-22,HV 71,1,Malmo,0,
+1998-10-22,Modo,3,AIK,2,
+1998-10-22,Farjestad,3,Lulea,2,
+1998-10-24,Djurgarden,1,Vasteras,2,
+1998-10-24,Frolunda,4,HV 71,1,
+1998-10-24,Farjestad,5,Malmo,5,OT
+1998-10-24,Lulea,5,Brynas,7,
+1998-10-24,Leksand,3,AIK,4,OT
+1998-10-24,Modo,3,IF Bjorkloven,1,
+1998-10-25,Vasteras,2,Leksand,5,
+1998-10-25,Malmo,4,Frolunda,5,OT
+1998-10-25,Lulea,1,Modo,2,OT
+1998-10-25,IF Bjorkloven,5,Brynas,4,OT
+1998-10-25,HV 71,4,Farjestad,2,
+1998-10-29,Vasteras,4,Brynas,2,
+1998-10-29,Malmo,4,Modo,5,
+1998-10-29,Lulea,3,IF Bjorkloven,1,
+1998-10-29,Leksand,4,Farjestad,3,
+1998-10-29,Frolunda,6,HV 71,2,
+1998-10-29,Djurgarden,6,AIK,4,
+1998-11-01,AIK,5,Lulea,0,
+1998-11-01,Farjestad,3,Frolunda,1,
+1998-11-01,Brynas,7,Djurgarden,2,
+1998-11-01,IF Bjorkloven,6,Malmo,4,
+1998-11-01,HV 71,5,Vasteras,1,
+1998-11-01,Modo,2,Leksand,2,OT
+1998-11-12,Vasteras,3,Farjestad,1,
+1998-11-12,Malmo,3,AIK,1,
+1998-11-12,Leksand,1,IF Bjorkloven,2,
+1998-11-12,Frolunda,4,Modo,7,
+1998-11-12,Djurgarden,4,Lulea,1,
+1998-11-12,Brynas,4,HV 71,2,
+1998-11-14,Frolunda,5,Vasteras,1,
+1998-11-15,AIK,4,Leksand,5,OT
+1998-11-17,Modo,9,Vasteras,1,
+1998-11-17,Lulea,0,Malmo,1,
+1998-11-17,IF Bjorkloven,4,Frolunda,2,
+1998-11-17,Farjestad,6,Brynas,1,
+1998-11-19,Djurgarden,3,Malmo,2,
+1998-11-19,Frolunda,3,AIK,4,
+1998-11-19,Brynas,5,Modo,1,
+1998-11-19,Leksand,2,Lulea,4,
+1998-11-19,HV 71,1,Farjestad,0,
+1998-11-19,Vasteras,3,IF Bjorkloven,1,
+1998-11-21,AIK,2,Vasteras,3,
+1998-11-21,Farjestad,1,Djurgarden,2,OT
+1998-11-21,Modo,2,HV 71,1,
+1998-11-21,Lulea,3,Frolunda,1,
+1998-11-21,Malmo,6,Leksand,2,
+1998-11-21,IF Bjorkloven,0,Brynas,3,
+1998-11-22,Djurgarden,3,AIK,4,
+1998-11-24,HV 71,2,Djurgarden,4,
+1998-11-26,Vasteras,3,Lulea,2,
+1998-11-26,HV 71,2,IF Bjorkloven,2,OT
+1998-11-26,Farjestad,2,Modo,2,OT
+1998-11-26,Brynas,1,AIK,2,
+1998-11-28,Modo,3,Brynas,1,
+1998-11-28,Malmo,5,HV 71,0,
+1998-11-28,Lulea,2,IF Bjorkloven,1,
+1998-11-28,Leksand,1,Djurgarden,2,
+1998-11-28,Farjestad,5,Frolunda,3,
+1998-11-29,AIK,3,HV 71,1,
+1998-11-29,Brynas,5,Lulea,4,
+1998-11-29,IF Bjorkloven,1,Farjestad,2,
+1998-11-29,Malmo,4,Vasteras,3,
+1998-11-29,Leksand,2,Frolunda,2,OT
+1998-11-29,Modo,4,Djurgarden,2,
+1998-12-01,Frolunda,5,Malmo,2,
+1998-12-01,AIK,3,Leksand,6,
+1998-12-03,Lulea,0,Modo,3,
+1998-12-03,IF Bjorkloven,3,AIK,4,
+1998-12-03,HV 71,3,Leksand,1,
+1998-12-03,Frolunda,2,Brynas,1,OT
+1998-12-03,Farjestad,4,Malmo,3,
+1998-12-03,Djurgarden,4,Vasteras,5,
+1998-12-06,Vasteras,2,Leksand,4,
+1998-12-06,Farjestad,3,AIK,2,
+1998-12-08,Djurgarden,2,Frolunda,1,
+1998-12-08,Modo,4,IF Bjorkloven,1,
+1998-12-08,HV 71,6,Lulea,1,
+1998-12-10,Malmo,2,HV 71,1,
+1998-12-10,Leksand,3,Brynas,4,
+1998-12-10,IF Bjorkloven,2,Djurgarden,3,
+1998-12-10,AIK,5,Modo,2,
+1998-12-10,Lulea,7,Farjestad,0,
+1998-12-12,Vasteras,5,Djurgarden,4,OT
+1998-12-12,Malmo,4,Farjestad,3,OT
+1998-12-12,IF Bjorkloven,0,Modo,6,
+1998-12-12,HV 71,2,Frolunda,1,
+1998-12-12,Brynas,9,Lulea,4,
+1998-12-13,Brynas,1,IF Bjorkloven,1,OT
+1998-12-13,Modo,3,Lulea,2,OT
+1998-12-13,Leksand,7,Vasteras,1,
+1998-12-13,Frolunda,7,Malmo,1,
+1998-12-14,Farjestad,2,HV 71,1,
+1999-01-07,Brynas,3,Malmo,4,OT
+1999-01-07,AIK,1,Djurgarden,5,
+1999-01-10,Farjestad,5,Leksand,1,
+1999-01-10,Brynas,4,Vasteras,7,
+1999-01-10,IF Bjorkloven,5,Lulea,2,
+1999-01-10,Modo,5,Malmo,0,
+1999-01-10,HV 71,2,Frolunda,8,
+1999-01-12,Vasteras,3,HV 71,4,OT
+1999-01-12,Malmo,5,IF Bjorkloven,2,
+1999-01-12,Lulea,3,AIK,3,OT
+1999-01-12,Djurgarden,2,Brynas,3,OT
+1999-01-14,AIK,0,Malmo,5,
+1999-01-14,HV 71,3,Brynas,4,OT
+1999-01-14,Farjestad,0,Vasteras,0,OT
+1999-01-14,Lulea,3,Djurgarden,2,
+1999-01-14,Modo,2,Frolunda,3,
+1999-01-14,IF Bjorkloven,1,Leksand,5,
+1999-01-16,Vasteras,4,Modo,4,OT
+1999-01-16,Malmo,3,Lulea,1,
+1999-01-16,Leksand,4,AIK,2,
+1999-01-16,Frolunda,2,IF Bjorkloven,1,OT
+1999-01-16,Djurgarden,0,HV 71,1,
+1999-01-16,Brynas,2,Farjestad,3,
+1999-01-17,Leksand,1,Modo,4,
+1999-01-19,AIK,7,Frolunda,5,
+1999-01-19,Farjestad,3,HV 71,6,
+1999-01-19,Malmo,2,Djurgarden,1,OT
+1999-01-19,Lulea,3,Leksand,2,
+1999-01-19,IF Bjorkloven,1,Vasteras,4,
+1999-01-19,Modo,1,Brynas,1,OT
+1999-01-21,Vasteras,3,AIK,5,
+1999-01-21,Leksand,2,Malmo,2,OT
+1999-01-21,IF Bjorkloven,3,Brynas,2,
+1999-01-21,HV 71,4,Modo,5,OT
+1999-01-21,Frolunda,4,Lulea,1,
+1999-01-21,Djurgarden,2,Farjestad,0,
+1999-01-24,Malmo,0,Frolunda,1,
+1999-01-24,Lulea,5,Vasteras,0,
+1999-01-24,Leksand,1,Djurgarden,2,
+1999-01-24,IF Bjorkloven,0,HV 71,3,
+1999-01-24,AIK,5,Brynas,6,OT
+1999-01-24,Modo,5,Farjestad,2,
+1999-01-26,Frolunda,4,Farjestad,5,
+1999-01-28,Djurgarden,3,Modo,1,
+1999-01-28,Brynas,1,Lulea,3,
+1999-01-28,Frolunda,2,Leksand,8,
+1999-01-28,HV 71,6,AIK,2,
+1999-01-28,Vasteras,4,Malmo,2,
+1999-01-28,Farjestad,5,IF Bjorkloven,1,
+1999-01-30,Vasteras,3,Djurgarden,3,OT
+1999-01-30,Modo,7,Lulea,3,
+1999-01-30,Malmo,0,Farjestad,2,
+1999-01-30,Leksand,6,HV 71,1,
+1999-01-30,Brynas,3,Frolunda,1,
+1999-01-30,AIK,2,IF Bjorkloven,3,OT
+1999-02-02,AIK,2,Farjestad,4,
+1999-02-02,Frolunda,4,Djurgarden,0,
+1999-02-02,Malmo,7,Brynas,5,
+1999-02-02,Leksand,7,Vasteras,7,OT
+1999-02-02,Lulea,5,HV 71,0,
+1999-02-02,IF Bjorkloven,2,Modo,6,
+1999-02-04,Brynas,4,Leksand,2,
+1999-02-04,Djurgarden,3,IF Bjorkloven,2,
+1999-02-04,Vasteras,2,Frolunda,3,
+1999-02-04,HV 71,5,Malmo,1,
+1999-02-04,Farjestad,2,Lulea,2,OT
+1999-02-04,Modo,2,AIK,1,
+1999-02-07,Modo,3,Leksand,1,
+1999-02-07,IF Bjorkloven,1,Malmo,3,
+1999-02-07,HV 71,6,Vasteras,2,
+1999-02-07,Farjestad,2,Frolunda,3,OT
+1999-02-07,Brynas,5,Djurgarden,2,
+1999-02-07,AIK,5,Lulea,7,
+1999-02-16,Vasteras,0,Brynas,3,
+1999-02-16,Malmo,3,Modo,5,
+1999-02-16,Lulea,7,IF Bjorkloven,2,
+1999-02-16,Leksand,7,Farjestad,5,
+1999-02-16,Frolunda,5,HV 71,4,
+1999-02-16,Djurgarden,4,AIK,1,
+1999-02-18,Brynas,0,HV 71,1,
+1999-02-18,Djurgarden,3,Lulea,5,
+1999-02-18,Frolunda,3,Modo,2,OT
+1999-02-18,Malmo,2,AIK,4,
+1999-02-18,Vasteras,3,Farjestad,4,
+1999-02-18,Leksand,3,IF Bjorkloven,2,
+1999-02-20,Modo,4,Vasteras,0,
+1999-02-20,IF Bjorkloven,2,Frolunda,4,
+1999-02-20,HV 71,4,Djurgarden,5,OT
+1999-02-20,Farjestad,6,Brynas,2,
+1999-02-21,AIK,4,Leksand,5,OT
+1999-02-21,Lulea,4,Malmo,1,
+1999-02-23,Vasteras,5,IF Bjorkloven,1,
+1999-02-23,Leksand,3,Lulea,3,OT
+1999-02-23,HV 71,3,Farjestad,3,OT
+1999-02-23,Frolunda,2,AIK,1,
+1999-02-23,Djurgarden,2,Malmo,3,OT
+1999-02-23,Brynas,2,Modo,4,
+1999-02-25,AIK,5,Vasteras,1,
+1999-02-25,Brynas,7,IF Bjorkloven,3,
+1999-02-25,Farjestad,3,Djurgarden,3,OT
+1999-02-25,Malmo,3,Leksand,2,OT
+1999-02-25,Modo,3,HV 71,3,OT
+1999-02-25,Lulea,3,Frolunda,2,
+1999-02-26,Djurgarden,6,Leksand,4,
+1999-02-27,AIK,3,Vasteras,0,
+1999-02-28,Djurgarden,6,Leksand,2,
+1999-02-28,Farjestad,2,Modo,5,
+1999-02-28,Brynas,1,AIK,4,
+1999-02-28,HV 71,4,IF Bjorkloven,1,
+1999-02-28,Vasteras,5,Lulea,2,
+1999-02-28,Frolunda,1,Malmo,1,OT
+1999-03-04,Modo,2,Djurgarden,1,
+1999-03-04,Malmo,8,Vasteras,3,
+1999-03-04,Lulea,7,Brynas,1,
+1999-03-04,Leksand,5,Frolunda,3,
+1999-03-04,IF Bjorkloven,1,Farjestad,3,
+1999-03-04,AIK,5,HV 71,5,OT
+1999-03-06,Djurgarden,1,Vasteras,2,
+1999-03-06,Farjestad,6,Malmo,2,
+1999-03-06,IF Bjorkloven,4,AIK,2,
+1999-03-06,HV 71,4,Leksand,4,OT
+1999-03-06,Lulea,0,Modo,9,
+1999-03-06,Frolunda,7,Brynas,4,
+1999-03-09,Vasteras,3,Leksand,5,
+1999-03-09,Modo,1,IF Bjorkloven,2,OT
+1999-03-09,HV 71,4,Lulea,3,
+1999-03-09,Farjestad,2,AIK,2,OT
+1999-03-09,Djurgarden,4,Frolunda,1,
+1999-03-09,Brynas,4,Malmo,0,
+1999-03-11,Malmo,5,HV 71,2,
+1999-03-11,Lulea,6,Farjestad,3,
+1999-03-11,Leksand,4,Brynas,3,
+1999-03-11,IF Bjorkloven,4,Djurgarden,3,OT
+1999-03-11,Frolunda,5,Vasteras,6,
+1999-03-11,AIK,3,Modo,1,

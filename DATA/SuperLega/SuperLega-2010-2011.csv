@@ -1,0 +1,183 @@
+date,home_team,home_score,away_team,away_score
+2010-10-23 10:00:00,Piacenza,0,Monza,3
+2010-10-24 12:00:00,Trentino,3,BCC-NEP Castellana,0
+2010-10-24 12:00:00,Roma,3,Verona,2
+2010-10-24 12:00:00,Lube Civitanova,3,Vibo Valentia,0
+2010-10-24 12:00:00,Cuneo,3,San Giustino,0
+2010-10-24 12:00:00,Cisterna,2,Modena,3
+2010-10-24 12:00:00,Belluno,3,Forli,1
+2010-10-30 10:00:00,Vibo Valentia,3,Roma,1
+2010-10-31 13:00:00,Verona,3,Piacenza,1
+2010-10-31 13:00:00,San Giustino,1,Trentino,3
+2010-10-31 13:00:00,Monza,0,Lube Civitanova,3
+2010-10-31 13:00:00,Modena,3,Belluno,2
+2010-10-31 13:00:00,Forli,1,Cuneo,3
+2010-10-31 13:00:00,BCC-NEP Castellana,0,Cisterna,3
+2010-11-03 15:30:00,Trentino,3,Piacenza,0
+2010-11-06 11:00:00,Roma,3,Forli,1
+2010-11-07 12:00:00,Trentino,3,Monza,0
+2010-11-07 12:00:00,Piacenza,3,Modena,0
+2010-11-07 12:00:00,Lube Civitanova,3,San Giustino,0
+2010-11-07 12:00:00,Cisterna,3,Vibo Valentia,0
+2010-11-07 12:00:00,BCC-NEP Castellana,2,Verona,3
+2010-11-07 12:15:00,Belluno,3,Cuneo,2
+2010-11-13 12:30:00,Forli,1,BCC-NEP Castellana,3
+2010-11-14 12:00:00,San Giustino,3,Verona,0
+2010-11-14 12:00:00,Monza,2,Roma,3
+2010-11-14 12:00:00,Modena,3,Vibo Valentia,2
+2010-11-14 12:00:00,Lube Civitanova,2,Trentino,3
+2010-11-14 12:00:00,Cuneo,3,Cisterna,0
+2010-11-14 12:00:00,Belluno,2,Piacenza,3
+2010-11-20 10:00:00,BCC-NEP Castellana,1,Roma,3
+2010-11-21 12:00:00,Vibo Valentia,3,Belluno,2
+2010-11-21 12:00:00,Verona,1,Lube Civitanova,3
+2010-11-21 12:00:00,San Giustino,3,Forli,1
+2010-11-21 12:00:00,Piacenza,3,Cisterna,2
+2010-11-21 12:00:00,Monza,1,Cuneo,3
+2010-11-21 12:00:00,Modena,0,Trentino,3
+2010-11-27 10:00:00,Cisterna,3,Verona,2
+2010-11-28 12:00:00,Trentino,3,Vibo Valentia,0
+2010-11-28 12:00:00,Roma,3,San Giustino,1
+2010-11-28 12:00:00,Piacenza,3,Forli,0
+2010-11-28 12:00:00,Lube Civitanova,3,BCC-NEP Castellana,0
+2010-11-28 12:00:00,Cuneo,3,Modena,0
+2010-11-28 12:00:00,Belluno,1,Monza,3
+2010-12-01 14:30:00,Vibo Valentia,0,Cuneo,3
+2010-12-01 14:30:00,Verona,3,Belluno,1
+2010-12-01 14:30:00,San Giustino,3,Piacenza,2
+2010-12-01 14:30:00,Roma,0,Trentino,3
+2010-12-01 14:30:00,Forli,0,Modena,3
+2010-12-01 14:30:00,Cisterna,2,Lube Civitanova,3
+2010-12-01 14:30:00,BCC-NEP Castellana,1,Monza,3
+2010-12-04 10:30:00,Vibo Valentia,3,Forli,1
+2010-12-05 12:00:00,Trentino,3,Cisterna,0
+2010-12-05 12:00:00,Piacenza,3,BCC-NEP Castellana,1
+2010-12-05 12:00:00,Monza,3,Verona,1
+2010-12-05 12:00:00,Modena,3,Lube Civitanova,2
+2010-12-05 12:00:00,Cuneo,3,Roma,0
+2010-12-05 12:00:00,Belluno,3,San Giustino,1
+2010-12-11 14:00:00,Verona,0,Trentino,3
+2010-12-11 14:30:00,BCC-NEP Castellana,1,Cuneo,3
+2010-12-12 12:00:00,San Giustino,3,Vibo Valentia,0
+2010-12-12 12:00:00,Roma,2,Modena,3
+2010-12-12 12:00:00,Lube Civitanova,3,Piacenza,1
+2010-12-12 12:00:00,Forli,1,Monza,3
+2010-12-12 12:00:00,Cisterna,1,Belluno,3
+2010-12-18 10:00:00,Monza,3,Cisterna,0
+2010-12-19 12:00:00,Vibo Valentia,3,BCC-NEP Castellana,1
+2010-12-19 12:00:00,Modena,3,San Giustino,0
+2010-12-19 12:00:00,Forli,1,Verona,3
+2010-12-19 12:00:00,Belluno,3,Roma,0
+2010-12-19 12:15:00,Cuneo,1,Lube Civitanova,3
+2010-12-26 12:00:00,Verona,0,Cuneo,3
+2010-12-26 12:00:00,Trentino,3,Belluno,0
+2010-12-26 12:00:00,Piacenza,0,Vibo Valentia,3
+2010-12-26 12:00:00,Monza,0,San Giustino,3
+2010-12-26 12:00:00,Lube Civitanova,3,Roma,2
+2010-12-26 12:00:00,Cisterna,1,Forli,3
+2010-12-26 12:00:00,BCC-NEP Castellana,1,Modena,3
+2011-01-02 12:00:00,Vibo Valentia,3,Monza,0
+2011-01-02 12:00:00,Roma,3,Cisterna,1
+2011-01-02 12:00:00,Modena,3,Verona,2
+2011-01-02 12:00:00,Forli,0,Trentino,3
+2011-01-02 12:00:00,Cuneo,3,Piacenza,2
+2011-01-02 12:00:00,Belluno,3,Lube Civitanova,1
+2011-01-02 12:30:00,San Giustino,3,BCC-NEP Castellana,0
+2011-01-09 12:00:00,Verona,1,Vibo Valentia,3
+2011-01-09 12:00:00,Trentino,3,Cuneo,0
+2011-01-09 12:00:00,Piacenza,3,Roma,2
+2011-01-09 12:00:00,Monza,2,Modena,3
+2011-01-09 12:00:00,Lube Civitanova,3,Forli,0
+2011-01-09 12:00:00,Cisterna,1,San Giustino,3
+2011-01-09 12:00:00,BCC-NEP Castellana,0,Belluno,3
+2011-01-15 10:30:00,Forli,0,Belluno,3
+2011-01-16 12:00:00,Vibo Valentia,2,Lube Civitanova,3
+2011-01-16 12:00:00,Verona,3,Roma,0
+2011-01-16 12:00:00,San Giustino,1,Cuneo,3
+2011-01-16 12:00:00,Monza,3,Piacenza,0
+2011-01-16 12:00:00,Modena,1,Cisterna,3
+2011-01-16 12:00:00,BCC-NEP Castellana,1,Trentino,3
+2011-01-27 14:30:00,Trentino,3,San Giustino,0
+2011-01-27 14:30:00,Roma,3,Vibo Valentia,1
+2011-01-27 14:30:00,Piacenza,1,Verona,3
+2011-01-27 14:30:00,Lube Civitanova,2,Monza,3
+2011-01-27 14:30:00,Cuneo,3,Forli,0
+2011-01-27 14:30:00,Cisterna,2,BCC-NEP Castellana,3
+2011-01-27 14:30:00,Belluno,3,Modena,1
+2011-01-30 12:00:00,Vibo Valentia,1,Cisterna,3
+2011-01-30 12:00:00,Verona,3,BCC-NEP Castellana,1
+2011-01-30 12:00:00,San Giustino,1,Lube Civitanova,3
+2011-01-30 12:00:00,Monza,1,Trentino,3
+2011-01-30 12:00:00,Modena,3,Piacenza,2
+2011-01-30 12:00:00,Forli,3,Roma,2
+2011-01-30 12:00:00,Cuneo,2,Belluno,3
+2011-02-05 10:00:00,BCC-NEP Castellana,3,Forli,2
+2011-02-05 14:30:00,Piacenza,0,Belluno,3
+2011-02-05 14:30:00,Cisterna,1,Cuneo,3
+2011-02-06 12:00:00,Vibo Valentia,0,Modena,3
+2011-02-06 12:00:00,Verona,3,San Giustino,1
+2011-02-06 12:00:00,Trentino,3,Lube Civitanova,2
+2011-02-06 12:00:00,Roma,1,Monza,3
+2011-02-12 10:00:00,Trentino,3,Modena,0
+2011-02-13 12:00:00,Roma,2,BCC-NEP Castellana,3
+2011-02-13 12:00:00,Lube Civitanova,3,Verona,0
+2011-02-13 12:00:00,Forli,0,San Giustino,3
+2011-02-13 12:00:00,Cuneo,3,Monza,1
+2011-02-13 12:00:00,Cisterna,3,Piacenza,2
+2011-02-13 12:00:00,Belluno,3,Vibo Valentia,2
+2011-02-16 14:30:00,Vibo Valentia,0,Trentino,3
+2011-02-16 14:30:00,Verona,3,Cisterna,1
+2011-02-16 14:30:00,San Giustino,3,Roma,0
+2011-02-16 14:30:00,Monza,3,Belluno,0
+2011-02-16 14:30:00,Modena,2,Cuneo,3
+2011-02-16 14:30:00,Forli,1,Piacenza,3
+2011-02-16 14:30:00,BCC-NEP Castellana,3,Lube Civitanova,2
+2011-02-19 10:00:00,Modena,3,Forli,1
+2011-02-20 12:00:00,Trentino,3,Roma,1
+2011-02-20 12:00:00,Piacenza,3,San Giustino,0
+2011-02-20 12:00:00,Monza,0,BCC-NEP Castellana,3
+2011-02-20 12:00:00,Lube Civitanova,3,Cisterna,1
+2011-02-20 12:00:00,Cuneo,3,Vibo Valentia,2
+2011-02-20 12:00:00,Belluno,3,Verona,0
+2011-02-26 10:00:00,Roma,1,Cuneo,3
+2011-02-27 12:00:00,Verona,1,Monza,3
+2011-02-27 12:00:00,Forli,2,Vibo Valentia,3
+2011-02-27 12:00:00,Cisterna,0,Trentino,3
+2011-02-27 12:00:00,BCC-NEP Castellana,3,Piacenza,1
+2011-03-02 14:30:00,San Giustino,3,Belluno,2
+2011-03-02 14:30:00,Lube Civitanova,0,Modena,3
+2011-03-05 10:00:00,Vibo Valentia,3,San Giustino,1
+2011-03-06 12:00:00,Trentino,1,Verona,3
+2011-03-06 12:00:00,Piacenza,2,Lube Civitanova,3
+2011-03-06 12:00:00,Monza,2,Forli,3
+2011-03-06 12:00:00,Modena,3,Roma,0
+2011-03-06 12:00:00,Cuneo,3,BCC-NEP Castellana,0
+2011-03-06 12:00:00,Belluno,0,Cisterna,3
+2011-03-12 10:00:00,San Giustino,2,Modena,3
+2011-03-13 13:00:00,Verona,3,Forli,2
+2011-03-13 13:00:00,Piacenza,0,Trentino,3
+2011-03-13 13:00:00,Cisterna,1,Monza,3
+2011-03-13 13:00:00,BCC-NEP Castellana,3,Vibo Valentia,0
+2011-03-17 13:00:00,Roma,3,Belluno,1
+2011-03-17 13:00:00,Lube Civitanova,0,Cuneo,3
+2011-03-19 12:00:00,Modena,3,BCC-NEP Castellana,2
+2011-03-20 13:00:00,Vibo Valentia,3,Piacenza,0
+2011-03-20 13:00:00,San Giustino,3,Monza,1
+2011-03-20 13:00:00,Roma,3,Lube Civitanova,2
+2011-03-20 13:00:00,Forli,1,Cisterna,3
+2011-03-20 13:00:00,Cuneo,3,Verona,0
+2011-03-20 13:00:00,Belluno,0,Trentino,3
+2011-03-27 12:00:00,Verona,3,Modena,2
+2011-03-27 12:00:00,Piacenza,3,Cuneo,2
+2011-03-27 12:00:00,Monza,3,Vibo Valentia,1
+2011-03-27 12:00:00,Lube Civitanova,2,Belluno,3
+2011-03-27 12:00:00,Cisterna,3,Roma,1
+2011-03-27 12:00:00,BCC-NEP Castellana,3,San Giustino,1
+2011-03-31 14:30:00,Trentino,3,Forli,0
+2011-04-03 12:00:00,Vibo Valentia,3,Verona,2
+2011-04-03 12:00:00,San Giustino,3,Cisterna,0
+2011-04-03 12:00:00,Roma,2,Piacenza,3
+2011-04-03 12:00:00,Modena,1,Monza,3
+2011-04-03 12:00:00,Forli,0,Lube Civitanova,3
+2011-04-03 12:00:00,Cuneo,2,Trentino,3
+2011-04-03 12:00:00,Belluno,1,BCC-NEP Castellana,3

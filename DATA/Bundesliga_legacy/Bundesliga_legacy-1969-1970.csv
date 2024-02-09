@@ -1,0 +1,307 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,round
+16/08/1969,Alemannia Aachen,TSV 1860 München,0,0,1
+16/08/1969,FC Schalke 04,Bor. Mönchengladbach,2,0,1
+16/08/1969,Hertha BSC,MSV Duisburg,1,0,1
+16/08/1969,Rot-Weiß Oberhausen,Eintracht Frankfurt,3,1,1
+16/08/1969,VfB Stuttgart,Werder Bremen,1,1,1
+16/08/1969,Hamburger SV,1. FC Kaiserslautern,2,1,1
+16/08/1969,1. FC Köln,Eintracht Braunschweig,3,2,1
+16/08/1969,Hannover 96,Borussia Dortmund,4,2,1
+16/08/1969,Bayern München,Rot-Weiss Essen,4,0,1
+22/08/1969,Eintracht Frankfurt,FC Schalke 04,2,1,2
+23/08/1969,Rot-Weiss Essen,Alemannia Aachen,2,0,2
+23/08/1969,TSV 1860 München,Hertha BSC,2,0,2
+23/08/1969,Bor. Mönchengladbach,Bayern München,2,1,2
+23/08/1969,1. FC Kaiserslautern,Rot-Weiß Oberhausen,0,0,2
+23/08/1969,MSV Duisburg,VfB Stuttgart,1,1,2
+23/08/1969,Eintracht Braunschweig,Hannover 96,1,1,2
+23/08/1969,Borussia Dortmund,Hamburger SV,2,1,2
+23/08/1969,Werder Bremen,1. FC Köln,2,1,2
+27/08/1969,Bayern München,Eintracht Frankfurt,2,1,3
+29/08/1969,1. FC Köln,MSV Duisburg,6,2,3
+30/08/1969,VfB Stuttgart,TSV 1860 München,3,1,3
+30/08/1969,Rot-Weiß Oberhausen,Borussia Dortmund,2,1,3
+30/08/1969,Hannover 96,Werder Bremen,3,2,3
+30/08/1969,Hamburger SV,Eintracht Braunschweig,3,3,3
+30/08/1969,Bor. Mönchengladbach,Rot-Weiss Essen,2,1,3
+30/08/1969,FC Schalke 04,1. FC Kaiserslautern,4,2,3
+30/08/1969,Hertha BSC,Alemannia Aachen,2,1,3
+05/09/1969,Eintracht Frankfurt,Bor. Mönchengladbach,1,2,4
+05/09/1969,MSV Duisburg,Hannover 96,1,0,4
+06/09/1969,1. FC Kaiserslautern,Bayern München,0,0,4
+06/09/1969,TSV 1860 München,1. FC Köln,1,0,4
+06/09/1969,Rot-Weiss Essen,Hertha BSC,5,2,4
+06/09/1969,Eintracht Braunschweig,Rot-Weiß Oberhausen,0,4,4
+06/09/1969,Werder Bremen,Hamburger SV,1,1,4
+06/09/1969,Alemannia Aachen,VfB Stuttgart,4,2,4
+06/09/1969,Borussia Dortmund,FC Schalke 04,1,1,4
+12/09/1969,Eintracht Frankfurt,Rot-Weiss Essen,2,1,5
+12/09/1969,Bor. Mönchengladbach,1. FC Kaiserslautern,1,1,5
+12/09/1969,Bayern München,Borussia Dortmund,3,0,5
+13/09/1969,Hamburger SV,MSV Duisburg,4,1,5
+13/09/1969,Rot-Weiß Oberhausen,Werder Bremen,3,1,5
+13/09/1969,FC Schalke 04,Eintracht Braunschweig,1,1,5
+13/09/1969,1. FC Köln,Alemannia Aachen,3,0,5
+13/09/1969,Hannover 96,TSV 1860 München,3,1,5
+13/09/1969,VfB Stuttgart,Hertha BSC,1,4,5
+26/09/1969,Hertha BSC,1. FC Köln,1,0,6
+26/09/1969,MSV Duisburg,Rot-Weiß Oberhausen,2,1,6
+27/09/1969,TSV 1860 München,Hamburger SV,0,2,6
+27/09/1969,Eintracht Braunschweig,Bayern München,0,4,6
+27/09/1969,Werder Bremen,FC Schalke 04,0,1,6
+27/09/1969,Alemannia Aachen,Hannover 96,1,1,6
+27/09/1969,1. FC Kaiserslautern,Eintracht Frankfurt,2,0,6
+27/09/1969,Borussia Dortmund,Bor. Mönchengladbach,2,1,6
+27/09/1969,Rot-Weiss Essen,VfB Stuttgart,3,3,6
+03/10/1969,Eintracht Frankfurt,Borussia Dortmund,2,0,7
+04/10/1969,1. FC Köln,VfB Stuttgart,3,1,7
+04/10/1969,Hannover 96,Hertha BSC,2,1,7
+04/10/1969,Bor. Mönchengladbach,Eintracht Braunschweig,1,0,7
+04/10/1969,Hamburger SV,Alemannia Aachen,4,1,7
+04/10/1969,1. FC Kaiserslautern,Rot-Weiss Essen,0,0,7
+04/10/1969,Bayern München,Werder Bremen,4,1,7
+04/10/1969,Rot-Weiß Oberhausen,TSV 1860 München,3,0,7
+04/10/1969,FC Schalke 04,MSV Duisburg,0,0,7
+10/10/1969,MSV Duisburg,Bayern München,4,2,8
+10/10/1969,TSV 1860 München,FC Schalke 04,0,2,8
+11/10/1969,Borussia Dortmund,1. FC Kaiserslautern,5,1,8
+11/10/1969,Rot-Weiss Essen,1. FC Köln,0,0,8
+11/10/1969,Werder Bremen,Bor. Mönchengladbach,0,0,8
+11/10/1969,Hertha BSC,Hamburger SV,1,0,8
+11/10/1969,Eintracht Braunschweig,Eintracht Frankfurt,3,1,8
+11/10/1969,VfB Stuttgart,Hannover 96,2,1,8
+11/10/1969,Alemannia Aachen,Rot-Weiß Oberhausen,2,0,8
+15/10/1969,Bor. Mönchengladbach,MSV Duisburg,4,1,9
+15/10/1969,Eintracht Frankfurt,Werder Bremen,2,1,9
+15/10/1969,Hamburger SV,VfB Stuttgart,1,3,9
+15/10/1969,1. FC Kaiserslautern,Eintracht Braunschweig,2,0,9
+15/10/1969,Rot-Weiß Oberhausen,Hertha BSC,3,1,9
+15/10/1969,Borussia Dortmund,Rot-Weiss Essen,4,1,9
+15/10/1969,FC Schalke 04,Alemannia Aachen,3,0,9
+15/10/1969,Hannover 96,1. FC Köln,3,4,9
+18/10/1969,Bayern München,TSV 1860 München,2,0,9
+24/10/1969,MSV Duisburg,Eintracht Frankfurt,1,1,10
+25/10/1969,VfB Stuttgart,Rot-Weiß Oberhausen,4,2,10
+25/10/1969,Werder Bremen,1. FC Kaiserslautern,3,2,10
+25/10/1969,1. FC Köln,Hamburger SV,3,0,10
+25/10/1969,Eintracht Braunschweig,Borussia Dortmund,1,1,10
+25/10/1969,Rot-Weiss Essen,Hannover 96,1,0,10
+25/10/1969,Hertha BSC,FC Schalke 04,3,0,10
+25/10/1969,TSV 1860 München,Bor. Mönchengladbach,0,3,10
+25/10/1969,Alemannia Aachen,Bayern München,1,3,10
+30/10/1969,Bayern München,Hertha BSC,1,2,11
+31/10/1969,Borussia Dortmund,Werder Bremen,2,1,11
+31/10/1969,FC Schalke 04,VfB Stuttgart,1,2,11
+31/10/1969,Bor. Mönchengladbach,Alemannia Aachen,5,1,11
+01/11/1969,Eintracht Frankfurt,TSV 1860 München,4,3,11
+01/11/1969,Hamburger SV,Hannover 96,2,0,11
+01/11/1969,Eintracht Braunschweig,Rot-Weiss Essen,0,0,11
+01/11/1969,1. FC Kaiserslautern,MSV Duisburg,0,2,11
+02/11/1969,Rot-Weiß Oberhausen,1. FC Köln,0,2,11
+07/11/1969,TSV 1860 München,1. FC Kaiserslautern,0,1,12
+07/11/1969,MSV Duisburg,Borussia Dortmund,0,1,12
+08/11/1969,Hannover 96,Rot-Weiß Oberhausen,2,1,12
+08/11/1969,Werder Bremen,Eintracht Braunschweig,0,1,12
+08/11/1969,Rot-Weiss Essen,Hamburger SV,2,2,12
+08/11/1969,1. FC Köln,FC Schalke 04,8,0,12
+08/11/1969,Alemannia Aachen,Eintracht Frankfurt,2,1,12
+08/11/1969,Hertha BSC,Bor. Mönchengladbach,1,1,12
+08/11/1969,VfB Stuttgart,Bayern München,2,3,12
+15/11/1969,Eintracht Braunschweig,MSV Duisburg,2,1,13
+15/11/1969,Rot-Weiß Oberhausen,Hamburger SV,1,3,13
+15/11/1969,Werder Bremen,Rot-Weiss Essen,2,1,13
+15/11/1969,FC Schalke 04,Hannover 96,2,0,13
+15/11/1969,1. FC Kaiserslautern,Alemannia Aachen,3,1,13
+15/11/1969,Bor. Mönchengladbach,VfB Stuttgart,3,0,13
+15/11/1969,Eintracht Frankfurt,Hertha BSC,1,1,13
+15/11/1969,Borussia Dortmund,TSV 1860 München,3,1,13
+15/11/1969,Bayern München,1. FC Köln,1,2,13
+28/11/1969,Alemannia Aachen,Borussia Dortmund,3,1,14
+28/11/1969,MSV Duisburg,Werder Bremen,1,1,14
+29/11/1969,TSV 1860 München,Eintracht Braunschweig,1,0,14
+29/11/1969,Hannover 96,Bayern München,0,1,14
+29/11/1969,Rot-Weiss Essen,Rot-Weiß Oberhausen,1,0,14
+29/11/1969,Hamburger SV,FC Schalke 04,1,1,14
+29/11/1969,1. FC Köln,Bor. Mönchengladbach,0,1,14
+29/11/1969,Hertha BSC,1. FC Kaiserslautern,3,0,14
+29/11/1969,VfB Stuttgart,Eintracht Frankfurt,4,0,14
+05/12/1969,Bor. Mönchengladbach,Hannover 96,5,0,15
+05/12/1969,Borussia Dortmund,Hertha BSC,0,0,15
+05/12/1969,Eintracht Braunschweig,Alemannia Aachen,3,0,15
+06/12/1969,Rot-Weiss Essen,MSV Duisburg,0,0,15
+06/12/1969,Bayern München,Hamburger SV,2,1,15
+06/12/1969,Eintracht Frankfurt,1. FC Köln,0,0,15
+06/12/1969,1. FC Kaiserslautern,VfB Stuttgart,3,2,15
+06/12/1969,Werder Bremen,TSV 1860 München,1,1,15
+06/12/1969,Rot-Weiß Oberhausen,FC Schalke 04,0,3,15
+12/12/1969,Alemannia Aachen,Werder Bremen,0,0,16
+12/12/1969,Hertha BSC,Eintracht Braunschweig,2,0,16
+13/12/1969,Hamburger SV,Bor. Mönchengladbach,1,3,16
+13/12/1969,Hannover 96,Eintracht Frankfurt,1,1,16
+13/12/1969,VfB Stuttgart,Borussia Dortmund,2,1,16
+13/12/1969,Rot-Weiß Oberhausen,Bayern München,3,3,16
+13/12/1969,1. FC Köln,1. FC Kaiserslautern,6,1,16
+13/12/1969,TSV 1860 München,MSV Duisburg,2,2,16
+13/12/1969,FC Schalke 04,Rot-Weiss Essen,5,3,16
+19/12/1969,Borussia Dortmund,1. FC Köln,1,0,17
+19/12/1969,1. FC Kaiserslautern,Hannover 96,5,2,17
+19/12/1969,Bor. Mönchengladbach,Rot-Weiß Oberhausen,6,1,17
+20/12/1969,Eintracht Braunschweig,VfB Stuttgart,1,0,17
+20/12/1969,Eintracht Frankfurt,Hamburger SV,2,2,17
+20/12/1969,Werder Bremen,Hertha BSC,1,0,17
+20/12/1969,MSV Duisburg,Alemannia Aachen,2,1,17
+20/12/1969,Rot-Weiss Essen,TSV 1860 München,3,0,17
+25/02/1970,Bayern München,FC Schalke 04,6,0,17
+10/03/1970,TSV 1860 München,Alemannia Aachen,0,0,18
+10/03/1970,MSV Duisburg,Hertha BSC,1,3,18
+10/03/1970,Werder Bremen,VfB Stuttgart,1,1,18
+10/03/1970,Eintracht Braunschweig,1. FC Köln,1,2,18
+10/03/1970,Borussia Dortmund,Hannover 96,2,1,18
+10/03/1970,Rot-Weiss Essen,Bayern München,1,1,18
+11/03/1970,Bor. Mönchengladbach,FC Schalke 04,2,0,18
+18/03/1970,Eintracht Frankfurt,Rot-Weiß Oberhausen,5,1,18
+01/04/1970,1. FC Kaiserslautern,Hamburger SV,1,1,18
+17/01/1970,FC Schalke 04,Eintracht Frankfurt,0,0,19
+17/01/1970,Alemannia Aachen,Rot-Weiss Essen,0,0,19
+17/01/1970,Rot-Weiß Oberhausen,1. FC Kaiserslautern,0,0,19
+03/03/1970,Hannover 96,Eintracht Braunschweig,0,2,19
+18/03/1970,VfB Stuttgart,MSV Duisburg,4,3,19
+18/03/1970,Hamburger SV,Borussia Dortmund,4,3,19
+18/03/1970,1. FC Köln,Werder Bremen,3,0,19
+25/03/1970,Hertha BSC,TSV 1860 München,4,2,19
+15/04/1970,Bayern München,Bor. Mönchengladbach,1,0,19
+24/01/1970,TSV 1860 München,VfB Stuttgart,4,1,20
+24/01/1970,Borussia Dortmund,Rot-Weiß Oberhausen,3,2,20
+24/01/1970,Alemannia Aachen,Hertha BSC,2,4,20
+03/03/1970,Eintracht Frankfurt,Bayern München,2,1,20
+01/04/1970,Werder Bremen,Hannover 96,1,0,20
+14/04/1970,MSV Duisburg,1. FC Köln,1,1,20
+21/04/1970,Eintracht Braunschweig,Hamburger SV,3,0,20
+21/04/1970,Rot-Weiss Essen,Bor. Mönchengladbach,1,0,20
+21/04/1970,1. FC Kaiserslautern,FC Schalke 04,1,1,20
+31/01/1970,Bor. Mönchengladbach,Eintracht Frankfurt,1,2,21
+31/01/1970,Hannover 96,MSV Duisburg,0,0,21
+31/01/1970,Bayern München,1. FC Kaiserslautern,1,1,21
+31/01/1970,1. FC Köln,TSV 1860 München,2,1,21
+31/01/1970,Rot-Weiß Oberhausen,Eintracht Braunschweig,2,1,21
+31/01/1970,VfB Stuttgart,Alemannia Aachen,5,0,21
+31/01/1970,FC Schalke 04,Borussia Dortmund,1,1,21
+25/02/1970,Hertha BSC,Rot-Weiss Essen,4,0,21
+14/04/1970,Hamburger SV,Werder Bremen,2,2,21
+07/02/1970,Rot-Weiss Essen,Eintracht Frankfurt,1,1,22
+07/02/1970,1. FC Kaiserslautern,Bor. Mönchengladbach,1,4,22
+07/02/1970,Borussia Dortmund,Bayern München,1,3,22
+07/02/1970,MSV Duisburg,Hamburger SV,0,0,22
+07/02/1970,Werder Bremen,Rot-Weiß Oberhausen,1,1,22
+07/02/1970,Alemannia Aachen,1. FC Köln,1,3,22
+07/02/1970,TSV 1860 München,Hannover 96,3,0,22
+18/02/1970,Eintracht Braunschweig,FC Schalke 04,3,0,22
+22/04/1970,Hertha BSC,VfB Stuttgart,3,1,22
+14/02/1970,1. FC Köln,Hertha BSC,5,1,23
+14/02/1970,Hamburger SV,TSV 1860 München,0,1,23
+14/02/1970,Bayern München,Eintracht Braunschweig,5,1,23
+14/02/1970,Eintracht Frankfurt,1. FC Kaiserslautern,2,1,23
+14/02/1970,Bor. Mönchengladbach,Borussia Dortmund,4,2,23
+14/02/1970,VfB Stuttgart,Rot-Weiss Essen,4,1,23
+25/03/1970,FC Schalke 04,Werder Bremen,0,0,23
+22/04/1970,Rot-Weiß Oberhausen,MSV Duisburg,2,0,23
+22/04/1970,Hannover 96,Alemannia Aachen,5,0,23
+21/02/1970,VfB Stuttgart,1. FC Köln,0,3,24
+21/02/1970,TSV 1860 München,Rot-Weiß Oberhausen,4,1,24
+21/02/1970,MSV Duisburg,FC Schalke 04,2,0,24
+24/03/1970,Eintracht Braunschweig,Bor. Mönchengladbach,0,1,24
+07/04/1970,Hertha BSC,Hannover 96,1,1,24
+07/04/1970,Alemannia Aachen,Hamburger SV,0,2,24
+15/04/1970,Borussia Dortmund,Eintracht Frankfurt,2,1,24
+21/04/1970,Werder Bremen,Bayern München,1,0,24
+30/04/1970,Rot-Weiss Essen,1. FC Kaiserslautern,1,1,24
+28/02/1970,Bayern München,MSV Duisburg,2,0,25
+28/02/1970,FC Schalke 04,TSV 1860 München,3,1,25
+28/02/1970,1. FC Kaiserslautern,Borussia Dortmund,2,2,25
+28/02/1970,1. FC Köln,Rot-Weiss Essen,5,2,25
+28/02/1970,Bor. Mönchengladbach,Werder Bremen,1,0,25
+28/02/1970,Eintracht Frankfurt,Eintracht Braunschweig,0,0,25
+28/02/1970,Hannover 96,VfB Stuttgart,2,0,25
+28/02/1970,Rot-Weiß Oberhausen,Alemannia Aachen,1,0,25
+25/04/1970,Hamburger SV,Hertha BSC,1,0,25
+07/03/1970,MSV Duisburg,Bor. Mönchengladbach,0,1,26
+07/03/1970,Werder Bremen,Eintracht Frankfurt,3,2,26
+07/03/1970,VfB Stuttgart,Hamburger SV,1,1,26
+07/03/1970,Eintracht Braunschweig,1. FC Kaiserslautern,1,0,26
+07/03/1970,Rot-Weiss Essen,Borussia Dortmund,3,3,26
+07/03/1970,Alemannia Aachen,FC Schalke 04,1,2,26
+07/03/1970,1. FC Köln,Hannover 96,5,0,26
+07/03/1970,TSV 1860 München,Bayern München,2,1,26
+01/04/1970,Hertha BSC,Rot-Weiß Oberhausen,1,0,26
+14/03/1970,Eintracht Frankfurt,MSV Duisburg,0,1,27
+14/03/1970,Rot-Weiß Oberhausen,VfB Stuttgart,3,0,27
+14/03/1970,1. FC Kaiserslautern,Werder Bremen,1,0,27
+14/03/1970,Hamburger SV,1. FC Köln,2,5,27
+14/03/1970,Borussia Dortmund,Eintracht Braunschweig,2,2,27
+14/03/1970,Hannover 96,Rot-Weiss Essen,3,0,27
+14/03/1970,FC Schalke 04,Hertha BSC,1,3,27
+14/03/1970,Bor. Mönchengladbach,TSV 1860 München,3,1,27
+14/03/1970,Bayern München,Alemannia Aachen,6,0,27
+21/03/1970,Hertha BSC,Bayern München,0,4,28
+21/03/1970,Werder Bremen,Borussia Dortmund,1,3,28
+21/03/1970,VfB Stuttgart,FC Schalke 04,2,0,28
+21/03/1970,Alemannia Aachen,Bor. Mönchengladbach,0,3,28
+21/03/1970,Hannover 96,Hamburger SV,1,1,28
+21/03/1970,MSV Duisburg,1. FC Kaiserslautern,0,0,28
+21/03/1970,1. FC Köln,Rot-Weiß Oberhausen,0,1,28
+15/04/1970,Rot-Weiss Essen,Eintracht Braunschweig,1,1,28
+21/04/1970,TSV 1860 München,Eintracht Frankfurt,1,1,28
+28/03/1970,1. FC Kaiserslautern,TSV 1860 München,3,2,29
+28/03/1970,Borussia Dortmund,MSV Duisburg,3,1,29
+28/03/1970,Rot-Weiß Oberhausen,Hannover 96,0,0,29
+28/03/1970,Eintracht Braunschweig,Werder Bremen,1,2,29
+28/03/1970,Hamburger SV,Rot-Weiss Essen,1,0,29
+28/03/1970,FC Schalke 04,1. FC Köln,1,0,29
+28/03/1970,Bor. Mönchengladbach,Hertha BSC,1,1,29
+28/03/1970,Bayern München,VfB Stuttgart,1,2,29
+30/03/1970,Eintracht Frankfurt,Alemannia Aachen,6,2,29
+04/04/1970,MSV Duisburg,Eintracht Braunschweig,1,0,30
+04/04/1970,Hamburger SV,Rot-Weiß Oberhausen,2,1,30
+04/04/1970,Hannover 96,FC Schalke 04,3,1,30
+04/04/1970,VfB Stuttgart,Bor. Mönchengladbach,0,0,30
+04/04/1970,Hertha BSC,Eintracht Frankfurt,2,0,30
+04/04/1970,1. FC Köln,Bayern München,0,2,30
+08/04/1970,TSV 1860 München,Borussia Dortmund,3,0,30
+15/04/1970,Alemannia Aachen,1. FC Kaiserslautern,1,1,30
+27/04/1970,Rot-Weiss Essen,Werder Bremen,3,2,30
+11/04/1970,Borussia Dortmund,Alemannia Aachen,3,1,31
+11/04/1970,Werder Bremen,MSV Duisburg,0,0,31
+11/04/1970,Eintracht Braunschweig,TSV 1860 München,2,2,31
+11/04/1970,Bayern München,Hannover 96,7,2,31
+11/04/1970,Rot-Weiß Oberhausen,Rot-Weiss Essen,1,1,31
+11/04/1970,FC Schalke 04,Hamburger SV,1,1,31
+11/04/1970,Bor. Mönchengladbach,1. FC Köln,2,0,31
+11/04/1970,1. FC Kaiserslautern,Hertha BSC,1,0,31
+11/04/1970,Eintracht Frankfurt,VfB Stuttgart,4,0,31
+18/04/1970,Hannover 96,Bor. Mönchengladbach,1,0,32
+18/04/1970,Hertha BSC,Borussia Dortmund,9,1,32
+18/04/1970,Alemannia Aachen,Eintracht Braunschweig,1,1,32
+18/04/1970,MSV Duisburg,Rot-Weiss Essen,0,1,32
+18/04/1970,Hamburger SV,Bayern München,1,3,32
+18/04/1970,1. FC Köln,Eintracht Frankfurt,1,2,32
+18/04/1970,VfB Stuttgart,1. FC Kaiserslautern,2,1,32
+18/04/1970,TSV 1860 München,Werder Bremen,0,1,32
+18/04/1970,FC Schalke 04,Rot-Weiß Oberhausen,2,2,32
+24/04/1970,Rot-Weiss Essen,FC Schalke 04,1,1,33
+25/04/1970,1. FC Kaiserslautern,1. FC Köln,3,2,33
+30/04/1970,Werder Bremen,Alemannia Aachen,4,1,33
+30/04/1970,Eintracht Braunschweig,Hertha BSC,1,2,33
+30/04/1970,Bor. Mönchengladbach,Hamburger SV,4,3,33
+30/04/1970,Eintracht Frankfurt,Hannover 96,3,3,33
+30/04/1970,Borussia Dortmund,VfB Stuttgart,0,0,33
+30/04/1970,Bayern München,Rot-Weiß Oberhausen,6,2,33
+30/04/1970,MSV Duisburg,TSV 1860 München,2,1,33
+03/05/1970,1. FC Köln,Borussia Dortmund,5,2,34
+03/05/1970,Hannover 96,1. FC Kaiserslautern,4,2,34
+03/05/1970,Rot-Weiß Oberhausen,Bor. Mönchengladbach,3,4,34
+03/05/1970,VfB Stuttgart,Eintracht Braunschweig,3,2,34
+03/05/1970,Hamburger SV,Eintracht Frankfurt,5,1,34
+03/05/1970,Hertha BSC,Werder Bremen,4,1,34
+03/05/1970,Alemannia Aachen,MSV Duisburg,3,2,34
+03/05/1970,TSV 1860 München,Rot-Weiss Essen,0,0,34
+03/05/1970,FC Schalke 04,Bayern München,2,2,34

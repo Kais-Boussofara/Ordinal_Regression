@@ -1,0 +1,307 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,round
+20/08/1966,1. FC Köln,TSV 1860 München,2,0,1
+20/08/1966,Borussia Dortmund,Fortuna Düsseldorf,1,2,1
+20/08/1966,Eintracht Braunschweig,Werder Bremen,2,0,1
+20/08/1966,Hamburger SV,Hannover 96,2,1,1
+20/08/1966,VfB Stuttgart,1. FC Nürnberg,1,0,1
+20/08/1966,1. FC Kaiserslautern,Karlsruher SC,3,1,1
+20/08/1966,Meidericher SV,Rot-Weiss Essen,2,0,1
+20/08/1966,FC Schalke 04,Bor. Mönchengladbach,0,0,1
+20/08/1966,Bayern München,Frankfurter SG Eintracht,1,2,1
+27/08/1966,TSV 1860 München,Eintracht Braunschweig,2,1,2
+27/08/1966,Fortuna Düsseldorf,Bayern München,0,0,2
+27/08/1966,Hannover 96,Borussia Dortmund,2,0,2
+27/08/1966,Werder Bremen,VfB Stuttgart,1,2,2
+27/08/1966,1. FC Nürnberg,Meidericher SV,3,1,2
+27/08/1966,Bor. Mönchengladbach,1. FC Kaiserslautern,1,1,2
+27/08/1966,Rot-Weiss Essen,FC Schalke 04,4,1,2
+27/08/1966,Frankfurter SG Eintracht,1. FC Köln,4,0,2
+27/08/1966,Karlsruher SC,Hamburger SV,1,1,2
+03/09/1966,VfB Stuttgart,TSV 1860 München,2,0,3
+03/09/1966,Bayern München,Hannover 96,0,0,3
+03/09/1966,Meidericher SV,Werder Bremen,1,0,3
+03/09/1966,Hamburger SV,Bor. Mönchengladbach,2,0,3
+03/09/1966,FC Schalke 04,1. FC Nürnberg,1,0,3
+03/09/1966,1. FC Kaiserslautern,Rot-Weiss Essen,5,2,3
+03/09/1966,Borussia Dortmund,Karlsruher SC,2,1,3
+03/09/1966,Eintracht Braunschweig,1. FC Köln,1,0,3
+03/09/1966,Fortuna Düsseldorf,Frankfurter SG Eintracht,2,4,3
+07/09/1966,Frankfurter SG Eintracht,Eintracht Braunschweig,0,1,4
+10/09/1966,TSV 1860 München,Meidericher SV,3,3,4
+10/09/1966,Karlsruher SC,Bayern München,1,6,4
+10/09/1966,Rot-Weiss Essen,Hamburger SV,1,1,4
+10/09/1966,Werder Bremen,FC Schalke 04,2,1,4
+10/09/1966,Bor. Mönchengladbach,Borussia Dortmund,4,0,4
+10/09/1966,1. FC Köln,VfB Stuttgart,3,1,4
+10/09/1966,Hannover 96,Fortuna Düsseldorf,0,2,4
+10/09/1966,1. FC Nürnberg,1. FC Kaiserslautern,1,2,4
+17/09/1966,FC Schalke 04,TSV 1860 München,1,0,5
+17/09/1966,Bayern München,Bor. Mönchengladbach,4,3,5
+17/09/1966,1. FC Kaiserslautern,Werder Bremen,2,0,5
+17/09/1966,Hamburger SV,1. FC Nürnberg,0,1,5
+17/09/1966,Borussia Dortmund,Rot-Weiss Essen,0,0,5
+17/09/1966,Meidericher SV,1. FC Köln,1,0,5
+17/09/1966,Fortuna Düsseldorf,Karlsruher SC,1,0,5
+17/09/1966,VfB Stuttgart,Eintracht Braunschweig,1,2,5
+17/09/1966,Hannover 96,Frankfurter SG Eintracht,2,1,5
+24/09/1966,TSV 1860 München,1. FC Kaiserslautern,3,0,6
+24/09/1966,Rot-Weiss Essen,Bayern München,3,1,6
+24/09/1966,Werder Bremen,Hamburger SV,5,1,6
+24/09/1966,1. FC Nürnberg,Borussia Dortmund,2,0,6
+24/09/1966,1. FC Köln,FC Schalke 04,2,1,6
+24/09/1966,Bor. Mönchengladbach,Fortuna Düsseldorf,3,1,6
+24/09/1966,Eintracht Braunschweig,Meidericher SV,0,0,6
+24/09/1966,Karlsruher SC,Hannover 96,0,0,6
+24/09/1966,Frankfurter SG Eintracht,VfB Stuttgart,4,0,6
+01/10/1966,Hamburger SV,TSV 1860 München,3,2,7
+01/10/1966,Bayern München,1. FC Nürnberg,0,1,7
+01/10/1966,Borussia Dortmund,Werder Bremen,2,0,7
+01/10/1966,1. FC Kaiserslautern,1. FC Köln,0,0,7
+01/10/1966,Fortuna Düsseldorf,Rot-Weiss Essen,2,0,7
+01/10/1966,FC Schalke 04,Eintracht Braunschweig,0,0,7
+01/10/1966,Hannover 96,Bor. Mönchengladbach,1,1,7
+01/10/1966,Meidericher SV,VfB Stuttgart,0,0,7
+01/10/1966,Karlsruher SC,Frankfurter SG Eintracht,3,2,7
+08/10/1966,TSV 1860 München,Borussia Dortmund,1,2,8
+08/10/1966,Werder Bremen,Bayern München,4,1,8
+08/10/1966,1. FC Köln,Hamburger SV,0,0,8
+08/10/1966,1. FC Nürnberg,Fortuna Düsseldorf,4,2,8
+08/10/1966,Eintracht Braunschweig,1. FC Kaiserslautern,2,0,8
+08/10/1966,Rot-Weiss Essen,Hannover 96,3,0,8
+08/10/1966,VfB Stuttgart,FC Schalke 04,1,1,8
+08/10/1966,Bor. Mönchengladbach,Karlsruher SC,3,1,8
+08/10/1966,Frankfurter SG Eintracht,Meidericher SV,1,0,8
+15/10/1966,Bayern München,TSV 1860 München,3,0,9
+15/10/1966,Fortuna Düsseldorf,Werder Bremen,0,1,9
+15/10/1966,Hamburger SV,Eintracht Braunschweig,1,0,9
+15/10/1966,Hannover 96,1. FC Nürnberg,2,0,9
+15/10/1966,1. FC Kaiserslautern,VfB Stuttgart,3,3,9
+15/10/1966,Karlsruher SC,Rot-Weiss Essen,0,1,9
+15/10/1966,FC Schalke 04,Meidericher SV,2,1,9
+15/10/1966,Bor. Mönchengladbach,Frankfurter SG Eintracht,0,0,9
+15/10/1966,Borussia Dortmund,1. FC Köln,6,1,9
+22/10/1966,TSV 1860 München,Fortuna Düsseldorf,3,0,10
+22/10/1966,Frankfurter SG Eintracht,FC Schalke 04,4,2,10
+22/10/1966,Eintracht Braunschweig,Borussia Dortmund,3,1,10
+22/10/1966,Werder Bremen,Hannover 96,3,0,10
+22/10/1966,1. FC Nürnberg,Karlsruher SC,2,2,10
+22/10/1966,Meidericher SV,1. FC Kaiserslautern,1,1,10
+22/10/1966,Rot-Weiss Essen,Bor. Mönchengladbach,2,1,10
+22/10/1966,1. FC Köln,Bayern München,2,4,10
+22/10/1966,VfB Stuttgart,Hamburger SV,1,3,10
+29/10/1966,Hannover 96,TSV 1860 München,2,2,11
+29/10/1966,Bayern München,Eintracht Braunschweig,2,0,11
+29/10/1966,Karlsruher SC,Werder Bremen,4,4,11
+29/10/1966,Hamburger SV,Meidericher SV,0,0,11
+29/10/1966,Bor. Mönchengladbach,1. FC Nürnberg,2,0,11
+29/10/1966,1. FC Kaiserslautern,FC Schalke 04,1,0,11
+29/10/1966,Rot-Weiss Essen,Frankfurter SG Eintracht,1,1,11
+29/10/1966,Fortuna Düsseldorf,1. FC Köln,1,3,11
+29/11/1966,Borussia Dortmund,VfB Stuttgart,1,1,11
+05/11/1966,TSV 1860 München,Karlsruher SC,3,0,12
+05/11/1966,VfB Stuttgart,Bayern München,2,4,12
+05/11/1966,Werder Bremen,Bor. Mönchengladbach,2,2,12
+05/11/1966,FC Schalke 04,Hamburger SV,2,0,12
+05/11/1966,1. FC Nürnberg,Rot-Weiss Essen,1,1,12
+05/11/1966,Frankfurter SG Eintracht,1. FC Kaiserslautern,1,1,12
+05/11/1966,Meidericher SV,Borussia Dortmund,1,5,12
+05/11/1966,1. FC Köln,Hannover 96,1,1,12
+05/11/1966,Eintracht Braunschweig,Fortuna Düsseldorf,4,0,12
+12/11/1966,Bor. Mönchengladbach,TSV 1860 München,2,3,13
+12/11/1966,Bayern München,Meidericher SV,2,1,13
+12/11/1966,Rot-Weiss Essen,Werder Bremen,0,1,13
+12/11/1966,Hamburger SV,1. FC Kaiserslautern,1,0,13
+12/11/1966,1. FC Nürnberg,Frankfurter SG Eintracht,0,1,13
+12/11/1966,Borussia Dortmund,FC Schalke 04,6,2,13
+12/11/1966,Karlsruher SC,1. FC Köln,1,1,13
+12/11/1966,Fortuna Düsseldorf,VfB Stuttgart,3,3,13
+12/11/1966,Hannover 96,Eintracht Braunschweig,4,2,13
+26/11/1966,TSV 1860 München,Rot-Weiss Essen,1,0,14
+26/11/1966,FC Schalke 04,Bayern München,2,1,14
+26/11/1966,Werder Bremen,1. FC Nürnberg,4,4,14
+26/11/1966,Frankfurter SG Eintracht,Hamburger SV,1,3,14
+26/11/1966,1. FC Kaiserslautern,Borussia Dortmund,1,1,14
+26/11/1966,1. FC Köln,Bor. Mönchengladbach,1,2,14
+26/11/1966,Meidericher SV,Fortuna Düsseldorf,1,1,14
+26/11/1966,Eintracht Braunschweig,Karlsruher SC,4,1,14
+26/11/1966,VfB Stuttgart,Hannover 96,1,2,14
+03/12/1966,1. FC Nürnberg,TSV 1860 München,2,2,15
+03/12/1966,Bayern München,1. FC Kaiserslautern,5,0,15
+03/12/1966,Frankfurter SG Eintracht,Werder Bremen,4,1,15
+03/12/1966,Hamburger SV,Borussia Dortmund,1,1,15
+03/12/1966,Rot-Weiss Essen,1. FC Köln,1,3,15
+03/12/1966,Fortuna Düsseldorf,FC Schalke 04,3,1,15
+03/12/1966,Bor. Mönchengladbach,Eintracht Braunschweig,0,0,15
+03/12/1966,Hannover 96,Meidericher SV,3,0,15
+03/12/1966,Karlsruher SC,VfB Stuttgart,4,1,15
+10/12/1966,TSV 1860 München,Werder Bremen,2,1,16
+10/12/1966,Hamburger SV,Bayern München,3,1,16
+10/12/1966,Eintracht Braunschweig,Rot-Weiss Essen,0,0,16
+10/12/1966,FC Schalke 04,Hannover 96,2,1,16
+10/12/1966,VfB Stuttgart,Bor. Mönchengladbach,0,2,16
+21/12/1966,1. FC Kaiserslautern,Fortuna Düsseldorf,2,1,16
+21/12/1966,Meidericher SV,Karlsruher SC,0,1,16
+04/02/1967,Borussia Dortmund,Frankfurter SG Eintracht,3,1,16
+25/03/1967,1. FC Köln,1. FC Nürnberg,2,0,16
+17/12/1966,Hannover 96,1. FC Kaiserslautern,2,1,17
+17/12/1966,Frankfurter SG Eintracht,TSV 1860 München,3,3,17
+17/12/1966,Werder Bremen,1. FC Köln,1,3,17
+17/12/1966,Fortuna Düsseldorf,Hamburger SV,2,2,17
+17/12/1966,1. FC Nürnberg,Eintracht Braunschweig,0,4,17
+17/12/1966,Bayern München,Borussia Dortmund,1,0,17
+17/12/1966,Rot-Weiss Essen,VfB Stuttgart,1,3,17
+17/12/1966,Karlsruher SC,FC Schalke 04,1,0,17
+17/12/1966,Bor. Mönchengladbach,Meidericher SV,3,3,17
+07/01/1967,TSV 1860 München,1. FC Köln,2,1,18
+07/01/1967,Fortuna Düsseldorf,Borussia Dortmund,0,5,18
+07/01/1967,Werder Bremen,Eintracht Braunschweig,2,3,18
+07/01/1967,Frankfurter SG Eintracht,Bayern München,2,1,18
+07/01/1967,1. FC Nürnberg,VfB Stuttgart,3,3,18
+07/01/1967,Karlsruher SC,1. FC Kaiserslautern,2,2,18
+07/01/1967,Rot-Weiss Essen,MSV Duisburg,0,1,18
+07/01/1967,Bor. Mönchengladbach,FC Schalke 04,11,0,18
+07/01/1967,Hannover 96,Hamburger SV,1,0,18
+21/01/1967,Eintracht Braunschweig,TSV 1860 München,1,0,19
+21/01/1967,Bayern München,Fortuna Düsseldorf,1,2,19
+21/01/1967,VfB Stuttgart,Werder Bremen,1,1,19
+21/01/1967,Hamburger SV,Karlsruher SC,1,0,19
+21/01/1967,MSV Duisburg,1. FC Nürnberg,2,0,19
+21/01/1967,1. FC Kaiserslautern,Bor. Mönchengladbach,1,0,19
+21/01/1967,FC Schalke 04,Rot-Weiss Essen,1,1,19
+21/01/1967,1. FC Köln,Frankfurter SG Eintracht,1,4,19
+21/01/1967,Borussia Dortmund,Hannover 96,3,0,19
+28/01/1967,TSV 1860 München,VfB Stuttgart,1,1,20
+28/01/1967,Hannover 96,Bayern München,2,1,20
+28/01/1967,Werder Bremen,MSV Duisburg,1,1,20
+28/01/1967,Bor. Mönchengladbach,Hamburger SV,4,2,20
+28/01/1967,1. FC Nürnberg,FC Schalke 04,0,4,20
+28/01/1967,Rot-Weiss Essen,1. FC Kaiserslautern,1,1,20
+28/01/1967,Karlsruher SC,Borussia Dortmund,2,0,20
+28/01/1967,1. FC Köln,Eintracht Braunschweig,1,0,20
+28/01/1967,Frankfurter SG Eintracht,Fortuna Düsseldorf,3,0,20
+11/02/1967,MSV Duisburg,TSV 1860 München,1,2,21
+11/02/1967,Bayern München,Karlsruher SC,2,2,21
+11/02/1967,Fortuna Düsseldorf,Hannover 96,1,0,21
+11/02/1967,Eintracht Braunschweig,Frankfurter SG Eintracht,3,0,21
+11/02/1967,Hamburger SV,Rot-Weiss Essen,1,1,21
+11/02/1967,Borussia Dortmund,Bor. Mönchengladbach,3,2,21
+11/02/1967,VfB Stuttgart,1. FC Köln,2,2,21
+11/02/1967,FC Schalke 04,Werder Bremen,0,1,21
+11/02/1967,1. FC Kaiserslautern,1. FC Nürnberg,1,1,21
+18/02/1967,TSV 1860 München,FC Schalke 04,0,2,22
+18/02/1967,Bor. Mönchengladbach,Bayern München,1,2,22
+18/02/1967,Werder Bremen,1. FC Kaiserslautern,1,1,22
+18/02/1967,1. FC Nürnberg,Hamburger SV,1,0,22
+18/02/1967,Rot-Weiss Essen,Borussia Dortmund,1,1,22
+18/02/1967,1. FC Köln,MSV Duisburg,1,1,22
+18/02/1967,Karlsruher SC,Fortuna Düsseldorf,3,2,22
+18/02/1967,Eintracht Braunschweig,VfB Stuttgart,1,1,22
+18/02/1967,Frankfurter SG Eintracht,Hannover 96,3,3,22
+25/02/1967,1. FC Kaiserslautern,TSV 1860 München,0,3,23
+25/02/1967,Bayern München,Rot-Weiss Essen,4,1,23
+25/02/1967,Hamburger SV,Werder Bremen,1,1,23
+25/02/1967,Borussia Dortmund,1. FC Nürnberg,0,1,23
+25/02/1967,FC Schalke 04,1. FC Köln,1,0,23
+25/02/1967,Fortuna Düsseldorf,Bor. Mönchengladbach,2,2,23
+25/02/1967,MSV Duisburg,Eintracht Braunschweig,0,0,23
+25/02/1967,Hannover 96,Karlsruher SC,3,1,23
+25/02/1967,VfB Stuttgart,Frankfurter SG Eintracht,3,0,23
+04/03/1967,TSV 1860 München,Hamburger SV,2,0,24
+04/03/1967,1. FC Nürnberg,Bayern München,0,1,24
+04/03/1967,Frankfurter SG Eintracht,Karlsruher SC,5,1,24
+04/03/1967,Werder Bremen,Borussia Dortmund,2,1,24
+04/03/1967,Rot-Weiss Essen,Fortuna Düsseldorf,0,4,24
+04/03/1967,Eintracht Braunschweig,FC Schalke 04,1,0,24
+04/03/1967,Bor. Mönchengladbach,Hannover 96,2,0,24
+04/03/1967,VfB Stuttgart,MSV Duisburg,1,3,24
+04/03/1967,1. FC Köln,1. FC Kaiserslautern,2,1,24
+11/03/1967,Borussia Dortmund,TSV 1860 München,1,1,25
+11/03/1967,Bayern München,Werder Bremen,1,0,25
+11/03/1967,Hamburger SV,1. FC Köln,1,3,25
+11/03/1967,Fortuna Düsseldorf,1. FC Nürnberg,2,2,25
+11/03/1967,1. FC Kaiserslautern,Eintracht Braunschweig,2,0,25
+11/03/1967,Hannover 96,Rot-Weiss Essen,1,0,25
+11/03/1967,FC Schalke 04,VfB Stuttgart,2,0,25
+11/03/1967,Karlsruher SC,Bor. Mönchengladbach,3,3,25
+11/03/1967,MSV Duisburg,Frankfurter SG Eintracht,0,0,25
+18/03/1967,TSV 1860 München,Bayern München,1,0,26
+18/03/1967,Werder Bremen,Fortuna Düsseldorf,1,0,26
+18/03/1967,Eintracht Braunschweig,Hamburger SV,2,0,26
+18/03/1967,1. FC Nürnberg,Hannover 96,1,1,26
+18/03/1967,VfB Stuttgart,1. FC Kaiserslautern,0,1,26
+18/03/1967,Rot-Weiss Essen,Karlsruher SC,3,1,26
+18/03/1967,MSV Duisburg,FC Schalke 04,3,0,26
+18/03/1967,Frankfurter SG Eintracht,Bor. Mönchengladbach,1,0,26
+18/03/1967,1. FC Köln,Borussia Dortmund,1,1,26
+01/04/1967,Fortuna Düsseldorf,TSV 1860 München,0,1,27
+01/04/1967,Bayern München,1. FC Köln,2,0,27
+01/04/1967,Hannover 96,Werder Bremen,2,1,27
+01/04/1967,Hamburger SV,VfB Stuttgart,1,1,27
+01/04/1967,Karlsruher SC,1. FC Nürnberg,0,1,27
+01/04/1967,1. FC Kaiserslautern,MSV Duisburg,0,0,27
+01/04/1967,Bor. Mönchengladbach,Rot-Weiss Essen,4,3,27
+01/04/1967,FC Schalke 04,Frankfurter SG Eintracht,1,1,27
+01/04/1967,Borussia Dortmund,Eintracht Braunschweig,0,0,27
+15/04/1967,TSV 1860 München,Hannover 96,3,0,28
+15/04/1967,Eintracht Braunschweig,Bayern München,5,2,28
+15/04/1967,Werder Bremen,Karlsruher SC,0,3,28
+15/04/1967,MSV Duisburg,Hamburger SV,2,1,28
+15/04/1967,1. FC Nürnberg,Bor. Mönchengladbach,1,0,28
+15/04/1967,FC Schalke 04,1. FC Kaiserslautern,0,3,28
+15/04/1967,Frankfurter SG Eintracht,Rot-Weiss Essen,5,0,28
+15/04/1967,VfB Stuttgart,Borussia Dortmund,1,0,28
+15/04/1967,1. FC Köln,Fortuna Düsseldorf,2,0,28
+22/04/1967,Karlsruher SC,TSV 1860 München,3,1,29
+22/04/1967,Bayern München,VfB Stuttgart,1,1,29
+22/04/1967,Bor. Mönchengladbach,Werder Bremen,1,1,29
+22/04/1967,Hamburger SV,FC Schalke 04,1,1,29
+22/04/1967,Rot-Weiss Essen,1. FC Nürnberg,1,1,29
+22/04/1967,1. FC Kaiserslautern,Frankfurter SG Eintracht,1,1,29
+22/04/1967,Borussia Dortmund,MSV Duisburg,4,1,29
+22/04/1967,Hannover 96,1. FC Köln,0,1,29
+22/04/1967,Fortuna Düsseldorf,Eintracht Braunschweig,1,1,29
+29/04/1967,TSV 1860 München,Bor. Mönchengladbach,4,3,30
+29/04/1967,MSV Duisburg,Bayern München,0,0,30
+29/04/1967,Werder Bremen,Rot-Weiss Essen,0,0,30
+29/04/1967,1. FC Kaiserslautern,Hamburger SV,2,1,30
+29/04/1967,Eintracht Braunschweig,Hannover 96,0,1,30
+29/04/1967,FC Schalke 04,Borussia Dortmund,1,4,30
+29/04/1967,1. FC Köln,Karlsruher SC,2,2,30
+29/04/1967,VfB Stuttgart,Fortuna Düsseldorf,3,1,30
+29/04/1967,Frankfurter SG Eintracht,1. FC Nürnberg,1,4,30
+13/05/1967,Bor. Mönchengladbach,1. FC Köln,3,0,31
+13/05/1967,Rot-Weiss Essen,TSV 1860 München,2,2,31
+13/05/1967,1. FC Nürnberg,Werder Bremen,2,1,31
+13/05/1967,Hamburger SV,Frankfurter SG Eintracht,0,2,31
+13/05/1967,Borussia Dortmund,1. FC Kaiserslautern,2,1,31
+13/05/1967,Bayern München,FC Schalke 04,5,0,31
+13/05/1967,Fortuna Düsseldorf,MSV Duisburg,1,5,31
+13/05/1967,Karlsruher SC,Eintracht Braunschweig,3,0,31
+13/05/1967,Hannover 96,VfB Stuttgart,2,2,31
+20/05/1967,Eintracht Braunschweig,Bor. Mönchengladbach,2,1,32
+20/05/1967,TSV 1860 München,1. FC Nürnberg,1,2,32
+20/05/1967,MSV Duisburg,Hannover 96,3,0,32
+20/05/1967,Werder Bremen,Frankfurter SG Eintracht,3,0,32
+20/05/1967,1. FC Köln,Rot-Weiss Essen,2,1,32
+20/05/1967,FC Schalke 04,Fortuna Düsseldorf,2,1,32
+20/05/1967,1. FC Kaiserslautern,Bayern München,1,0,32
+20/05/1967,Borussia Dortmund,Hamburger SV,7,0,32
+20/05/1967,VfB Stuttgart,Karlsruher SC,2,0,32
+27/05/1967,Werder Bremen,TSV 1860 München,2,4,33
+27/05/1967,Bayern München,Hamburger SV,3,1,33
+27/05/1967,1. FC Nürnberg,1. FC Köln,1,1,33
+27/05/1967,Fortuna Düsseldorf,1. FC Kaiserslautern,3,1,33
+27/05/1967,Rot-Weiss Essen,Eintracht Braunschweig,0,0,33
+27/05/1967,Hannover 96,FC Schalke 04,1,2,33
+27/05/1967,Bor. Mönchengladbach,VfB Stuttgart,1,2,33
+27/05/1967,Karlsruher SC,MSV Duisburg,3,0,33
+27/05/1967,Frankfurter SG Eintracht,Borussia Dortmund,3,3,33
+03/06/1967,TSV 1860 München,Frankfurter SG Eintracht,2,1,34
+03/06/1967,Borussia Dortmund,Bayern München,4,0,34
+03/06/1967,1. FC Köln,Werder Bremen,4,1,34
+03/06/1967,Hamburger SV,Fortuna Düsseldorf,2,1,34
+03/06/1967,Eintracht Braunschweig,1. FC Nürnberg,4,1,34
+03/06/1967,1. FC Kaiserslautern,Hannover 96,1,0,34
+03/06/1967,VfB Stuttgart,Rot-Weiss Essen,1,0,34
+03/06/1967,FC Schalke 04,Karlsruher SC,1,3,34
+03/06/1967,MSV Duisburg,Bor. Mönchengladbach,1,3,34

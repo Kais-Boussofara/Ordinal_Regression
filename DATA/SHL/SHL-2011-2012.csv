@@ -1,0 +1,331 @@
+date,home_team,home_score,away_team,away_score,SOOT
+2011-09-13,Frolunda,2,Vaxjo,0,
+2011-09-15,AIK,5,Timra,1,
+2011-09-15,Farjestad,3,Skelleftea,2,SO
+2011-09-15,Modo,1,Frolunda,4,
+2011-09-15,Linkoping,3,Brynas,2,SO
+2011-09-15,HV 71,1,Djurgarden,2,
+2011-09-15,Lulea,2,Vaxjo,3,SO
+2011-09-17,Farjestad,1,AIK,2,SO
+2011-09-17,Frolunda,2,Lulea,1,
+2011-09-17,Skelleftea,2,Timra,3,SO
+2011-09-17,Brynas,3,HV 71,1,
+2011-09-17,Djurgarden,1,Modo,4,
+2011-09-17,Vaxjo,2,Linkoping,4,
+2011-09-20,Linkoping,2,HV 71,1,
+2011-09-20,Djurgarden,4,AIK,2,
+2011-09-21,Brynas,0,Frolunda,2,
+2011-09-22,Timra,1,Vaxjo,3,
+2011-09-22,Modo,0,AIK,2,
+2011-09-22,Lulea,5,Djurgarden,2,
+2011-09-22,Linkoping,0,Skelleftea,4,
+2011-09-22,HV 71,6,Farjestad,2,
+2011-09-24,Farjestad,1,Brynas,4,
+2011-09-24,AIK,1,Frolunda,0,SO
+2011-09-24,Vaxjo,1,Skelleftea,4,
+2011-09-24,Modo,3,Linkoping,2,
+2011-09-24,HV 71,3,Lulea,2,SO
+2011-09-24,Timra,4,Djurgarden,5,
+2011-09-26,Linkoping,5,AIK,2,
+2011-09-27,Vaxjo,4,Modo,2,
+2011-09-27,Skelleftea,1,HV 71,3,
+2011-09-27,Lulea,2,Farjestad,0,
+2011-09-27,Frolunda,5,Timra,0,
+2011-09-27,Djurgarden,2,Brynas,4,
+2011-09-29,HV 71,6,Modo,1,
+2011-09-29,Farjestad,2,Djurgarden,3,SO
+2011-09-29,AIK,0,Lulea,1,
+2011-09-29,Timra,4,Linkoping,2,
+2011-10-01,Lulea,1,Timra,4,
+2011-10-01,Djurgarden,2,Vaxjo,1,
+2011-10-01,Brynas,4,AIK,3,
+2011-10-01,Skelleftea,3,Frolunda,2,
+2011-10-01,Modo,3,Farjestad,2,SO
+2011-10-03,Vaxjo,3,Brynas,1,
+2011-10-04,Skelleftea,4,Djurgarden,2,
+2011-10-04,Lulea,3,Linkoping,2,
+2011-10-04,Frolunda,2,Farjestad,3,OT
+2011-10-04,AIK,7,HV 71,8,SO
+2011-10-04,Timra,2,Modo,5,
+2011-10-06,Modo,1,Skelleftea,2,
+2011-10-06,Linkoping,2,Frolunda,1,
+2011-10-06,HV 71,3,Timra,1,
+2011-10-06,Farjestad,2,Vaxjo,3,SO
+2011-10-06,Brynas,0,Lulea,1,
+2011-10-08,Lulea,2,Modo,1,
+2011-10-08,Timra,1,Brynas,3,
+2011-10-08,Frolunda,2,Djurgarden,0,
+2011-10-08,HV 71,2,Vaxjo,3,SO
+2011-10-08,AIK,2,Skelleftea,1,
+2011-10-10,Brynas,2,Skelleftea,3,
+2011-10-11,Linkoping,1,Farjestad,0,
+2011-10-11,Frolunda,3,AIK,2,OT
+2011-10-12,Modo,4,Brynas,3,OT
+2011-10-13,Djurgarden,4,Linkoping,1,
+2011-10-13,Farjestad,1,Timra,2,SO
+2011-10-13,Vaxjo,0,AIK,4,
+2011-10-13,Skelleftea,3,Lulea,2,
+2011-10-13,Frolunda,3,HV 71,0,
+2011-10-15,Modo,3,Lulea,1,
+2011-10-15,HV 71,3,AIK,1,
+2011-10-15,Farjestad,2,Frolunda,1,
+2011-10-15,Brynas,2,Linkoping,3,
+2011-10-15,Vaxjo,3,Timra,2,SO
+2011-10-15,Djurgarden,1,Skelleftea,3,
+2011-10-18,AIK,3,Vaxjo,4,
+2011-10-19,Linkoping,2,Djurgarden,3,SO
+2011-10-20,Timra,1,Farjestad,2,
+2011-10-20,Skelleftea,4,Modo,3,
+2011-10-20,Lulea,5,Brynas,6,SO
+2011-10-20,HV 71,4,Frolunda,3,OT
+2011-10-22,Djurgarden,1,Lulea,3,
+2011-10-22,Brynas,5,Modo,2,
+2011-10-22,Skelleftea,0,Linkoping,2,
+2011-10-22,Vaxjo,1,Farjestad,4,
+2011-10-22,Timra,5,HV 71,6,
+2011-10-24,Frolunda,3,Lulea,2,
+2011-10-25,Brynas,6,Timra,5,SO
+2011-10-25,Modo,0,Vaxjo,2,
+2011-10-25,HV 71,2,Skelleftea,1,OT
+2011-10-25,Farjestad,3,Linkoping,0,
+2011-10-27,Timra,3,AIK,4,SO
+2011-10-27,Skelleftea,2,Farjestad,3,SO
+2011-10-27,Linkoping,3,Modo,2,SO
+2011-10-27,Frolunda,5,Brynas,1,
+2011-10-27,Djurgarden,2,HV 71,3,
+2011-10-27,Vaxjo,3,Lulea,2,
+2011-10-29,Lulea,2,Skelleftea,0,
+2011-10-29,Linkoping,2,Vaxjo,1,OT
+2011-10-29,Farjestad,1,HV 71,5,
+2011-10-29,AIK,0,Brynas,4,
+2011-10-29,Timra,3,Frolunda,1,
+2011-10-29,Modo,1,Djurgarden,2,OT
+2011-11-01,Farjestad,2,Lulea,1,
+2011-11-01,Brynas,5,Vaxjo,2,
+2011-11-01,Modo,4,Timra,2,
+2011-11-01,HV 71,4,Linkoping,1,
+2011-11-01,Djurgarden,2,Frolunda,3,SO
+2011-11-01,Skelleftea,4,AIK,3,
+2011-11-03,Vaxjo,2,HV 71,4,
+2011-11-03,Timra,1,Skelleftea,3,
+2011-11-03,Linkoping,1,Lulea,2,
+2011-11-03,Frolunda,6,Modo,3,
+2011-11-03,Brynas,3,Djurgarden,2,SO
+2011-11-03,AIK,3,Farjestad,2,
+2011-11-05,HV 71,3,Brynas,4,
+2011-11-05,Farjestad,3,Modo,1,
+2011-11-05,Djurgarden,3,Timra,0,
+2011-11-05,Lulea,2,AIK,0,
+2011-11-05,Frolunda,1,Linkoping,2,
+2011-11-05,Skelleftea,3,Vaxjo,2,SO
+2011-11-07,AIK,3,HV 71,4,
+2011-11-14,AIK,5,Djurgarden,0,
+2011-11-15,Vaxjo,3,Frolunda,1,
+2011-11-16,Djurgarden,5,Farjestad,1,
+2011-11-16,Skelleftea,1,Brynas,3,
+2011-11-17,Timra,2,Lulea,3,SO
+2011-11-17,Modo,4,HV 71,3,SO
+2011-11-18,Brynas,0,Farjestad,1,
+2011-11-18,Vaxjo,3,Djurgarden,4,SO
+2011-11-18,Frolunda,3,Skelleftea,1,
+2011-11-19,Linkoping,1,Timra,4,
+2011-11-19,AIK,2,Modo,4,
+2011-11-19,Lulea,1,HV 71,2,OT
+2011-11-21,Linkoping,2,Farjestad,1,
+2011-11-21,Brynas,2,AIK,4,
+2011-11-22,Frolunda,4,Djurgarden,3,SO
+2011-11-23,Lulea,2,Linkoping,3,SO
+2011-11-23,HV 71,2,Modo,4,
+2011-11-23,AIK,5,Timra,4,
+2011-11-24,Farjestad,6,Vaxjo,4,
+2011-11-24,Brynas,3,Skelleftea,1,
+2011-11-25,Timra,5,Linkoping,3,
+2011-11-25,Modo,4,AIK,5,
+2011-11-25,HV 71,1,Lulea,3,
+2011-11-26,Farjestad,2,Brynas,3,SO
+2011-11-26,Skelleftea,4,Frolunda,3,SO
+2011-11-27,Djurgarden,4,Vaxjo,2,
+2011-11-28,Frolunda,1,Farjestad,4,
+2011-11-28,Linkoping,3,Skelleftea,6,
+2011-11-29,Vaxjo,1,AIK,0,SO
+2011-11-29,Lulea,1,Timra,2,SO
+2011-11-29,Djurgarden,3,Modo,5,
+2011-11-29,Brynas,4,HV 71,3,
+2011-12-01,Modo,3,Frolunda,2,OT
+2011-12-01,AIK,3,Linkoping,2,OT
+2011-12-01,Skelleftea,2,Lulea,3,SO
+2011-12-01,Vaxjo,2,Brynas,4,
+2011-12-01,HV 71,3,Djurgarden,2,SO
+2011-12-01,Farjestad,2,Timra,3,OT
+2011-12-03,Lulea,4,Djurgarden,5,OT
+2011-12-03,Linkoping,0,HV 71,3,
+2011-12-03,Frolunda,2,Vaxjo,6,
+2011-12-03,Timra,3,Brynas,1,
+2011-12-03,Modo,3,Farjestad,5,
+2011-12-04,AIK,0,Skelleftea,2,
+2011-12-05,HV 71,1,Farjestad,3,
+2011-12-05,Brynas,1,Lulea,2,OT
+2011-12-06,Timra,1,Modo,4,
+2011-12-06,Vaxjo,3,Skelleftea,7,
+2011-12-06,Linkoping,0,Frolunda,3,
+2011-12-07,Djurgarden,5,Brynas,2,
+2011-12-08,Vaxjo,2,Lulea,4,
+2011-12-08,Skelleftea,0,Timra,2,
+2011-12-08,Modo,2,Linkoping,1,OT
+2011-12-08,Frolunda,3,HV 71,4,SO
+2011-12-08,Farjestad,6,AIK,3,
+2011-12-10,HV 71,0,Linkoping,1,OT
+2011-12-10,Skelleftea,8,Djurgarden,1,
+2011-12-10,AIK,3,Lulea,2,
+2011-12-10,Brynas,4,Frolunda,3,
+2011-12-10,Vaxjo,3,Modo,4,SO
+2011-12-11,Frolunda,2,Lulea,3,
+2011-12-11,Timra,1,Vaxjo,2,
+2011-12-11,Modo,3,Skelleftea,4,
+2011-12-20,Linkoping,3,Brynas,1,
+2011-12-22,Djurgarden,3,AIK,2,SO
+2011-12-26,Farjestad,3,Skelleftea,1,
+2011-12-26,Frolunda,2,Timra,1,SO
+2011-12-26,Lulea,3,Modo,2,OT
+2011-12-26,Djurgarden,3,Linkoping,1,
+2011-12-26,HV 71,0,Vaxjo,2,
+2011-12-28,Vaxjo,1,Linkoping,2,SO
+2011-12-28,Timra,3,Djurgarden,7,
+2011-12-28,Skelleftea,5,HV 71,1,
+2011-12-28,Lulea,5,Farjestad,3,
+2011-12-28,AIK,6,Frolunda,2,
+2011-12-28,Modo,2,Brynas,3,
+2011-12-30,Timra,3,Farjestad,6,
+2011-12-30,Skelleftea,2,Modo,1,SO
+2011-12-30,HV 71,4,Frolunda,0,
+2011-12-30,Djurgarden,0,Lulea,3,
+2011-12-30,Brynas,2,Vaxjo,1,
+2012-01-03,Frolunda,3,Linkoping,2,
+2012-01-03,AIK,5,Brynas,1,
+2012-01-05,Linkoping,3,AIK,1,
+2012-01-05,Farjestad,2,HV 71,1,SO
+2012-01-05,Modo,3,Timra,1,
+2012-01-05,Lulea,3,Skelleftea,2,SO
+2012-01-05,Vaxjo,3,Djurgarden,0,
+2012-01-07,Linkoping,1,Vaxjo,2,
+2012-01-07,Timra,1,HV 71,5,
+2012-01-07,Modo,3,Lulea,1,
+2012-01-07,Djurgarden,3,Skelleftea,2,
+2012-01-07,Brynas,4,Farjestad,1,
+2012-01-10,HV 71,3,Timra,4,
+2012-01-10,Brynas,3,Djurgarden,1,
+2012-01-10,AIK,3,Linkoping,0,
+2012-01-12,Vaxjo,2,Timra,1,
+2012-01-12,Skelleftea,3,Linkoping,1,
+2012-01-12,Lulea,1,Brynas,3,
+2012-01-12,HV 71,2,AIK,3,OT
+2012-01-12,Farjestad,1,Modo,2,
+2012-01-12,Djurgarden,2,Frolunda,3,OT
+2012-01-14,Timra,2,Skelleftea,6,
+2012-01-14,AIK,3,Modo,6,
+2012-01-14,Vaxjo,4,Farjestad,1,
+2012-01-14,Lulea,2,Frolunda,1,SO
+2012-01-16,Frolunda,1,AIK,2,OT
+2012-01-16,Linkoping,7,Modo,2,
+2012-01-17,Djurgarden,3,Timra,0,
+2012-01-18,Frolunda,4,Brynas,1,
+2012-01-18,Modo,4,HV 71,1,
+2012-01-18,Skelleftea,4,Vaxjo,2,
+2012-01-19,Timra,1,Lulea,0,OT
+2012-01-19,Linkoping,5,Djurgarden,0,
+2012-01-19,AIK,3,Farjestad,0,
+2012-01-20,Vaxjo,2,HV 71,1,SO
+2012-01-20,Frolunda,2,Modo,1,
+2012-01-21,Farjestad,2,Linkoping,3,OT
+2012-01-21,Lulea,3,AIK,0,
+2012-01-21,Skelleftea,2,Brynas,1,SO
+2012-01-23,Lulea,2,Frolunda,1,
+2012-01-24,Timra,1,AIK,0,OT
+2012-01-24,Djurgarden,2,Farjestad,1,SO
+2012-01-25,Linkoping,1,Lulea,3,
+2012-01-26,Vaxjo,2,Frolunda,3,OT
+2012-01-26,HV 71,3,Skelleftea,2,
+2012-01-26,Brynas,5,Modo,3,
+2012-01-26,AIK,4,Djurgarden,3,OT
+2012-01-27,Linkoping,6,Timra,3,
+2012-01-27,Farjestad,3,Lulea,1,
+2012-01-28,HV 71,2,Brynas,1,OT
+2012-01-28,Frolunda,6,Skelleftea,1,
+2012-01-28,Modo,6,Vaxjo,2,
+2012-01-29,Farjestad,1,Djurgarden,0,
+2012-01-30,Brynas,4,Linkoping,2,
+2012-01-31,Timra,0,Frolunda,4,
+2012-01-31,Skelleftea,2,Farjestad,0,
+2012-01-31,Modo,1,Djurgarden,0,
+2012-01-31,Lulea,1,HV 71,0,SO
+2012-01-31,AIK,3,Vaxjo,2,SO
+2012-02-02,Brynas,4,Timra,1,
+2012-02-02,Djurgarden,1,HV 71,4,
+2012-02-02,Lulea,1,Vaxjo,0,
+2012-02-02,Skelleftea,2,AIK,1,
+2012-02-02,Farjestad,2,Frolunda,3,SO
+2012-02-04,HV 71,2,Vaxjo,3,SO
+2012-02-04,Frolunda,6,Timra,0,
+2012-02-04,Farjestad,3,Skelleftea,0,
+2012-02-04,Djurgarden,6,Brynas,3,
+2012-02-04,Modo,1,AIK,5,
+2012-02-04,Lulea,3,Linkoping,2,
+2012-02-14,AIK,3,HV 71,4,SO
+2012-02-14,Brynas,3,Lulea,2,OT
+2012-02-14,Vaxjo,4,Skelleftea,1,
+2012-02-14,Linkoping,1,Farjestad,0,
+2012-02-14,Timra,1,Modo,2,OT
+2012-02-14,Frolunda,2,Djurgarden,1,
+2012-02-16,Vaxjo,3,Linkoping,2,SO
+2012-02-16,Skelleftea,3,Frolunda,6,
+2012-02-16,Lulea,1,Modo,4,
+2012-02-16,HV 71,1,Timra,0,
+2012-02-16,Farjestad,4,Brynas,1,
+2012-02-16,Djurgarden,1,AIK,4,
+2012-02-18,Brynas,3,Skelleftea,1,
+2012-02-18,Lulea,2,Djurgarden,1,
+2012-02-18,Modo,0,Farjestad,3,
+2012-02-18,AIK,4,Linkoping,2,
+2012-02-18,Frolunda,1,HV 71,2,
+2012-02-18,Timra,2,Vaxjo,1,
+2012-02-20,Skelleftea,6,Timra,0,
+2012-02-21,AIK,0,Frolunda,1,SO
+2012-02-21,Farjestad,3,Djurgarden,0,
+2012-02-21,Vaxjo,4,Modo,1,
+2012-02-21,Linkoping,5,Brynas,2,
+2012-02-21,HV 71,3,Lulea,4,
+2012-02-23,Timra,5,Linkoping,4,OT
+2012-02-23,Modo,3,Skelleftea,4,
+2012-02-23,Farjestad,3,AIK,1,
+2012-02-23,Djurgarden,2,Vaxjo,1,
+2012-02-23,Brynas,1,HV 71,3,
+2012-02-25,Lulea,4,Farjestad,1,
+2012-02-25,Linkoping,1,Frolunda,5,
+2012-02-25,HV 71,1,Modo,5,
+2012-02-25,Skelleftea,2,Djurgarden,3,SO
+2012-02-25,Vaxjo,1,Brynas,2,
+2012-02-26,AIK,8,Timra,2,
+2012-02-27,Modo,3,Frolunda,0,
+2012-02-28,Skelleftea,4,HV 71,3,
+2012-02-28,Lulea,7,Timra,2,
+2012-02-28,Farjestad,3,Vaxjo,2,
+2012-02-28,Djurgarden,2,Linkoping,1,SO
+2012-02-28,Brynas,2,AIK,4,
+2012-03-01,AIK,0,Lulea,1,OT
+2012-03-01,Frolunda,1,Vaxjo,3,
+2012-03-01,Timra,2,Djurgarden,1,SO
+2012-03-01,Linkoping,3,Skelleftea,2,
+2012-03-01,Modo,1,Brynas,2,SO
+2012-03-01,HV 71,6,Farjestad,3,
+2012-03-03,Vaxjo,2,AIK,0,
+2012-03-03,Skelleftea,3,Lulea,1,
+2012-03-03,Linkoping,2,HV 71,3,
+2012-03-03,Farjestad,2,Timra,3,
+2012-03-03,Djurgarden,2,Modo,1,SO
+2012-03-03,Brynas,2,Frolunda,3,
+2012-03-06,Timra,4,Brynas,5,
+2012-03-06,Modo,5,Linkoping,4,SO
+2012-03-06,Lulea,4,Vaxjo,1,
+2012-03-06,HV 71,2,Djurgarden,1,
+2012-03-06,Frolunda,2,Farjestad,3,
+2012-03-06,AIK,2,Skelleftea,3,SO

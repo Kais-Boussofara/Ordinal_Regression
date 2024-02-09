@@ -1,0 +1,157 @@
+date,home_team,home_score,away_team,away_score
+2014-10-18 11:30:00,Lube Civitanova,3,Verona,1
+2014-10-19 11:30:00,Modena,3,Perugia,1
+2014-10-19 12:00:00,Trentino,3,Padova,0
+2014-10-19 12:00:00,Piacenza,1,Ravenna,3
+2014-10-19 12:00:00,Milano,0,Molfetta,3
+2014-10-19 12:00:00,Cisterna,3,Monza,1
+2014-10-25 11:30:00,Ravenna,3,Cisterna,1
+2014-10-26 13:00:00,Verona,3,Milano,0
+2014-10-26 13:00:00,Padova,0,Modena,3
+2014-10-26 13:00:00,Monza,1,Piacenza,3
+2014-10-26 13:00:00,Molfetta,3,Citta Di Castello,1
+2014-10-26 14:30:00,Perugia,2,Trentino,3
+2014-10-29 15:30:00,Trentino,3,Molfetta,0
+2014-10-29 15:30:00,Piacenza,3,Verona,0
+2014-10-29 15:30:00,Modena,3,Monza,0
+2014-10-29 15:30:00,Lube Civitanova,3,Padova,0
+2014-10-29 15:30:00,Citta Di Castello,1,Ravenna,3
+2014-10-29 15:30:00,Cisterna,0,Perugia,3
+2014-11-01 12:30:00,Citta Di Castello,0,Piacenza,3
+2014-11-01 15:30:00,Verona,3,Trentino,0
+2014-11-02 12:00:00,Ravenna,0,Lube Civitanova,3
+2014-11-02 12:00:00,Padova,0,Perugia,3
+2014-11-02 12:00:00,Molfetta,2,Cisterna,3
+2014-11-02 12:00:00,Milano,0,Modena,3
+2014-11-08 11:30:00,Monza,0,Ravenna,3
+2014-11-09 11:00:00,Lube Civitanova,3,Piacenza,0
+2014-11-09 12:00:00,Trentino,3,Milano,0
+2014-11-09 12:00:00,Perugia,3,Verona,1
+2014-11-09 12:00:00,Padova,3,Molfetta,1
+2014-11-09 12:00:00,Cisterna,3,Citta Di Castello,2
+2014-11-15 11:30:00,Molfetta,3,Monza,2
+2014-11-15 14:30:00,Piacenza,0,Modena,3
+2014-11-16 11:00:00,Verona,1,Cisterna,3
+2014-11-16 12:00:00,Ravenna,0,Trentino,3
+2014-11-16 12:00:00,Milano,0,Lube Civitanova,3
+2014-11-16 12:00:00,Citta Di Castello,3,Padova,2
+2014-11-23 11:00:00,Padova,2,Milano,3
+2014-11-23 12:00:00,Perugia,3,Ravenna,1
+2014-11-23 12:00:00,Monza,0,Verona,3
+2014-11-23 12:00:00,Modena,3,Molfetta,0
+2014-11-23 12:00:00,Lube Civitanova,3,Citta Di Castello,0
+2014-11-23 12:00:00,Cisterna,2,Trentino,3
+2014-11-29 11:30:00,Piacenza,0,Perugia,3
+2014-11-30 11:00:00,Trentino,3,Lube Civitanova,2
+2014-11-30 12:00:00,Verona,3,Padova,1
+2014-11-30 12:00:00,Ravenna,0,Modena,3
+2014-11-30 12:00:00,Milano,0,Cisterna,3
+2014-11-30 12:00:00,Citta Di Castello,3,Monza,1
+2014-12-07 12:00:00,Perugia,3,Milano,1
+2014-12-07 12:00:00,Padova,1,Ravenna,3
+2014-12-07 12:00:00,Monza,0,Lube Civitanova,3
+2014-12-07 12:00:00,Molfetta,0,Verona,3
+2014-12-07 12:00:00,Cisterna,2,Piacenza,3
+2014-12-08 11:30:00,Modena,3,Citta Di Castello,0
+2014-12-13 11:30:00,Lube Civitanova,3,Perugia,1
+2014-12-14 11:00:00,Monza,2,Milano,3
+2014-12-14 12:00:00,Verona,3,Ravenna,0
+2014-12-14 12:00:00,Piacenza,3,Molfetta,0
+2014-12-14 12:00:00,Modena,3,Cisterna,0
+2014-12-14 12:00:00,Citta Di Castello,0,Trentino,3
+2014-12-20 11:30:00,Milano,3,Citta Di Castello,2
+2014-12-21 11:00:00,Trentino,3,Modena,0
+2014-12-21 12:00:00,Ravenna,2,Molfetta,3
+2014-12-21 12:00:00,Perugia,3,Monza,2
+2014-12-21 12:00:00,Padova,3,Piacenza,2
+2014-12-21 12:00:00,Lube Civitanova,1,Cisterna,3
+2014-12-26 12:00:00,Piacenza,3,Milano,1
+2014-12-26 12:00:00,Monza,0,Trentino,3
+2014-12-26 12:00:00,Molfetta,3,Lube Civitanova,2
+2014-12-26 12:00:00,Modena,3,Verona,2
+2014-12-26 12:00:00,Citta Di Castello,0,Perugia,3
+2014-12-26 12:00:00,Cisterna,3,Padova,1
+2014-12-28 11:00:00,Lube Civitanova,3,Modena,2
+2014-12-28 12:00:00,Verona,3,Citta Di Castello,0
+2014-12-28 12:00:00,Trentino,3,Piacenza,0
+2014-12-28 12:00:00,Perugia,3,Molfetta,1
+2014-12-28 12:00:00,Milano,0,Ravenna,3
+2014-12-29 14:30:00,Padova,1,Monza,3
+2015-01-03 11:30:00,Perugia,1,Modena,3
+2015-01-03 14:30:00,Verona,3,Lube Civitanova,1
+2015-01-03 14:30:00,Ravenna,3,Piacenza,0
+2015-01-03 14:30:00,Padova,0,Trentino,3
+2015-01-03 14:30:00,Monza,3,Cisterna,1
+2015-01-03 14:30:00,Molfetta,3,Milano,0
+2015-01-17 11:30:00,Modena,3,Padova,0
+2015-01-17 14:30:00,Piacenza,1,Monza,3
+2015-01-18 11:00:00,Trentino,3,Perugia,1
+2015-01-18 12:00:00,Milano,0,Verona,3
+2015-01-18 12:00:00,Citta Di Castello,0,Molfetta,3
+2015-01-18 12:00:00,Cisterna,3,Ravenna,2
+2015-01-24 11:30:00,Ravenna,3,Citta Di Castello,2
+2015-01-24 14:30:00,Verona,3,Piacenza,1
+2015-01-24 14:30:00,Perugia,3,Cisterna,2
+2015-01-25 11:00:00,Padova,1,Lube Civitanova,3
+2015-01-25 11:00:00,Molfetta,3,Trentino,2
+2015-01-25 12:00:00,Monza,0,Modena,3
+2015-01-31 11:30:00,Trentino,3,Verona,0
+2015-02-01 11:00:00,Cisterna,3,Molfetta,0
+2015-02-01 12:00:00,Piacenza,2,Citta Di Castello,3
+2015-02-01 12:00:00,Perugia,3,Padova,0
+2015-02-01 12:00:00,Modena,3,Milano,0
+2015-02-01 12:00:00,Lube Civitanova,3,Ravenna,1
+2015-02-07 11:30:00,Citta Di Castello,0,Cisterna,3
+2015-02-08 12:00:00,Ravenna,0,Monza,3
+2015-02-08 12:00:00,Piacenza,0,Lube Civitanova,3
+2015-02-08 12:00:00,Molfetta,3,Padova,1
+2015-02-08 12:00:00,Milano,0,Trentino,3
+2015-02-08 12:05:00,Verona,3,Perugia,2
+2015-02-14 13:30:00,Cisterna,2,Verona,3
+2015-02-15 11:00:00,Modena,3,Piacenza,1
+2015-02-15 12:00:00,Trentino,3,Ravenna,0
+2015-02-15 12:00:00,Padova,3,Citta Di Castello,0
+2015-02-15 12:00:00,Monza,1,Molfetta,3
+2015-02-15 12:00:00,Lube Civitanova,3,Milano,1
+2015-02-21 11:30:00,Verona,3,Monza,1
+2015-02-22 11:15:00,Ravenna,1,Perugia,3
+2015-02-22 12:00:00,Trentino,3,Cisterna,1
+2015-02-22 12:00:00,Molfetta,1,Modena,3
+2015-02-22 12:00:00,Citta Di Castello,0,Lube Civitanova,3
+2015-02-23 14:30:00,Milano,2,Padova,3
+2015-02-28 14:30:00,Perugia,3,Piacenza,0
+2015-03-01 10:30:00,Lube Civitanova,3,Trentino,2
+2015-03-01 12:00:00,Padova,1,Verona,3
+2015-03-01 12:00:00,Monza,3,Citta Di Castello,1
+2015-03-01 12:00:00,Modena,3,Ravenna,1
+2015-03-01 12:00:00,Cisterna,3,Milano,0
+2015-03-07 11:30:00,Citta Di Castello,0,Modena,3
+2015-03-08 12:00:00,Verona,3,Molfetta,1
+2015-03-08 13:00:00,Ravenna,3,Padova,0
+2015-03-08 13:00:00,Piacenza,3,Cisterna,2
+2015-03-08 13:00:00,Milano,0,Perugia,3
+2015-03-08 13:00:00,Lube Civitanova,3,Monza,1
+2015-03-14 12:30:00,Molfetta,3,Piacenza,2
+2015-03-15 12:00:00,Perugia,0,Lube Civitanova,3
+2015-03-15 13:00:00,Trentino,3,Citta Di Castello,0
+2015-03-15 13:00:00,Ravenna,3,Verona,0
+2015-03-15 13:00:00,Milano,2,Monza,3
+2015-03-15 13:00:00,Cisterna,3,Modena,1
+2015-03-21 12:30:00,Modena,1,Trentino,3
+2015-03-22 12:00:00,Molfetta,3,Ravenna,2
+2015-03-22 13:00:00,Piacenza,1,Padova,3
+2015-03-22 13:00:00,Monza,1,Perugia,3
+2015-03-22 13:00:00,Citta Di Castello,1,Milano,3
+2015-03-22 13:00:00,Cisterna,1,Lube Civitanova,3
+2015-03-29 11:00:00,Verona,0,Modena,3
+2015-03-29 12:00:00,Perugia,3,Citta Di Castello,0
+2015-03-29 12:00:00,Padova,0,Cisterna,3
+2015-03-29 12:00:00,Milano,0,Piacenza,3
+2015-03-29 12:00:00,Lube Civitanova,3,Molfetta,0
+2015-04-01 14:30:00,Trentino,3,Monza,0
+2015-04-04 14:30:00,Piacenza,0,Trentino,3
+2015-04-05 12:00:00,Ravenna,3,Milano,1
+2015-04-05 12:00:00,Monza,3,Padova,0
+2015-04-05 12:00:00,Molfetta,2,Perugia,3
+2015-04-05 12:00:00,Modena,3,Lube Civitanova,0
+2015-04-05 12:00:00,Citta Di Castello,1,Verona,3

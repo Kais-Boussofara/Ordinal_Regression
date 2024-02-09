@@ -1,0 +1,463 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,round
+14/08/1971,Arsenal FC,Chelsea FC,3,0,1
+14/08/1971,West Ham United,West Bromwich Albion,0,1,1
+14/08/1971,Sheffield United,Southampton FC,3,1,1
+14/08/1971,Manchester City,Leeds United,0,1,1
+14/08/1971,Liverpool FC,Nottingham Forest,3,1,1
+14/08/1971,Ipswich Town,Everton FC,0,0,1
+14/08/1971,Huddersfield Town,Leicester City,2,2,1
+14/08/1971,Derby County,Manchester United,2,2,1
+14/08/1971,Crystal Palace,Newcastle United,2,0,1
+14/08/1971,Coventry City,Stoke City,1,1,1
+14/08/1971,Wolverhampton Wanderers,Tottenham Hotspur,2,2,1
+17/08/1971,Huddersfield Town,Arsenal FC,0,1,2
+17/08/1971,Ipswich Town,Coventry City,3,1,2
+17/08/1971,Liverpool FC,Wolverhampton Wanderers,3,2,2
+17/08/1971,Sheffield United,Leeds United,3,0,2
+17/08/1971,Southampton FC,Stoke City,3,1,2
+18/08/1971,Tottenham Hotspur,Newcastle United,0,0,2
+18/08/1971,Manchester City,Crystal Palace,4,0,2
+18/08/1971,Leicester City,Nottingham Forest,2,1,2
+18/08/1971,Derby County,West Ham United,2,0,2
+18/08/1971,Chelsea FC,Manchester United,2,3,2
+18/08/1971,West Bromwich Albion,Everton FC,2,0,2
+20/08/1971,Manchester United,Arsenal FC,3,1,3
+21/08/1971,Tottenham Hotspur,Huddersfield Town,4,1,3
+21/08/1971,Stoke City,Crystal Palace,3,1,3
+21/08/1971,Southampton FC,Ipswich Town,0,0,3
+21/08/1971,Nottingham Forest,West Ham United,1,0,3
+21/08/1971,Newcastle United,Liverpool FC,3,2,3
+21/08/1971,Leicester City,Derby County,0,2,3
+21/08/1971,Leeds United,Wolverhampton Wanderers,0,0,3
+21/08/1971,Everton FC,Sheffield United,0,1,3
+21/08/1971,Chelsea FC,Manchester City,2,2,3
+21/08/1971,West Bromwich Albion,Coventry City,1,1,3
+23/08/1971,Manchester United,West Bromwich Albion,3,1,4
+23/08/1971,West Ham United,Ipswich Town,0,0,4
+24/08/1971,Wolverhampton Wanderers,Manchester City,2,1,4
+24/08/1971,Nottingham Forest,Southampton FC,2,3,4
+24/08/1971,Everton FC,Chelsea FC,2,0,4
+24/08/1971,Crystal Palace,Liverpool FC,0,1,4
+24/08/1971,Coventry City,Derby County,2,2,4
+24/08/1971,Arsenal FC,Sheffield United,0,1,4
+25/08/1971,Leeds United,Tottenham Hotspur,1,1,4
+25/08/1971,Newcastle United,Huddersfield Town,0,0,4
+25/08/1971,Stoke City,Leicester City,3,1,4
+28/08/1971,Arsenal FC,Stoke City,0,1,5
+28/08/1971,West Ham United,Everton FC,1,0,5
+28/08/1971,Sheffield United,West Bromwich Albion,0,0,5
+28/08/1971,Manchester City,Tottenham Hotspur,4,0,5
+28/08/1971,Liverpool FC,Leicester City,3,2,5
+28/08/1971,Ipswich Town,Leeds United,0,2,5
+28/08/1971,Huddersfield Town,Chelsea FC,1,2,5
+28/08/1971,Derby County,Southampton FC,2,2,5
+28/08/1971,Crystal Palace,Nottingham Forest,1,1,5
+28/08/1971,Coventry City,Newcastle United,1,0,5
+28/08/1971,Wolverhampton Wanderers,Manchester United,1,1,5
+30/08/1971,West Ham United,Coventry City,4,0,6
+31/08/1971,Wolverhampton Wanderers,Crystal Palace,1,0,6
+31/08/1971,Sheffield United,Huddersfield Town,3,1,6
+31/08/1971,Nottingham Forest,Stoke City,0,0,6
+31/08/1971,Ipswich Town,Derby County,0,0,6
+31/08/1971,Everton FC,Manchester United,1,0,6
+01/09/1971,Chelsea FC,West Bromwich Albion,1,0,6
+01/09/1971,Leeds United,Newcastle United,5,1,6
+01/09/1971,Leicester City,Southampton FC,0,1,6
+01/09/1971,Manchester City,Liverpool FC,1,0,6
+24/11/1971,Tottenham Hotspur,Arsenal FC,1,1,6
+04/09/1971,West Bromwich Albion,Arsenal FC,0,1,7
+04/09/1971,Chelsea FC,Coventry City,3,3,7
+04/09/1971,Tottenham Hotspur,Liverpool FC,2,0,7
+04/09/1971,Stoke City,Wolverhampton Wanderers,0,1,7
+04/09/1971,Southampton FC,Huddersfield Town,1,2,7
+04/09/1971,Nottingham Forest,Sheffield United,2,3,7
+04/09/1971,Newcastle United,West Ham United,2,2,7
+04/09/1971,Manchester United,Ipswich Town,1,0,7
+04/09/1971,Leicester City,Manchester City,0,0,7
+04/09/1971,Leeds United,Crystal Palace,2,0,7
+04/09/1971,Everton FC,Derby County,0,2,7
+11/09/1971,Arsenal FC,Leeds United,2,0,8
+11/09/1971,Coventry City,Nottingham Forest,1,1,8
+11/09/1971,Wolverhampton Wanderers,Everton FC,1,1,8
+11/09/1971,West Ham United,Chelsea FC,2,1,8
+11/09/1971,Sheffield United,Tottenham Hotspur,2,2,8
+11/09/1971,Manchester City,Newcastle United,2,1,8
+11/09/1971,Liverpool FC,Southampton FC,1,0,8
+11/09/1971,Ipswich Town,Leicester City,1,2,8
+11/09/1971,Huddersfield Town,West Bromwich Albion,1,0,8
+11/09/1971,Derby County,Stoke City,4,0,8
+11/09/1971,Crystal Palace,Manchester United,1,3,8
+18/09/1971,Everton FC,Arsenal FC,2,1,9
+18/09/1971,Chelsea FC,Derby County,1,1,9
+18/09/1971,West Bromwich Albion,Ipswich Town,1,2,9
+18/09/1971,Tottenham Hotspur,Crystal Palace,3,0,9
+18/09/1971,Stoke City,Huddersfield Town,1,0,9
+18/09/1971,Southampton FC,Coventry City,3,1,9
+18/09/1971,Nottingham Forest,Manchester City,2,2,9
+18/09/1971,Newcastle United,Wolverhampton Wanderers,2,0,9
+18/09/1971,Manchester United,West Ham United,4,2,9
+18/09/1971,Leicester City,Sheffield United,0,1,9
+18/09/1971,Leeds United,Liverpool FC,1,0,9
+25/09/1971,Arsenal FC,Leicester City,3,0,10
+25/09/1971,Coventry City,Tottenham Hotspur,1,0,10
+25/09/1971,Wolverhampton Wanderers,Nottingham Forest,4,2,10
+25/09/1971,West Ham United,Stoke City,2,1,10
+25/09/1971,Sheffield United,Chelsea FC,1,0,10
+25/09/1971,Manchester City,Southampton FC,3,0,10
+25/09/1971,Liverpool FC,Manchester United,2,2,10
+25/09/1971,Ipswich Town,Newcastle United,0,0,10
+25/09/1971,Huddersfield Town,Leeds United,2,1,10
+25/09/1971,Derby County,West Bromwich Albion,0,0,10
+25/09/1971,Crystal Palace,Everton FC,2,1,10
+02/10/1971,Southampton FC,Arsenal FC,0,1,11
+02/10/1971,Chelsea FC,Wolverhampton Wanderers,3,1,11
+02/10/1971,West Bromwich Albion,Manchester City,0,2,11
+02/10/1971,Tottenham Hotspur,Ipswich Town,2,1,11
+02/10/1971,Stoke City,Liverpool FC,0,0,11
+02/10/1971,Nottingham Forest,Huddersfield Town,1,2,11
+02/10/1971,Newcastle United,Derby County,0,1,11
+02/10/1971,Manchester United,Sheffield United,2,0,11
+02/10/1971,Leicester City,Crystal Palace,0,0,11
+02/10/1971,Leeds United,West Ham United,0,0,11
+02/10/1971,Everton FC,Coventry City,1,2,11
+09/10/1971,Arsenal FC,Newcastle United,4,2,12
+09/10/1971,Coventry City,Leeds United,3,1,12
+09/10/1971,Wolverhampton Wanderers,Southampton FC,4,2,12
+09/10/1971,West Ham United,Leicester City,1,1,12
+09/10/1971,Sheffield United,Stoke City,2,3,12
+09/10/1971,Manchester City,Everton FC,1,0,12
+09/10/1971,Liverpool FC,Chelsea FC,0,0,12
+09/10/1971,Ipswich Town,Nottingham Forest,1,1,12
+09/10/1971,Huddersfield Town,Manchester United,0,3,12
+09/10/1971,Derby County,Tottenham Hotspur,2,2,12
+09/10/1971,Crystal Palace,West Bromwich Albion,0,2,12
+16/10/1971,Chelsea FC,Arsenal FC,1,2,13
+16/10/1971,Everton FC,Ipswich Town,1,1,13
+16/10/1971,West Bromwich Albion,West Ham United,0,0,13
+16/10/1971,Tottenham Hotspur,Wolverhampton Wanderers,4,1,13
+16/10/1971,Stoke City,Coventry City,1,0,13
+16/10/1971,Southampton FC,Sheffield United,3,2,13
+16/10/1971,Nottingham Forest,Liverpool FC,2,3,13
+16/10/1971,Newcastle United,Crystal Palace,1,2,13
+16/10/1971,Manchester United,Derby County,1,0,13
+16/10/1971,Leicester City,Huddersfield Town,2,0,13
+16/10/1971,Leeds United,Manchester City,3,0,13
+22/10/1971,Coventry City,Crystal Palace,1,1,14
+23/10/1971,Derby County,Arsenal FC,2,1,14
+23/10/1971,Tottenham Hotspur,Nottingham Forest,6,1,14
+23/10/1971,West Ham United,Wolverhampton Wanderers,1,0,14
+23/10/1971,West Bromwich Albion,Leicester City,0,1,14
+23/10/1971,Newcastle United,Manchester United,0,1,14
+23/10/1971,Manchester City,Sheffield United,2,1,14
+23/10/1971,Liverpool FC,Huddersfield Town,2,0,14
+23/10/1971,Leeds United,Everton FC,3,2,14
+23/10/1971,Ipswich Town,Stoke City,2,1,14
+23/10/1971,Chelsea FC,Southampton FC,3,0,14
+30/10/1971,Arsenal FC,Ipswich Town,2,1,15
+30/10/1971,Stoke City,Tottenham Hotspur,2,0,15
+30/10/1971,Wolverhampton Wanderers,Coventry City,1,1,15
+30/10/1971,Southampton FC,West Bromwich Albion,1,1,15
+30/10/1971,Sheffield United,Liverpool FC,1,1,15
+30/10/1971,Nottingham Forest,Derby County,0,2,15
+30/10/1971,Manchester United,Leeds United,0,1,15
+30/10/1971,Leicester City,Chelsea FC,1,1,15
+30/10/1971,Everton FC,Newcastle United,1,0,15
+30/10/1971,Crystal Palace,West Ham United,0,3,15
+30/10/1971,Huddersfield Town,Manchester City,1,1,15
+06/11/1971,Liverpool FC,Arsenal FC,3,2,16
+06/11/1971,Tottenham Hotspur,Everton FC,3,0,16
+06/11/1971,West Ham United,Sheffield United,1,2,16
+06/11/1971,West Bromwich Albion,Stoke City,0,1,16
+06/11/1971,Newcastle United,Southampton FC,3,1,16
+06/11/1971,Manchester City,Manchester United,3,3,16
+06/11/1971,Leeds United,Leicester City,2,1,16
+06/11/1971,Ipswich Town,Wolverhampton Wanderers,2,1,16
+06/11/1971,Derby County,Crystal Palace,3,0,16
+06/11/1971,Coventry City,Huddersfield Town,2,1,16
+06/11/1971,Chelsea FC,Nottingham Forest,2,0,16
+13/11/1971,Arsenal FC,Manchester City,1,2,17
+13/11/1971,Manchester United,Tottenham Hotspur,3,1,17
+13/11/1971,Crystal Palace,Ipswich Town,1,1,17
+13/11/1971,Wolverhampton Wanderers,Derby County,2,1,17
+13/11/1971,Stoke City,Chelsea FC,0,1,17
+13/11/1971,Southampton FC,Leeds United,2,1,17
+13/11/1971,Sheffield United,Coventry City,2,0,17
+13/11/1971,Nottingham Forest,West Bromwich Albion,4,1,17
+13/11/1971,Leicester City,Newcastle United,3,0,17
+13/11/1971,Everton FC,Liverpool FC,1,0,17
+13/11/1971,Huddersfield Town,West Ham United,1,0,17
+20/11/1971,Tottenham Hotspur,West Bromwich Albion,3,2,18
+20/11/1971,Wolverhampton Wanderers,Arsenal FC,5,1,18
+20/11/1971,West Ham United,Manchester City,0,2,18
+20/11/1971,Newcastle United,Nottingham Forest,2,1,18
+20/11/1971,Manchester United,Leicester City,3,2,18
+20/11/1971,Leeds United,Stoke City,1,0,18
+20/11/1971,Everton FC,Southampton FC,8,0,18
+20/11/1971,Derby County,Sheffield United,3,0,18
+20/11/1971,Crystal Palace,Chelsea FC,2,3,18
+20/11/1971,Coventry City,Liverpool FC,0,2,18
+20/11/1971,Ipswich Town,Huddersfield Town,1,0,18
+27/11/1971,Stoke City,Newcastle United,3,3,19
+27/11/1971,Southampton FC,Manchester United,2,5,19
+27/11/1971,Sheffield United,Ipswich Town,7,0,19
+27/11/1971,Nottingham Forest,Leeds United,0,2,19
+27/11/1971,Manchester City,Coventry City,4,0,19
+27/11/1971,Liverpool FC,West Ham United,1,0,19
+27/11/1971,Leicester City,Everton FC,0,0,19
+27/11/1971,Huddersfield Town,Derby County,2,1,19
+27/11/1971,Chelsea FC,Tottenham Hotspur,1,0,19
+27/11/1971,Arsenal FC,Crystal Palace,2,1,19
+27/11/1971,West Bromwich Albion,Wolverhampton Wanderers,2,3,19
+04/12/1971,Coventry City,Leicester City,1,1,20
+04/12/1971,Tottenham Hotspur,Southampton FC,1,0,20
+04/12/1971,Newcastle United,Chelsea FC,0,0,20
+04/12/1971,Manchester United,Nottingham Forest,3,2,20
+04/12/1971,Leeds United,West Bromwich Albion,3,0,20
+04/12/1971,Ipswich Town,Liverpool FC,0,0,20
+04/12/1971,Everton FC,Stoke City,0,0,20
+04/12/1971,Derby County,Manchester City,3,1,20
+04/12/1971,Crystal Palace,Sheffield United,5,1,20
+04/12/1971,West Ham United,Arsenal FC,0,0,20
+04/12/1971,Wolverhampton Wanderers,Huddersfield Town,2,2,20
+11/12/1971,Stoke City,Manchester United,1,1,21
+11/12/1971,Southampton FC,West Ham United,3,3,21
+11/12/1971,Sheffield United,Wolverhampton Wanderers,2,2,21
+11/12/1971,Nottingham Forest,Everton FC,1,0,21
+11/12/1971,Manchester City,Ipswich Town,4,0,21
+11/12/1971,Liverpool FC,Derby County,3,2,21
+11/12/1971,Leicester City,Tottenham Hotspur,0,1,21
+11/12/1971,Huddersfield Town,Crystal Palace,0,1,21
+11/12/1971,Chelsea FC,Leeds United,0,0,21
+11/12/1971,Arsenal FC,Coventry City,2,0,21
+11/12/1971,West Bromwich Albion,Newcastle United,0,3,21
+17/12/1971,Coventry City,Chelsea FC,1,1,22
+18/12/1971,West Ham United,Newcastle United,0,1,22
+18/12/1971,Sheffield United,Nottingham Forest,2,1,22
+18/12/1971,Manchester City,Leicester City,1,1,22
+18/12/1971,Liverpool FC,Tottenham Hotspur,0,0,22
+18/12/1971,Ipswich Town,Manchester United,0,0,22
+18/12/1971,Derby County,Everton FC,2,0,22
+18/12/1971,Crystal Palace,Leeds United,1,1,22
+18/12/1971,Arsenal FC,West Bromwich Albion,2,0,22
+18/12/1971,Wolverhampton Wanderers,Stoke City,2,0,22
+18/12/1971,Huddersfield Town,Southampton FC,0,2,22
+27/12/1971,Tottenham Hotspur,West Ham United,0,1,23
+27/12/1971,Stoke City,Manchester City,1,3,23
+27/12/1971,Southampton FC,Crystal Palace,1,0,23
+27/12/1971,Nottingham Forest,Arsenal FC,1,1,23
+27/12/1971,Newcastle United,Sheffield United,1,2,23
+27/12/1971,Manchester United,Coventry City,2,2,23
+27/12/1971,Leicester City,Wolverhampton Wanderers,1,2,23
+27/12/1971,Leeds United,Derby County,3,0,23
+27/12/1971,Chelsea FC,Ipswich Town,2,0,23
+27/12/1971,West Bromwich Albion,Liverpool FC,1,0,23
+27/12/1971,Everton FC,Huddersfield Town,2,2,23
+01/01/1972,West Ham United,Manchester United,3,0,24
+01/01/1972,Sheffield United,Leicester City,1,1,24
+01/01/1972,Manchester City,Nottingham Forest,2,2,24
+01/01/1972,Liverpool FC,Leeds United,0,2,24
+01/01/1972,Ipswich Town,West Bromwich Albion,2,3,24
+01/01/1972,Derby County,Chelsea FC,1,0,24
+01/01/1972,Crystal Palace,Tottenham Hotspur,1,1,24
+01/01/1972,Coventry City,Southampton FC,1,0,24
+01/01/1972,Arsenal FC,Everton FC,1,1,24
+01/01/1972,Wolverhampton Wanderers,Newcastle United,2,0,24
+01/01/1972,Huddersfield Town,Stoke City,0,0,24
+08/01/1972,Tottenham Hotspur,Manchester City,1,1,25
+08/01/1972,Stoke City,Arsenal FC,0,0,25
+08/01/1972,Southampton FC,Derby County,1,2,25
+08/01/1972,Nottingham Forest,Crystal Palace,0,1,25
+08/01/1972,Newcastle United,Coventry City,4,2,25
+08/01/1972,Manchester United,Wolverhampton Wanderers,1,3,25
+08/01/1972,Leicester City,Liverpool FC,1,0,25
+08/01/1972,Leeds United,Ipswich Town,2,2,25
+08/01/1972,Everton FC,West Ham United,2,1,25
+08/01/1972,West Bromwich Albion,Sheffield United,2,2,25
+08/01/1972,Chelsea FC,Huddersfield Town,2,2,25
+22/01/1972,West Ham United,Derby County,3,3,26
+22/01/1972,Stoke City,Southampton FC,3,1,26
+22/01/1972,Nottingham Forest,Leicester City,1,2,26
+22/01/1972,Newcastle United,Tottenham Hotspur,3,1,26
+22/01/1972,Manchester United,Chelsea FC,0,1,26
+22/01/1972,Leeds United,Sheffield United,1,0,26
+22/01/1972,Everton FC,West Bromwich Albion,2,1,26
+22/01/1972,Crystal Palace,Manchester City,1,2,26
+22/01/1972,Coventry City,Ipswich Town,1,1,26
+22/01/1972,Arsenal FC,Huddersfield Town,1,0,26
+22/01/1972,Wolverhampton Wanderers,Liverpool FC,0,0,26
+29/01/1972,Chelsea FC,Everton FC,4,0,27
+29/01/1972,Tottenham Hotspur,Leeds United,1,0,27
+29/01/1972,Southampton FC,Nottingham Forest,4,1,27
+29/01/1972,Sheffield United,Arsenal FC,0,5,27
+29/01/1972,Manchester City,Wolverhampton Wanderers,5,2,27
+29/01/1972,Liverpool FC,Crystal Palace,4,1,27
+29/01/1972,Leicester City,Stoke City,2,1,27
+29/01/1972,Ipswich Town,West Ham United,1,0,27
+29/01/1972,Derby County,Coventry City,1,0,27
+29/01/1972,West Bromwich Albion,Manchester United,2,1,27
+29/01/1972,Huddersfield Town,Newcastle United,0,0,27
+12/02/1972,Wolverhampton Wanderers,West Ham United,1,0,28
+12/02/1972,Stoke City,Ipswich Town,3,3,28
+12/02/1972,Sheffield United,Manchester City,3,3,28
+12/02/1972,Nottingham Forest,Tottenham Hotspur,0,1,28
+12/02/1972,Manchester United,Newcastle United,0,2,28
+12/02/1972,Leicester City,West Bromwich Albion,0,1,28
+12/02/1972,Everton FC,Leeds United,0,0,28
+12/02/1972,Crystal Palace,Coventry City,2,2,28
+12/02/1972,Arsenal FC,Derby County,2,0,28
+12/02/1972,Huddersfield Town,Liverpool FC,0,1,28
+18/04/1972,Southampton FC,Chelsea FC,2,2,28
+19/02/1972,Chelsea FC,Leicester City,2,1,29
+19/02/1972,West Bromwich Albion,Southampton FC,3,2,29
+19/02/1972,West Ham United,Crystal Palace,1,1,29
+19/02/1972,Tottenham Hotspur,Stoke City,2,0,29
+19/02/1972,Newcastle United,Everton FC,0,0,29
+19/02/1972,Liverpool FC,Sheffield United,2,0,29
+19/02/1972,Leeds United,Manchester United,5,1,29
+19/02/1972,Ipswich Town,Arsenal FC,0,1,29
+19/02/1972,Derby County,Nottingham Forest,4,0,29
+19/02/1972,Coventry City,Wolverhampton Wanderers,0,0,29
+19/02/1972,Manchester City,Huddersfield Town,1,0,29
+26/02/1972,Southampton FC,Newcastle United,1,2,30
+26/02/1972,Wolverhampton Wanderers,Ipswich Town,2,2,30
+29/02/1972,Sheffield United,West Ham United,3,0,30
+01/03/1972,Everton FC,Tottenham Hotspur,1,1,30
+14/03/1972,Nottingham Forest,Chelsea FC,2,1,30
+22/03/1972,Leicester City,Leeds United,0,0,30
+28/03/1972,Crystal Palace,Derby County,0,1,30
+11/04/1972,Huddersfield Town,Coventry City,0,1,30
+12/04/1972,Manchester United,Manchester City,1,3,30
+05/05/1972,Stoke City,West Bromwich Albion,1,1,30
+08/05/1972,Arsenal FC,Liverpool FC,0,0,30
+04/03/1972,Newcastle United,Leicester City,2,0,31
+04/03/1972,Manchester City,Arsenal FC,2,0,31
+04/03/1972,Leeds United,Southampton FC,7,0,31
+04/03/1972,Ipswich Town,Crystal Palace,0,2,31
+04/03/1972,Derby County,Wolverhampton Wanderers,2,1,31
+04/03/1972,Liverpool FC,Everton FC,4,0,31
+04/03/1972,Tottenham Hotspur,Manchester United,2,0,31
+04/03/1972,West Bromwich Albion,Nottingham Forest,1,0,31
+04/03/1972,West Ham United,Huddersfield Town,3,0,31
+18/04/1972,Coventry City,Sheffield United,3,2,31
+24/04/1972,Chelsea FC,Stoke City,2,0,31
+11/03/1972,Leeds United,Coventry City,1,0,32
+11/03/1972,Newcastle United,Arsenal FC,2,0,32
+11/03/1972,Stoke City,Sheffield United,2,2,32
+11/03/1972,Tottenham Hotspur,Derby County,0,1,32
+11/03/1972,West Bromwich Albion,Crystal Palace,1,1,32
+11/03/1972,Chelsea FC,Liverpool FC,0,0,32
+11/03/1972,Leicester City,West Ham United,2,0,32
+11/03/1972,Manchester United,Huddersfield Town,2,0,32
+11/03/1972,Nottingham Forest,Ipswich Town,0,2,32
+11/03/1972,Southampton FC,Wolverhampton Wanderers,1,2,32
+11/03/1972,Everton FC,Manchester City,1,2,32
+17/03/1972,Coventry City,West Bromwich Albion,0,2,33
+18/03/1972,Sheffield United,Everton FC,1,1,33
+18/03/1972,Derby County,Leicester City,3,0,33
+18/03/1972,Ipswich Town,Southampton FC,1,1,33
+18/03/1972,Liverpool FC,Newcastle United,5,0,33
+18/03/1972,West Ham United,Nottingham Forest,4,2,33
+18/03/1972,Manchester City,Chelsea FC,1,0,33
+28/03/1972,Huddersfield Town,Tottenham Hotspur,1,1,33
+25/04/1972,Arsenal FC,Manchester United,3,0,33
+26/04/1972,Crystal Palace,Stoke City,2,0,33
+08/05/1972,Wolverhampton Wanderers,Leeds United,2,1,33
+26/02/1972,Liverpool FC,Manchester City,3,0,34
+08/03/1972,Manchester United,Everton FC,0,0,34
+18/03/1972,Crystal Palace,Wolverhampton Wanderers,0,2,34
+21/03/1972,Coventry City,West Ham United,1,1,34
+21/03/1972,Huddersfield Town,Sheffield United,0,0,34
+22/03/1972,Derby County,Ipswich Town,1,0,34
+10/04/1972,Stoke City,Nottingham Forest,0,2,34
+11/04/1972,Southampton FC,Leicester City,1,0,34
+19/04/1972,Newcastle United,Leeds United,1,0,34
+27/04/1972,West Bromwich Albion,Chelsea FC,4,0,34
+11/05/1972,Arsenal FC,Tottenham Hotspur,0,2,34
+25/03/1972,Leeds United,Arsenal FC,3,0,35
+25/03/1972,Nottingham Forest,Coventry City,4,0,35
+25/03/1972,West Bromwich Albion,Huddersfield Town,1,1,35
+25/03/1972,Tottenham Hotspur,Sheffield United,2,0,35
+25/03/1972,Stoke City,Derby County,1,1,35
+25/03/1972,Southampton FC,Liverpool FC,0,1,35
+25/03/1972,Manchester United,Crystal Palace,4,0,35
+25/03/1972,Everton FC,Wolverhampton Wanderers,2,2,35
+25/03/1972,Chelsea FC,West Ham United,3,1,35
+25/03/1972,Leicester City,Ipswich Town,1,0,35
+25/03/1972,Newcastle United,Manchester City,0,0,35
+01/04/1972,Arsenal FC,Nottingham Forest,3,0,36
+01/04/1972,Coventry City,Manchester United,2,3,36
+01/04/1972,Wolverhampton Wanderers,Leicester City,0,1,36
+01/04/1972,Sheffield United,Newcastle United,1,0,36
+01/04/1972,Manchester City,Stoke City,1,2,36
+01/04/1972,Liverpool FC,West Bromwich Albion,2,0,36
+01/04/1972,Ipswich Town,Chelsea FC,1,2,36
+01/04/1972,Huddersfield Town,Everton FC,0,0,36
+01/04/1972,Derby County,Leeds United,2,0,36
+01/04/1972,Crystal Palace,Southampton FC,2,3,36
+01/04/1972,West Ham United,Tottenham Hotspur,2,0,36
+26/10/1971,Huddersfield Town,Nottingham Forest,0,1,37
+01/03/1972,Manchester City,West Bromwich Albion,2,1,37
+28/03/1972,Arsenal FC,Southampton FC,1,0,37
+28/03/1972,Liverpool FC,Stoke City,2,1,37
+31/03/1972,West Ham United,Leeds United,2,2,37
+03/04/1972,Crystal Palace,Leicester City,1,1,37
+03/04/1972,Derby County,Newcastle United,0,1,37
+03/04/1972,Ipswich Town,Tottenham Hotspur,2,1,37
+04/04/1972,Coventry City,Everton FC,4,1,37
+04/04/1972,Sheffield United,Manchester United,1,1,37
+12/04/1972,Wolverhampton Wanderers,Chelsea FC,0,2,37
+21/03/1972,Everton FC,Crystal Palace,0,0,38
+29/03/1972,Chelsea FC,Sheffield United,2,0,38
+31/03/1972,Tottenham Hotspur,Coventry City,1,0,38
+03/04/1972,Manchester United,Liverpool FC,0,3,38
+04/04/1972,Leicester City,Arsenal FC,0,0,38
+04/04/1972,Southampton FC,Manchester City,2,0,38
+04/04/1972,Stoke City,West Ham United,0,0,38
+05/04/1972,Leeds United,Huddersfield Town,3,1,38
+05/04/1972,Newcastle United,Ipswich Town,0,1,38
+05/04/1972,West Bromwich Albion,Derby County,0,0,38
+25/04/1972,Nottingham Forest,Wolverhampton Wanderers,1,3,38
+08/04/1972,Arsenal FC,Wolverhampton Wanderers,2,1,39
+08/04/1972,Liverpool FC,Coventry City,3,1,39
+08/04/1972,Southampton FC,Everton FC,0,1,39
+08/04/1972,West Bromwich Albion,Tottenham Hotspur,1,1,39
+08/04/1972,Stoke City,Leeds United,0,3,39
+08/04/1972,Nottingham Forest,Newcastle United,1,0,39
+08/04/1972,Manchester City,West Ham United,3,1,39
+08/04/1972,Leicester City,Manchester United,2,0,39
+08/04/1972,Huddersfield Town,Ipswich Town,1,3,39
+08/04/1972,Chelsea FC,Crystal Palace,2,1,39
+08/04/1972,Sheffield United,Derby County,0,4,39
+27/03/1972,Leeds United,Nottingham Forest,6,1,40
+11/04/1972,Crystal Palace,Arsenal FC,2,2,40
+15/04/1972,Tottenham Hotspur,Chelsea FC,3,0,40
+15/04/1972,Wolverhampton Wanderers,West Bromwich Albion,0,1,40
+15/04/1972,West Ham United,Liverpool FC,0,2,40
+15/04/1972,Manchester United,Southampton FC,3,2,40
+15/04/1972,Coventry City,Manchester City,1,1,40
+15/04/1972,Derby County,Huddersfield Town,3,0,40
+15/04/1972,Everton FC,Leicester City,0,0,40
+15/04/1972,Ipswich Town,Sheffield United,0,0,40
+08/05/1972,Newcastle United,Stoke City,0,0,40
+22/04/1972,Arsenal FC,West Ham United,2,1,41
+22/04/1972,Chelsea FC,Newcastle United,3,3,41
+22/04/1972,West Bromwich Albion,Leeds United,0,1,41
+22/04/1972,Sheffield United,Crystal Palace,1,0,41
+22/04/1972,Nottingham Forest,Manchester United,0,0,41
+22/04/1972,Stoke City,Everton FC,1,1,41
+22/04/1972,Southampton FC,Tottenham Hotspur,0,0,41
+22/04/1972,Manchester City,Derby County,2,0,41
+22/04/1972,Leicester City,Coventry City,1,0,41
+22/04/1972,Huddersfield Town,Wolverhampton Wanderers,0,1,41
+22/04/1972,Liverpool FC,Ipswich Town,2,0,41
+18/04/1972,Ipswich Town,Manchester City,2,1,42
+28/04/1972,Wolverhampton Wanderers,Sheffield United,1,2,42
+29/04/1972,Crystal Palace,Huddersfield Town,0,0,42
+29/04/1972,Manchester United,Stoke City,3,0,42
+29/04/1972,Tottenham Hotspur,Leicester City,4,3,42
+01/05/1972,Coventry City,Arsenal FC,0,1,42
+01/05/1972,West Ham United,Southampton FC,1,0,42
+01/05/1972,Leeds United,Chelsea FC,2,0,42
+01/05/1972,Derby County,Liverpool FC,1,0,42
+02/05/1972,Everton FC,Nottingham Forest,1,1,42
+03/05/1972,Newcastle United,West Bromwich Albion,4,2,42

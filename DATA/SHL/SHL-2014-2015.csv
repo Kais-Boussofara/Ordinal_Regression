@@ -1,0 +1,331 @@
+date,home_team,home_score,away_team,away_score,SOOT
+2014-09-10,Lulea,3,Skelleftea,2,SO
+2014-09-11,Frolunda,4,Brynas,0,
+2014-09-11,Vaxjo,2,HV 71,0,
+2014-09-11,Modo,1,Orebro,3,
+2014-09-11,Leksand,1,Farjestad,2,
+2014-09-13,Orebro,1,Frolunda,2,OT
+2014-09-13,HV 71,6,Linkoping,4,
+2014-09-13,Farjestad,2,Lulea,3,
+2014-09-13,Djurgarden,2,Vaxjo,1,SO
+2014-09-13,Brynas,4,Leksand,1,
+2014-09-13,Skelleftea,6,Modo,2,
+2014-09-15,Linkoping,2,Djurgarden,1,
+2014-09-17,Orebro,1,Lulea,3,
+2014-09-17,Djurgarden,4,Leksand,1,
+2014-09-17,Brynas,1,Vaxjo,2,SO
+2014-09-18,Farjestad,2,Modo,6,
+2014-09-18,HV 71,5,Frolunda,0,
+2014-09-18,Skelleftea,4,Linkoping,1,
+2014-09-20,Frolunda,2,Djurgarden,1,
+2014-09-20,Linkoping,3,Orebro,0,
+2014-09-20,Leksand,0,Skelleftea,2,
+2014-09-20,Vaxjo,3,Farjestad,4,SO
+2014-09-20,Modo,4,HV 71,1,
+2014-09-20,Lulea,2,Brynas,1,
+2014-09-22,Linkoping,3,Vaxjo,5,
+2014-09-25,Djurgarden,2,Farjestad,1,SO
+2014-09-25,Orebro,2,HV 71,0,
+2014-09-25,Leksand,0,Lulea,8,
+2014-09-26,Skelleftea,4,Brynas,1,
+2014-09-26,Frolunda,3,Modo,2,
+2014-09-27,Vaxjo,4,Lulea,2,
+2014-09-27,Orebro,5,Djurgarden,4,OT
+2014-09-27,Modo,5,Leksand,3,
+2014-09-27,HV 71,4,Skelleftea,3,
+2014-09-27,Farjestad,3,Frolunda,2,SO
+2014-09-27,Brynas,4,Linkoping,3,OT
+2014-10-01,Brynas,4,Modo,3,
+2014-10-01,Lulea,2,Frolunda,3,SO
+2014-10-01,Linkoping,5,Leksand,1,
+2014-10-02,Vaxjo,2,Orebro,3,
+2014-10-02,Skelleftea,2,Farjestad,1,
+2014-10-02,HV 71,2,Djurgarden,1,
+2014-10-04,Djurgarden,1,Brynas,5,
+2014-10-04,Leksand,3,Orebro,2,
+2014-10-04,Lulea,2,HV 71,1,
+2014-10-04,Frolunda,2,Skelleftea,3,SO
+2014-10-04,Farjestad,1,Linkoping,5,
+2014-10-04,Modo,0,Vaxjo,5,
+2014-10-09,Orebro,5,Skelleftea,4,SO
+2014-10-09,Linkoping,3,Lulea,2,
+2014-10-09,Leksand,2,HV 71,3,OT
+2014-10-09,Djurgarden,4,Modo,3,
+2014-10-09,Vaxjo,1,Frolunda,2,
+2014-10-10,Brynas,5,Farjestad,2,
+2014-10-11,Skelleftea,3,Djurgarden,2,
+2014-10-11,Modo,1,Lulea,4,
+2014-10-11,Frolunda,4,Linkoping,1,
+2014-10-11,Vaxjo,2,Leksand,0,
+2014-10-11,Orebro,4,Farjestad,1,
+2014-10-11,HV 71,5,Brynas,0,
+2014-10-15,Farjestad,1,HV 71,2,
+2014-10-15,Brynas,4,Orebro,1,
+2014-10-15,Skelleftea,2,Vaxjo,1,
+2014-10-15,Linkoping,1,Modo,2,
+2014-10-16,Leksand,1,Frolunda,2,
+2014-10-16,Lulea,3,Djurgarden,4,
+2014-10-17,HV 71,6,Vaxjo,3,
+2014-10-18,Orebro,3,Leksand,5,
+2014-10-18,Farjestad,6,Skelleftea,3,
+2014-10-18,Djurgarden,4,Linkoping,2,
+2014-10-18,Modo,1,Brynas,3,
+2014-10-18,Frolunda,2,Lulea,1,OT
+2014-10-21,Brynas,1,Skelleftea,3,
+2014-10-21,Vaxjo,5,Linkoping,4,OT
+2014-10-21,HV 71,2,Leksand,0,
+2014-10-22,Modo,3,Farjestad,2,SO
+2014-10-22,Lulea,1,Orebro,3,
+2014-10-22,Djurgarden,0,Frolunda,6,
+2014-10-23,Skelleftea,1,HV 71,4,
+2014-10-23,Linkoping,5,Brynas,0,
+2014-10-23,Leksand,6,Vaxjo,3,
+2014-10-24,Farjestad,2,Djurgarden,3,
+2014-10-24,Lulea,2,Modo,3,
+2014-10-24,Frolunda,1,Orebro,4,
+2014-10-25,Skelleftea,2,Leksand,1,
+2014-10-25,Modo,3,Frolunda,4,OT
+2014-10-25,Djurgarden,2,Lulea,1,
+2014-10-25,Brynas,4,HV 71,7,
+2014-10-25,Orebro,5,Vaxjo,3,
+2014-10-25,Linkoping,3,Farjestad,0,
+2014-10-28,Frolunda,2,Farjestad,3,SO
+2014-10-28,HV 71,4,Orebro,3,SO
+2014-10-28,Leksand,3,Brynas,2,
+2014-10-28,Lulea,4,Linkoping,3,SO
+2014-10-28,Modo,3,Skelleftea,7,
+2014-10-28,Vaxjo,6,Djurgarden,5,OT
+2014-10-30,Skelleftea,3,Lulea,2,
+2014-10-30,Orebro,3,Modo,4,SO
+2014-10-30,Linkoping,2,HV 71,0,
+2014-10-30,Frolunda,3,Vaxjo,2,SO
+2014-10-30,Farjestad,3,Leksand,2,
+2014-10-30,Brynas,4,Djurgarden,7,
+2014-11-01,Leksand,3,Linkoping,2,OT
+2014-11-01,Lulea,3,Farjestad,2,SO
+2014-11-01,Vaxjo,5,Brynas,2,
+2014-11-01,HV 71,3,Modo,4,
+2014-11-01,Skelleftea,1,Frolunda,3,
+2014-11-01,Djurgarden,2,Orebro,3,SO
+2014-11-13,Vaxjo,2,Skelleftea,1,
+2014-11-13,Orebro,4,Linkoping,3,SO
+2014-11-13,Modo,1,Djurgarden,2,
+2014-11-13,HV 71,2,Lulea,3,OT
+2014-11-13,Frolunda,3,Leksand,1,
+2014-11-13,Farjestad,3,Brynas,2,
+2014-11-15,Brynas,3,Frolunda,0,
+2014-11-15,Lulea,2,Vaxjo,1,
+2014-11-15,Linkoping,3,Skelleftea,1,
+2014-11-15,Farjestad,2,Orebro,0,
+2014-11-15,Leksand,5,Modo,4,
+2014-11-15,Djurgarden,3,HV 71,2,SO
+2014-11-18,Brynas,7,Lulea,2,
+2014-11-18,Leksand,5,Djurgarden,3,
+2014-11-18,HV 71,0,Farjestad,1,
+2014-11-18,Skelleftea,2,Orebro,1,
+2014-11-18,Vaxjo,5,Modo,3,
+2014-11-18,Linkoping,2,Frolunda,3,
+2014-11-20,Orebro,2,Brynas,1,SO
+2014-11-20,Modo,2,Linkoping,0,
+2014-11-20,Lulea,3,Leksand,4,
+2014-11-20,Frolunda,4,HV 71,3,SO
+2014-11-20,Farjestad,1,Vaxjo,2,OT
+2014-11-20,Djurgarden,2,Skelleftea,1,OT
+2014-11-22,Skelleftea,4,Modo,1,
+2014-11-22,Vaxjo,4,Orebro,3,SO
+2014-11-22,Frolunda,5,Djurgarden,4,SO
+2014-11-22,Leksand,3,HV 71,4,SO
+2014-11-22,Linkoping,3,Lulea,1,
+2014-11-22,Brynas,4,Farjestad,1,
+2014-11-25,Vaxjo,1,Frolunda,2,OT
+2014-11-25,HV 71,3,Djurgarden,2,
+2014-11-25,Brynas,4,Modo,1,
+2014-11-26,Skelleftea,6,Farjestad,1,
+2014-11-26,Orebro,3,Lulea,0,
+2014-11-26,Linkoping,4,Leksand,2,
+2014-11-27,Djurgarden,1,Vaxjo,0,
+2014-11-27,Modo,2,HV 71,3,SO
+2014-11-27,Frolunda,6,Brynas,1,
+2014-11-28,Lulea,2,Skelleftea,4,
+2014-11-28,Leksand,3,Orebro,2,
+2014-11-28,Farjestad,5,Linkoping,6,SO
+2014-11-29,Skelleftea,2,Vaxjo,0,
+2014-11-29,Orebro,1,Farjestad,2,
+2014-11-29,Modo,4,Lulea,1,
+2014-11-29,Linkoping,4,Djurgarden,0,
+2014-11-29,HV 71,3,Frolunda,1,
+2014-11-29,Brynas,6,Leksand,4,
+2014-12-04,Brynas,1,Linkoping,2,SO
+2014-12-04,Farjestad,3,Modo,2,SO
+2014-12-04,Vaxjo,3,HV 71,2,
+2014-12-04,Lulea,1,Frolunda,0,
+2014-12-04,Leksand,0,Skelleftea,3,
+2014-12-05,Orebro,2,Djurgarden,1,SO
+2014-12-06,Lulea,3,Brynas,2,
+2014-12-06,Frolunda,1,Skelleftea,2,
+2014-12-06,Vaxjo,1,Leksand,5,
+2014-12-06,Modo,2,Orebro,5,
+2014-12-06,HV 71,1,Linkoping,2,SO
+2014-12-07,Djurgarden,2,Farjestad,3,OT
+2014-12-11,Skelleftea,2,Brynas,1,
+2014-12-11,Orebro,6,Frolunda,3,
+2014-12-11,Linkoping,0,Vaxjo,6,
+2014-12-11,Leksand,2,Lulea,3,OT
+2014-12-11,Farjestad,4,HV 71,2,
+2014-12-11,Djurgarden,3,Modo,2,SO
+2014-12-13,Linkoping,1,Modo,2,OT
+2014-12-13,Lulea,4,HV 71,5,
+2014-12-13,Vaxjo,1,Farjestad,2,
+2014-12-13,Brynas,4,Orebro,3,SO
+2014-12-13,Leksand,2,Frolunda,1,OT
+2014-12-13,Skelleftea,3,Djurgarden,2,SO
+2014-12-26,Modo,3,Vaxjo,4,OT
+2014-12-26,Frolunda,2,Linkoping,3,OT
+2014-12-26,Djurgarden,1,Leksand,2,
+2014-12-26,Farjestad,0,Lulea,1,SO
+2014-12-26,Orebro,3,Skelleftea,2,OT
+2014-12-26,HV 71,4,Brynas,2,
+2014-12-28,Djurgarden,5,Brynas,2,
+2014-12-28,Farjestad,6,Frolunda,2,
+2014-12-28,Vaxjo,1,Lulea,2,
+2014-12-28,Linkoping,2,Orebro,3,OT
+2014-12-28,Modo,3,Leksand,4,SO
+2014-12-28,HV 71,3,Skelleftea,1,
+2014-12-30,Skelleftea,1,Linkoping,2,
+2014-12-30,Orebro,1,HV 71,2,
+2014-12-30,Lulea,3,Djurgarden,1,
+2014-12-30,Leksand,4,Farjestad,2,
+2014-12-30,Frolunda,2,Modo,0,
+2014-12-30,Brynas,0,Vaxjo,4,
+2015-01-03,Frolunda,2,Leksand,1,
+2015-01-03,HV 71,3,Lulea,2,
+2015-01-03,Vaxjo,4,Linkoping,2,
+2015-01-03,Farjestad,3,Brynas,1,
+2015-01-03,Modo,3,Skelleftea,6,
+2015-01-03,Djurgarden,2,Orebro,1,SO
+2015-01-06,Farjestad,2,Skelleftea,3,
+2015-01-06,Lulea,3,Leksand,0,
+2015-01-06,Linkoping,5,HV 71,2,
+2015-01-06,Orebro,2,Vaxjo,1,
+2015-01-06,Djurgarden,2,Frolunda,0,
+2015-01-06,Modo,2,Brynas,3,OT
+2015-01-08,Vaxjo,3,Modo,2,
+2015-01-08,Skelleftea,4,Lulea,2,
+2015-01-08,Leksand,2,Linkoping,3,
+2015-01-08,HV 71,1,Farjestad,2,
+2015-01-08,Frolunda,1,Orebro,4,
+2015-01-08,Brynas,4,Djurgarden,2,
+2015-01-10,Lulea,2,Modo,1,
+2015-01-10,Orebro,2,Brynas,1,
+2015-01-10,Vaxjo,4,Djurgarden,3,
+2015-01-10,Linkoping,1,Skelleftea,4,
+2015-01-10,Farjestad,5,Leksand,0,
+2015-01-15,Orebro,1,Leksand,2,
+2015-01-15,Modo,1,Farjestad,2,
+2015-01-15,Djurgarden,0,Linkoping,2,
+2015-01-15,Brynas,2,Lulea,0,
+2015-01-16,Skelleftea,2,Frolunda,3,
+2015-01-16,HV 71,3,Vaxjo,7,
+2015-01-17,Linkoping,2,Frolunda,3,
+2015-01-17,Djurgarden,5,HV 71,2,
+2015-01-17,Leksand,4,Modo,3,
+2015-01-17,Farjestad,3,Orebro,2,
+2015-01-17,Lulea,3,Vaxjo,1,
+2015-01-17,Brynas,2,Skelleftea,7,
+2015-01-22,Skelleftea,4,Leksand,0,
+2015-01-22,Modo,3,Djurgarden,2,OT
+2015-01-22,Linkoping,4,Farjestad,1,
+2015-01-22,HV 71,5,Orebro,4,
+2015-01-22,Frolunda,4,Lulea,1,
+2015-01-23,Vaxjo,4,Brynas,2,
+2015-01-24,Frolunda,2,Vaxjo,3,
+2015-01-24,Leksand,3,Brynas,2,
+2015-01-24,HV 71,1,Modo,0,OT
+2015-01-24,Djurgarden,1,Skelleftea,5,
+2015-01-24,Orebro,3,Linkoping,2,
+2015-01-24,Lulea,1,Farjestad,2,OT
+2015-01-27,Lulea,2,Linkoping,4,
+2015-01-27,Leksand,4,Djurgarden,1,
+2015-01-27,Brynas,1,HV 71,2,OT
+2015-01-28,Farjestad,2,Vaxjo,3,OT
+2015-01-28,Skelleftea,3,Orebro,2,
+2015-01-28,Frolunda,4,Modo,3,
+2015-01-29,Djurgarden,0,Lulea,3,
+2015-01-29,Linkoping,4,Brynas,1,
+2015-01-29,HV 71,3,Leksand,1,
+2015-01-30,Vaxjo,3,Skelleftea,1,
+2015-01-30,Orebro,1,Modo,0,
+2015-01-30,Frolunda,2,Farjestad,0,
+2015-01-31,Skelleftea,3,HV 71,2,SO
+2015-01-31,Farjestad,1,Djurgarden,2,
+2015-01-31,Modo,5,Linkoping,3,
+2015-01-31,Lulea,2,Orebro,3,OT
+2015-01-31,Leksand,1,Vaxjo,6,
+2015-01-31,Brynas,4,Frolunda,2,
+2015-02-09,Frolunda,5,HV 71,0,
+2015-02-10,HV 71,1,Frolunda,4,
+2015-02-10,Leksand,1,Farjestad,4,
+2015-02-10,Djurgarden,1,Modo,2,
+2015-02-10,Skelleftea,5,Brynas,4,SO
+2015-02-10,Linkoping,3,Lulea,4,
+2015-02-10,Vaxjo,2,Orebro,3,OT
+2015-02-11,Farjestad,3,Linkoping,2,
+2015-02-12,Brynas,4,Leksand,1,
+2015-02-12,Frolunda,3,Djurgarden,4,SO
+2015-02-12,Orebro,9,HV 71,2,
+2015-02-12,Modo,2,Vaxjo,3,SO
+2015-02-12,Lulea,5,Skelleftea,4,
+2015-02-14,Linkoping,1,Orebro,0,
+2015-02-14,Leksand,1,Lulea,4,
+2015-02-14,Djurgarden,2,Farjestad,3,
+2015-02-14,Vaxjo,6,HV 71,0,
+2015-02-14,Skelleftea,6,Modo,1,
+2015-02-14,Frolunda,4,Brynas,0,
+2015-02-17,Vaxjo,3,Frolunda,0,
+2015-02-17,Skelleftea,1,Farjestad,5,
+2015-02-17,HV 71,4,Djurgarden,0,
+2015-02-18,Brynas,3,Linkoping,5,
+2015-02-18,Orebro,4,Lulea,1,
+2015-02-18,Modo,4,Leksand,1,
+2015-02-19,Djurgarden,4,Vaxjo,5,
+2015-02-19,Frolunda,4,Skelleftea,3,OT
+2015-02-19,Farjestad,2,HV 71,3,
+2015-02-20,Linkoping,6,Modo,1,
+2015-02-20,Leksand,3,Orebro,5,
+2015-02-20,Lulea,0,Brynas,3,
+2015-02-21,Skelleftea,5,Djurgarden,2,
+2015-02-21,HV 71,2,Linkoping,4,
+2015-02-21,Vaxjo,2,Leksand,1,OT
+2015-02-21,Orebro,4,Frolunda,2,
+2015-02-21,Modo,2,Lulea,4,
+2015-02-21,Brynas,1,Farjestad,3,
+2015-02-24,Brynas,4,Orebro,2,
+2015-02-24,Farjestad,3,Frolunda,4,SO
+2015-02-24,Modo,1,HV 71,2,
+2015-02-25,Lulea,2,Djurgarden,4,
+2015-02-25,Linkoping,2,Vaxjo,0,
+2015-02-25,Leksand,2,Skelleftea,6,
+2015-02-26,Orebro,3,Farjestad,1,
+2015-02-26,Modo,1,Frolunda,6,
+2015-02-26,HV 71,4,Brynas,1,
+2015-02-27,Djurgarden,4,Leksand,3,OT
+2015-02-27,Skelleftea,2,Linkoping,1,
+2015-02-27,Vaxjo,2,Lulea,1,
+2015-02-28,Linkoping,7,Djurgarden,0,
+2015-02-28,Farjestad,5,Modo,2,
+2015-02-28,Orebro,4,Skelleftea,0,
+2015-02-28,Lulea,0,HV 71,4,
+2015-02-28,Leksand,4,Frolunda,5,SO
+2015-02-28,Brynas,2,Vaxjo,1,
+2015-03-03,Djurgarden,1,Brynas,0,
+2015-03-03,Farjestad,1,Lulea,3,
+2015-03-03,Frolunda,3,Linkoping,0,
+2015-03-03,Modo,5,Orebro,3,
+2015-03-03,Skelleftea,2,Vaxjo,1,SO
+2015-03-03,Leksand,2,HV 71,5,
+2015-03-05,Vaxjo,4,Farjestad,1,
+2015-03-05,Orebro,4,Djurgarden,5,SO
+2015-03-05,Lulea,3,Frolunda,0,
+2015-03-05,Linkoping,4,Leksand,0,
+2015-03-05,HV 71,0,Skelleftea,3,
+2015-03-05,Brynas,2,Modo,1,
