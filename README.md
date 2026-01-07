@@ -1,4 +1,4 @@
-# Ordinal Regularized Regression with ALO (Synthetic Sports Outcomes)
+# Ordinal Regularized Regression with ALO (Synthetic Sports Outcomes for Soccer)
 
 ## Overview
 This project simulates **ordinal match outcomes** using a **Cumulative Link Model (CLM)** and fits an **ordinal regularized regression** model. Hyperparameters (e.g., regularization strength `lambda`) are selected using **ALO** (Approximate Leave-One-Out) and optionally refined by **optimizing ALO** over selected model parameters.
